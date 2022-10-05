@@ -1,7 +1,7 @@
 function clear() {
-	document.getElementById('passingyards').value = "";
-	document.getElementById('passingtds').value = "";
-	document.getElementById('interceptionsthrown').value = "";
+	document.getElementById('passingyards').value = "123";
+	document.getElementById('passingtds').value = "123";
+	document.getElementById('interceptionsthrown').value = "123";
 	
 	document.getElementById('rushingyards').value = "";
 	document.getElementById('rushingtds').value = "";
