@@ -1,18 +1,19 @@
 function calculate() {
-	var passingyards = document.getElementById('passingyards').value;
-	var passingtds = document.getElementById('passingtds').value;
-	var interceptionsthrown = document.getElementById('interceptionsthrown').value;
+	const passingyards = document.getElementById('passingyards').value;
+	const passingtds = document.getElementById('passingtds').value;
+	const interceptionsthrown = document.getElementById('interceptionsthrown').value;
 
-	var rushingyards = document.getElementById('rushingyards').value;
-	var rushingtds = document.getElementById('rushingtds').value;
+	const rushingyards = document.getElementById('rushingyards').value;
+	const rushingtds = document.getElementById('rushingtds').value;
 
-	var receptions = document.getElementById('receptions').value;
-	var receivingyards = document.getElementById('receivingyards').value;
-	var receivingtds = document.getElementById('receivingtds').value;
+	const receptions = document.getElementById('receptions').value;
+	const receivingyards = document.getElementById('receivingyards').value;
+	const receivingtds = document.getElementById('receivingtds').value;
 
-	var passingPoints = (passingyards/25) + (passingtds*4) + (interceptionsthrown*(-1));
-	var rushingPoints = (rushingyards/10) + (rushingtds*6);
-	var receivingPoints = (receptions) + (receivingyards/10) + (receivingtds*6);
+	const passingPoints = (passingyards/25) + (passingtds*4) + (interceptionsthrown*(-1));
+	const rushingPoints = (rushingtds*6) + (rushingyards/10);
+	const receivingPoints = (receptions) + (receivingyards/10) + (receivingtds*6);
+	const totalPoints = parseFloat(passingPoints) + parseFloat(rushingPoints) + parseFloat( receivingPoints);
 	
-	document.getElementById('result').innerHTML = passingPoints;
+	document.getElementById('result').innerHTML = Number(totalPoints.toFixed(2));
 }
