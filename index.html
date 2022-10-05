@@ -2,6 +2,7 @@
 <!-- Created By CodingNepal - www.codingnepalweb.com -->
 <html lang="en" dir="ltr">
   <head>
+	<script src="javascript.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!------<title> Website Layout | CodingLab</title>------>
@@ -26,9 +27,57 @@
   <div class="img"></div>
   <div class="center">
     <div class="sub_title">8-Man-Fantasy</div>
+	<form onsubmit="return false">
+	<!--Passing Stats-->
+	<div class="tiny_title">Passing Stats</div>
+	<div class="inputs">
+		<input type="number"
+		id="passingyards"
+		placeholder="Passing Yards"
+		</input>
+		<input type="number"
+		id="passingtds"
+		placeholder="Passing Touchdowns"
+		</input>
+		<div></div>
+		<input type="number"
+		id="interceptionsthrown"
+		placeholder="Interceptions Thrown"
+		</input>
+		
+	<!--Rushing Stats-->
+	<div class="tiny_title">Rushing Stats</div>
+		<input type="number"
+		id="rushingyards"
+		placeholder="Rushing Yards"
+		</input>
+		<input type="number"
+		id="rushingtds"
+		placeholder="Rushing Touchdowns"
+		</input>
+		
+	<!--Recieving Stats-->
+	<div class="tiny_title">Receiving Stats</div>
+		<input type="number"
+		id="receptions"
+		placeholder="Receptions"
+		</input>
+		<input type="number"
+		id="receivingyards"
+		placeholder="Receiving Yards"
+		</input>
+		<input type="number"
+		id="receivingtds"
+		placeholder="Receiving Touchdowns"
+		</input>
+	<!--Submit Button-->
     <div class="btns">
-      <button>Calculate</button>
+      <button  id='fortnite' onclick="calculate();">Calculate</button>
+	  <p id='result'>0</p>
     </div>
+	
+	</form>
+
   </div>
 </body>
 </html>
