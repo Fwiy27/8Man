@@ -114,10 +114,10 @@ nav .menu{
 .center .btns{
   margin-top: 20px;
 }
-.center .btns fortnite{
-  height: 55px;
-  width: 170px;
-  border-radius: 5px;
+.submito{
+  height: 40px;
+  width: 140px;
+  border-radius: 8px;
   border: none;
   margin: 0 10px;
   border: 2px solid white;
@@ -126,7 +126,6 @@ nav .menu{
   padding: 0 10px;
   cursor: pointer;
   outline: none;
-  transition: all 0.3s ease;
 }
 .center .btns button:first-child{
   color: #fff;
