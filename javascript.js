@@ -1,4 +1,4 @@
-function clear() {
+function cler() {
 	document.getElementById('passingyards').value = "";
 	document.getElementById('passingtds').value = "";
 	document.getElementById('interceptionsthrown').value = "";
