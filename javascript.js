@@ -22,7 +22,7 @@ function clear() {
 	document.getElementById('passingyards').value = '';
 	document.getElementById('passingtds').value = '';
 	document.getElementById('interceptionsthrown').value = '';
-
+	
 	document.getElementById('rushingyards').value = '';
 	document.getElementById('rushingtds').value = '';
 
