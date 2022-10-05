@@ -1,3 +1,5 @@
+document.getElementById("clearo").addEventListener("click", clear);
+
 function clear() {
 	document.getElementById('passingyards').value = "123";
 	document.getElementById('passingtds').value = "123";
