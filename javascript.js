@@ -11,7 +11,7 @@ function clear() {
 	document.getElementById('receivingtds').value = "";
 }
 
-function calculate() {
+function calculato() {
 	const passingyards = document.getElementById('passingyards').value;
 	const passingtds = document.getElementById('passingtds').value;
 	const interceptionsthrown = document.getElementById('interceptionsthrown').value;
