@@ -4,7 +4,7 @@ function clear() {
 	document.getElementById('passingyards').value = "123";
 	document.getElementById('passingtds').value = "123";
 	document.getElementById('interceptionsthrown').value = "123";
-	
+	console.log(document.getElementById("passingyards").value)
 	document.getElementById('rushingyards').value = "";
 	document.getElementById('rushingtds').value = "";
 
