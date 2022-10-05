@@ -12,8 +12,8 @@ input::-webkit-inner-spin-button {
 
 input[type=number] {
     -moz-appearance:textfield;
-    width: 10%
-    border-radius: 10px;
+    width: 10%;
+    border-radius: 25px;
     padding: 2px 3px;
 }
 input[type=number]:focus {
