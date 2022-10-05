@@ -17,3 +17,16 @@ function calculate() {
 	
 	document.getElementById('result').innerHTML = Number(totalPoints.toFixed(2));
 }
+
+function clear() {
+	document.getElementById('passingyards').value = '';
+	document.getElementById('passingtds').value = '';
+	document.getElementById('interceptionsthrown').value = '';
+
+	document.getElementById('rushingyards').value = '';
+	document.getElementById('rushingtds').value = '';
+
+	document.getElementById('receptions').value = '';
+	document.getElementById('receivingyards').value = '';
+	document.getElementById('receivingtds').value = '';
+}
