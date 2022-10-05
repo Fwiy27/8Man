@@ -1,3 +1,16 @@
+function clear() {
+	document.getElementById('passingyards').value = '';
+	document.getElementById('passingtds').value = '';
+	document.getElementById('interceptionsthrown').value = '';
+	
+	document.getElementById('rushingyards').value = '';
+	document.getElementById('rushingtds').value = '';
+
+	document.getElementById('receptions').value = '';
+	document.getElementById('receivingyards').value = '';
+	document.getElementById('receivingtds').value = '';
+}
+
 function calculate() {
 	const passingyards = document.getElementById('passingyards').value;
 	const passingtds = document.getElementById('passingtds').value;
@@ -16,17 +29,4 @@ function calculate() {
 	const totalPoints = parseFloat(passingPoints) + parseFloat(rushingPoints) + parseFloat( receivingPoints);
 	
 	document.getElementById('result').innerHTML = Number(totalPoints.toFixed(2));
-}
-
-function clear() {
-	document.getElementById('passingyards').value = '';
-	document.getElementById('passingtds').value = '';
-	document.getElementById('interceptionsthrown').value = '';
-	
-	document.getElementById('rushingyards').value = '';
-	document.getElementById('rushingtds').value = '';
-
-	document.getElementById('receptions').value = '';
-	document.getElementById('receivingyards').value = '';
-	document.getElementById('receivingtds').value = '';
 }
