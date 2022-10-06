@@ -93,6 +93,9 @@ input {
     .tiny_title {
         font-size: 375%;
     }
+    .links li a {
+        font-size: 150%;
+    }
   }
 .submito {
     font-family: 'Poppins',sans-serif;
