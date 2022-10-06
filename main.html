@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="javascript.js"></script>
+    <meta charset="UTF-8">
+    <meta property="og:title" content="8 Man Fantasy Points Calculator" />
+    <meta property="og:image" content="https://static.hudl.com/users/prod/13160116_2bab48e54570450d9390385951238ac7.jpg" />
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+</head>
+
+<body>
+
+<header>
+    <img class="logo" src="cam.svg" alt = "logo">
+    <div class = "container">
+        <nav>
+            <ul class="links">
+                <li><a href="#">Points Calculator</a></li>
+                <li><a href="#">Matchups</a></li>
+                <li><a href="#">Teams</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<br>
+<div id="result" style="font-size: 400%;
+text-align: center;
+color: #1c1d1f;
+text-decoration: underline;">Points: 0</div>
+
+<form onsubmit="return false">
+    <!--Passing Stats-->
+    <div class="tiny_title">Passing Stats</div>
+	<div class="tinier_title">Passing Yards/Passing TDS/Interceptions Thrown</div>
+	<div class="inputs">
+		<input type="number"
+		id="passingyards"
+		class="inputt"
+		placeholder="YDs"
+		</input>
+		<input type="number"
+		id="passingtds"
+		placeholder="TDs"
+		class="inputt"
+		</input>
+		<input type="number"
+		id="interceptionsthrown"
+		placeholder="INTs"
+		class="inputt"
+		</input>
+        <br>
+    <!--Rushing Stats-->
+    <br>
+	<div class="tiny_title">Rushing Stats</div>
+	<div class="tinier_title">Rushing Yards/Rushing TDS</div>
+		<input type="number"
+		id="rushingyards"
+		placeholder="YDs"
+		class="inputt"
+		</input>
+		<input type="number"
+		id="rushingtds"
+		class="inputt"
+		placeholder="TDs"
+		</input>
+		<br>
+	<!--Recieving Stats-->
+    <br>
+	<div class="tiny_title">Receiving Stats</div>
+	<div class="tinier_title">Receptions/Receiving Yards/Reveiving TDS</div>
+		<input type="number"
+		id="receptions"
+		class="inputt"
+		placeholder="RECs"
+		</input>
+		<input type="number"
+		id="receivingyards"
+		class="inputt"
+		placeholder="YDs"
+		</input>
+		<input type="number"
+		id="receivingtds"
+		class="inputt"
+		placeholder="TDs"
+		</input>
+        <br>
+        <!--Submit Button-->
+        <div>
+            <br>
+        <button class="submito" onclick="cler()">Reset</button>
+        <br><br>
+        <button class="submito" onclick="calculato()">Calculate</button>
+        </div>
+</form>
+
+</body>
+
+</html>

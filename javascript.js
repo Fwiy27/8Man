@@ -9,6 +9,8 @@ function cler() {
 	document.getElementById('receptions').value = "";
 	document.getElementById('receivingyards').value = "";
 	document.getElementById('receivingtds').value = "";
+
+	document.getElementById('result').innerHTML = "Points: 0";
 }
 
 function calculato() {
@@ -28,5 +30,5 @@ function calculato() {
 	const receivingPoints = (receptions) + (receivingyards/10) + (receivingtds*6);
 	const totalPoints = parseFloat(passingPoints) + parseFloat(rushingPoints) + parseFloat( receivingPoints);
 	
-	document.getElementById('result').innerHTML = Number(totalPoints.toFixed(2));
+	document.getElementById('result').innerHTML = "Points: " + Number(totalPoints.toFixed(2));
 }
