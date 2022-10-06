@@ -81,20 +81,20 @@ input {
 }
 @media only screen and (max-width: 1000px) {
     input {
-        line-height: 300%;;
+        line-height: 200%;;
     }
     .submito{
         width: 45%;
         height: 75px;
     }
     .links li a {
-        font-size: 26px;
+        font-size: 20px;
     }
     .tiny_title {
         font-size: 300%;
     }
     .tinier_title {
-        font-size: 23px;
+        font-size: 26px;
     }
   }
 .submito {
