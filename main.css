@@ -90,6 +90,12 @@ input {
     .links li a {
         font-size: 26px;
     }
+    .tiny_title {
+        font-size: 300%;
+    }
+    .tinier_title {
+        font-size: 26px;
+    }
   }
 .submito {
     font-family: 'Poppins',sans-serif;
