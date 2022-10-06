@@ -88,6 +88,12 @@ input {
         width: 50%;
         height: 100px;
     }
+    .tinier_title {
+        font-size: 30px;
+    }
+    .tiny_title {
+        font-size: 375%;
+    }
   }
 .submito {
     font-family: 'Poppins',sans-serif;
