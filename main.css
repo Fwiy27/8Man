@@ -81,7 +81,7 @@ input {
 }
 @media only screen and (max-width: 1000px) {
     input {
-        line-height: 400%;;
+        line-height: 300%;;
     }
     .submito{
         width: 45%;
