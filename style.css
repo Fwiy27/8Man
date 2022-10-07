@@ -1,0 +1,108 @@
+* {
+    font-family: 'Work Sans', 'Arial', sans-serif;
+    font-weight: 300;
+    color: #FAF9F6
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+body {
+    background-color: #FAF9F6;
+    margin-top: 60px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    display: inline;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #333;
+}
+
+#stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    height: 100px;
+    border-radius: 0px;
+    border: none;
+    background-color: #333;
+    font-size: 36px;
+    width: 75%;
+}
+
+.content {
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 60px;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 60px;
+}
+
+input {
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    color: #333;
+    font-size: 30px;
+}
+
+#submito {
+    height: 100%;
+}
+
+.points {
+    display: flex;
+    margin: 5px;
+    flex-direction: row;
+    justify-content: center;
+    height: 50px;
+}
+
+.points p{
+    margin: 0px;
+    color: #333;
+    font-size: 40px;
+    font-weight: bold;
+}
