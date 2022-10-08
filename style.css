@@ -62,7 +62,7 @@ header li a {
 }
 
 #stat input {
-    width: 22.7vw;
+    width: 19vw;
     height: 5vh;
     text-align: center;
     font-size: 150%;
@@ -79,7 +79,7 @@ header li a {
     width: 65vw;
     height: 8vh;
     font-size: 150%;
-    border-radius: 0px;
+    border-radius: 15px;
 }
 
 .points {
