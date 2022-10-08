@@ -1,65 +1,59 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <!--Meta-->
-    <meta charset="UTF-8">
-    <meta property="og:title" content="8 Man Fantasy Points Calculator" />
-    <meta property="og:image" content="https://static.hudl.com/users/prod/13160116_2bab48e54570450d9390385951238ac7.jpg" />
-    <meta name = "viewport" content = "width = device-width, initial-scale = 1, maximum-scale = 1">
-    <!--Links-->
-    <script src="javascript.js"></script>
-    <link rel="stylesheet" href="style.css">
-    <link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
-</head>
-
-<body style="-webkit-text-size-adjust: 100%;">
-
-    <div>
-        <ul>
-            <li><a href="">Points Calc</a></li>
-            <li><a href="">Matchups</a></li>
-            <li><a href="">Teams</a></li>
-            <li style="float:right;"><a href="">About</a></li>
-        </ul>
-    </div>
-
-    <div id="all">
-        
-    <div id="stat">
-        <button>Passing Stats</button>
-        <div class="content">
-            <input type="number" placeholder="YDs" id="passingyards">
-            <input type="number" placeholder="TDs" id="passingtds">
-            <input type="number" placeholder="INTs" id="interceptionsthrown">
-        </div>
-    </div>
-
-    <div id="stat">
+    <head>
+        <meta charset="utf-8">
+        <title>8Man Calculator</title>
+        <meta name="description" content="Website">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
+    </head>
+    <body style="-webkit-text-size-adjust: 100%;">
+        <script src="javascript.js" async defer></script>
+        <header>
+            <ul>
+                <li><a href="">Calc</a></li>
+                <li><a href="">Matchups</a></li>
+                <li><a href="">Teams</a></li>
+            </ul>
+        </header>
         <br>
-        <button>Rushing Stats</button>
-        <div class="content">
-            <input type="number" placeholder="YDs" id="rushingyards">
-            <input type="number" placeholder="TDs" id="rushingtds">
+        <div id="stat">
+            <button>Passing Stats</button>
+            <div class="content">
+                <input type="number" placeholder="YDs" id="passingyards">
+                <input type="number" placeholder="TDs" id="passingtds">
+                <input type="number" placeholder="INTs" id="interceptionsthrown">
+            </div>
         </div>
-    </div>
-
-    <div id="stat">
-        <br>
-        <button>Recieving Stats</button>
-        <div class="content">
-            <input type="number" placeholder="RECs" id="receptions">
-            <input type="number" placeholder="YDs" id="receivingyards">
-            <input type="number" placeholder="TDs" id="receivingtds">
+    
+        <div id="stat">
+            <br>
+            <button>Rushing Stats</button>
+            <div class="content">
+                <input type="number" placeholder="YDs" id="rushingyards">
+                <input type="number" placeholder="TDs" id="rushingtds">
+            </div>
         </div>
-    </div>
-
-        <br>
-        <div class="top"><button id="submito" onclick="calculato()">Calculate</button></div>
-        <br>
-        <div class="bottom"><button id="submito" onclick="cler()">Clear</button></div>
-
-        <div class="points">
-            <p id="result">Points: 0</p>
+    
+        <div id="stat">
+            <br>
+            <button>Recieving Stats</button>
+            <div class="content">
+                <input type="number" placeholder="RECs" id="receptions">
+                <input type="number" placeholder="YDs" id="receivingyards">
+                <input type="number" placeholder="TDs" id="receivingtds">
+            </div>
         </div>
-    </div>
-</body>
+    
+            <br>
+            <div class="top"><button id="submito" onclick="calculato()">Calculate</button></div>
+            <br>
+            <div class="bottom"><button id="submito" onclick="cler()">Clear</button></div>
+    
+            <div class="points">
+                <p id="result">Points: 0</p>
+            </div>
+        </div>
+    </body>
+</html>
