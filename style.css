@@ -70,6 +70,16 @@ header li a {
     font-size: 150%;
 }
 
+.points-display {
+    background-color: #87CEEB;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em; /* Adjust the font size */
+    font-weight: bold;
+    color: #000; /* Choose a font color */
+    margin-bottom: 10px;
+}
+
 .top {
     text-align: center;
 }
