@@ -4,8 +4,8 @@
 
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
+    -webkit-appearance: none;
+    margin: 0;
 }
 
 body {
@@ -14,11 +14,12 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #222; /* Dark theme background color */
 }
 
 header {
     width: 100vw;
-    background-color: #333;
+    background-color: #007bff; /* Blue top bar */
     height: 10vh;
 }
 
@@ -50,10 +51,11 @@ header li a {
 #stat button {
     width: 70vw;
     height: 9vh;
-    background-color: #333;
+    background-color: #222; /* Button color matches background */
     border: none;
     color: whitesmoke;
     font-size: 3vh;
+    border-radius: 5px; /* Rounded buttons */
 }
 
 #stat .content {
@@ -75,9 +77,12 @@ header li a {
 .bottom {
     text-align: center;
 }
+
 #submito {
     width: 65vw;
     height: 8vh;
+    background-color: #222; /* Button color matches background */
+    color: whitesmoke;
     font-size: 150%;
     border-radius: 15px;
 }
@@ -85,5 +90,34 @@ header li a {
 .points {
     text-align: center;
     font-size: 190%;
+    color: whitesmoke; /* Dark theme text color */
 }
 
+/* Styles for devices with screen width up to 767 pixels */
+@media screen and (max-width: 767px) {
+    header li a {
+        font-size: 100%;
+    }
+
+    #stat button {
+        width: 90vw;
+        height: 7vh;
+        font-size: 2vh;
+    }
+
+    #stat input {
+        width: 60vw;
+        height: 4vh;
+        font-size: 100%;
+    }
+
+    #submito {
+        width: 85vw;
+        height: 6vh;
+        font-size: 100%;
+    }
+
+    .points {
+        font-size: 150%;
+    }
+}
