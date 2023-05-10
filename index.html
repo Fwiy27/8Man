@@ -17,15 +17,19 @@
                 <li><a href="">Teams</a></li>
             </ul>
         </header>
+        
+        <div class="points-display">
+            <p id="result">Points: 0</p>
+        </div>
 
         <br>
         
         <div id="stat">
             <button>Passing Stats</button>
             <div class="content">
-                <input type="number" placeholder="YDs" id="passingyards">
-                <input type="number" placeholder="TDs" id="passingtds">
-                <input type="number" placeholder="INTs" id="interceptionsthrown">
+                <input type="number" pattern="\d*" placeholder="YDs" id="passingyards">
+                <input type="number" pattern="\d*" placeholder="TDs" id="passingtds">
+                <input type="number" pattern="\d*" placeholder="INTs" id="interceptionsthrown">
             </div>
         </div>
     
@@ -33,8 +37,8 @@
             <br>
             <button>Rushing Stats</button>
             <div class="content">
-                <input type="number" placeholder="YDs" id="rushingyards">
-                <input type="number" placeholder="TDs" id="rushingtds">
+                <input type="number" pattern="\d*" placeholder="YDs" id="rushingyards">
+                <input type="number" pattern="\d*" placeholder="TDs" id="rushingtds">
             </div>
         </div>
     
@@ -42,9 +46,9 @@
             <br>
             <button>Recieving Stats</button>
             <div class="content">
-                <input type="number" placeholder="RECs" id="receptions">
-                <input type="number" placeholder="YDs" id="receivingyards">
-                <input type="number" placeholder="TDs" id="receivingtds">
+                <input type="number" pattern="\d*" placeholder="RECs" id="receptions">
+                <input type="number" pattern="\d*" placeholder="YDs" id="receivingyards">
+                <input type="number" pattern="\d*" placeholder="TDs" id="receivingtds">
             </div>
         </div>
     
@@ -52,10 +56,7 @@
             <div class="top"><button id="submito" onclick="calculato()">Calculate</button></div>
             <br>
             <div class="bottom"><button id="submito" onclick="cler()">Clear</button></div>
-    
-            <div class="points">
-                <p id="result">Points: 0</p>
-            </div>
         </div>
+		<br><br>
     </body>
 </html>
