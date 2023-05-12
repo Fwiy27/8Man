@@ -1,133 +1,112 @@
+/* General styles */
 * {
-    font-family: 'Work Sans', 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #36393f;
+    color: #dcddde;
+    -webkit-text-size-adjust: 100%;
+}
+
+/* Header styles */
+header {
+    background-color: #202225;
+    padding: 1rem;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+header li {
+    margin: 0 1rem;
+}
+
+header a {
+    color: #dcddde;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+header a:hover {
+    color: #7289da;
+}
+
+/* Points-display styles */
+.points-display {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    background-color: #40444b;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+/* Stat styles */
+#stat {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+#stat input::-webkit-inner-spin-button,
+#stat input::-webkit-outer-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
 
-body {
-    margin: 0;
-    height: 90vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    background-color: #222; /* Dark theme background color */
-}
-
-header {
-    width: 100vw;
-    background-color: #007bff; /* Blue top bar */
-    height: 10vh;
-}
-
-header ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    list-style: none;
-    width: 100%;
-    height: 10vh;
-    margin: 0;
-    padding: 0;
-}
-
-header li {
-    line-height: 10vh;
-}
-
-header li a {
-    text-decoration: none;
-    color: whitesmoke;
-    font-size: 150%;
-}
-
-#stat {
-    text-align: center;
-}
-
 #stat button {
-    width: 70vw;
-    height: 9vh;
-    background-color: #222; /* Button color matches background */
+    background-color: #7289da;
+    color: #dcddde;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
     border: none;
-    color: whitesmoke;
-    font-size: 3vh;
-    border-radius: 5px; /* Rounded buttons */
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 #stat .content {
-    text-align: center;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
 }
 
 #stat input {
-    width: 19vw;
-    height: 5vh;
+    background-color: #40444b;
+    color: #dcddde;
+    width: 100px;
+    margin: 0 0.5rem;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 5px;
     text-align: center;
-    font-size: 150%;
+    -webkit-appearance: none;
+    -moz-appearance: textfield;
 }
 
-.points-display {
-    background-color: #87CEEB;
-    padding: 10px;
-    text-align: center;
-    font-size: 1.5em; /* Adjust the font size */
-    font-weight: bold;
-    color: #000; /* Choose a font color */
-    margin-bottom: 10px;
-}
-
-.top {
-    text-align: center;
-}
-
-.bottom {
-    text-align: center;
+/* Button styles */
+.top, .bottom {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
 }
 
 #submito {
-    width: 65vw;
-    height: 8vh;
-    background-color: #222; /* Button color matches background */
-    color: whitesmoke;
-    font-size: 150%;
-    border-radius: 15px;
+    background-color: #7289da;
+    color: #dcddde;
+    font-size: 1.25rem;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
 }
 
-.points {
-    text-align: center;
-    font-size: 190%;
-    color: whitesmoke; /* Dark theme text color */
-}
-
-/* Styles for devices with screen width up to 767 pixels */
-@media screen and (max-width: 767px) {
-    header li a {
-        font-size: 100%;
-    }
-
-    #stat button {
-        width: 90vw;
-        height: 7vh;
-        font-size: 2vh;
-    }
-
-    #stat input {
-        width: 60vw;
-        height: 4vh;
-        font-size: 100%;
-    }
-
-    #submito {
-        width: 85vw;
-        height: 6vh;
-        font-size: 100%;
-    }
-
-    .points {
-        font-size: 150%;
-    }
+#submito:hover {
+    background-color: #5865f2;
 }
