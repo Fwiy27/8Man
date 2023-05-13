@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Work Sans', sans-serif;
-    background-color: #36393f;
+    background-color: #0e0f12;
     color: #dcddde;
     -webkit-text-size-adjust: 100%;
 }
@@ -35,7 +35,7 @@ header a {
 }
 
 header a:hover {
-    color: #7289da;
+    color: #0094ff;
 }
 
 /* Points-display styles */
@@ -43,7 +43,7 @@ header a:hover {
     text-align: center;
     font-size: 1.5rem;
     margin: 1rem 0;
-    background-color: #40444b;
+    background-color: #202225;
     padding: 1rem;
     border-radius: 5px;
 }
@@ -61,7 +61,7 @@ header a:hover {
 }
 
 #stat button {
-    background-color: #7289da;
+    background-color: #0094ff;
     color: #dcddde;
     font-size: 1rem;
     padding: 0.5rem 1rem;
@@ -77,7 +77,7 @@ header a:hover {
 }
 
 #stat input {
-    background-color: #40444b;
+    background-color: #1a1d21;
     color: #dcddde;
     width: 100px;
     margin: 0 0.5rem;
@@ -96,8 +96,24 @@ header a:hover {
     margin: 1rem 0;
 }
 
+.primary-button {
+	font-family: 'Work Sans', sans-serif;
+    background-color: #0094ff;
+    color: #dcddde;
+    font-size: 1.5rem !important;
+    padding: 0.75rem 3rem !important;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.primary-button:hover {
+    background-color: #007ae1;
+}
+
 #submito {
-    background-color: #7289da;
+    background-color: #0094ff;
     color: #dcddde;
     font-size: 1.25rem;
     padding: 0.75rem 1.5rem;
@@ -108,5 +124,5 @@ header a:hover {
 }
 
 #submito:hover {
-    background-color: #5865f2;
+    background-color: #007ae1;
 }
