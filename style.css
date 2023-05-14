@@ -127,3 +127,127 @@ header a:hover {
 #submito:hover {
     background-color: #007ae1;
 }
+
+/* Dropdown styles */
+select {
+	font-family: 'Work Sans', sans-serif;
+    background-color: #1a1d21;
+    color: #dcddde;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 300px;
+    margin: 1rem auto;
+    display: block;
+    font-size: 1rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+select:focus {
+    outline: none;
+}
+
+/* Add a custom arrow for the dropdown */
+select::-ms-expand {
+    display: none;
+}
+
+select::after {
+    content: "▼";
+    position: absolute;
+    right: 10px;
+    top: calc(50% - 0.5em);
+    pointer-events: none;
+}
+
+/* Position information container styles */
+#infoContainer {
+    background-color: #202225;
+    color: #dcddde;
+    padding: 1rem;
+    border-radius: 5px;
+    margin: 1rem 0;
+    line-height: 1.5;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+table, th, td {
+  border: 1px solid #0094ff;
+  padding: 10px;
+  text-align: left;
+}
+
+thead {
+  background-color: #0094ff;
+}
+
+thead th {
+  font-weight: bold;
+  color: #dcddde;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #1a1d21;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #0e0f12;
+}
+
+tbody tr:hover {
+  background-color: #202225;
+}
+
+.table-header {
+  cursor: pointer;
+}
+
+/* Add this block of code for responsive design */
+
+@media screen and (max-width: 600px) {
+    /* Change the header styles for small screens */
+
+    /* Change the font size and padding for the table to fit better on small screens */
+    table {
+        font-size: 12px;
+    }
+
+    table, th, td {
+        padding: 5px;
+    }
+
+    /* Adjust the width and margin of the select element */
+    select {
+        max-width: 100%;
+        margin: 1rem 0;
+    }
+
+    /* Adjust the stat input width and margin */
+    #stat input {
+        width: 80px;
+        margin: 0.25rem 0.25rem;
+    }
+	
+	#stat {
+		margin: 1rem 0;
+	}
+
+	#infoContainer {
+		background-color: #202225;
+		color: #dcddde;
+		padding: 1rem;
+		border-radius: 5px;
+		margin: 1rem 0;
+		line-height: 1.5;
+		overflow-x: auto; /* Add this line */
+	
+
+}
