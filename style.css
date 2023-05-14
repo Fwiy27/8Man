@@ -210,6 +210,18 @@ tbody tr:hover {
   cursor: pointer;
 }
 
+/* Hyperlink styles */
+a {
+    color: #0094ff;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+a:hover,
+a:active {
+    color: #007ae1;
+}
+
 /* Add this block of code for responsive design */
 
 @media screen and (max-width: 600px) {

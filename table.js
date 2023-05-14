@@ -65,6 +65,13 @@ function showPositionInfo() {
 
   let data;
 
+	if (selectedPosition === 'position') {
+	  // Display text for the 'position' case
+	  infoContainer.innerHTML = 'Choose a position to see players<br>More information can be found on <a href="https://www.gobound.com/ia/ihsaa/football/2022-23/leaderlist?competitor=athlete&range=season&block=total&idMetric=h20181120102641480fac86d6044f318&idGroup=h202208120706282640147eebf2ffa4a">GoBound</a>';
+	  infoContainer.style.display = 'block';
+	  return;
+	}
+	
   switch (selectedPosition) {
     case 'qbs':
 	  headers = ['Player', 'Grade/Position', 'Number and School', 'Completions', 'Attemps', 'Percent', 'Yards'];
@@ -118,12 +125,13 @@ function showPositionInfo() {
 		['Brody Sternhagen', 'JR RB/CB', '#9 HLV', '111', '659', '5.9', '9']
       ];
       break;
-    default:
-      infoContainer.style.display = 'none';
-      return; // Do nothing if no position is selected
   }
 
   const table = createTable(headers, data);
   infoContainer.appendChild(table);
   infoContainer.style.display = 'block';
+}
+
+window.onload = function() {
+  showPositionInfo();
 }
