@@ -67,7 +67,7 @@ function showPositionInfo() {
 
 	if (selectedPosition === 'position') {
 	  // Display text for the 'position' case
-	  infoContainer.innerHTML = 'Choose a position to see players<br>More information can be found on <a href="https://www.gobound.com/ia/ihsaa/football/2022-23/leaderlist?competitor=athlete&range=season&block=total&idMetric=h20181120102641480fac86d6044f318&idGroup=h202208120706282640147eebf2ffa4a">GoBound</a>';
+	  infoContainer.innerHTML = 'Choose a position to see players<br>More stats information can be found on <a href="https://www.gobound.com/ia/ihsaa/football/2022-23/leaderlist?competitor=athlete&range=season&block=total&idMetric=h20181120102641480fac86d6044f318&idGroup=h202208120706282640147eebf2ffa4a">GoBound</a><br><br>First game starts August 25th<br>Schedule found at <a href="https://www.iahsaa.org/wp-content/uploads/2023/04/2023-24-Football-Schedules-8P-23.htm">IAHSS</a>';
 	  infoContainer.style.display = 'block';
 	  return;
 	}
