@@ -1,7 +1,12 @@
 document.addEventListener('DOMContentLoaded', function () {
     const table = document.getElementById('csvTable');
+    // Get select elements
     const weekSelect = document.getElementById('weekSelect');
+    const skillSelect = document.getElementById('skillSelect');
 
+    // Add event listeners
+    weekSelect.addEventListener('change', updateTable);
+    skillSelect.addEventListener('change', updateTable);
     // Function to convert CSV to HTML table
     function convertCSVToTable(csv) {
         const lines = csv.split('\n');
@@ -29,21 +34,27 @@ document.addEventListener('DOMContentLoaded', function () {
         return html;
     }
 
-    // Function to update the table based on the selected week
-    function updateTable() {
-        const selectedWeek = "data/" + weekSelect.value;
-        if (selectedWeek === 'position') {
-            table.innerHTML = ''; // Clear the table
-        } else {
-            // Load and display the selected CSV data
-            fetch(selectedWeek)
-                .then(response => response.text())
-                .then(data => {
-                    table.innerHTML = convertCSVToTable(data);
-                })
-                .catch(error => console.error('Error:', error));
-        }
+// Function to update the table based on the selected week and skill
+function updateTable() {
+    const selectedWeek = weekSelect.value;
+    const selectedSkill = skillSelect.value;
+
+    // Check if both week and skill are selected
+    if (selectedWeek && selectedSkill) {
+        const csvFileName = `data/${selectedWeek}-${selectedSkill}.csv`;
+
+        // Load and display the selected CSV data
+        fetch(csvFileName)
+            .then(response => response.text())
+            .then(data => {
+                table.innerHTML = convertCSVToTable(data);
+            })
+            .catch(error => console.error('Error:', error));
+    } else {
+        table.innerHTML = ''; // Clear the table if either week or skill is not selected
     }
+}
+
 
     // Add an event listener to handle changes in the dropdown
     weekSelect.addEventListener('change', updateTable);

@@ -2,13 +2,14 @@
 <html lang="english">
     <head>
         <meta charset="utf-8">
-		<script src="stats.js"></script>
         <title>8Man Calculator</title>
         <meta name="description" content="Website">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="stylesheet" href="style.css">
         <link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet'>
+
+        <script src="stats.js"></script>
     </head>
     <body>
     <header>
@@ -20,45 +21,24 @@
         </ul>
     </header>
     <div class="points-display">
-        <h1>Prospects</h1>
-        <label for="weekSelect"></label><select id="weekSelect" onchange="updateTable()">
-            <option value="position">-- Select a week --</option>
-            <option value="Week1-receiving.csv">Week 1 | Receiving</option>
-            <option value="Week1-passing.csv">Week 1 | Passing</option>
-            <option value="Week1-rushing.csv">Week 1 | Rushing</option>
+        <h1>Stats</h1>
+        <br>
+        <label for="weekSelect">Week</label>
+        <select id="weekSelect" onchange="updateTable()">
+            <option value="">-- Select a stat --</option>
+            <option value="Week1">Week 1</option>
+            <option value="Week2">Week 2</option>
+            <!-- Add options for other weeks here -->
+        </select>
 
-            <option value="Week2-receiving.csv">Week 2 | Receiving</option>
-            <option value="Week2-passing.csv">Week 2 | Passing</option>
-            <option value="Week2-rushing.csv">Week 2 | Rushing</option>
-
-            <option value="Week3-receiving.csv">Week 3 | Receiving</option>
-            <option value="Week3-passing.csv">Week 3 | Passing</option>
-            <option value="Week3-rushing.csv">Week 3 | Rushing</option>
-
-            <option value="Week4-receiving.csv">Week 4 | Receiving</option>
-            <option value="Week4-passing.csv">Week 4 | Passing</option>
-            <option value="Week4-rushing.csv">Week 4 | Rushing</option>
-
-            <option value="Week5-receiving.csv">Week 5 | Receiving</option>
-            <option value="Week5-passing.csv">Week 5 | Passing</option>
-            <option value="Week5-rushing.csv">Week 5 | Rushing</option>
-
-            <option value="Week6-receiving.csv">Week 6 | Receiving</option>
-            <option value="Week6-passing.csv">Week 6 | Passing</option>
-            <option value="Week6-rushing.csv">Week 6 | Rushing</option>
-
-            <option value="Week7-receiving.csv">Week 7 | Receiving</option>
-            <option value="Week7-passing.csv">Week 7 | Passing</option>
-            <option value="Week7-rushing.csv">Week 7 | Rushing</option>
-
-            <option value="Week8-receiving.csv">Week 8 | Receiving</option>
-            <option value="Week8-passing.csv">Week 8 | Passing</option>
-            <option value="Week8-rushing.csv">Week 8 | Rushing</option>
-
-            <option value="Week9-receiving.csv">Week 9 | Receiving</option>
-            <option value="Week9-passing.csv">Week 9 | Passing</option>
-            <option value="Week9-rushing.csv">Week 9 | Rushing</option>
-
+        <label for="skillSelect">Stat</label>
+        <select id="skillSelect" onchange="updateTable()">
+            <option value="">-- Select a skill --</option>
+            <option value="receiving">Receiving</option>
+            <option value="passing">Passing</option>
+            <option value="rushing">Rushing</option>
+            <option value="all">All</option>
+            <!-- Add options for other skills here -->
         </select>
     </div>
     <div class="search-box">
