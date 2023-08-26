@@ -11,10 +11,9 @@ document.addEventListener('DOMContentLoaded', function () {
     let currentSortColumn = null;
     let isDescending = false;
 
-    // Function to update the table based on the selected week and skill
     function updateTable() {
         // Remove existing event listeners from table headers
-        const headers = table.getElementsByTagName('th');
+        const headers = document.querySelectorAll('#csvTable th');
         for (const header of headers) {
             header.removeEventListener('click', headerClickHandler);
         }
@@ -26,11 +25,17 @@ document.addEventListener('DOMContentLoaded', function () {
         if (selectedWeek && selectedSkill) {
             const csvFileName = `data/${selectedWeek}-${selectedSkill}.csv`;
 
-            // Load and display the selected CSV data
+            // Check if the file exists
             fetch(csvFileName)
-                .then(response => response.text())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('File not found');
+                    }
+                    return response.text();
+                })
                 .then(data => {
-                    table.innerHTML = convertCSVToTable(data);
+                    const tableContainer = document.querySelector('#csvTable');
+                    tableContainer.innerHTML = convertCSVToTable(data);
                     searchTable();
 
                     // Add click event listeners to table headers for sorting
@@ -38,11 +43,19 @@ document.addEventListener('DOMContentLoaded', function () {
                         header.addEventListener('click', headerClickHandler);
                     }
                 })
-                .catch(error => console.error('Error fetching data:', error));
+                .catch(error => {
+                    console.error('Error fetching data:', error);
+                    // Create a table with one header cell saying "No Data"
+                    document.querySelector('#csvTable').innerHTML = '<tr><th colspan="' + headers.length + '">No Data</th></tr>';
+                });
         } else {
-            table.innerHTML = ''; // Clear the table if either week or skill is not selected
+            document.querySelector('#csvTable').innerHTML = ''; // Clear the table if either week or skill is not selected
         }
     }
+
+
+
+
 
     // Function to handle header click event for sorting
     function headerClickHandler() {
