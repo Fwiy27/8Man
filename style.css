@@ -222,6 +222,51 @@ a:active {
     color: #007ae1;
 }
 
+/* Search box styles */
+
+/* Search box styles */
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background-color: #1a1d21;
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin: 1rem auto;
+  max-width: 500px;
+}
+
+.search-box input[type="text"] {
+  flex: 1;
+  background: none;
+  border: none;
+  color: #dcddde;
+  font-size: 1rem;
+  padding: 0.5rem;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.search-box input[type="text"]::placeholder {
+  color: #a1a4b2;
+}
+
+.search-box input[type="text"]:focus {
+  outline: none;
+}
+
+.search-box button[type="submit"] {
+  background: none;
+  color: #dcddde;
+  border: none;
+  padding: 0 1rem;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.search-box button[type="submit"]:hover {
+  color: #0094ff;
+}
+
 /* Add this block of code for responsive design */
 
 @media screen and (max-width: 600px) {
