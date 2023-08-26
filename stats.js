@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 .then(response => response.text())
                 .then(data => {
                     table.innerHTML = convertCSVToTable(data);
+                    searchTable();
 
                     // Add click event listeners to table headers for sorting
                     for (const header of headers) {
