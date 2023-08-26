@@ -1,6 +1,7 @@
 Name,Points,Year,Position,Number,School,REC,YDS,TDS
 Treyton Travis,61.6,SR,WR/CB,#24,Baxter,13,246,4
 Evan Lorenzen,18.9,JR,RB/DB,#22,Northwood-Kensett,11,79,0
+LJ Nyenow jr.,19.9,SO,WR,#1,Cedar Rapids Jefferson,9,109,0
 Jackson McDanel,35.9,SR,RB/LB,#30,Moravia,9,149,2
 Evan Irlmeier,24.7,JR,WR,#2,Ankeny,8,107,1
 Jackson Embree,23.9,JR,SL/LB,#33,East Mills,8,99,1
@@ -20,12 +21,15 @@ Ryan Sinnott,13.0,SR,WR/DB,#21,Centerville,6,70,0
 Dallas Miller,27.4,JR,WR,#10,Iowa City Liberty,6,94,2
 Colin McDermott,25.0,SR,WR/LB,#13,Western Dubuque,6,70,2
 Cael Hanson,29.4,JR,WR/LB,#22,Council Bluffs Lincoln,6,114,2
+Nick Regan,20.3,SR,WR/DB,#14,Iowa Falls-Alden,6,83,1
 Sven Dahlstrom,13.1,SR,RB/LB,#1,Pekin,6,71,0
 Mason Maschmann,26.1,SR,RB/LB,#11,BGM,6,141,1
 Sutton Koller,8.0,JR,RB,#24,Iowa City Liberty,5,30,0
+Gio Cruz,15.8,SR,RB/DB,#5,Lenox,5,48,1
 Brenden Connett,7.9,SR,RB/LB,#20,Twin Cedars,5,29,0
 Holden Roberts,9.7,SO,TE/DE,#13,Twin Cedars,5,47,0
 Gavin Sleezer,23.4,JR,RB/LB,#11,Alta-Aurelia,5,124,1
+Cash Bowe,20.0,JR,WR/S,#12,North Scott,5,90,1
 Josef Dvorak,26.9,JR,RB/DB,#25,Collins-Maxwell,5,99,2
 Jack Gordon,16.4,SR,WR/DL,#18,East Mills,5,54,1
 Elijah Hoyt,8.7,JR,RB/DB,#27,Urbandale,5,37,0
@@ -70,6 +74,7 @@ Luke Erselius,12.8,SO,WR/DB,#15,Montezuma,4,28,1
 Noah Henderson,12.0,JR,RB/LB,#21,Sumner-Fredericksburg,4,20,1
 Hudson Ehrenfelt,9.7,SO,RB/LB,#34,Mid-Prairie,4,57,0
 Cobi Hershberger,6.7,JR,WR/LB,#9,Mid-Prairie,4,27,0
+Quinton Jaeger,5.1,SR,RB/LB,#22,Iowa Falls-Alden,4,11,0
 Jack Follmann,26.7,SR,TE/LB,#40,CAM,4,107,2
 Benny Ramker,5.4,SR,RB/DB,#3,Waverly-Shell Rock,4,14,0
 Will Hodges,15.5,SR,WR/DB,#5,Aplington-Parkersburg,4,55,1
@@ -83,6 +88,9 @@ Rason Grail,22.7,SR,WR/DB,#23,East Union,3,77,2
 Aiden Klostermann,14.1,SR,RB/S,#10,Central City,3,51,1
 Caleb Moore,5.3,JR,WR/DB,#2,Van Meter,3,23,0
 Carter Seitz,21.7,JR,WR/DB,#7,Kee,3,67,2
+Cole Higgins,5.1,JR,FB/LB,#23,South Central Calhoun,3,21,0
+Brock Nattress,12.9,SR,RB/DB,#32,South Central Calhoun,3,39,1
+Keegan Soard,12.1,SR,WR/S,#3,South Central Calhoun,3,31,1
 Connor Stephens,4.0,SR,WR/DB,#17,Centerville,3,10,0
 Drennan Moorman,3.5,SR,WR/DB,#88,Centerville,3,5,0
 Javont Froiland,20.0,SR,WR/DB,#4,Central Springs,3,110,1
@@ -91,6 +99,7 @@ Keyden Lown,25.2,JR,TE/DE,#84,English Valleys,3,42,3
 Gabe Clark,4.4,SR,TE,#85,Iowa City Liberty,3,14,0
 Andrew Miller,12.1,SR,WR/P,#3,Southeast Valley,3,31,1
 Carson Hager,7.0,JR,TE/LB,#2,Waukon,3,40,0
+Carson Lage,11.4,JR,WR/S,#4,North Scott,3,24,1
 Samuel Dascher,14.0,SO,TE/CB,#31,Calamus-Wheatland,3,50,1
 Nolan Mount,6.1,SR,WR/DB,#5,Glenwood,3,31,0
 Lane Oswalt,5.5,SR,WR/DB,#87,Collins-Maxwell,3,25,0
@@ -98,6 +107,7 @@ Devon Akers,12.0,SR,WR,#11,Ankeny,3,90,0
 Will Koenig,7.3,JR,BK,#35,Waukee Northwest,3,43,0
 Jiri Brodigan,13.2,SO,WR/LB,#32,East Mills,3,42,1
 Levi Reineke,5.7,SO,LB/RB,#29,Boyer Valley,3,27,0
+Carter Bronson,5.9,SR,WR,#4,Cedar Rapids Jefferson,3,29,0
 Brady Marak,4.1,JR,WR/DB,#4,Alburnett,3,11,0
 Matthew Helscher,6.2,SR,WR/DB,#18,Wapello,3,32,0
 Drew Hobart,22.0,SO,WR/DB,#1,Mason City,3,130,1
@@ -121,6 +131,8 @@ Colin Kerndt,9.0,JR,QB/DB,#7,Pella,3,60,0
 Connor Fisher,6.8,SR,WR/LB,#4,Albia,3,38,0
 Tristan Freiberg,5.0,SR,WR/CB,#1,Tripoli,3,20,0
 Grady Miller,4.1,SR,TE/LB,#80,Mid-Prairie,3,11,0
+Asher DeBoef,20.0,JR,WR/DB,#7,North Mahaska,3,110,1
+Nate Sampson,11.3,SR,WR/LB,#14,North Mahaska,3,83,0
 Kellen Oliver,7.6,JR,WR/S,#7,Riverside,3,46,0
 Conrad Smith,14.2,SR,WR/DB,#3,West Delaware,3,52,1
 Cam Buffington,29.1,SR,QB/LB,#33,Winfield-Mt Union,3,81,3
@@ -128,6 +140,7 @@ Abram Edwards,7.8,SR,TE/DE,#84,Winfield-Mt Union,3,48,0
 Carter Loyd,6.9,SR,RB/S,#2,Winfield-Mt Union,3,39,0
 Dawson Smith,5.3,SR,RB/LB,#20,Iowa Valley,3,23,0
 Jamison Poe,5.5,JR,RB/DB,#2,Ames,3,25,0
+Carter Weaver,7.6,JR,WR/DL,#9,Iowa Falls-Alden,3,46,0
 Brody Paulsen,8.7,SR,RB/DB,#2,CAM,3,57,0
 Conlin Rouse,16.3,SO,RB/LB,#11,Springville,3,73,1
 Brayden Hepke,19.4,SR,WR/DB,#17,BGM,3,44,2
@@ -166,6 +179,7 @@ Jack O'Neill,10.8,SR,RB/CB,#5,Waukon,2,28,1
 Hayden Garlow,2.4,JR,RB/DB,#1,Alta-Aurelia,2,4,0
 Sam Klaassen,3.2,SR,RB/LB,#5,Forest City,2,12,0
 Corey Thoreson,3.9,JR,TE/LB,#20,Forest City,2,19,0
+Drew Eller,2.8,SR,RB/DB,#7,North Scott,2,8,0
 Chase Klatt,4.2,SO,TE/CB,#4,Calamus-Wheatland,2,22,0
 Jack Johnson,5.5,SO,WR/DB,#16,Glenwood,2,35,0
 Trent Patton,14.4,SR,RB/DL,#27,Glenwood,2,64,1
@@ -183,6 +197,7 @@ Adam Ewert,2.8,JR,WR/DB,#11,New Hampton,2,8,0
 Cael Laures,3.2,SR,TE/S,#89,New Hampton,2,12,0
 Beau Serie,3.4,JR,WR/DB,#8,New Hampton,2,14,0
 Kyland Johnson,3.4,SR,WR/DB,#26,Urbandale,2,14,0
+Jermaine Robinson,10.5,SO,WR,#7,Cedar Rapids Jefferson,2,25,1
 Emmett Burke,14.3,SO,WR/DB,#10,Lone Tree,2,63,1
 Payton Baker,3.6,SR,WR/S,#8,Alburnett,2,16,0
 Connor Torson,3.4,JR,WR/DE,#2,Alburnett,2,14,0
@@ -191,6 +206,7 @@ Caleb Cooper,12.0,SR,TE/LB,#25,Treynor,2,40,1
 Lincoln Aeschliman,3.3,JR,RB/LB,#1,North Fayette Valley,2,13,0
 Rylan Unruh,5.0,SR,WR/DL,#6,North Cedar,2,30,0
 Kamden Stotlar,3.5,SR,RB/LB,#10,Mediapolis,2,15,0
+Ethon Morrow,3.8,SR,TE/DL,#14,Manson-NW Webster,2,18,0
 Parker Lewis,3.6,JR,WR/DB,#2,Oskaloosa,2,16,0
 AJ Walker,4.0,SO,LB/RB,#6,Oskaloosa,2,20,0
 Ty Joss,24.7,SR,LB/TE,#24,Regina Catholic,2,107,2
@@ -235,6 +251,8 @@ Cole Milks,6.4,SR,RB/S,#11,Winfield-Mt Union,2,44,0
 Isaiah Lusajo,15.9,JR,WR/LB,#3,Council Bluffs Lincoln,2,79,1
 Ian Smith,10.3,JR,TE/LB,#5,Iowa Valley,2,23,1
 Cameron Strawhacker,8.3,SR,WR/DB,#4,Ames,2,63,0
+Andon Barrick,4.1,SR,WR/DB,#10,Iowa Falls-Alden,2,21,0
+Ray Morgan Jr.,5.5,SR,WR/DB,#84,Iowa Falls-Alden,2,35,0
 Andrew Beran,9.8,JR,RB,#2,Riceville,2,18,1
 Aidan Ebert,2.5,JR,WR,#3,Riceville,2,5,0
 Riley Nichols,3.3,SR,WR/LB,#9,Martensdale-St Marys,2,13,0
@@ -251,6 +269,8 @@ Traven Wheeler,10.2,JR,WR/LB,#11,South Hardin,2,22,1
 Kyran Flowers,3.3,SR,RB/LB,#1,Westwood,2,13,0
 Frank Lewis,14.6,SR,RB/CB,#10,Westwood,2,66,1
 Carson Topf,4.0,SR,QB/S,#12,Westwood,2,20,0
+Connor Cross,14.5,JR,WR/DB,#25,Iowa City High,2,65,1
+Parker Sutherland,3.2,JR,TE/DL,#88,Iowa City High,2,12,0
 Ryder Sundall,3.8,SR,WR/DB,#3,Spirit Lake,2,18,0
 Bode Higgins,2.6,JR,RB/LB,#4,Spirit Lake,2,6,0
 Simon Leinbaugh,4.9,SR,WR/DB,#6,Spirit Lake,2,29,0
@@ -269,6 +289,7 @@ Colby Gast,3.6,SO,WR/DB,#4,Durant,2,16,0
 Caden Meyer,4.9,SR,WR/DB,#3,Durant,2,29,0
 Karter Datema,3.5,JR,WR/LB,#3,Garner Hayfield Ventura,2,15,0
 Gage Konz,10.6,JR,WR/LB,#10,Garner Hayfield Ventura,2,26,1
+Carter Holtz,4.1,SR,TE/DE,#27,North Linn,2,21,0
 Aiden Stenzel,11.7,SO,RB/DB,#20,Sidney,2,37,1
 Cooper Kleinkopf,3.8,SR,WR/DB,#21,Danville,2,18,0
 Titus Svoboda,3.7,SR,RB/DE,#13,Danville,2,17,0
@@ -276,12 +297,15 @@ Austin Lack,10.4,SR,WR/DB,#3,East Union,1,34,1
 William Anderson,1.5,JR,RB/DB,#33,Logan-Magnolia,1,5,0
 Seth Bixler,9.4,SR,WR/S,#1,Midland,1,24,1
 Ty Alcott,1.5,JR,RB/DB,#24,Belle Plaine,1,5,0
+Wade Sankot,1.1,SO,RB/LB,#3,Belle Plaine,1,1,0
 Aidan Yoch,2.1,SR,TE/DB,#14,West Bend-Mallard,1,11,0
 Myles Beck,1.8,SR,SL/DB,#4,OABCIG,1,8,0
 Jack Gilbert,9.0,SO,WR/LB,#24,OABCIG,1,20,1
 Jaxx Dejean,2.4,FR,WR/S,#2,OABCIG,1,14,0
 Rhett Pleggenkuhle,2.6,SR,WR/CB,#11,Van Meter,1,16,0
 Jackson Schulte,11.1,SR,RB/LB,#21,Kee,1,41,1
+Charlie Nattress,4.2,SO,TE/DL,#25,South Central Calhoun,1,32,0
+Zach Trott,1.4,SR,RB/DB,#20,South Central Calhoun,1,4,0
 Avery Gregoire,1.4,JR,RB/CB,#7,Central Springs,1,4,0
 Rory Prazak,1.4,SR,RB/LB,#10,Central Springs,1,4,0
 Braydin Crum,1.8,SO,WR/DB,#3,Central Springs,1,8,0
@@ -295,8 +319,10 @@ Drake Axmear,4.2,JR,WR/CB,#4,English Valleys,1,32,0
 Jace Hanson,3.0,SR,TE/LB,#86,Southeast Valley,1,20,0
 Ross Larson,3.4,SR,WR/DB,#1,Southeast Valley,1,24,0
 Tyler Moreland,2.0,SR,WR/DB,#6,Southeast Valley,1,10,0
+Logan Jaeschke,1.4,FR,RB/DB,#8,Southeast Valley,1,4,0
 Graine Curtin,1.6,JR,LB/RB,#8,Waukon,1,6,0
 Judah Johnson,2.6,JR,RB/DB,#7,Waukon,1,16,0
+Chase England,1.2,JR,TE/DL,#33,Lenox,1,2,0
 Logan Bacon,1.2,SR,RB/LB,#5,Lake Mills,1,2,0
 Beau Kaufman,1.0,SR,RB/LB,#8,Lake Mills,1,0,0
 Garrett Ham,2.4,SR,WR/LB,#24,Lake Mills,1,14,0
@@ -305,6 +331,7 @@ Parker Cox,1.4,JR,RB/LB,#44,Forest City,1,4,0
 Ty Sopko,5.1,SO,QB/DB,#10,Forest City,1,41,0
 Willie Holmes,1.7,JR,TE/DL,#85,Forest City,1,7,0
 Carsen Hall,1.7,JR,WR/DB,#3,Forest City,1,7,0
+Owen Jordahl,2.5,SR,WR/DB,#6,North Scott,1,15,0
 Brody Koch,9.3,SO,RB/LB,#5,Calamus-Wheatland,1,23,1
 Nolan Clark,3.4,SR,WR/DB,#30,Glenwood,1,24,0
 Logan Roff,0.7,SO,WR/DB,#10,Pleasantville,1,-3,0
@@ -325,6 +352,8 @@ Maxwell Hartzell,1.1,JR,RB,#34,Urbandale,1,1,0
 Sam Hoodjer,4.6,JR,WR/CB,#80,Clarksville,1,36,0
 Eli Schmidt,12.0,SR,RB/S,#3,Clarksville,1,50,1
 John Stauffer,2.4,JR,TE/LB,#82,Clarksville,1,14,0
+Bradley Cable,1.0,SR,CB/WR,#3,Cedar Rapids Jefferson,1,0,0
+Dayten Guy,0.9,JR,WR,#17,Cedar Rapids Jefferson,1,-1,0
 Rory McGargill,0.3,SR,RB/LB,#10,Alburnett,1,-7,0
 Laken Caves,2.1,FR,RB/LB,#24,Alburnett,1,11,0
 Jaren Frank,3.4,SR,RB/DB,#34,Wapello,1,24,0
@@ -349,6 +378,11 @@ Ethan Thimmes,3.1,SR,RB/LB,#42,North Cedar,1,21,0
 Nate Wood,1.5,SR,WR/DB,#24,North Cedar,1,5,0
 Braydon Draeger,3.3,SR,TE/LB,#88,Melcher-Dallas,1,23,0
 Chett Mohr,8.7,SR,TE/LB,#44,Mediapolis,1,17,1
+Caydin Anderson,2.4,SR,WR/DB,#24,Manson-NW Webster,1,14,0
+Kamden Birkey,2.4,JR,RB/LB,#28,Manson-NW Webster,1,14,0
+Matt Condon,1.9,JR,WR/DB,#2,Manson-NW Webster,1,9,0
+Tatuem Hanson,1.1,SR,WR/DB,#7,Manson-NW Webster,1,1,0
+Broc Patzner,2.5,JR,WR/DB,#4,Manson-NW Webster,1,15,0
 JaShaden (JT) Baker,2.3,SR,RB/DB,#4,Oskaloosa,1,13,0
 William Aitchison,1.1,JR,S/RB,#21,Regina Catholic,1,1,0
 Savion Miller,2.4,FR,RB/LB,#22,Regina Catholic,1,14,0
@@ -386,6 +420,8 @@ Mason Hayward,2.2,SR,WR/DB,#6,Maquoketa,1,12,0
 Spencer Martin,1.5,JR,RB,#11,Maquoketa,1,5,0
 Sam Thines,2.2,SR,OL/TE,#22,Maquoketa,1,12,0
 Derek Wilhelm,1.5,JR,RB/WR,#20,Maquoketa,1,5,0
+Dylan Meland,1.8,SO,WR/CB,#3,North Mahaska,1,8,0
+Lucas Nunnikhoven,3.4,JR,QB/DB,#2,North Mahaska,1,24,0
 Brody Tieskoetter,1.8,SR,WR/DB,#11,South Winneshiek,1,8,0
 Davis Bramman,1.8,JR,WR/DB,#6,Riverside,1,8,0
 Kyler Rieken,2.3,SR,RB/S,#21,Riverside,1,13,0
@@ -427,6 +463,7 @@ Landon Steinhoff,1.3,SR,RB/LB,#35,Westwood,1,3,0
 Joey Andres,9.5,JR,WR/LB,#18,Spirit Lake,1,25,1
 Anthony Fenton,1.8,SR,WR/S,#5,Williamsburg,1,8,0
 Micah Lang,2.1,JR,TE/DL,#9,Williamsburg,1,11,0
+Cesar Garrido,1.3,SR,WR/DB,#10,Muscatine,1,3,0
 Mitchell Bauer,2.0,JR,WR/DB,#39,Indianola,1,10,0
 Jonce Hale,12.4,SR,WR/DB,#11,Indianola,1,54,1
 Rylan Klaas,1.8,SR,WR/DB,#86,Indianola,1,8,0
@@ -441,6 +478,10 @@ Zach Lohmann,5.6,SR,WR/DB,#4,ADM,1,46,0
 Rhylan Stine-Smith,1.5,SR,WR/DB,#5,ADM,1,5,0
 Ryan Wulf,1.9,SR,RB/LB,#9,Durant,1,9,0
 Lucas Kral,2.8,JR,RB/DB,#12,Garner Hayfield Ventura,1,18,0
+Theo Boss,2.7,SR,WR/LB,#28,North Linn,1,17,0
+Kanye Caryl,1.8,SR,WR/DB,#11,North Linn,1,8,0
+Cole Griffith,13.3,JR,WR/DB,#18,North Linn,1,63,1
+Hayden Schmidt,0.7,JR,WR/DB,#33,North Linn,1,-3,0
 LaDarius Albright,1.9,JR,TE/LB,#9,Sidney,1,9,0
 Andreas Buttry,1.5,JR,QB/CB,#5,Sidney,1,5,0
 Braedon Godfread,7.2,JR,TE/S,#10,Sidney,1,2,1
