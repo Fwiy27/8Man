@@ -70,6 +70,11 @@ header a:hover {
     cursor: pointer;
 }
 
+th {
+    cursor: pointer; /* Change cursor to pointer */
+    position: relative; /* Create a positioning context for the tooltip */
+}
+
 #stat .content {
     display: flex;
     justify-content: center;

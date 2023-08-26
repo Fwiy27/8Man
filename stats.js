@@ -1,64 +1,140 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const table = document.getElementById('csvTable');
     // Get select elements
     const weekSelect = document.getElementById('weekSelect');
     const skillSelect = document.getElementById('skillSelect');
 
-    // Add event listeners
     weekSelect.addEventListener('change', updateTable);
     skillSelect.addEventListener('change', updateTable);
-    // Function to convert CSV to HTML table
-    function convertCSVToTable(csv) {
-        const lines = csv.split('\n');
-        const headers = lines[0].split(',');
-        let html = '<thead><tr>';
 
-        // Create table headers
-        headers.forEach(header => {
-            html += `<th>${header}</th>`;
-        });
+    const infoContainer = document.getElementById('infoContainer'); // Get the container
+    const table = infoContainer.querySelector('#csvTable'); // Get the table within the container
+    let currentSortColumn = null;
+    let isDescending = false;
 
-        html += '</tr></thead><tbody>';
-
-        // Create table rows
-        for (let i = 1; i < lines.length; i++) {
-            const row = lines[i].split(',');
-            html += '<tr>';
-            row.forEach(cell => {
-                html += `<td>${cell}</td>`;
-            });
-            html += '</tr>';
+    // Function to update the table based on the selected week and skill
+    function updateTable() {
+        // Remove existing event listeners from table headers
+        const headers = table.getElementsByTagName('th');
+        for (const header of headers) {
+            header.removeEventListener('click', headerClickHandler);
         }
 
-        html += '</tbody>';
-        return html;
+        const selectedWeek = weekSelect.value;
+        const selectedSkill = skillSelect.value;
+
+        // Check if both week and skill are selected
+        if (selectedWeek && selectedSkill) {
+            const csvFileName = `data/${selectedWeek}-${selectedSkill}.csv`;
+
+            // Load and display the selected CSV data
+            fetch(csvFileName)
+                .then(response => response.text())
+                .then(data => {
+                    table.innerHTML = convertCSVToTable(data);
+
+                    // Add click event listeners to table headers for sorting
+                    for (const header of headers) {
+                        header.addEventListener('click', headerClickHandler);
+                    }
+                })
+                .catch(error => console.error('Error fetching data:', error));
+        } else {
+            table.innerHTML = ''; // Clear the table if either week or skill is not selected
+        }
     }
 
-// Function to update the table based on the selected week and skill
-function updateTable() {
-    const selectedWeek = weekSelect.value;
-    const selectedSkill = skillSelect.value;
+    // Function to handle header click event for sorting
+    function headerClickHandler() {
+        const columnIndex = Array.from(table.querySelectorAll('th')).indexOf(this);
 
-    // Check if both week and skill are selected
-    if (selectedWeek && selectedSkill) {
-        const csvFileName = `data/${selectedWeek}-${selectedSkill}.csv`;
-
-        // Load and display the selected CSV data
-        fetch(csvFileName)
-            .then(response => response.text())
-            .then(data => {
-                table.innerHTML = convertCSVToTable(data);
-            })
-            .catch(error => console.error('Error:', error));
-    } else {
-        table.innerHTML = ''; // Clear the table if either week or skill is not selected
+        if (columnIndex !== -1) {
+            if (currentSortColumn === columnIndex) {
+                isDescending = !isDescending;
+            } else {
+                currentSortColumn = columnIndex;
+                isDescending = false;
+            }
+            sortTable(table, columnIndex, isDescending);
+        }
     }
-}
+
+    function sortTable(table, columnIndex, isDescending) {
+        const tbody = table.querySelector('tbody');
+        const rows = Array.from(tbody.getElementsByTagName('tr'));
+
+        rows.sort((a, b) => {
+            const aCell = a.getElementsByTagName('td')[columnIndex];
+            const bCell = b.getElementsByTagName('td')[columnIndex];
+
+            // Check if the cells exist before accessing textContent
+            if (aCell && bCell) {
+                const aValue = aCell.textContent;
+                const bValue = bCell.textContent;
+
+                // Check if the values are numeric (can be parsed as numbers)
+                const isANumeric = !isNaN(parseFloat(aValue)) && isFinite(aValue);
+                const isBNumeric = !isNaN(parseFloat(bValue)) && isFinite(bValue);
+
+                if (isANumeric && isBNumeric) {
+                    if (isDescending) {
+                        return parseFloat(bValue) - parseFloat(aValue);
+                    } else {
+                        return parseFloat(aValue) - parseFloat(bValue);
+                    }
+                } else {
+                    // If one or both values are not numeric, perform alphanumeric sorting
+                    if (isDescending) {
+                        return bValue.localeCompare(aValue);
+                    } else {
+                        return aValue.localeCompare(bValue);
+                    }
+                }
+            } else {
+                // Handle the case where one of the cells doesn't exist
+                return 0;
+            }
+        });
+
+        // Clear and re-add sorted rows to the table
+        tbody.innerHTML = '';
+        for (const row of rows) {
+            tbody.appendChild(row);
+        }
+    }
 
 
-    // Add an event listener to handle changes in the dropdown
-    weekSelect.addEventListener('change', updateTable);
+
+
+    // Initial table setup (in case of pre-selected values)
+    updateTable();
 });
+
+
+function convertCSVToTable(csv) {
+    const lines = csv.split('\n');
+    const headers = lines[0].split(',');
+    let html = '<thead><tr>';
+
+    // Create table headers
+    headers.forEach(header => {
+        html += `<th>${header}</th>`;
+    });
+
+    html += '</tr></thead><tbody>';
+
+    // Create table rows
+    for (let i = 1; i < lines.length - 1; i++) {
+        const row = lines[i].split(',');
+        html += '<tr>';
+        row.forEach(cell => {
+            html += `<td>${cell}</td>`;
+        });
+        html += '</tr>';
+    }
+
+    html += '</tbody>';
+    return html;
+}
 
 // Function to search and filter table rows by name
 function searchTable() {
