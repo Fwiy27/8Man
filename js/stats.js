@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Check if both week and skill are selected
         if (selectedWeek && selectedSkill) {
-            const csvFileName = `data/${selectedWeek}-${selectedSkill}.csv`;
+            const csvFileName = `../data/${selectedWeek}-${selectedSkill}.csv`;
 
             // Check if the file exists
             fetch(csvFileName)

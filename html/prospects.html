@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="english">
+    <head>
+        <meta charset="utf-8">
+		<script src="../js/table.js"></script>
+        <title>8Man Calculator</title>
+        <meta name="description" content="Website">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="../css/style.css">
+        <link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet'>
+    </head>
+    <body style="-webkit-text-size-adjust: 100%;">
+        <header>
+            <ul>
+                <li><a href="index.html">Calc</a></li>
+                <li><a href="">Matchups</a></li>
+                <li><a href="stats.html">Stats</a></li>
+                <li><a href="prospects.html">Prospects</a></li>
+            </ul>
+    </header>
+	<div class="points-display">
+        <h1>Prospects</h1>
+        <select id="positionSelect" onchange="showPositionInfo()">
+            <option value="position">-- Select a position --</option>
+            <option value="qbs">QBs</option>
+            <option value="wrs">WRs</option>
+            <option value="rbs">RBs</option>
+        </select>
+    </div>
+    <div id="stat">
+        <div class="content">
+            <div id="infoContainer" class="info" style="display: none;"></div>
+        </div>
+    </div>
+    </body>
+</html>

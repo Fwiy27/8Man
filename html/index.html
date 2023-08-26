@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="english">
+    <head>
+        <meta charset="utf-8">
+        <title>8Man Calculator</title>
+        <meta name="description" content="Website">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="../css/style.css">
+        <link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet'>
+	<link rel="apple-touch-icon" href="../files/football.png">
+    </head>
+    <body style="-webkit-text-size-adjust: 100%;">
+        <script src="../js/javascript.js" async defer></script>
+        <header>
+            <ul>
+                <li><a href="">Calc</a></li>
+                <li><a href="">Matchups</a></li>
+                <li><a href="stats.html">Stats</a></li>
+				<li><a href="prospects.html">Prospects</a></li>
+            </ul>
+        </header>
+        
+        <div class="points-display">
+            <p id="result">Points: 0</p>
+        </div>
+
+        <br>
+        
+        <div id="stat">
+            <button class="primary-button">Passing Stats</button>
+            <div class="content">
+                <input type="number" pattern="\d*" placeholder="YDs" id="passingyards">
+                <input type="number" pattern="\d*" placeholder="TDs" id="passingtds">
+                <input type="number" pattern="\d*" placeholder="INTs" id="interceptionsthrown">
+            </div>
+        </div>
+    
+        <div id="stat">
+            <br>
+            <button class="primary-button">Rushing Stats</button>
+            <div class="content">
+                <input type="number" pattern="\d*" placeholder="YDs" id="rushingyards">
+                <input type="number" pattern="\d*" placeholder="TDs" id="rushingtds">
+            </div>
+        </div>
+    
+        <div id="stat">
+            <br>
+            <button class="primary-button">Recieving Stats</button>
+            <div class="content">
+                <input type="number" pattern="\d*" placeholder="RECs" id="receptions">
+                <input type="number" pattern="\d*" placeholder="YDs" id="receivingyards">
+                <input type="number" pattern="\d*" placeholder="TDs" id="receivingtds">
+            </div>
+        </div>
+    
+            <br>
+            <div class="top"><button id="submito" onclick="calculatePoints()">Calculate</button></div>
+            <br>
+            <div class="bottom"><button id="submito" onclick="clearInputs()">Clear</button></div>
+        </div>
+		<br><br>
+    </body>
+</html>
