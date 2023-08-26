@@ -21,7 +21,7 @@
     </header>
     <div class="points-display">
         <h1>Prospects</h1>
-        <select id="weekSelect" onchange="updateTable()">
+        <label for="weekSelect"></label><select id="weekSelect" onchange="updateTable()">
             <option value="position">-- Select a week --</option>
             <option value="Week1-receiving.csv">Week 1 | Receiving</option>
             <option value="Week1-passing.csv">Week 1 | Passing</option>
@@ -65,8 +65,10 @@
         <label for="nameSearch">Search by Name:</label>
         <input type="text" id="nameSearch" oninput="searchTable()" placeholder="Enter a name">
     </div>
-    <table id="csvTable">
-        <!-- CSV data will be inserted here -->
-    </table>
+    <div id="stat">
+        <div class="content">
+            <div id="infoContainer" class="info"><table id="csvTable"><!-- CSV data will be inserted here --></table></div>
+        </div>
+    </div>
     </body>
 </html>
