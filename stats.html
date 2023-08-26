@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="english">
+    <head>
+        <meta charset="utf-8">
+		<script src="stats.js"></script>
+        <title>8Man Calculator</title>
+        <meta name="description" content="Website">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="style.css">
+        <link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet'>
+    </head>
+    <body>
+    <header>
+        <ul>
+            <li><a href="index.html">Calc</a></li>
+            <li><a href="">Matchups</a></li>
+            <li><a href="">Teams</a></li>
+            <li><a href="">Prospects</a></li>
+        </ul>
+    </header>
+    <div class="points-display">
+        <h1>Prospects</h1>
+        <select id="weekSelect" onchange="updateTable()">
+            <option value="position">-- Select a week --</option>
+            <option value="Week1-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week1-passing.csv">Week 1 | Passing</option>
+            <option value="Week1-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week2-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week2-passing.csv">Week 1 | Passing</option>
+            <option value="Week2-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week3-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week3-passing.csv">Week 1 | Passing</option>
+            <option value="Week3-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week4-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week4-passing.csv">Week 1 | Passing</option>
+            <option value="Week4-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week5-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week5-passing.csv">Week 1 | Passing</option>
+            <option value="Week5-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week6-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week6-passing.csv">Week 1 | Passing</option>
+            <option value="Week6-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week7-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week7-passing.csv">Week 1 | Passing</option>
+            <option value="Week7-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week8-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week8-passing.csv">Week 1 | Passing</option>
+            <option value="Week8-rushing.csv">Week 1 | Rushing</option>
+
+            <option value="Week9-receiving.csv">Week 1 | Receiving</option>
+            <option value="Week9-passing.csv">Week 1 | Passing</option>
+            <option value="Week9-rushing.csv">Week 1 | Rushing</option>
+
+        </select>
+    </div>
+    <div class="search-box">
+        <label for="nameSearch">Search by Name:</label>
+        <input type="text" id="nameSearch" oninput="searchTable()" placeholder="Enter a name">
+    </div>
+    <table id="csvTable">
+        <!-- CSV data will be inserted here -->
+    </table>
+    </body>
+</html>
