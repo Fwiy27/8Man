@@ -53,75 +53,68 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-
-
-
-
-    // Function to handle header click event for sorting
-    function headerClickHandler() {
-        const columnIndex = Array.from(table.querySelectorAll('th')).indexOf(this);
-
-        if (columnIndex !== -1) {
-            if (currentSortColumn === columnIndex) {
-                isDescending = !isDescending;
-            } else {
-                currentSortColumn = columnIndex;
-                isDescending = false;
-            }
-            sortTable(table, columnIndex, isDescending);
-        }
-    }
-
-    function sortTable(table, columnIndex, isDescending) {
-        const tbody = table.querySelector('tbody');
-        const rows = Array.from(tbody.getElementsByTagName('tr'));
-
-        rows.sort((a, b) => {
-            const aCell = a.getElementsByTagName('td')[columnIndex];
-            const bCell = b.getElementsByTagName('td')[columnIndex];
-
-            // Check if the cells exist before accessing textContent
-            if (aCell && bCell) {
-                const aValue = aCell.textContent;
-                const bValue = bCell.textContent;
-
-                // Check if the values are numeric (can be parsed as numbers)
-                const isANumeric = !isNaN(parseFloat(aValue)) && isFinite(aValue);
-                const isBNumeric = !isNaN(parseFloat(bValue)) && isFinite(bValue);
-
-                if (isANumeric && isBNumeric) {
-                    if (isDescending) {
-                        return parseFloat(bValue) - parseFloat(aValue);
-                    } else {
-                        return parseFloat(aValue) - parseFloat(bValue);
-                    }
-                } else {
-                    // If one or both values are not numeric, perform alphanumeric sorting
-                    if (isDescending) {
-                        return bValue.localeCompare(aValue);
-                    } else {
-                        return aValue.localeCompare(bValue);
-                    }
-                }
-            } else {
-                // Handle the case where one of the cells doesn't exist
-                return 0;
-            }
-        });
-
-        // Clear and re-add sorted rows to the table
-        tbody.innerHTML = '';
-        for (const row of rows) {
-            tbody.appendChild(row);
-        }
-    }
-
-
-
-
     // Initial table setup (in case of pre-selected values)
     updateTable();
 });
+
+// Function to handle header click event for sorting
+function headerClickHandler() {
+    const columnIndex = Array.from(table.querySelectorAll('th')).indexOf(this);
+
+    if (columnIndex !== -1) {
+        if (currentSortColumn === columnIndex) {
+            isDescending = !isDescending;
+        } else {
+            currentSortColumn = columnIndex;
+            isDescending = false;
+        }
+        sortTable(table, columnIndex, isDescending);
+    }
+}
+
+function sortTable(table, columnIndex, isDescending) {
+    const tbody = table.querySelector('tbody');
+    const rows = Array.from(tbody.getElementsByTagName('tr'));
+
+    rows.sort((a, b) => {
+        const aCell = a.getElementsByTagName('td')[columnIndex];
+        const bCell = b.getElementsByTagName('td')[columnIndex];
+
+        // Check if the cells exist before accessing textContent
+        if (aCell && bCell) {
+            const aValue = aCell.textContent;
+            const bValue = bCell.textContent;
+
+            // Check if the values are numeric (can be parsed as numbers)
+            const isANumeric = !isNaN(parseFloat(aValue)) && isFinite(aValue);
+            const isBNumeric = !isNaN(parseFloat(bValue)) && isFinite(bValue);
+
+            if (isANumeric && isBNumeric) {
+                if (isDescending) {
+                    return parseFloat(bValue) - parseFloat(aValue);
+                } else {
+                    return parseFloat(aValue) - parseFloat(bValue);
+                }
+            } else {
+                // If one or both values are not numeric, perform alphanumeric sorting
+                if (isDescending) {
+                    return bValue.localeCompare(aValue);
+                } else {
+                    return aValue.localeCompare(bValue);
+                }
+            }
+        } else {
+            // Handle the case where one of the cells doesn't exist
+            return 0;
+        }
+    });
+
+    // Clear and re-add sorted rows to the table
+    tbody.innerHTML = '';
+    for (const row of rows) {
+        tbody.appendChild(row);
+    }
+}
 
 
 function convertCSVToTable(csv) {
