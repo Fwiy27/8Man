@@ -1,10 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Get select elements
     document.getElementById("stat").style.visibility = "hidden";
-    const weekSelect = document.getElementById('weekSelect');
+
+    // Get select elements
     const skillSelect = document.getElementById('skillSelect');
 
-    weekSelect.addEventListener('change', updateTable);
     skillSelect.addEventListener('change', updateTable);
 
     const infoContainer = document.getElementById('infoContainer'); // Get the container
@@ -20,13 +19,13 @@ document.addEventListener('DOMContentLoaded', function () {
             header.removeEventListener('click', headerClickHandler);
         }
 
-        const selectedWeek = weekSelect.value;
         const selectedSkill = skillSelect.value;
 
-        // Check if both week and skill are selected
-        if (selectedWeek && selectedSkill) {
+        // Check if both skill are selected
+        if (selectedSkill) {
             document.getElementById("stat").style.visibility = "visible";
-            const csvFileName = `../data/${selectedWeek}-${selectedSkill}.csv`;
+            const csvFileName = `../data/schedules/${selectedSkill}.csv`;
+            console.log(csvFileName);
 
             // Check if the file exists
             fetch(csvFileName)
@@ -39,7 +38,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 .then(data => {
                     const tableContainer = document.querySelector('#csvTable');
                     tableContainer.innerHTML = convertCSVToTable(data);
-                    searchTable();
 
                     // Add click event listeners to table headers for sorting
                     for (const header of headers) {
@@ -52,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     document.querySelector('#csvTable').innerHTML = '<tr><th colspan="' + headers.length + '">No Data</th></tr>';
                 });
         } else {
-            document.querySelector('#csvTable').innerHTML = ''; // Clear the table if either week or skill is not selected
+            document.querySelector('#csvTable').innerHTML = ''; // Clear the table if skill is not selected
         }
     }
 
@@ -133,7 +131,7 @@ function convertCSVToTable(csv) {
     html += '</tr></thead><tbody>';
 
     // Create table rows
-    for (let i = 1; i < lines.length - 1; i++) {
+    for (let i = 1; i < lines.length; i++) {
         const row = lines[i].split(',');
         html += '<tr>';
         row.forEach(cell => {

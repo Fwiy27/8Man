@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Get select elements
     document.getElementById("stat").style.visibility = "hidden";
+
+    // Get select elements
     const weekSelect = document.getElementById('weekSelect');
     const skillSelect = document.getElementById('skillSelect');
 
@@ -26,7 +27,8 @@ document.addEventListener('DOMContentLoaded', function () {
         // Check if both week and skill are selected
         if (selectedWeek && selectedSkill) {
             document.getElementById("stat").style.visibility = "visible";
-            const csvFileName = `../data/${selectedWeek}-${selectedSkill}.csv`;
+            const csvFileName = `../data/users/${selectedWeek}-${selectedSkill}.csv`;
+            console.log(csvFileName);
 
             // Check if the file exists
             fetch(csvFileName)
@@ -39,7 +41,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 .then(data => {
                     const tableContainer = document.querySelector('#csvTable');
                     tableContainer.innerHTML = convertCSVToTable(data);
-                    searchTable();
 
                     // Add click event listeners to table headers for sorting
                     for (const header of headers) {

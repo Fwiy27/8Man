@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="../css/style.css">
         <link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet'>
 
-        <script src="../js/stats.js"></script>
+        <script src="../js/schedules.js"></script>
     </head>
     <body>
     <header>
@@ -21,30 +21,23 @@
         </ul>
     </header>
     <div class="points-display">
-        <h1>Stats</h1>
+        <h1>Schedules</h1>
         <br>
-        <label for="weekSelect">Week</label>
-        <select id="weekSelect">
-            <option value="">-- Select a stat --</option>
-            <option value="Week0">Week 0</option>
-            <option value="Week1">Week 1</option>
-            <option value="Week2">Week 2</option>
-            <!-- Add options for other weeks here -->
-        </select>
 
-        <label for="skillSelect">Stat</label>
+        <label for="skillSelect">User</label>
         <select id="skillSelect">
-            <option value="">-- Select a skill --</option>
-            <option value="receiving">Receiving</option>
-            <option value="passing">Passing</option>
-            <option value="rushing">Rushing</option>
-            <option value="points">Points</option>
+            <option value="">-- Select a user --</option>
+            <option value="league_schedule">Full Schedule</option>
+            <option value="Landon">Landon</option>
+            <option value="Cameron">Cameron</option>
+            <option value="Ian">Ian</option>
+            <option value="Luke">Luke</option>
+            <option value="Zane">Zane</option>
+            <option value="Bransen">Bransen</option>
+            <option value="Brayden">Brayden</option>
+            <option value="Brandon">Brandon</option>
             <!-- Add options for other skills here -->
         </select>
-    </div>
-    <div class="search-box">
-        <label for="nameSearch">Search by Name:</label>
-        <input type="text" id="nameSearch" oninput="searchTable()" placeholder="Enter a name">
     </div>
     <div id="stat">
         <div class="content">
