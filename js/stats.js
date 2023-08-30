@@ -26,7 +26,12 @@ document.addEventListener('DOMContentLoaded', function () {
         // Check if both week and skill are selected
         if (selectedWeek && selectedSkill) {
             document.getElementById("stat").style.visibility = "visible";
-            const csvFileName = `../data/${selectedWeek}-${selectedSkill}.csv`;
+            var csvFileName;
+            if (selectedWeek === 'Week0') {
+                csvFileName = `../data/${selectedWeek}-${selectedSkill}-half.csv`;
+            } else {
+                csvFileName = `../data/${selectedWeek}-${selectedSkill}.csv`;
+            }
 
             // Check if the file exists
             fetch(csvFileName)
