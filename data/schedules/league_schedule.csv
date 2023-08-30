@@ -1,8 +1,8 @@
 Week,Home Team,Away Team,Winner
-1,Cameron,Ian,TBD
-1,Luke,Zane,TBD
-1,Bransen,Brayden,TBD
-1,Brandon,Landon,TBD
+1,Luke,Zane,Luke
+1,Cameron,Ian,Ian
+1,Bransen,Brayden,Brayden
+1,Brandon,Landon,Landon
 2,Landon,Luke,TBD
 2,Brayden,Cameron,TBD
 2,Bransen,Brandon,TBD
@@ -19,15 +19,15 @@ Week,Home Team,Away Team,Winner
 5,Zane,Landon,TBD
 5,Brayden,Cameron,TBD
 5,Brandon,Bransen,TBD
-6,Landon,Cameron,TBD
 6,Brandon,Zane,TBD
-6,Brayden,Luke,TBD
+6,Landon,Cameron,TBD
 6,Bransen,Ian,TBD
+6,Brayden,Luke,TBD
 7,Landon,Bransen,TBD
 7,Ian,Brayden,TBD
 7,Cameron,Zane,TBD
 7,Brandon,Luke,TBD
-8,Cameron,Bransen,TBD
 8,Zane,Luke,TBD
 8,Landon,Ian,TBD
+8,Cameron,Bransen,TBD
 8,Brandon,Brayden,TBD
