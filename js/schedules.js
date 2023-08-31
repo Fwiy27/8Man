@@ -53,9 +53,49 @@ document.addEventListener('DOMContentLoaded', function () {
             document.querySelector('#csvTable').innerHTML = ''; // Clear the table if skill is not selected
         }
     }
+    function date(current_date = null) {
+        const weeks = {
+            '08/25/2023': '0',
+            '09/01/2023': '1',
+            '09/08/2023': '2',
+            '09/15/2023': '3',
+            '09/22/2023': '4',
+            '09/29/2023': '5',
+            '10/06/2023': '6',
+            '10/13/2023': '7',
+            '10/20/2023': '8'
+        };
+
+        const days = {
+            Monday: -3,
+            Tuesday: -4,
+            Wednesday: -5,
+            Thursday: 1,
+            Friday: 0,
+            Saturday: -1,
+            Sunday: -2
+        };
+
+        if (current_date === null) {
+            current_date = new Date();
+        } else {
+            current_date = new Date(current_date);
+        }
+
+        const day_of_week = current_date.toLocaleDateString('en-US', { weekday: 'long' });
+        const formatted_date = current_date.toLocaleDateString('en-US', { month: '2-digit', day: '2-digit', year: 'numeric' });
+
+        const ret = new Date(current_date);
+        ret.setDate(ret.getDate() + days[day_of_week]);
+
+        const ret_formatted = ret.toLocaleDateString('en-US', { month: '2-digit', day: '2-digit', year: 'numeric' });
+
+        return weeks[ret_formatted];
+    }
 
     // Initial table setup (in case of pre-selected values)
     updateTable();
+    document.getElementById('current_week').innerHTML = 'Current Week: ' + date();
 });
 
 // Function to handle header click event for sorting
