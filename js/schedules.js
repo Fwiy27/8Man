@@ -131,7 +131,7 @@ function convertCSVToTable(csv) {
     html += '</tr></thead><tbody>';
 
     // Create table rows
-    for (let i = 1; i < lines.length; i++) {
+    for (let i = 1; i < lines.length - 1; i++) {
         const row = lines[i].split(',');
         html += '<tr>';
         row.forEach(cell => {
