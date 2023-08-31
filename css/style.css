@@ -257,13 +257,15 @@ a:active {
 }
 
 .search-box input[type="text"] {
-  flex: 1;
-  background: none;
-  border: none;
-  color: #dcddde;
-  font-size: 1rem;
-  padding: 0.5rem;
-  font-family: 'Work Sans', sans-serif;
+    flex: 1;
+    background: none;
+    border: none;
+    color: #dcddde;
+    font-size: 1rem;
+    padding: 0.5rem;
+    font-family: 'Work Sans', sans-serif;
+    text-align-last: center;
+    text-align: -webkit-center;
 }
 
 .search-box input[type="text"]::placeholder {
