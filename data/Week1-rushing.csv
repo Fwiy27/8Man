@@ -7,7 +7,7 @@ Shane Helmick,0.0,SR,QB/DE,#12,Moravia,0,0
 Jameson Kilworth,0.0,SR,QB/DB,#8,Exira-EHK,0,0
 Breckin Clatt,0.0,JR,RB/DB,#14,Colo-Nesco,0,0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0,0
-Adam Scott,-2.5,SR,RB/LB,#26,West Central,-25,0
+Adam Scott,2.5,SR,RB/LB,#26,West Central,25,0
 Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0,0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0,0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0,0
@@ -17,7 +17,7 @@ MaKade Bloker,0.0,SR,RB/LB,#11,Clarksville,0,0
 Broox Stockman,0.0,SO,RB/LB,#20,Montezuma,0,0
 Colby Wallace,0.0,JR,QB/S,#11,Glidden-Ralston,0,0
 Cole Fehr,0.0,JR,RB/LB,#33,West Bend-Mallard,0,0
-Edde Gonzalez,-36.4,SR,RB/LB,#1,West Central,-124,-4
+Edde Gonzalez,36.4,SR,RB/LB,#1,West Central,124,4
 Luke Cripps,0.0,SR,QB/S,#1,Boyer Valley,0,0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0,0
 Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0,0
@@ -46,8 +46,8 @@ Dane Appleby,0.0,JR,QB/LB,#4,Janesville,0,0
 Talan Pletz,0.0,SO,RB/LB,#5,Janesville,0,0
 Conlin Rouse,0.0,SO,RB/LB,#11,Springville,0,0
 Wyatt Oswald,0.0,JR,QB/LB,#10,Coon Rapids-Bayard,0,0
-Rogellio Gonzalez,-5.3,SO,FB/DB,#10,West Central,-53,0
-Wyatt Nelson,-22.2,JR,RB/DB,#9,West Central,-102,-2
+Rogellio Gonzalez,5.3,SO,FB/DB,#10,West Central,53,0
+Wyatt Nelson,22.2,JR,RB/DB,#9,West Central,102,2
 Jamison Ewing,0.0,SO,WR/CB,#8,Southeast Warren,0,0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison,0,0
 Burke Busta,0.0,SR,FB,#9,Turkey Valley,0,0
@@ -55,7 +55,7 @@ Owen Backer,0.0,SO,RB/S,#22,Clarksville,0,0
 Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0,0
 Braden Jordan,0.0,SO,QB/LB,#10,Springville,0,0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0,0
-Jed Tyler,-1.4,SR,QB/DB,#7,West Central,-14,0
+Jed Tyler,1.4,SR,QB/DB,#7,West Central,14,0
 Landon Waldschmitt,0.0,JR,QB/DB,#7,Remsen St. Mary's,0,0
 Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0,0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0,0
@@ -206,7 +206,7 @@ Jace March,0.0,FR,RB/CB,#3,Springville,0,0
 Braxton Davis,0.0,JR,WR/DB,#9,Twin Cedars,0,0
 Caden Oswald,0.0,FR,RB/DB,#6,Coon Rapids-Bayard,0,0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0,0
-Milton Cushion,-0.2,FR,RB/DB,#11,West Central,-2,0
+Milton Cushion,0.2,FR,RB/DB,#11,West Central,2,0
 Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0,0
 Hunter DeGard,0.0,FR,OG/DE,#24,Melcher-Dallas,0,0
 Evan Lorenzen,0.0,JR,RB/DB,#22,Northwood-Kensett,0,0
