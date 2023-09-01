@@ -1,5 +1,6 @@
 Name,Points,YP,Number,School,YDS,TDS,INT
 Beau Burns,0.0,SO  QB/DB,#2,BGM,0,0,0
+Blayne Smith,0.0,JR  QB/DB,#15,Ar-We-Va,0,0,0
 Shane Helmick,0.0,SR  QB/DE,#12,Moravia,0,0,0
 Caden Page,0.0,JR  QB/LB,#8,Murray,0,0,0
 Dallas Smith,0.0,JR  QB/DB,#2,Twin Cedars,0,0,0
@@ -54,7 +55,7 @@ Aaron Olsen,0.0,JR  QB/S,#3,Audubon,0,0,0
 Colby Wallace,0.0,JR  QB/S,#11,Glidden-Ralston,0,0,0
 Braden Jordan,0.0,SO  QB/LB,#10,Springville,0,0,0
 Dalton Mudderman,0.0,JR  QB/LB,#5,Kee,0,0,0
-Jed Tyler,1.16,SR  QB/DB,#7,West Central,29,0,0
+Jed Tyler,-1.16,SR  QB/DB,#7,West Central,-29,0,0
 Jack Adams,0.0,JR  QB,#7,Riceville,0,0,0
 Christian Pierce,0.0,SO  QB/S,#4,Rockford,0,0,0
 Drew Urbanek,0.0,FR  QB/CB,#10,Tripoli,0,0,0
@@ -75,6 +76,7 @@ Brody Koski,0.0,FR  QB/LB,#7,Boyer Valley,0,0,0
 Bryer Jack,0.0,FR  QB/DB,#14,HLV,0,0,0
 Carson Ingles,0.0,SO  RB,#1,Edgewood-Colesburg,0,0,0
 Brenden Connett,0.0,SR  RB/LB,#20,Twin Cedars,0,0,0
+Jed Bielenberg,0.0,SR  DE/WR,#15,Siouxland Christian,0,0,0
 Carter Anderson,0.0,JR  QB/DB,#15,Northwood-Kensett,0,0,0
 Gunnar Smith,0.0,SO  QB,#6,Riceville,0,0,0
 Ambrose Savage,0.0,JR  QB/LB,#12,Lamoni,0,0,0
