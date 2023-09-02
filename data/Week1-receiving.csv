@@ -43,6 +43,7 @@ Keaton Harpenau,5.7,JR,SL/DB,#2,Remsen St. Mary's,4.0,17.0,0.0
 Braxton Kniep,28.9,JR,WR/DE,#18,Remsen St. Mary's,5.0,119.0,2.0
 Cam Buffington,35.0,SR,QB/LB,#33,Winfield-Mt Union,3.0,140.0,3.0
 Devon Ehlers,0.0,SO,TE/LB,#88,Ar-We-Va,0.0,0.0,0.0
+Conlin Rouse,2.8,SO,RB/LB,#11,Springville,2.0,8.0,0.0
 Mason Maschmann,0.0,SR,RB/LB,#11,BGM,0.0,0.0,0.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
 Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0,0.0
@@ -84,7 +85,6 @@ Abram Edwards,2.2,SR,TE/DE,#84,Winfield-Mt Union,1.0,12.0,0.0
 Carter Loyd,11.6,SR,RB/S,#2,Winfield-Mt Union,1.0,46.0,1.0
 Cole Milks,3.2,SR,RB/S,#11,Winfield-Mt Union,2.0,12.0,0.0
 Andrew Beran,1.9,JR,RB,#2,Riceville,2.0,-1.0,0.0
-Conlin Rouse,0.0,SO,RB/LB,#11,Springville,0.0,0.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0,0.0
 Aiden Eickert ,0.0,JR,WR/LB,#7,Easton Valley,0.0,0.0,0.0
 Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0,0.0
@@ -161,6 +161,8 @@ Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0,0.0
 Dillon Reed,,SO,WR/DB,#11,Woodbine,,,
 Collin Bower,,SO,TE/DB,#25,CAM,,,
 Aidan Ebert,1.4,JR,WR,#3,Riceville,1.0,4.0,0.0
+Mason Hoy,1.8,SO,RB/CB,#9,Springville,1.0,8.0,0.0
+Braden Jordan,8.1,SO,QB/LB,#10,Springville,1.0,11.0,1.0
 Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
@@ -242,8 +244,6 @@ Dominic McClain,0.0,JR,WR/DB,#7,St. Edmond,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
 Trevor Forey,0.0,SR,WR/S,#6,Janesville,0.0,0.0,0.0
 Kahl Shanahan,0.0,JR,TE/LB,#24,Springville,0.0,0.0,0.0
-Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0,0.0
-Braden Jordan,0.0,SO,QB/LB,#10,Springville,0.0,0.0,0.0
 Carter Battin,0.0,SO,WR,#2,Edgewood-Colesburg,0.0,0.0,0.0
 Christopher Lange,0.0,SO,WR,#10,Edgewood-Colesburg,0.0,0.0,0.0
 Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
