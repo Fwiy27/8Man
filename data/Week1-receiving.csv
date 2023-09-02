@@ -16,12 +16,13 @@ Jackson Embree,0.0,JR,SL/LB,#33,East Mills,0.0,0.0,0.0
 Cruz DeJong,13.7,SR,TE/LB,#40,Montezuma,3.0,47.0,1.0
 David Rose,13.8,JR,WR/DB,#5,Montezuma,3.0,48.0,1.0
 Broox Stockman,12.9,SO,RB/LB,#20,Montezuma,6.0,69.0,0.0
-Aiden Klostermann,19.8,SR,RB/S,#10,Central City,5.0,88.0,1.0
+Aiden Klostermann,25.8,SR,RB/S,#10,Central City,5.0,88.0,2.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0,0.0
 Dakota Heishman,0.0,JR,WR/DB,#8,BGM,0.0,0.0,0.0
 Owen Garside,4.5,JR,S/QB,#3,Boyer Valley,3.0,15.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
 Kolt Payne,10.7,JR,SL/CB,#24,Sidney,3.0,77.0,0.0
+Evan Alt,6.7,SR,RB/LB,#4,Audubon,4.0,27.0,0.0
 Matt Sauer,18.7,SR,TE/DE,#82,Midland,3.0,37.0,2.0
 Brogan Ewing,5.3,JR,WR/CB,#10,Southeast Warren,2.0,33.0,0.0
 Dominic Coleman,0.0,SR,WR/DE,#23,BGM,0.0,0.0,0.0
@@ -31,6 +32,7 @@ Cal Heydon,0.0,SO,QB/DB,#11,Coon Rapids-Bayard,0.0,0.0,0.0
 Colby Eskildsen,4.7,JR,TE/DL,#12,Northwood-Kensett,3.0,17.0,0.0
 Alex Tiedemann,12.1,SO,QB/DB,#34,Northwood-Kensett,4.0,21.0,1.0
 Devon Ehlers,0.0,SO,TE/LB,#88,Ar-We-Va,0.0,0.0,0.0
+Austin Christensen,7.2,SO,WR/LB,#81,Audubon,4.0,32.0,0.0
 Seth Bixler,10.5,SR,WR/S,#1,Midland,5.0,55.0,0.0
 Cam Buffington,35.0,SR,QB/LB,#33,Winfield-Mt Union,3.0,140.0,3.0
 Mason Maschmann,0.0,SR,RB/LB,#11,BGM,0.0,0.0,0.0
@@ -98,7 +100,7 @@ Harley Molina,0.0,SR,WR/LB,#24,Ar-We-Va,0.0,0.0,0.0
 Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
 Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0,0.0
 Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0,0.0
-Evan Alt,0.0,SR,RB/LB,#4,Audubon,0.0,0.0,0.0
+Edward Miller,4.2,SR,TE/DE,#31,Audubon,2.0,22.0,0.0
 Cade Robinson,0.0,JR,WR/CB,#12,Baxter,0.0,0.0,0.0
 Samuel Dascher,0.0,SO,TE/CB,#31,Calamus-Wheatland,0.0,0.0,0.0
 Christian Reinke,0.0,JR,TE/LB,#25,Rockford,0.0,0.0,0.0
@@ -150,7 +152,7 @@ Dillon Reed,,SO,WR/DB,#11,Woodbine,,,
 Collin Bower,,SO,TE/DB,#25,CAM,,,
 Andrew Beran,0.0,JR,RB,#2,Riceville,0.0,0.0,0.0
 Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0,0.0
-Austin Christensen,0.0,SO,WR/LB,#81,Audubon,0.0,0.0,0.0
+Ezekiel Konkler,0.9,SR,WR/CB,#20,Audubon,1.0,-1.0,0.0
 Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0,0.0
 Chase Klatt,0.0,SO,TE/CB,#4,Calamus-Wheatland,0.0,0.0,0.0
 Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0,0.0
@@ -231,8 +233,6 @@ Grant Galles,0.0,SO,WR/DB,#6,St. Edmond,0.0,0.0,0.0
 Dominic McClain,0.0,JR,WR/DB,#7,St. Edmond,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0,0.0
-Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0,0.0
-Edward Miller,0.0,SR,TE/DE,#31,Audubon,0.0,0.0,0.0
 Stadan Vansice,0.0,SO,WR/LB,#5,Baxter,0.0,0.0,0.0
 Brody Koch,0.0,SO,RB/LB,#5,Calamus-Wheatland,0.0,0.0,0.0
 Drew Eilers,0.0,JR,WR/DL,#2,Gladbrook-Reinbeck,0.0,0.0,0.0
