@@ -45,7 +45,6 @@ function date(current_date = null) {
 
     return weeks[ret_formatted];
 }
-
 function updateTable() {
     document.getElementById("stat").style.visibility = "hidden";
     // Remove existing event listeners from table headers
@@ -175,4 +174,5 @@ window.onload = function() {
     init();
     updateTable();
     document.getElementById('current_week').innerHTML = 'Current Week: ' + date();
+    document.getElementById('weekSelect').value = 'Week' + date();
 }

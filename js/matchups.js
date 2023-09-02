@@ -99,6 +99,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Initial table setup (in case of pre-selected values)
     updateTable();
     document.getElementById('current_week').innerHTML = 'Current Week: ' + date();
+    document.getElementById('weekSelect').value = 'Week' + date();
 });
 
 // Function to handle header click event for sorting
