@@ -50,6 +50,7 @@ Conlin Rouse,0.0,SO,RB/LB,#11,Springville,0.0,0.0
 Wyatt Oswald,0.0,JR,QB/LB,#10,Coon Rapids-Bayard,0.0,0.0
 Rogellio Gonzalez,5.3,SO,FB/DB,#10,West Central,53.0,0.0
 Wyatt Nelson,22.2,JR,RB/DB,#9,West Central,102.0,2.0
+Chase Spieker,13.3,JR,QB/DB,#5,CAM,13.0,2.0
 Jamison Ewing,0.0,SO,WR/CB,#8,Southeast Warren,0.0,0.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison,0.0,0.0
 Burke Busta,0.0,SR,FB,#9,Turkey Valley,0.0,0.0
@@ -83,7 +84,7 @@ Zane Johnson,0.0,JR,RB/LB,#7,Griswold,0.0,0.0
 Parker Hays,0.0,JR,RB/DB,#9,Coon Rapids-Bayard,0.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0
-Chase Spieker,0.0,JR,QB/DB,#5,CAM,0.0,0.0
+Brody Paulsen,11.3,SR,RB/DB,#2,CAM,53.0,1.0
 Perrin Sulzle,0.0,JR,QB/LB,#7,Baxter,0.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0
 Hayden Loftsgard,3.1,JR,WR/CB,#2,Tripoli,31.0,0.0
@@ -137,7 +138,8 @@ Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0
 Aidan Timm,0.0,SO,QB/DB,#9,Belle Plaine,0.0,0.0
 Adyson Stark,0.0,JR,RB/DB,#6,Belle Plaine,0.0,0.0
 Brady Koenck,0.0,JR,RB/LB,#26,Remsen St. Mary's,0.0,0.0
-Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0
+Jack Follmann,0.4,SR,TE/LB,#40,CAM,4.0,0.0
+Makade Paulsen,13.8,JR,QB/DB,#3,CAM,78.0,1.0
 Marco Avila,0.0,JR,FB,#52,Riceville,0.0,0.0
 Kaden Kobliska,0.0,SR,WR,#8,Riceville,0.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0
@@ -155,7 +157,8 @@ Pryce Rochford,0.0,JR,QB,#22,Edgewood-Colesburg,0.0,0.0
 Carter Seitz,0.0,JR,WR/DB,#7,Kee,0.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
 Brodyn Pryor,0.0,SO,QB/DB,#8,Woodbine,0.0,0.0
-Jack Follmann,0.0,SR,TE/LB,#40,CAM,0.0,0.0
+Brayden Chester,,JR,RB/LB,#34,CAM,,
+Kayden Winther,15.2,FR,RB/LB,#13,CAM,32.0,2.0
 Brody Koch,0.0,SO,RB/LB,#5,Calamus-Wheatland,0.0,0.0
 Christian Pierce,0.0,SO,QB/S,#4,Rockford,0.0,0.0
 Jordan Martin-England,0.0,JR,RB/LB,#18,Lenox,0.0,0.0
@@ -213,7 +216,6 @@ Hunter DeGard,0.0,FR,OG/DE,#24,Melcher-Dallas,0.0,0.0
 Evan Lorenzen,0.0,JR,RB/DB,#22,Northwood-Kensett,0.0,0.0
 Brady Babel,0.0,FR,RB/CB,#9,Newell-Fonda,0.0,0.0
 Kenny Ness,0.0,SO,LB/WR,#6,GTRA,0.0,0.0
-Makade Paulsen,0.0,JR,QB/DB,#3,CAM,0.0,0.0
 Drew Urbanek,-0.4,FR,QB/CB,#10,Tripoli,-4.0,0.0
 Braxston Bucknell,,FR,OL/DL,#99,Tripoli,,
 Eli Miller,0.0,SR,RB/LB,#7,Winfield-Mt Union,0.0,0.0
@@ -249,6 +251,7 @@ Ethan Bauer,0.0,SO,RB/DB,#4,Coon Rapids-Bayard,0.0,0.0
 Jacksyn Hogrefe,0.0,SO,RB/DB,#26,Newell-Fonda,0.0,0.0
 Trevor Tauber,0.0,SO,QB/S,#12,Newell-Fonda,0.0,0.0
 Cade Tentinger,0.0,JR,RB/DB,#5,Remsen St. Mary's,0.0,0.0
+Ty Flathers,0.1,SR,RB/DB,#15,CAM,1.0,0.0
 Chance Christensen,0.0,SO,RB,#15,Riceville,0.0,0.0
 Gunnar Smith,0.0,SO,QB,#6,Riceville,0.0,0.0
 Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0
@@ -294,8 +297,6 @@ Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0
 Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0
 Cal Pryor,0.0,FR,QB/DB,#12,Woodbine,0.0,0.0
 Kason Calhoun,0.0,FR,RB/DB,#32,CAM,0.0,0.0
-Ty Flathers,0.0,SR,RB/DB,#15,CAM,0.0,0.0
-Kayden Winther,0.0,FR,RB/LB,#13,CAM,0.0,0.0
 Johnny Adams,0.0,JR,WR,#10,Riceville,0.0,0.0
 Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0
