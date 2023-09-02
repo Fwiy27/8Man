@@ -8,6 +8,7 @@ Mason McIntosh,17.08,SR  QB/LB,#16,West Harrison,277,2,2
 Brodyn Pryor,8.0,SO  QB/DB,#8,Woodbine,125,1,1
 Blayne Smith,0.0,JR  QB/DB,#15,Ar-We-Va,0,0,0
 Grant Whitehead,23.44,JR  QB/DB,#15,Sidney,286,4,4
+Kasey Hough,27.12,JR  QB/S,#11,GTRA,303,5,5
 Dallas Smith,0.0,JR  QB/DB,#2,Twin Cedars,0,0,0
 Anthony Harrington,18.36,SO  QB/LB,#2,Midland,159,4,4
 Zach Thornburg,0.0,SR  QB/CB,#9,East Mills,0,0,0
@@ -15,44 +16,43 @@ Luke Cripps,1.0,SR  QB/S,#1,Boyer Valley,25,0,0
 Perrin Sulzle,0.0,JR  QB/LB,#7,Baxter,0,0,0
 Nolan Grebin,13.68,SR  QB/S,#2,Stanton,192,2,2
 Nolan Kriegel,7.36,FR  QB/DB,#2,Iowa Valley,109,1,1
+Wyatt Oswald,2.64,JR  QB/LB,#10,Coon Rapids-Bayard,66,0,0
 Jake Edwards,20.4,JR  QB/S,#3,Winfield-Mt Union,210,4,4
 Clayton Miller,9.36,JR  QB/CB,#4,WACO,84,2,2
 Aaron Olsen,3.2,JR  QB/S,#3,Audubon,80,0,0
 Dylan Marquart,0.0,JR  QB/DB,#3,Dunkerton,0,0,0
 Dalton Mudderman,20.0,JR  QB/LB,#5,Kee,275,3,3
+Sawyer Forney,4.44,SO  #2 Fremont-Mills,,,36,1,1
 Keagan Lee,0.0,SO  QB/DB,#17,Easton Valley,0,0,0
 Slate Witte,0.0,SR  #7 GMG,,,0,0,0
 Isaac Loan,0.0,SO  QB/DB,#12,Central Elkader,0,0,0
 Cooper Wierson,0.0,SO  QB/LB,#1,Collins-Maxwell,0,0,0
-Sawyer Forney,0.0,SO  #2 Fremont-Mills,,,0,0,0
-Jack Adams,8.96,JR  QB,#7,Riceville,74,2,2
 Jamison Ewing,2.32,SO  WR/CB,#8,Southeast Warren,58,0,0
 Drew Urbanek,1.04,FR  QB/CB,#10,Tripoli,26,0,0
+Jack Adams,8.96,JR  QB,#7,Riceville,74,2,2
 Lucas Ahrenstorff,0.0,SR  QB/S,#1,Harris-Lake Park,0,0,0
 Chase Spieker,6.08,JR  QB/DB,#5,CAM,77,1,1
 Max Henstorf,0.0,SR  QB/LB,#7,HLV,0,0,0
 Judah Bielenberg,0.0,JR  QB/LB,#10,Siouxland Christian,0,0,0
-Seth Hudson,4.6,SR  QB/S,#7,East Union,40,1,1
 Kaiden Knaack,0.0,SR  #10 Don Bosco,,,0,0,0
-Wyatt Oswald,0.0,JR  QB/LB,#10,Coon Rapids-Bayard,0,0,0
-Kasey Hough,0.0,JR  QB/S,#11,GTRA,0,0,0
-Jayden Hanson,9.52,SR  QB/DB,#7,Central City,88,2,2
+Seth Hudson,4.6,SR  QB/S,#7,East Union,40,1,1
 Conner Nally,5.04,SR  QB/LB,#5,Bedford,51,1,1
+Jayden Hanson,9.52,SR  QB/DB,#7,Central City,88,2,2
 Jameson Kilworth,0.0,SR  QB/DB,#8,Exira-EHK,0,0,0
-Gavin Menke-Bailey,0.0,JR  QB/LB,#5,New London,0,0,0
-Landon Montag,1.32,SR  RB/LB,#24,West Bend-Mallard,33,0,0
 Wyatt Silk,0.0,SO  WR/CB,#15,Griswold,0,0,0
 Landon Waldschmitt,0.0,JR  QB/DB,#7,Remsen St. Mary's,0,0,0
-JT Laufersweiler,0.0,SR  QB/DB,#11,St. Edmond,0,0,0
+Gavin Menke-Bailey,0.0,JR  QB/LB,#5,New London,0,0,0
+Landon Montag,1.32,SR  RB/LB,#24,West Bend-Mallard,33,0,0
 Isaac Clark,0.0,SR  QB/LB,#12,Gladbrook-Reinbeck,0,0,0
 McKoy Nuss,0.24,SO  QB/LB,#13,Tripoli,6,0,0
+JT Laufersweiler,0.0,SR  QB/DB,#11,St. Edmond,0,0,0
 Degin Dixson,0.0,SR  QB/CB,#3,Mormon Trail,0,0,0
 Luke Brennan,0.0,SO  QB/DB,#6,Montezuma,0,0,0
 Logan Busta,0.0,SO  QB/DB,#1,Turkey Valley,0,0,0
 Ty Alcott,0.0,JR  RB/DB,#24,Belle Plaine,0,0,0
 Myles Grove,0.0,SR  QB/LB,#10,English Valleys,0,0,0
-Max Carlson,0.0,JR  QB/LB,#10,Newell-Fonda,0,0,0
 Brayden Svejda,0.0,JR  QB/CB,#1,Calamus-Wheatland,0,0,0
+Max Carlson,0.0,JR  QB/LB,#10,Newell-Fonda,0,0,0
 Gabe Funk,0.0,JR  QB/DB,#17,Lenox,0,0,0
 Ethan Bockelman,0.0,SR  QB/DB,#22,Lone Tree,0,0,0
 Jack Angell,0.0,SO  QB/DB,#18,Colo-Nesco,0,0,0
@@ -65,8 +65,8 @@ Eli Schmidt,0.0,SR  RB/S,#3,Clarksville,0,0,0
 Mason Hoy,0.0,SO  RB/CB,#9,Springville,0,0,0
 MaKade Bloker,0.0,SR  RB/LB,#11,Clarksville,0,0,0
 Pryce Rochford,0.0,JR  QB,#22,Edgewood-Colesburg,0,0,0
-Aidan Timm,0.0,SO  QB/DB,#9,Belle Plaine,0,0,0
 Reece Chiabotta,0.0,SO  QB/DB,#34,Melcher-Dallas,0,0,0
+Aidan Timm,0.0,SO  QB/DB,#9,Belle Plaine,0,0,0
 Brock Binkley,0.0,FR  QB/DB,#8,Lamoni,0,0,0
 Carson Wessel,0.0,SO  QB/LB,#9,Audubon,0,0,0
 Nolan Birdsall,0.0,JR  RB/LB,#2,West Harrison,0,0,0
@@ -76,9 +76,9 @@ Brody Koski,0.0,FR  QB/LB,#7,Boyer Valley,0,0,0
 Bryer Jack,0.0,FR  QB/DB,#14,HLV,0,0,0
 Carson Ingles,0.0,SO  RB,#1,Edgewood-Colesburg,0,0,0
 Brenden Connett,0.0,SR  RB/LB,#20,Twin Cedars,0,0,0
-Jed Bielenberg,0.0,SR  DE/WR,#15,Siouxland Christian,0,0,0
 Carter Anderson,0.0,JR  QB/DB,#15,Northwood-Kensett,0,0,0
+Jed Bielenberg,0.0,SR  DE/WR,#15,Siouxland Christian,0,0,0
 Gunnar Smith,0.0,SO  QB,#6,Riceville,0,0,0
-Ambrose Savage,0.0,JR  QB/LB,#12,Lamoni,0,0,0
 Dane Appleby,0.0,JR  QB/LB,#4,Janesville,0,0,0
 Ethan Bridgewater,0.0,SO  RB/LB,#35,BGM,0,0,0
+Ambrose Savage,0.0,JR  QB/LB,#12,Lamoni,0,0,0
