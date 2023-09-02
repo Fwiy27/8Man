@@ -1,5 +1,6 @@
 Name,Points,YP,Number,School,YDS,TDS,INT
 Brady Boulton,37.52,SO  QB/DB,#1,Montezuma,338,8,8
+Caden Page,8.88,JR  QB/LB,#8,Murray,147,1,1
 Shane Helmick,17.0,SR  QB/DE,#12,Moravia,125,4,4
 Kooper Julseth,6.12,JR  WR/LB,#1,Northwood-Kensett,78,1,1
 Beau Burns,0.0,SO  QB/DB,#2,BGM,0,0,0
@@ -7,7 +8,6 @@ Mason McIntosh,17.08,SR  QB/LB,#16,West Harrison,277,2,2
 Brodyn Pryor,8.0,SO  QB/DB,#8,Woodbine,125,1,1
 Blayne Smith,0.0,JR  QB/DB,#15,Ar-We-Va,0,0,0
 Grant Whitehead,23.44,JR  QB/DB,#15,Sidney,286,4,4
-Caden Page,0.0,JR  QB/LB,#8,Murray,0,0,0
 Dallas Smith,0.0,JR  QB/DB,#2,Twin Cedars,0,0,0
 Anthony Harrington,18.36,SO  QB/LB,#2,Midland,159,4,4
 Zach Thornburg,0.0,SR  QB/CB,#9,East Mills,0,0,0
@@ -16,6 +16,7 @@ Perrin Sulzle,0.0,JR  QB/LB,#7,Baxter,0,0,0
 Nolan Grebin,13.68,SR  QB/S,#2,Stanton,192,2,2
 Nolan Kriegel,7.36,FR  QB/DB,#2,Iowa Valley,109,1,1
 Jake Edwards,20.4,JR  QB/S,#3,Winfield-Mt Union,210,4,4
+Clayton Miller,9.36,JR  QB/CB,#4,WACO,84,2,2
 Aaron Olsen,3.2,JR  QB/S,#3,Audubon,80,0,0
 Dylan Marquart,0.0,JR  QB/DB,#3,Dunkerton,0,0,0
 Dalton Mudderman,20.0,JR  QB/LB,#5,Kee,275,3,3
@@ -24,7 +25,6 @@ Slate Witte,0.0,SR  #7 GMG,,,0,0,0
 Isaac Loan,0.0,SO  QB/DB,#12,Central Elkader,0,0,0
 Cooper Wierson,0.0,SO  QB/LB,#1,Collins-Maxwell,0,0,0
 Sawyer Forney,0.0,SO  #2 Fremont-Mills,,,0,0,0
-Clayton Miller,0.0,JR  QB/CB,#4,WACO,0,0,0
 Jamison Ewing,2.32,SO  WR/CB,#8,Southeast Warren,58,0,0
 Drew Urbanek,1.04,FR  QB/CB,#10,Tripoli,26,0,0
 Lucas Ahrenstorff,0.0,SR  QB/S,#1,Harris-Lake Park,0,0,0
@@ -39,6 +39,7 @@ Jayden Hanson,9.52,SR  QB/DB,#7,Central City,88,2,2
 Conner Nally,5.04,SR  QB/LB,#5,Bedford,51,1,1
 Jameson Kilworth,0.0,SR  QB/DB,#8,Exira-EHK,0,0,0
 Gavin Menke-Bailey,0.0,JR  QB/LB,#5,New London,0,0,0
+Landon Montag,1.32,SR  RB/LB,#24,West Bend-Mallard,33,0,0
 Wyatt Silk,0.0,SO  WR/CB,#15,Griswold,0,0,0
 Landon Waldschmitt,0.0,JR  QB/DB,#7,Remsen St. Mary's,0,0,0
 JT Laufersweiler,0.0,SR  QB/DB,#11,St. Edmond,0,0,0
@@ -54,7 +55,6 @@ Brayden Svejda,0.0,JR  QB/CB,#1,Calamus-Wheatland,0,0,0
 Gabe Funk,0.0,JR  QB/DB,#17,Lenox,0,0,0
 Ethan Bockelman,0.0,SR  QB/DB,#22,Lone Tree,0,0,0
 Jack Angell,0.0,SO  QB/DB,#18,Colo-Nesco,0,0,0
-Landon Montag,0.0,SR  RB/LB,#24,West Bend-Mallard,0,0,0
 Colby Wallace,0.0,JR  QB/S,#11,Glidden-Ralston,0,0,0
 Braden Jordan,0.0,SO  QB/LB,#10,Springville,0,0,0
 Jed Tyler,1.16,SR  QB/DB,#7,West Central,29,0,0
