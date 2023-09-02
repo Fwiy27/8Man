@@ -199,6 +199,14 @@ table {
   font-size: 14px;
 }
 
+.schedule-table {
+font-size: 13px;
+}
+
+.stats-table {
+font-size: 13px;
+}
+
 table, th, td {
   border: 1px solid #0094ff;
   padding: 10px;
