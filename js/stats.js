@@ -174,6 +174,6 @@ window.onload = function() {
     init();
     document.getElementById('current_week').innerHTML = 'Current Week: ' + date();
     document.getElementById('weekSelect').value = 'Week' + date();
-    document.getElementById('skillSelect').value = 'points';
+    document.getElementById('skillSelect').value = 'points-ps';
     updateTable();
 }
