@@ -172,7 +172,8 @@ function searchTable() {
 
 window.onload = function() {
     init();
-    updateTable();
     document.getElementById('current_week').innerHTML = 'Current Week: ' + date();
     document.getElementById('weekSelect').value = 'Week' + date();
+    document.getElementById('skillSelect').value = 'points';
+    updateTable();
 }
