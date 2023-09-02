@@ -26,10 +26,12 @@ Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
 Aiden Klostermann,28.1,SR,RB/S,#10,Central City,161.0,2.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0
 Jackson McDanel,12.6,SR,RB/LB,#30,Moravia,126.0,0.0
+Dalton Mudderman,32.5,JR,QB/LB,#5,Kee,85.0,4.0
 Colby Wallace,0.0,JR,QB/S,#11,Glidden-Ralston,0.0,0.0
 Cole Fehr,0.0,JR,RB/LB,#33,West Bend-Mallard,0.0,0.0
 Edde Gonzalez,36.4,SR,RB/LB,#1,West Central,124.0,4.0
 Trey Fisher,30.4,JR,RB/LB,#89,Southeast Warren,124.0,3.0
+Jackson Schulte,26.7,SR,RB/LB,#21,Kee,147.0,2.0
 Anthony Harrington,29.4,SO,QB/LB,#2,Midland,114.0,3.0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
 Jamison Ewing,37.2,SO,WR/CB,#8,Southeast Warren,132.0,4.0
@@ -85,7 +87,6 @@ Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0
 Cooper Wierson,0.0,SO,QB/LB,#1,Collins-Maxwell,0.0,0.0
 Christopher Greif,9.4,SR,LB/FB,#44,Central City,34.0,1.0
 Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0
-Dalton Mudderman,0.0,JR,QB/LB,#5,Kee,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0
 JT Laufersweiler,0.0,SR,QB/DB,#11,St. Edmond,0.0,0.0
 Jake Edwards,1.7,JR,QB/S,#3,Winfield-Mt Union,17.0,0.0
@@ -119,7 +120,7 @@ Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0
 Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0
 Logan Busta,0.0,SO,QB/DB,#1,Turkey Valley,0.0,0.0
 Logan Grimm,0.0,SR,RB/LB,#34,West Bend-Mallard,0.0,0.0
-Jackson Schulte,0.0,SR,RB/LB,#21,Kee,0.0,0.0
+Carter Seitz,0.6,JR,WR/DB,#7,Kee,6.0,0.0
 Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
 Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
@@ -167,7 +168,6 @@ Karter Thiessen,0.0,SR,RB/DB,#9,Iowa Valley,0.0,0.0
 Luke Lansing,0.0,SO,RB/LB,#44,Springville,0.0,0.0
 Carter Oberbroeckling,0.0,SR,RB,#34,Edgewood-Colesburg,0.0,0.0
 Pryce Rochford,0.0,JR,QB,#22,Edgewood-Colesburg,0.0,0.0
-Carter Seitz,0.0,JR,WR/DB,#7,Kee,0.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
 Brayden Chester,,JR,RB/LB,#34,CAM,,
 Kayden Winther,15.2,FR,RB/LB,#13,CAM,32.0,2.0
@@ -179,6 +179,7 @@ Seth Bell,0.0,FR,QB/DB,#26,Collins-Maxwell,0.0,0.0
 Cruz DeJong,0.0,SR,TE/LB,#40,Montezuma,0.0,0.0
 Brett Plants,0.0,JR,RB/LB,#22,Montezuma,0.0,0.0
 John Deemer,9.2,FR,RB/LB,#28,Bedford,32.0,1.0
+Andrew Kolsrud,1.0,SR,WR/CB,#16,Kee,10.0,0.0
 Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0
 Colin Hartl,0.0,JR,RB/LB,#38,Audubon,0.0,0.0
 Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
@@ -257,7 +258,6 @@ Brody King,,JR,TE/LB,#2,Bedford,,
 Isaac Hill,0.0,SO,OL/DL,#60,Springville,0.0,0.0
 Landon Campbell,0.0,SO,RB,#12,Edgewood-Colesburg,0.0,0.0
 Sam DeMeulenaere,0.0,JR,E/LB,#12,Belle Plaine,0.0,0.0
-Andrew Kolsrud,0.0,SR,WR/CB,#16,Kee,0.0,0.0
 Tanner Troendle,0.0,FR,RB/DB,#23,Kee,0.0,0.0
 Corey Breese,0.0,SR,TE/LB,#70,English Valleys,0.0,0.0
 Gavin Clark,0.0,SO,RB/LB,#25,Twin Cedars,0.0,0.0
