@@ -3,6 +3,7 @@ Oliver Schmitt,58.4,SR,FB,#22,Turkey Valley,284.0,5.0
 Nolan Kriegel,2.2,FR,QB/DB,#2,Iowa Valley,22.0,0.0
 Ty Alcott,12.7,JR,RB/DB,#24,Belle Plaine,67.0,1.0
 Shane Helmick,29.9,SR,QB/DE,#12,Moravia,119.0,3.0
+Jameson Kilworth,22.2,SR,QB/DB,#8,Exira-EHK,102.0,2.0
 MaKade Bloker,34.9,SR,RB/LB,#11,Clarksville,169.0,3.0
 Aaron Olsen,38.7,JR,QB/S,#3,Audubon,207.0,3.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
@@ -16,7 +17,6 @@ Dane Appleby,47.5,JR,QB/LB,#4,Janesville,235.0,4.0
 Luke Cripps,1.4,SR,QB/S,#1,Boyer Valley,14.0,0.0
 Brady Boulton,8.8,SO,QB/DB,#1,Montezuma,88.0,0.0
 Fischer Buffington,8.2,JR,RB/DE,#12,East Union,82.0,0.0
-Jameson Kilworth,0.0,SR,QB/DB,#8,Exira-EHK,0.0,0.0
 Wyatt Oswald,15.5,JR,QB/LB,#10,Coon Rapids-Bayard,95.0,1.0
 Breckin Clatt,0.0,JR,RB/DB,#14,Colo-Nesco,0.0,0.0
 Jack Adams,12.5,JR,QB,#7,Riceville,65.0,1.0
@@ -114,6 +114,7 @@ Lucas Ahrenstorff,18.3,SR,QB/S,#1,Harris-Lake Park,63.0,2.0
 Jayden Hanson,11.6,SR,QB/DB,#7,Central City,56.0,1.0
 Matthew Klostermann,0.0,JR,RB/LB,#22,Central City,0.0,0.0
 Jeremy Reineke,0.3,SR,OL/LB,#45,Belle Plaine,3.0,0.0
+Alex Hansen,21.8,JR,RB/LB,#22,Exira-EHK,98.0,2.0
 Cade Robinson,1.2,JR,WR/CB,#12,Baxter,12.0,0.0
 Kinnick Henning,3.0,SO,RB/LB,#22,St. Edmond,30.0,0.0
 Aidan Timm,7.4,SO,QB/DB,#9,Belle Plaine,14.0,1.0
@@ -174,6 +175,7 @@ Makade Paulsen,13.8,JR,QB/DB,#3,CAM,78.0,1.0
 Kaden Kobliska,0.0,SR,WR,#8,Riceville,0.0,0.0
 Luke Lansing,0.3,SO,RB/LB,#44,Springville,3.0,0.0
 Jamison Martin,0.2,JR,RB/DB,#11,West Harrison,2.0,0.0
+Cannon Hansen,,JR,TE/DL,#33,Exira-EHK,,
 Brody Koch,0.0,SO,RB/LB,#5,Calamus-Wheatland,0.0,0.0
 Drew Stanek,,JR,RB/LB,#16,Gladbrook-Reinbeck,,
 Tristen Burkhart,0.0,FR,RB/LB,#24,Boyer Valley,0.0,0.0
@@ -223,7 +225,6 @@ Austin Williams,0.0,SR,RB/LB,#20,CAM,0.0,0.0
 Keagan Lee,0.0,SO,QB/DB,#17,Easton Valley,0.0,0.0
 Braedon Godfread,,JR,TE/S,#10,Sidney,,
 Sam DeMeulenaere,8.5,JR,E/LB,#12,Belle Plaine,25.0,1.0
-Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0
 Keaton Brammer,-0.1,FR,WR/CB,#14,Murray,-1.0,0.0
 Keegan Chew,0.1,FR,QB/S,#7,Murray,1.0,0.0
 Wyatt Leonard,0.0,SO,RB/LB,#21,Lenox,0.0,0.0
