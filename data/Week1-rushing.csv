@@ -1,4 +1,5 @@
 Name,Points,Year,Position,Number,School,YDS,TDS
+Oliver Schmitt,58.4,SR,FB,#22,Turkey Valley,284.0,5.0
 Nolan Kriegel,2.2,FR,QB/DB,#2,Iowa Valley,22.0,0.0
 Shane Helmick,29.9,SR,QB/DE,#12,Moravia,119.0,3.0
 MaKade Bloker,34.9,SR,RB/LB,#11,Clarksville,169.0,3.0
@@ -31,7 +32,6 @@ Kooper Julseth,7.0,JR,WR/LB,#1,Northwood-Kensett,70.0,0.0
 Isaac Murphy,14.7,SR,RB/S,#1,GTRA,27.0,2.0
 Adam Scott,2.5,SR,RB/LB,#26,West Central,25.0,0.0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
-Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0
 Clayton Miller,24.5,JR,QB/CB,#4,WACO,125.0,2.0
 Owen Backer,24.1,SO,RB/S,#22,Clarksville,121.0,2.0
 Landon Lindgren,3.6,SO,RB/DB,#11,Lamoni,36.0,0.0
@@ -52,6 +52,7 @@ Klay Baker,13.4,JR,RB/LB,#17,St. Edmond,74.0,1.0
 Anthony Harrington,29.4,SO,QB/LB,#2,Midland,114.0,3.0
 Jackson Schulte,26.7,SR,RB/LB,#21,Kee,147.0,2.0
 Kendrick Mastin,0.3,SR,RB/LB,#9,Murray,3.0,0.0
+Burke Busta,3.8,SR,FB,#9,Turkey Valley,38.0,0.0
 Mason Hoy,9.0,SO,RB/CB,#9,Springville,30.0,1.0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
 Jamison Ewing,37.2,SO,WR/CB,#8,Southeast Warren,132.0,4.0
@@ -90,7 +91,7 @@ Chase Spieker,13.3,JR,QB/DB,#5,CAM,13.0,2.0
 Caleb Hemphill,27.4,SR,RB/LB,#3,Harris-Lake Park,94.0,3.0
 Evan Alt,0.9,SR,RB/LB,#4,Audubon,9.0,0.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0
-Burke Busta,0.0,SR,FB,#9,Turkey Valley,0.0,0.0
+Logan Busta,3.5,SO,QB/DB,#1,Turkey Valley,35.0,0.0
 Jed Tyler,1.4,SR,QB/DB,#7,West Central,14.0,0.0
 Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0
 Conner Nally,34.1,SR,QB/LB,#5,Bedford,161.0,3.0
@@ -139,7 +140,6 @@ Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
 Caden Oswald,6.9,FR,RB/DB,#6,Coon Rapids-Bayard,9.0,1.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Owen Garside,9.8,JR,S/QB,#3,Boyer Valley,38.0,1.0
-Logan Busta,0.0,SO,QB/DB,#1,Turkey Valley,0.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0
 Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0
 Evan Lorenzen,-0.2,JR,RB/DB,#22,Northwood-Kensett,-2.0,0.0
@@ -208,6 +208,7 @@ Logan French,0.8,SR,WR/DB,#1,Stanton,8.0,0.0
 Josef Dvorak,0.0,JR,RB/DB,#25,Collins-Maxwell,0.0,0.0
 Caleb Coffelt,0.0,FR,WR/DB,#3,Collins-Maxwell,0.0,0.0
 Jackson Embree,0.7,JR,SL/LB,#33,East Mills,7.0,0.0
+Cale Langreck,,FR,QB/LB,#10,Turkey Valley,,
 Isaac Loan,0.0,SO,QB/DB,#12,Central Elkader,0.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0
 Reece Chiabotta,0.0,SO,QB/DB,#34,Melcher-Dallas,0.0,0.0
