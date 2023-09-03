@@ -44,7 +44,7 @@ Blake Ewing,0.0,FB/LB,Moravia
 Blake Helmick,7.6,OG/DE,Moravia
 Blake Micetich,0.0,RB/DB,Twin Cedars
 Blayne Smith,25.04,QB/DB,Ar-We-Va
-Bode Wyman,0.0,QB/CB,Griswold
+Bode Wyman,-0.6,QB/CB,Griswold
 Braden Jordan,12.22,QB/LB,Springville
 Braden Simington,0.0,S/WR,GTRA
 Brady Babel,0.0,RB/CB,Newell-Fonda
@@ -126,7 +126,7 @@ Christian Reinke,2.1,TE/LB,Rockford
 Christopher Greif,9.4,LB/FB,Central City
 Christopher Lange,0.0,WR,Edgewood-Colesburg
 Clayton Miller,33.86,QB/CB,WACO
-Cody Dorscher,0.0,WR/CB,Griswold
+Cody Dorscher,7.5,WR/CB,Griswold
 Cody Milks,0.0,QB/LB,Winfield-Mt Union
 Cody Samson,0.0,TE/LB,Baxter
 Colby Eskildsen,4.7,TE/DL,Northwood-Kensett
@@ -142,7 +142,7 @@ Collin Homan,0.0,OL/DL,Remsen St. Mary's
 Colton Cox,0.0,RB/DB,Melcher-Dallas
 Colton Leichty,2.0,TE/LB,WACO
 Conlin Rouse,5.0,RB/LB,Springville
-Conner Bowers,0.0,TE/CB,Griswold
+Conner Bowers,2.5,TE/CB,Griswold
 Conner Nally,39.14,QB/LB,Bedford
 Cooper Wierson,17.56,QB/LB,Collins-Maxwell
 Corbin Jacobs-Jewell,0.0,TE/DE,New London
@@ -192,6 +192,7 @@ Emmett Burke,0.0,WR/DB,Lone Tree
 Emmett Snyder,0.9,RB/S,Glidden-Ralston
 Eric Wilson,2.6,WR/DB,Exira-EHK
 Ethan Bauer,0.0,RB/DB,Coon Rapids-Bayard
+Ethan Baxter,0.0,RB/LB,Griswold
 Ethan Bockelman,0.0,QB/DB,Lone Tree
 Ethan Bridgewater,0.0,RB/LB,BGM
 Ethan Schaufenbuel,1.1,WR/CB,Tripoli
@@ -220,7 +221,9 @@ Gunnar Smith,0.0,QB,Riceville
 Guyson Lyman,0.0,TE/DE,Newell-Fonda
 Harley Molina,6.9,WR/LB,Ar-We-Va
 Hayden Hicks,0.0,TE/LB,Boyer Valley
+Hayden Jones,0.0,TE/LB,Griswold
 Hayden Loftsgard,7.9,WR/CB,Tripoli
+Holden Jensen,0.0,WR/CB,Griswold
 Holden Roberts,0.0,TE/DE,Twin Cedars
 Hudson Clark,1.7,WR/DB,Gladbrook-Reinbeck
 Hunter DeGard,0.0,OG/DE,Melcher-Dallas
@@ -369,7 +372,7 @@ Mason Ahrenstorff,0.0,WR/S,Harris-Lake Park
 Mason Hoy,14.56,RB/CB,Springville
 Mason Maschmann,0.0,RB/LB,BGM
 Mason McIntosh,26.08,QB/LB,West Harrison
-Mason Steinhoff,0.0,RB/LB,Griswold
+Mason Steinhoff,10.2,RB/LB,Griswold
 Matt Sauer,18.7,TE/DE,Midland
 Matthew Klostermann,0.0,RB/LB,Central City
 Max Carlson,0.0,QB/LB,Newell-Fonda
@@ -397,7 +400,7 @@ Owen Backer,24.1,RB/S,Clarksville
 Owen Bral,9.3,QB/LB,Iowa Valley
 Owen Garside,14.3,S/QB,Boyer Valley
 Owen Hammersland,0.0,RB/LB,Central Elkader
-Owen Johnson,0.0,RB/DE,Griswold
+Owen Johnson,1.8,RB/DE,Griswold
 Parker Hays,1.4,RB/DB,Coon Rapids-Bayard
 Perrin Sulzle,33.64,QB/LB,Baxter
 Peter Kielman,0.0,TE/LB,Clarksville
@@ -470,6 +473,7 @@ Wyatt Leonard,0.0,RB/LB,Lenox
 Wyatt Nelson,22.2,RB/DB,West Central
 Wyatt Oswald,18.14,QB/LB,Coon Rapids-Bayard
 Wyatt Ragaller,39.1,RB/DB,Ar-We-Va
+Wyatt Silk,0.0,WR/CB,Griswold
 Wyatt Throckmorton,17.6,WR/LB,Moravia
 Zach Goetzinger,0.0,RB/DB,Kee
 Zach Thornburg,10.7,QB/CB,East Mills
