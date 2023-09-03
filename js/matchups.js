@@ -96,9 +96,26 @@ document.addEventListener('DOMContentLoaded', function () {
         return weeks[ret_formatted];
     }
 
+    function updated() {
+        fetch('../data/last_updated.txt')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.text();
+            })
+            .then(data => {
+                document.getElementById('last_updated').textContent = 'Updated: ' + data;
+            })
+            .catch(error => {
+                console.error('There was a problem with the fetch operation:', error);
+            });
+    }
+
     // Initial table setup (in case of pre-selected values)
     document.getElementById('current_week').innerHTML = 'Current Week: ' + date();
     document.getElementById('weekSelect').value = 'Week' + date();
+    updated()
     document.getElementById('skillSelect').value = 'Users_Points';
     updateTable();
 });

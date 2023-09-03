@@ -170,9 +170,27 @@ function searchTable() {
     }
 }
 
+function updated() {
+    fetch('../data/last_updated.txt')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.text();
+        })
+        .then(data => {
+            document.getElementById('last_updated').textContent = 'Updated: ' + data;
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+        });
+}
+
+
 window.onload = function() {
     init();
     document.getElementById('current_week').innerHTML = 'Current Week: ' + date();
+    updated()
     document.getElementById('weekSelect').value = 'Week' + date();
     document.getElementById('skillSelect').value = 'points-ps';
     updateTable();
