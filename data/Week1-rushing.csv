@@ -5,6 +5,7 @@ MaKade Bloker,34.9,SR,RB/LB,#11,Clarksville,169.0,3.0
 Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0
 Aaron Olsen,38.7,JR,QB/S,#3,Audubon,207.0,3.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
+Ambrose Savage,7.4,JR,QB/LB,#12,Lamoni,74.0,0.0
 Ethan Bockelman,0.0,SR,QB/DB,#22,Lone Tree,0.0,0.0
 Landon Montag,29.0,SR,RB/LB,#24,West Bend-Mallard,170.0,2.0
 Cole Fehr,13.8,JR,RB/LB,#33,West Bend-Mallard,78.0,1.0
@@ -33,6 +34,7 @@ Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
 Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0
 Clayton Miller,24.5,JR,QB/CB,#4,WACO,125.0,2.0
 Owen Backer,24.1,SO,RB/S,#22,Clarksville,121.0,2.0
+Landon Lindgren,3.6,SO,RB/DB,#11,Lamoni,36.0,0.0
 Gavin Menke-Bailey,1.1,JR,QB/LB,#5,New London,11.0,0.0
 Aiden Klostermann,28.1,SR,RB/S,#10,Central City,161.0,2.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
@@ -69,7 +71,6 @@ Cam Buffington,2.7,SR,QB/LB,#33,Winfield-Mt Union,27.0,0.0
 Seth Bixler,9.5,SR,WR/S,#1,Midland,35.0,1.0
 Brayden Svejda,0.0,JR,QB/CB,#1,Calamus-Wheatland,0.0,0.0
 Levi Reineke,2.2,SO,LB/RB,#29,Boyer Valley,22.0,0.0
-Ambrose Savage,0.0,JR,QB/LB,#12,Lamoni,0.0,0.0
 Seth Hudson,6.4,SR,QB/S,#7,East Union,4.0,1.0
 Nolan Gannon,7.0,FR,RB/LB,#34,Murray,10.0,1.0
 Jacob Martin,2.6,JR,RB/LB,#3,Stanton,26.0,0.0
@@ -95,7 +96,6 @@ Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0
 Conner Nally,34.1,SR,QB/LB,#5,Bedford,161.0,3.0
 Brodyn Pryor,4.1,SO,QB/DB,#8,Woodbine,41.0,0.0
 Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0
-Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0
 Carson Wessel,-0.3,SO,QB/LB,#9,Audubon,-3.0,0.0
 Christopher Greif,9.4,SR,LB/FB,#44,Central City,34.0,1.0
 Logan Grimm,9.8,SR,RB/LB,#34,West Bend-Mallard,38.0,1.0
@@ -339,6 +339,7 @@ Cal Pryor,0.0,FR,QB/DB,#12,Woodbine,0.0,0.0
 Kason Calhoun,0.0,FR,RB/DB,#32,CAM,0.0,0.0
 Johnny Adams,0.0,JR,WR,#10,Riceville,0.0,0.0
 Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0
+Brock Binkley,,FR,QB/DB,#8,Lamoni,,
 Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0
 Travis Luitjens,,SR,OG/DT,#34,Harris-Lake Park,,
 Tate Mount,,SO,QB/DB,#2,Sidney,,
