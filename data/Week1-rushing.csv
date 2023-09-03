@@ -47,6 +47,7 @@ Jackson McDanel,12.6,SR,RB/LB,#30,Moravia,126.0,0.0
 Landon Waldschmitt,40.9,JR,QB/DB,#7,Remsen St. Mary's,169.0,4.0
 Jordan Goad,2.7,JR,QB/CB,#1,Springville,27.0,0.0
 Dalton Mudderman,32.5,JR,QB/LB,#5,Kee,85.0,4.0
+Luke Rohling,12.8,SR,FB/LB,#16,Calamus-Wheatland,68.0,1.0
 Talan Pletz,5.2,SO,RB/LB,#5,Janesville,52.0,0.0
 Edde Gonzalez,36.4,SR,RB/LB,#1,West Central,124.0,4.0
 Marshawn Taylor,7.2,SR,RB/CB,#12,Rockford,72.0,0.0
@@ -60,6 +61,8 @@ Mason Hoy,9.0,SO,RB/CB,#9,Springville,30.0,1.0
 Jamison Ewing,37.2,SO,WR/CB,#8,Southeast Warren,132.0,4.0
 McKoy Nuss,-0.5,SO,QB/LB,#13,Tripoli,-5.0,0.0
 Nolan Birdsall,8.6,JR,RB/LB,#2,West Harrison,26.0,1.0
+Brody Koch,12.2,SO,RB/LB,#5,Calamus-Wheatland,62.0,1.0
+Brayden Svejda,-0.2,JR,QB/CB,#1,Calamus-Wheatland,-2.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0
 Nolan Grebin,1.6,SR,QB/S,#2,Stanton,16.0,0.0
 Isaac Clark,16.6,SR,QB/LB,#12,Gladbrook-Reinbeck,46.0,2.0
@@ -74,7 +77,6 @@ JT Laufersweiler,13.7,SR,QB/DB,#11,St. Edmond,77.0,1.0
 Emmett Snyder,0.9,SR,RB/S,#29,Glidden-Ralston,9.0,0.0
 Cam Buffington,2.7,SR,QB/LB,#33,Winfield-Mt Union,27.0,0.0
 Seth Bixler,9.5,SR,WR/S,#1,Midland,35.0,1.0
-Brayden Svejda,0.0,JR,QB/CB,#1,Calamus-Wheatland,0.0,0.0
 Levi Reineke,2.2,SO,LB/RB,#29,Boyer Valley,22.0,0.0
 Blayne Smith,12.4,JR,QB/DB,#15,Ar-We-Va,4.0,2.0
 Seth Hudson,6.4,SR,QB/S,#7,East Union,4.0,1.0
@@ -134,7 +136,6 @@ Brigham Porter,0.7,SO,SL/DB,#23,New London,7.0,0.0
 Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0
 Aldo Esteban-Cabrera,0.5,JR,RB/LB,#22,Murray,5.0,0.0
 Cainan Travis,2.4,JR,WR/LB,#20,Baxter,24.0,0.0
-Luke Rohling,0.0,SR,FB/LB,#16,Calamus-Wheatland,0.0,0.0
 Zach Thornburg,10.7,SR,QB/CB,#9,East Mills,47.0,1.0
 Jacob Berens,0.3,SR,RB/LB,#34,Boyer Valley,3.0,0.0
 Sam Fettkether,-1.1,SR,OL/LB,#47,Central Elkader,-11.0,0.0
@@ -181,7 +182,6 @@ Kaden Kobliska,0.0,SR,WR,#8,Riceville,0.0,0.0
 Luke Lansing,0.3,SO,RB/LB,#44,Springville,3.0,0.0
 Jamison Martin,0.2,JR,RB/DB,#11,West Harrison,2.0,0.0
 Cannon Hansen,,JR,TE/DL,#33,Exira-EHK,,
-Brody Koch,0.0,SO,RB/LB,#5,Calamus-Wheatland,0.0,0.0
 Drew Stanek,,JR,RB/LB,#16,Gladbrook-Reinbeck,,
 Tristen Burkhart,0.0,FR,RB/LB,#24,Boyer Valley,0.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
@@ -274,6 +274,7 @@ Holden Roberts,0.0,SO,TE/DE,#13,Twin Cedars,0.0,0.0
 Cody Dorscher,,JR,WR/CB,#24,Griswold,,
 Hayden Jones,,FR,TE/LB,#42,Griswold,,
 Derek Bartlett,,SR,LB/RB,#4,Stanton,,
+Eli Riedesel,,SR,OG/DE,#57,Calamus-Wheatland,,
 Dalton Martin,0.0,SO,OL/DL,#40,Collins-Maxwell,0.0,0.0
 Reed Oswalt,0.0,SO,WR/DB,#24,Collins-Maxwell,0.0,0.0
 Ethan Bauer,0.0,SO,RB/DB,#4,Coon Rapids-Bayard,0.0,0.0
