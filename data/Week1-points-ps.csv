@@ -64,7 +64,7 @@ Brenden Wagner,0.0,TE/LB,Woodbine
 Brenden Wheeler,0.0,RB/LB,Southeast Warren
 Brenner Sullivan,0.0,RB/LB,Woodbine
 Brett Plants,0.0,RB/LB,Montezuma
-Brigham Porter,0.0,SL/DB,New London
+Brigham Porter,12.7,SL/DB,New London
 Brock Micetich,0.0,RB/LB,Twin Cedars
 Brodie Ludwig,8.4,RB/LB,Woodbine
 Brody King,0.0,TE/LB,Bedford
@@ -88,7 +88,7 @@ Cainan Travis,20.2,WR/LB,Baxter
 Cal Heydon,10.3,QB/DB,Coon Rapids-Bayard
 Cal Peterman,13.1,WR/LB,Bedford
 Cal Pryor,1.5,QB/DB,Woodbine
-Cale Westerbeck,0.0,WR/DB,New London
+Cale Westerbeck,7.1,WR/DB,New London
 Caleb Coffelt,0.0,WR/DB,Collins-Maxwell
 Caleb Haack,18.8,WR/DB,Iowa Valley
 Caleb Hemphill,27.4,RB/LB,Harris-Lake Park
@@ -144,6 +144,7 @@ Corey Breese,0.0,TE/LB,English Valleys
 Cristian Brown,0.0,WR/DB,Dunkerton
 Cruz DeJong,13.7,TE/LB,Montezuma
 Dakota Heishman,0.0,WR/DB,BGM
+Dallas Grove,0.0,RB/DE,St. Edmond
 Dallas Smith,0.0,QB/DB,Twin Cedars
 Dalton Kitzman,0.0,RB/LB,Lenox
 Dalton Martin,0.0,OL/DL,Collins-Maxwell
@@ -184,6 +185,7 @@ Ethan Bauer,0.0,RB/DB,Coon Rapids-Bayard
 Ethan Bockelman,0.0,QB/DB,Lone Tree
 Ethan Bridgewater,0.0,RB/LB,BGM
 Ethan Schaufenbuel,1.1,WR/CB,Tripoli
+Ethan Swisher,0.0,QB/DB,St. Edmond
 Evan Alt,7.6,RB/LB,Audubon
 Evan Lorenzen,5.3,RB/DB,Northwood-Kensett
 Evan Ten Eyck,0.0,TE,Boyer Valley
@@ -197,12 +199,12 @@ Garrett Watts,50.1,WR/DB,Montezuma
 Garrison Motsinger,19.7,RB/S,Bedford
 Gavin Clark,0.0,RB/LB,Twin Cedars
 Gavin Ford,5.0,QB/LB,Stanton
-Gavin Menke-Bailey,0.0,QB/LB,New London
+Gavin Menke-Bailey,12.38,QB/LB,New London
 Gavyn Thordarson,0.0,RB/DE,Melcher-Dallas
 Gio Cruz,0.0,RB/DB,Lenox
 Graham Godsey,4.6,RB/LB,Bedford
 Grant Finck,0.0,RB/LB,Dunkerton
-Grant Galles,0.0,WR/DB,St. Edmond
+Grant Galles,15.7,WR/DB,St. Edmond
 Grant Whitehead,42.54,QB/DB,Sidney
 Gunnar Smith,0.0,QB,Riceville
 Guyson Lyman,0.0,TE/DE,Newell-Fonda
@@ -222,8 +224,9 @@ Isaac Messamaker,6.5,FB/LB,Moravia
 Isaac Murphy,52.4,RB/S,GTRA
 Isaac Rich,0.0,CB/WR,WACO
 Isaiah Malm,0.0,S/WR,GTRA
+Israel Lemley,0.0,WR/DB,New London
 J.D. Kruse,0.0,RB/DE,Turkey Valley
-JT Laufersweiler,0.0,QB/DB,St. Edmond
+JT Laufersweiler,42.34,QB/DB,St. Edmond
 Jace March,0.0,RB/CB,Springville
 Jack Adams,21.46,QB,Riceville
 Jack Angell,0.0,QB/DB,Colo-Nesco
@@ -240,6 +243,7 @@ Jacob Morey,2.5,OL/DL,Tripoli
 Jacob Snyder,0.0,OL/DL,Dunkerton
 Jader Sanchez,0.0,RB/DB,Lone Tree
 Jake Edwards,22.1,QB/S,Winfield-Mt Union
+Jakob Koopman,0.0,SL/LB,St. Edmond
 James Buhlman,0.0,RB/LB,Easton Valley
 Jameson Kilworth,0.0,QB/DB,Exira-EHK
 Jamison Ewing,39.52,WR/CB,Southeast Warren
@@ -292,8 +296,8 @@ Kelan Stevenson,0.0,TE/LB,Lamoni
 Kendrick Mastin,0.3,RB/LB,Murray
 Kenny Ness,0.0,LB/WR,GTRA
 Keyden Lown,0.0,TE/DE,English Valleys
-Kinnick Henning,0.0,RB/LB,St. Edmond
-Klay Baker,0.0,RB/LB,St. Edmond
+Kinnick Henning,3.0,RB/LB,St. Edmond
+Klay Baker,13.4,RB/LB,St. Edmond
 Kolben Robinson,0.0,TE/LB,Lenox
 Kolby Culbertson,3.6,TE/DB,Coon Rapids-Bayard
 Kolt Payne,10.7,SL/CB,Sidney
@@ -317,7 +321,7 @@ Lane Vokoun,0.0,RB/DB,Belle Plaine
 Lars Taylor,0.0,TE/LB,Montezuma
 Layne Mastin,0.0,OG/DE,East Mills
 Ledger Dalton,0.0,WR/DB,Dunkerton
-Leo Ehn,0.0,TE/LB,St. Edmond
+Leo Ehn,25.5,TE/LB,St. Edmond
 Leo Schrader,0.0,QB/DB,Melcher-Dallas
 Lerik McCarty,0.0,RB/LB,WACO
 Levi Evans,0.0,TE/DE,Mormon Trail
@@ -326,10 +330,11 @@ Levi Reineke,5.9,LB/RB,Boyer Valley
 Lincoln Albertson,0.0,RB/LB,Moravia
 Logan Boldt,0.0,WR/LB,Tripoli
 Logan Busta,0.0,QB/DB,Turkey Valley
+Logan Franklin,0.0,WR/DB,New London
 Logan French,14.0,WR/DB,Stanton
 Logan Grimm,9.8,RB/LB,West Bend-Mallard
 Logan Sharpe,0.0,RB/LB,Central Elkader
-London Franklin,0.0,RB/DE,New London
+London Franklin,2.7,RB/DE,New London
 Louden Huisenga,41.5,RB/LB,WACO
 Lucas Ahrenstorff,23.22,QB/S,Harris-Lake Park
 Lucas Christian,0.0,WR/S,Glidden-Ralston
@@ -362,6 +367,7 @@ Mayson Hemsted,0.0,WR/DB,Lone Tree
 McKoy Nuss,-0.26,QB/LB,Tripoli
 Micah Moores,11.0,RB/LB,Woodbine
 Michael Hensley,72.7,RB/LB,Sidney
+Michael Raines,0.0,TE/LB,New London
 Milton Cushion,0.2,RB/DB,West Central
 Mitch Stevens,3.2,TE/LB,West Bend-Mallard
 Morgan Cooley,0.0,OL/DL,East Union
@@ -398,7 +404,7 @@ Ryker Hoffman,0.0,WR/CB,Rockford
 Sam DeMeulenaere,0.0,E/LB,Belle Plaine
 Sam Fettkether,-1.1,OL/LB,Central Elkader
 Sam Hoodjer,0.0,WR/CB,Clarksville
-Sam Myer,0.0,LB/RB,St. Edmond
+Sam Myer,0.6,LB/RB,St. Edmond
 Sam Schmillen,2.1,WR/LB,Remsen St. Mary's
 Samuel Dascher,0.0,TE/CB,Calamus-Wheatland
 Sawyer House,0.0,WR/CB,Midland

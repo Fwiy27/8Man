@@ -68,6 +68,8 @@ Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0,0.0
 Jack Follmann,4.6,SR,TE/LB,#40,CAM,1.0,36.0,0.0
 Will Felper,16.8,SR,SL,#18,Riceville,4.0,68.0,1.0
 Tate Martin,0.0,JR,RB/LB,#33,BGM,0.0,0.0,0.0
+Brigham Porter,12.0,SO,SL/DB,#23,New London,3.0,30.0,1.0
+Cale Westerbeck,7.1,SO,WR/DB,#4,New London,3.0,41.0,0.0
 Wyatt Christiansen,,SO,RB/LB,#10,Midland,,,
 Kael Cress,18.0,JR,WR/S,#7,Midland,2.0,40.0,2.0
 Sam DeMeulenaere,0.0,JR,E/LB,#12,Belle Plaine,0.0,0.0,0.0
@@ -89,6 +91,7 @@ Abram Edwards,2.2,SR,TE/DE,#84,Winfield-Mt Union,1.0,12.0,0.0
 Carter Loyd,11.6,SR,RB/S,#2,Winfield-Mt Union,1.0,46.0,1.0
 Cole Milks,3.2,SR,RB/S,#11,Winfield-Mt Union,2.0,12.0,0.0
 Andrew Beran,1.9,JR,RB,#2,Riceville,2.0,-1.0,0.0
+Leo Ehn,25.5,SR,TE/LB,#80,St. Edmond,3.0,105.0,2.0
 Trevor Forey,23.4,SR,WR/S,#6,Janesville,3.0,84.0,2.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0,0.0
 Aiden Eickert ,0.0,JR,WR/LB,#7,Easton Valley,0.0,0.0,0.0
@@ -118,7 +121,9 @@ Harley Molina,0.0,SR,WR/LB,#24,Ar-We-Va,0.0,0.0,0.0
 Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
 Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0,0.0
 Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0,0.0
+Grant Galles,15.7,SO,WR/DB,#6,St. Edmond,2.0,77.0,1.0
 Brayden Hepke,0.0,SR,WR/DB,#17,BGM,0.0,0.0,0.0
+London Franklin,1.7,SO,RB/DE,#6,New London,1.0,7.0,0.0
 Edward Miller,4.2,SR,TE/DE,#31,Audubon,2.0,22.0,0.0
 Braedon Godfread,10.2,JR,TE/S,#10,Sidney,2.0,22.0,1.0
 Austin Lack,1.1,SR,WR/DB,#3,East Union,1.0,1.0,0.0
@@ -165,12 +170,11 @@ Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0,0.0
 Dillon Reed,,SO,WR/DB,#11,Woodbine,,,
 Collin Bower,,SO,TE/DB,#25,CAM,,,
 Aidan Ebert,1.4,JR,WR,#3,Riceville,1.0,4.0,0.0
+Kinnick Henning,,SO,RB/LB,#22,St. Edmond,,,
 Mason Hoy,1.8,SO,RB/CB,#9,Springville,1.0,8.0,0.0
 Braden Jordan,8.1,SO,QB/LB,#10,Springville,1.0,11.0,1.0
 Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0,0.0
-London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0,0.0
-Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
-Cale Westerbeck,0.0,SO,WR/DB,#4,New London,0.0,0.0,0.0
+Logan Franklin,,SO,WR/DB,#7,New London,,,
 Ezekiel Konkler,0.9,SR,WR/CB,#20,Audubon,1.0,-1.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison,0.0,0.0,0.0
@@ -241,8 +245,7 @@ Brenner Sullivan,,SO,RB/LB,#22,Woodbine,,,
 Brayden Chester,,JR,RB/LB,#34,CAM,,,
 Kaden Kobliska,,SR,WR,#8,Riceville,,,
 Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0,0.0
-Leo Ehn,0.0,SR,TE/LB,#80,St. Edmond,0.0,0.0,0.0
-Grant Galles,0.0,SO,WR/DB,#6,St. Edmond,0.0,0.0,0.0
+Jakob Koopman,,SO,SL/LB,#8,St. Edmond,,,
 Dominic McClain,0.0,JR,WR/DB,#7,St. Edmond,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
 Kahl Shanahan,0.0,JR,TE/LB,#24,Springville,0.0,0.0,0.0
@@ -253,6 +256,8 @@ Beckett Rhoads,0.0,SO,WR/DB,#1,BGM,0.0,0.0,0.0
 Tucker Wright,0.0,JR,RB/DB,#6,BGM,0.0,0.0,0.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0,0.0
 Landon Wittrock,,JR,SL/LB,#9,Harris-Lake Park,,,
+Israel Lemley,,FR,WR/DB,#25,New London,,,
+Michael Raines,,SR,TE/LB,#26,New London,,,
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0,0.0
 Cole Bethune,0.0,JR,WR/S,#4,West Harrison,0.0,0.0,0.0
 LaDarius Albright,0.0,JR,TE/LB,#9,Sidney,0.0,0.0,0.0
