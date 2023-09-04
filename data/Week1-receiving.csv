@@ -7,6 +7,7 @@ Jackson Embree,20.2,JR,SL/LB,#33,East Mills,8.0,62.0,1.0
 Garrett Watts,50.1,SR,WR/DB,#7,Montezuma,10.0,161.0,4.0
 Evan Lorenzen,5.5,JR,RB/DB,#22,Northwood-Kensett,4.0,15.0,0.0
 Landon Blum,9.2,FR,WR/DB,#5,Woodbine,5.0,42.0,0.0
+Callan Messerich,35.5,SO,WR/DB,#6,Easton Valley,9.0,145.0,2.0
 Josef Dvorak,16.3,JR,RB/DB,#25,Collins-Maxwell,7.0,93.0,0.0
 Cal Heydon,10.3,SO,QB/DB,#11,Coon Rapids-Bayard,6.0,43.0,0.0
 Carter Seitz,42.9,JR,WR/DB,#7,Kee,8.0,169.0,3.0
@@ -32,6 +33,7 @@ Broox Stockman,12.9,SO,RB/LB,#20,Montezuma,6.0,69.0,0.0
 Louden Huisenga,21.1,JR,RB/LB,#8,WACO,3.0,61.0,2.0
 Devon Ehlers,6.2,SO,TE/LB,#88,Ar-We-Va,2.0,42.0,0.0
 Mason Maschmann,5.9,SR,RB/LB,#11,BGM,2.0,39.0,0.0
+Aiden Eickert ,13.7,JR,WR/LB,#7,Easton Valley,4.0,37.0,1.0
 Matt Sauer,18.7,SR,TE/DE,#82,Midland,3.0,37.0,2.0
 Cainan Travis,17.8,JR,WR/LB,#20,Baxter,5.0,68.0,1.0
 Chase Klatt,18.1,SO,TE/CB,#4,Calamus-Wheatland,5.0,71.0,1.0
@@ -41,6 +43,7 @@ Brogan Ewing,5.3,JR,WR/CB,#10,Southeast Warren,2.0,33.0,0.0
 Brayden Hepke,14.8,SR,WR/DB,#17,BGM,4.0,48.0,1.0
 Devin Meyer,2.3,SR,TE/LB,#15,Harris-Lake Park,1.0,13.0,0.0
 Evan Alt,6.7,SR,RB/LB,#4,Audubon,4.0,27.0,0.0
+Justin Weispfenning,13.8,JR,RB/DB,#3,Easton Valley,5.0,28.0,1.0
 Kolt Payne,10.7,JR,SL/CB,#24,Sidney,3.0,77.0,0.0
 Seth Bixler,10.5,SR,WR/S,#1,Midland,5.0,55.0,0.0
 Tyler Ballard,0.0,SR,TE/DE,#22,HLV,0.0,0.0,0.0
@@ -78,6 +81,7 @@ Jack Follmann,4.6,SR,TE/LB,#40,CAM,1.0,36.0,0.0
 Will Felper,16.8,SR,SL,#18,Riceville,4.0,68.0,1.0
 Brigham Porter,12.0,SO,SL/DB,#23,New London,3.0,30.0,1.0
 Cale Westerbeck,7.1,SO,WR/DB,#4,New London,3.0,41.0,0.0
+James Buhlman,2.9,FR,RB/LB,#27,Easton Valley,1.0,19.0,0.0
 Wyatt Christiansen,6.7,SO,RB/LB,#10,Midland,4.0,27.0,0.0
 Kael Cress,18.0,JR,WR/S,#7,Midland,2.0,40.0,2.0
 Carter Sholtus,9.6,SR,WR/CB,#2,HLV,1.0,26.0,1.0
@@ -104,9 +108,6 @@ Cole Milks,3.2,SR,RB/S,#11,Winfield-Mt Union,2.0,12.0,0.0
 Andrew Beran,1.9,JR,RB,#2,Riceville,2.0,-1.0,0.0
 Leo Ehn,25.5,SR,TE/LB,#80,St. Edmond,3.0,105.0,2.0
 Trevor Forey,23.4,SR,WR/S,#6,Janesville,3.0,84.0,2.0
-James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0,0.0
-Aiden Eickert ,0.0,JR,WR/LB,#7,Easton Valley,0.0,0.0,0.0
-Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0,0.0
 Austin Lack,5.3,SR,WR/DB,#3,East Union,2.0,33.0,0.0
 Mitch Stevens,3.2,SR,TE/LB,#37,West Bend-Mallard,1.0,22.0,0.0
 Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0,0.0
@@ -140,6 +141,7 @@ Bennett Steger,15.4,SR,WR,#14,Edgewood-Colesburg,2.0,74.0,1.0
 Kelan Stevenson,1.7,SO,TE/LB,#62,Lamoni,1.0,7.0,0.0
 London Franklin,1.7,SO,RB/DE,#6,New London,1.0,7.0,0.0
 Edward Miller,4.2,SR,TE/DE,#31,Audubon,2.0,22.0,0.0
+Jordan Boehde,4.7,FR,RB/DB,#13,Easton Valley,3.0,17.0,0.0
 Braedon Godfread,10.2,JR,TE/S,#10,Sidney,2.0,22.0,1.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0,0.0
 Cael Weisskopf,1.7,FR,RB/LB,#5,HLV,1.0,7.0,0.0
@@ -194,7 +196,6 @@ Braden Jordan,8.1,SO,QB/LB,#10,Springville,1.0,11.0,1.0
 Landon Lindgren,0.8,SO,RB/DB,#11,Lamoni,1.0,-2.0,0.0
 Logan Franklin,3.6,SO,WR/DB,#7,New London,2.0,16.0,0.0
 Ezekiel Konkler,0.9,SR,WR/CB,#20,Audubon,1.0,-1.0,0.0
-Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison,0.0,0.0,0.0
 Carson Hopkins,4.7,FR,TE/LB,#15,West Harrison,2.0,27.0,0.0
 Andreas Buttry,7.5,JR,QB/CB,#5,Sidney,1.0,5.0,1.0
