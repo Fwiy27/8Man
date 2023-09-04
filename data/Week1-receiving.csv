@@ -23,6 +23,7 @@ Isaac Murphy,37.7,SR,RB/S,#1,GTRA,7.0,127.0,3.0
 Caleb Haack,18.8,JR,WR/DB,#7,Iowa Valley,4.0,88.0,1.0
 Dominic Coleman,9.6,SR,WR/DE,#23,BGM,2.0,16.0,1.0
 Aiden Klostermann,25.8,SR,RB/S,#10,Central City,5.0,88.0,2.0
+Keyden Lown,13.8,JR,TE/DE,#84,English Valleys,3.0,48.0,1.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0,0.0
 Jed Bielenberg,5.4,SR,DE/WR,#15,Siouxland Christian,3.0,24.0,0.0
 Cruz DeJong,13.7,SR,TE/LB,#40,Montezuma,3.0,47.0,1.0
@@ -63,7 +64,6 @@ Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
 Austin Christensen,7.2,SO,WR/LB,#81,Audubon,4.0,32.0,0.0
 Rason Grail,11.9,SR,WR/DB,#23,East Union,2.0,39.0,1.0
 Nolan Gannon,6.1,FR,RB/LB,#34,Murray,2.0,41.0,0.0
-Keyden Lown,0.0,JR,TE/DE,#84,English Valleys,0.0,0.0,0.0
 Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0,0.0
 Lane Oswalt,4.0,SR,WR/DB,#87,Collins-Maxwell,2.0,20.0,0.0
 Kolby Culbertson,3.6,SR,TE/DB,#2,Coon Rapids-Bayard,2.0,16.0,0.0
@@ -106,6 +106,7 @@ Trevor Forey,23.4,SR,WR/S,#6,Janesville,3.0,84.0,2.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0,0.0
 Aiden Eickert ,0.0,JR,WR/LB,#7,Easton Valley,0.0,0.0,0.0
 Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0,0.0
+Austin Lack,5.3,SR,WR/DB,#3,East Union,2.0,33.0,0.0
 Mitch Stevens,3.2,SR,TE/LB,#37,West Bend-Mallard,1.0,22.0,0.0
 Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0,0.0
 Cannon Hansen,1.4,JR,TE/DL,#33,Exira-EHK,1.0,4.0,0.0
@@ -136,7 +137,6 @@ Kelan Stevenson,1.7,SO,TE/LB,#62,Lamoni,1.0,7.0,0.0
 London Franklin,1.7,SO,RB/DE,#6,New London,1.0,7.0,0.0
 Edward Miller,4.2,SR,TE/DE,#31,Audubon,2.0,22.0,0.0
 Braedon Godfread,10.2,JR,TE/S,#10,Sidney,2.0,22.0,1.0
-Austin Lack,1.1,SR,WR/DB,#3,East Union,1.0,1.0,0.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0,0.0
 Cael Weisskopf,1.7,FR,RB/LB,#5,HLV,1.0,7.0,0.0
 Ty Alcott,1.6,JR,RB/DB,#24,Belle Plaine,1.0,6.0,0.0
@@ -145,6 +145,7 @@ Logan Grimm,0.0,SR,RB/LB,#34,West Bend-Mallard,0.0,0.0,0.0
 Aidan Yoch,2.1,SR,TE/DB,#14,West Bend-Mallard,1.0,11.0,0.0
 Bryce Brabham,9.7,SO,RB/DB,#9,Exira-EHK,1.0,27.0,1.0
 Cody Samson,2.3,SR,TE/LB,#36,Baxter,2.0,3.0,0.0
+Deshon Anderson,2.3,SO,RB/LB,#32,English Valleys,2.0,3.0,0.0
 Conner Bowers,2.5,JR,TE/CB,#21,Griswold,1.0,15.0,0.0
 Zane Johnson,0.0,JR,RB/LB,#7,Griswold,0.0,0.0,0.0
 Mason Steinhoff,0.0,SO,RB/LB,#11,Griswold,0.0,0.0,0.0
@@ -204,6 +205,7 @@ Andrew Kolsrud,1.8,SR,WR/CB,#16,Kee,1.0,8.0,0.0
 Keegan Chew,0.0,FR,QB/S,#7,Murray,0.0,0.0,0.0
 Stadan Vansice,0.0,SO,WR/LB,#5,Baxter,0.0,0.0,0.0
 Drake Axmear,0.0,JR,WR/CB,#4,English Valleys,0.0,0.0,0.0
+Coen Good,2.0,SR,WR/CB,#2,English Valleys,1.0,10.0,0.0
 Chase England,0.0,JR,TE/DL,#33,Lenox,0.0,0.0,0.0
 Blake Micetich,0.0,SR,RB/DB,#3,Twin Cedars,0.0,0.0,0.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0,0.0

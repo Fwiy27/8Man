@@ -1,4 +1,5 @@
 Name,Points,Year,Position,Number,School,YDS,TDS
+Myles Grove,44.2,SR,QB/LB,#10,English Valleys,202.0,4.0
 Oliver Schmitt,58.4,SR,FB,#22,Turkey Valley,284.0,5.0
 Nolan Kriegel,2.2,FR,QB/DB,#2,Iowa Valley,22.0,0.0
 Ty Alcott,12.7,JR,RB/DB,#24,Belle Plaine,67.0,1.0
@@ -8,11 +9,11 @@ MaKade Bloker,34.9,SR,RB/LB,#11,Clarksville,169.0,3.0
 Breckin Clatt,24.2,JR,RB/DB,#14,Colo-Nesco,122.0,2.0
 Colby Wallace,32.3,JR,QB/S,#11,Glidden-Ralston,143.0,3.0
 Aaron Olsen,38.7,JR,QB/S,#3,Audubon,207.0,3.0
-Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
 Ambrose Savage,7.4,JR,QB/LB,#12,Lamoni,74.0,0.0
 Max Henstorf,4.6,SR,QB/LB,#7,HLV,46.0,0.0
 Ethan Bockelman,0.0,SR,QB/DB,#22,Lone Tree,0.0,0.0
 Landon Montag,29.0,SR,RB/LB,#24,West Bend-Mallard,170.0,2.0
+Ben Coffman,1.2,JR,RB/LB,#9,English Valleys,12.0,0.0
 Cole Fehr,13.8,JR,RB/LB,#33,West Bend-Mallard,78.0,1.0
 Andrew Beran,26.3,JR,RB,#2,Riceville,143.0,2.0
 Judah Bielenberg,7.1,JR,QB/LB,#10,Siouxland Christian,71.0,0.0
@@ -36,7 +37,6 @@ Isaac Murphy,14.7,SR,RB/S,#1,GTRA,27.0,2.0
 Wyatt Ragaller,17.2,SO,RB/DB,#8,Ar-We-Va,112.0,1.0
 Cooper Wierson,11.0,SO,QB/LB,#1,Collins-Maxwell,-10.0,2.0
 Adam Scott,2.5,SR,RB/LB,#26,West Central,25.0,0.0
-Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
 Clayton Miller,24.5,JR,QB/CB,#4,WACO,125.0,2.0
 Owen Backer,24.1,SO,RB/S,#22,Clarksville,121.0,2.0
 Beau Burns,51.8,SO,QB/DB,#2,BGM,218.0,5.0
@@ -66,6 +66,7 @@ Nolan Birdsall,8.6,JR,RB/LB,#2,West Harrison,26.0,1.0
 Brody Koch,12.2,SO,RB/LB,#5,Calamus-Wheatland,62.0,1.0
 Brayden Svejda,-0.2,JR,QB/CB,#1,Calamus-Wheatland,-2.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0
+Deshon Anderson,22.8,SO,RB/LB,#32,English Valleys,108.0,2.0
 Nolan Grebin,1.6,SR,QB/S,#2,Stanton,16.0,0.0
 Isaac Clark,16.6,SR,QB/LB,#12,Gladbrook-Reinbeck,46.0,2.0
 Conlin Rouse,2.2,SO,RB/LB,#11,Springville,22.0,0.0
@@ -144,7 +145,6 @@ Jacob Berens,0.3,SR,RB/LB,#34,Boyer Valley,3.0,0.0
 Sam Fettkether,-1.1,SR,OL/LB,#47,Central Elkader,-11.0,0.0
 Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0
 Carter Seitz,0.6,JR,WR/DB,#7,Kee,6.0,0.0
-Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
 Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
 Caden Oswald,6.9,FR,RB/DB,#6,Coon Rapids-Bayard,9.0,1.0
@@ -270,6 +270,7 @@ Sawyer House,0.9,SR,WR/CB,#4,Midland,9.0,0.0
 Bryer Jack,-0.4,FR,QB/DB,#14,HLV,-4.0,0.0
 Bryce Brabham,0.0,SO,RB/DB,#9,Exira-EHK,0.0,0.0
 Tanner Troendle,0.0,FR,RB/DB,#23,Kee,0.0,0.0
+Asher Stutzman,-0.2,JR,RB/LB,#13,English Valleys,-2.0,0.0
 Corey Breese,0.0,SR,TE/LB,#70,English Valleys,0.0,0.0
 Kolben Robinson,0.0,SO,TE/LB,#25,Lenox,0.0,0.0
 Gavin Clark,0.0,SO,RB/LB,#25,Twin Cedars,0.0,0.0
@@ -315,7 +316,7 @@ Trey Cota,0.0,FR,QB/LB,#10,Kee,0.0,0.0
 Titus Barber,0.0,SR,OG/DE,#90,Murray,0.0,0.0
 Jaxon Darby,0.0,FR,TE/CB,#17,Murray,0.0,0.0
 Treyton Travis,0.0,SR,WR/CB,#24,Baxter,0.0,0.0
-Asher Stutzman,0.0,JR,RB/LB,#13,English Valleys,0.0,0.0
+Jack Osborne,1.2,FR,QB/DB,#18,English Valleys,12.0,0.0
 Keeten Chenet,0.0,FR,RB/LB,#26,Twin Cedars,0.0,0.0
 Nate Smith,0.3,JR,RB/DB,#21,Collins-Maxwell,3.0,0.0
 Urijah Courter,0.0,FR,RB/DB,#10,Collins-Maxwell,0.0,0.0
