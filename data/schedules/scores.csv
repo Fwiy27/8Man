@@ -1,9 +1,9 @@
-User,Total Points,Wins,Losses
-Bransen,169.38,0,0
-Jesse,130.96,0,0
-Landon,125.1,1,0
-Luke,106.12,0,0
-Zane,98.08,0,0
-Brandon,92.78,0,1
-Ian,92.12,0,0
-Brayden,91.92,0,0
+Rank,User,Total Points,Wins,Losses
+1,Landon,125.1,1,0
+2,Bransen,169.38,0,0
+3,Jesse,130.96,0,0
+4,Luke,106.12,0,0
+5,Zane,98.08,0,0
+6,Ian,92.12,0,0
+7,Brayden,91.92,0,0
+8,Brandon,92.78,0,1
