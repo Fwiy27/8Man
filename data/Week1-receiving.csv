@@ -12,6 +12,7 @@ Josef Dvorak,16.3,JR,RB/DB,#25,Collins-Maxwell,7.0,93.0,0.0
 Cal Heydon,10.3,SO,QB/DB,#11,Coon Rapids-Bayard,6.0,43.0,0.0
 Carter Seitz,42.9,JR,WR/DB,#7,Kee,8.0,169.0,3.0
 Cade Robinson,14.4,JR,WR/CB,#12,Baxter,8.0,64.0,0.0
+Dalton Weepie,12.5,JR,TE/LB,#33,Dunkerton,6.0,65.0,0.0
 Wyatt Throckmorton,13.9,SR,WR/LB,#23,Moravia,3.0,49.0,1.0
 Jamison Martin,19.1,JR,RB/DB,#11,West Harrison,10.0,91.0,0.0
 Michael Hensley,36.2,JR,RB/LB,#6,Sidney,6.0,182.0,2.0
@@ -73,7 +74,6 @@ Kolby Culbertson,3.6,SR,TE/DB,#2,Coon Rapids-Bayard,2.0,16.0,0.0
 Jiri Brodigan,3.0,SO,WR/LB,#32,East Mills,2.0,10.0,0.0
 Hudson Clark,1.7,SO,WR/DB,#3,Gladbrook-Reinbeck,1.0,7.0,0.0
 Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0,0.0
-Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Jaxson Schnell,27.8,SO,LB/WR,#4,GTRA,5.0,108.0,2.0
 Hayden Loftsgard,4.8,JR,WR/CB,#2,Tripoli,3.0,18.0,0.0
 Dawson Smith,3.8,SR,RB/LB,#20,Iowa Valley,2.0,18.0,0.0
@@ -96,6 +96,7 @@ Samuel Dascher,2.4,SO,TE/CB,#31,Calamus-Wheatland,1.0,14.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0,0.0
 Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0,0.0
 Cristian Brown,0.0,SR,WR/DB,#47,Dunkerton,0.0,0.0,0.0
+Ty Lindquist,11.8,JR,FB/LB,#18,Dunkerton,2.0,38.0,1.0
 Jeremiah Lynam,1.5,SR,DB/WR,#9,Siouxland Christian,1.0,5.0,0.0
 Bram Bielenberg,3.2,FR,RB/LB,#35,Siouxland Christian,3.0,2.0,0.0
 Luke Erselius,0.0,SO,WR/DB,#15,Montezuma,0.0,0.0,0.0
@@ -122,6 +123,7 @@ Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0,0.0
 Drew Eilers,13.1,JR,WR/DL,#2,Gladbrook-Reinbeck,2.0,51.0,1.0
 Treyvon Herron,11.3,FR,WR/DB,#9,Gladbrook-Reinbeck,1.0,43.0,1.0
 John Stauffer,0.0,JR,TE/LB,#82,Clarksville,0.0,0.0,0.0
+Colin Snyder,2.1,SO,RB/LB,#24,Dunkerton,1.0,11.0,0.0
 Alex Daniel,11.0,SO,RB/LB,#27,Glidden-Ralston,1.0,40.0,1.0
 Carter Michalek,7.4,JR,WR/DB,#2,Montezuma,1.0,4.0,1.0
 Kolton Robinson,0.0,SO,RB/DB,#23,Northwood-Kensett,0.0,0.0,0.0
@@ -163,8 +165,6 @@ Luke Cripps,3.0,SR,QB/S,#1,Boyer Valley,2.0,10.0,0.0
 J.D. Kruse,2.9,SO,RB/DE,#2,Turkey Valley,1.0,19.0,0.0
 Caleb Kurtenbach,11.3,SR,QB,#5,Turkey Valley,2.0,33.0,1.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
-Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0,0.0
-Colin Snyder,0.0,SO,RB/LB,#24,Dunkerton,0.0,0.0,0.0
 Nolan Cushion,3.9,SR,TE/DE,#22,West Central,1.0,29.0,0.0
 Adam Scott,0.0,SR,RB/LB,#26,West Central,0.0,0.0,0.0
 Mark Lensch,2.2,SR,TE/LB,#33,Glidden-Ralston,1.0,12.0,0.0
