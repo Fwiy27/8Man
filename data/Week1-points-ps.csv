@@ -38,6 +38,7 @@ Beckett Rhoads,0.0,WR/DB,BGM
 Ben Coffman,1.2,RB/LB,English Valleys
 Ben Ryan,0.0,TE/DE,Colo-Nesco
 Ben Yezek,2.8,WR/DB,Northwood-Kensett
+Benjy Trainer,2.3,TE/LB,Bishop Garrigan
 Bennett Pfister,0.0,WR/DB,Siouxland Christian
 Bennett Steger,15.4,WR,Edgewood-Colesburg
 Biar Biar,0.0,OG/DL,Siouxland Christian
@@ -60,7 +61,7 @@ Braxton Kniep,28.9,WR/DE,Remsen St. Mary's
 Brayden Chester,19.9,RB/LB,CAM
 Brayden Hepke,14.8,WR/DB,BGM
 Brayden Svejda,5.0,QB/CB,Calamus-Wheatland
-Braydon Draeger,0.0,TE/LB,Melcher-Dallas
+Braydon Draeger,1.2,TE/LB,Melcher-Dallas
 Braydon Hensley,0.3,QB/CB,Bedford
 Breckin Clatt,24.2,RB/DB,Colo-Nesco
 Brenden Connett,0.0,RB/LB,Twin Cedars
@@ -90,6 +91,7 @@ Caden Carruthers,0.0,QB/DL,Southeast Warren
 Caden Kaufman,0.2,RB/LB,Lenox
 Caden Oswald,8.6,RB/DB,Coon Rapids-Bayard
 Caden Page,16.08,QB/LB,Murray
+Caden Roethler,16.1,FB/LB,Bishop Garrigan
 Cael Weisskopf,4.0,RB/LB,HLV
 Cainan Travis,20.2,WR/LB,Baxter
 Cal Heydon,9.3,QB/DB,Coon Rapids-Bayard
@@ -145,7 +147,7 @@ Colin Snyder,2.2,RB/LB,Dunkerton
 Collin Bower,11.2,TE/DB,CAM
 Collin Hoffman,11.0,QB/S,GTRA
 Collin Homan,0.0,OL/DL,Remsen St. Mary's
-Colton Cox,0.0,RB/DB,Melcher-Dallas
+Colton Cox,2.2,RB/DB,Melcher-Dallas
 Colton Leichty,2.0,TE/LB,WACO
 Conlin Rouse,5.0,RB/LB,Springville
 Conner Bowers,2.5,TE/CB,Griswold
@@ -170,7 +172,7 @@ Daniel Britt,1.5,RB/S,Janesville
 David Rose,14.5,WR/DB,Montezuma
 Dawson Smith,5.0,RB/LB,Iowa Valley
 Declan DeJong,13.0,TE/DE,Moravia
-Degin Dixson,0.0,QB/CB,Mormon Trail
+Degin Dixson,15.54,QB/CB,Mormon Trail
 Derek Bartlett,0.9,LB/RB,Stanton
 Derek Kressley,1.0,RB/LB,Belle Plaine
 Deshon Anderson,24.1,RB/LB,English Valleys
@@ -185,6 +187,7 @@ Domonic Garcia,0.0,WR/DB,Lone Tree
 Donald Bashor,20.6,RB/LB,Lenox
 Drake Axmear,0.0,WR/CB,English Valleys
 Drew Eilers,14.5,WR/DL,Gladbrook-Reinbeck
+Drew Lappe,11.0,WR/CB,Bishop Garrigan
 Drew Stanek,2.9,RB/LB,Gladbrook-Reinbeck
 Drew Urbanek,-0.36,QB/CB,Tripoli
 Dreyson Morgan,0.0,WR/DB,Gladbrook-Reinbeck
@@ -203,6 +206,7 @@ Ethan Bauer,0.0,RB/DB,Coon Rapids-Bayard
 Ethan Baxter,11.8,RB/LB,Griswold
 Ethan Bockelman,0.0,QB/DB,Lone Tree
 Ethan Bridgewater,0.72,RB/LB,BGM
+Ethan Marso,7.0,FB/LB,Bishop Garrigan
 Ethan Schaufenbuel,1.1,WR/CB,Tripoli
 Ethan Swisher,1.0,QB/DB,St. Edmond
 Evan Alt,7.6,RB/LB,Audubon
@@ -300,10 +304,11 @@ Josh Lindsey,0.7,WR/S,Central City
 Judah Bielenberg,9.06,QB/LB,Siouxland Christian
 Jude Larson,0.5,RB/LB,Gladbrook-Reinbeck
 Judson Beary,0.0,RB/LB,Twin Cedars
+Justin Bauer,17.0,WR/CB,Bishop Garrigan
 Justin Weispfenning,14.2,RB/DB,Easton Valley
 Kace Patton,17.3,WR/CB,Murray
 Kaden Kobliska,7.3,WR,Riceville
-Kael Caikoski,0.0,RB/LB,Melcher-Dallas
+Kael Caikoski,-1.8,RB/LB,Melcher-Dallas
 Kael Cress,18.0,WR/S,Midland
 Kahl Shanahan,0.0,TE/LB,Springville
 Kale Doeppke,1.8,WR/DB,Central Elkader
@@ -349,9 +354,9 @@ Lars Taylor,0.0,TE/LB,Montezuma
 Layne Mastin,0.0,OG/DE,East Mills
 Ledger Dalton,0.0,WR/DB,Dunkerton
 Leo Ehn,25.5,TE/LB,St. Edmond
-Leo Schrader,0.0,QB/DB,Melcher-Dallas
+Leo Schrader,-0.1,QB/DB,Melcher-Dallas
 Lerik McCarty,-0.3,RB/LB,WACO
-Levi Evans,0.0,TE/DE,Mormon Trail
+Levi Evans,2.7,TE/DE,Mormon Trail
 Levi Halterman,0.4,RB/LB,Southeast Warren
 Levi Reineke,5.9,LB/RB,Boyer Valley
 Lincoln Albertson,0.0,RB/LB,Moravia
@@ -414,6 +419,7 @@ Owen Bral,9.3,QB/LB,Iowa Valley
 Owen Garside,14.3,S/QB,Boyer Valley
 Owen Hammersland,0.0,RB/LB,Central Elkader
 Owen Johnson,1.8,RB/DE,Griswold
+Owen Murphy,9.8,WR/S,Bishop Garrigan
 Parker Hays,1.4,RB/DB,Coon Rapids-Bayard
 Perrin Sulzle,36.64,QB/LB,Baxter
 Peter Kielman,0.0,TE/LB,Clarksville
@@ -421,13 +427,13 @@ Pryce Rochford,85.58,QB,Edgewood-Colesburg
 Quintin White,6.0,WR/DB,Exira-EHK
 Rason Grail,11.9,WR/DB,East Union
 Reagan Richardson,0.0,RB,Riceville
-Reece Chiabotta,0.0,QB/DB,Melcher-Dallas
+Reece Chiabotta,-0.42,QB/DB,Melcher-Dallas
 Reece Oswald,6.6,RB/CB,WACO
 Reed Oswalt,6.1,WR/DB,Collins-Maxwell
 Riley Garrett,0.0,RB/DL,Dunkerton
 Riley Simmons,0.0,E/DE,Belle Plaine
 Robert Beardsley,0.0,WR/DB,Southeast Warren
-Rocky Johnson,0.0,RB/DB,Melcher-Dallas
+Rocky Johnson,1.1,RB/DB,Melcher-Dallas
 Rogellio Gonzalez,5.3,FB/DB,West Central
 Ryan Heaton,0.0,FB/DE,Melcher-Dallas
 Ryker Hoffman,0.0,WR/CB,Rockford
@@ -435,6 +441,7 @@ Sam DeMeulenaere,8.5,E/LB,Belle Plaine
 Sam Fettkether,-1.1,OL/LB,Central Elkader
 Sam Hoodjer,0.0,WR/CB,Clarksville
 Sam Myer,0.6,LB/RB,St. Edmond
+Sam Plathe,29.1,WR/CB,Bishop Garrigan
 Sam Schmillen,2.1,WR/LB,Remsen St. Mary's
 Samuel Dascher,2.4,TE/CB,Calamus-Wheatland
 Sawyer House,0.9,WR/CB,Midland
@@ -450,11 +457,13 @@ Stadan Vansice,0.0,WR/LB,Baxter
 Talan Jacobsen,3.9,QB/LB,North Iowa
 Talan Pletz,5.2,RB/LB,Janesville
 Tanner Troendle,0.0,RB/DB,Kee
+Tate Foertsch,19.5,QB/DB,Bishop Garrigan
 Tate Martin,3.2,RB/LB,BGM
 Tate Mount,-0.2,QB/DB,Sidney
 Terrian Islas,7.6,TE/DE,East Union
 Titus Barber,0.0,OG/DE,Murray
 Travis Luitjens,-0.5,OG/DT,Harris-Lake Park
+Trayton Cink,33.8,RB/LB,Bishop Garrigan
 Trent Robertson,6.7,WR/LB,North Iowa
 Trenton Struss,29.4,RB/S,Newell-Fonda
 Trevor Forey,23.4,WR/S,Janesville
@@ -467,7 +476,7 @@ Treyton Travis,49.6,WR/CB,Baxter
 Treyvon Herron,11.4,WR/DB,Gladbrook-Reinbeck
 Tristan Freiberg,0.0,WR/CB,Tripoli
 Tristen Burkhart,0.0,RB/LB,Boyer Valley
-Triton Gwinn,0.0,RB/LB,Mormon Trail
+Triton Gwinn,33.6,RB/LB,Mormon Trail
 Trypp Roszell,1.5,WR/DB,Gladbrook-Reinbeck
 Tucker Wright,0.0,RB/DB,BGM
 Ty Alcott,13.3,RB/DB,Belle Plaine
