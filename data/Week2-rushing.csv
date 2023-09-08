@@ -1,6 +1,6 @@
 Name,Points,Year,Position,Number,School,YDS,TDS
+Oliver Schmitt,24.0,SR,FB,#22,Turkey Valley,120.0,2.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
-Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0
 Nolan Kriegel,0.0,FR,QB/DB,#2,Iowa Valley,0.0,0.0
 Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0
 Shane Helmick,0.0,SR,QB/DE,#12,Moravia,0.0,0.0
@@ -27,6 +27,7 @@ Dane Appleby,0.0,JR,QB/LB,#4,Janesville,0.0,0.0
 Luke Cripps,0.0,SR,QB/S,#1,Boyer Valley,0.0,0.0
 Brady Boulton,0.0,SO,QB/DB,#1,Montezuma,0.0,0.0
 Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
+Burke Busta,15.2,SR,FB,#9,Turkey Valley,92.0,1.0
 Wyatt Oswald,0.0,JR,QB/LB,#10,Coon Rapids-Bayard,0.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison,0.0,0.0
 Dalton Mudderman,23.8,JR,QB/LB,#5,Kee,58.0,3.0
@@ -66,7 +67,6 @@ Slate Witte,0.0,SR,,#7,GMG,0.0,0.0
 Anthony Harrington,0.0,SO,QB/LB,#2,Midland,0.0,0.0
 Jackson Schulte,0.0,SR,RB/LB,#21,Kee,0.0,0.0
 Kendrick Mastin,0.0,SR,RB/LB,#9,Murray,0.0,0.0
-Burke Busta,0.0,SR,FB,#9,Turkey Valley,0.0,0.0
 Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0
 Gabe Funk,0.0,JR,QB/DB,#17,Lenox,0.0,0.0
 Jamison Ewing,0.0,SO,WR/CB,#8,Southeast Warren,0.0,0.0
@@ -109,6 +109,7 @@ Trayton Cink,0.0,JR,RB/LB,#26,Bishop Garrigan,0.0,0.0
 Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0
 Owen Johnson,0.0,FR,RB/DE,#26,Griswold,0.0,0.0
+Logan Busta,1.6,SO,QB/DB,#1,Turkey Valley,16.0,0.0
 Nathan Moon,0.0,FR,RB/LB,#6,Clarksville,0.0,0.0
 Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
@@ -125,7 +126,6 @@ Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0
 Evan Alt,0.0,SR,RB/LB,#4,Audubon,0.0,0.0
 Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0
-Logan Busta,0.0,SO,QB/DB,#1,Turkey Valley,0.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
 Conner Nally,0.0,SR,QB/LB,#5,Bedford,0.0,0.0
 Brodyn Pryor,0.0,SO,QB/DB,#8,Woodbine,0.0,0.0
@@ -221,6 +221,7 @@ Mason Maschmann,0.0,SR,RB/LB,#11,BGM,0.0,0.0
 Ethan Baxter,0.0,JR,RB/LB,#52,Griswold,0.0,0.0
 Bode Wyman,0.0,JR,QB/CB,#8,Griswold,0.0,0.0
 Seth Bell,0.0,FR,QB/DB,#26,Collins-Maxwell,0.0,0.0
+Cale Langreck,0.3,FR,QB/LB,#10,Turkey Valley,3.0,0.0
 Riley Garrett,0.0,JR,RB/DL,#11,Dunkerton,0.0,0.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0
 Reece Chiabotta,0.0,SO,QB/DB,#34,Melcher-Dallas,0.0,0.0
@@ -242,7 +243,6 @@ Brock Micetich,0.0,FR,RB/LB,#36,Twin Cedars,0.0,0.0
 Logan French,0.0,SR,WR/DB,#1,Stanton,0.0,0.0
 Caleb Coffelt,0.0,FR,WR/DB,#3,Collins-Maxwell,0.0,0.0
 Jackson Embree,0.0,JR,SL/LB,#33,East Mills,0.0,0.0
-Cale Langreck,0.0,FR,QB/LB,#10,Turkey Valley,0.0,0.0
 Isaac Loan,0.0,SO,QB/DB,#12,Central Elkader,0.0,0.0
 Leo Schrader,0.0,FR,QB/DB,#23,Melcher-Dallas,0.0,0.0
 Lincoln Albertson,0.0,SO,RB/LB,#32,Moravia,0.0,0.0
@@ -312,6 +312,8 @@ Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0
 Drew Eilers,-8.1,JR,WR/DL,#2,Gladbrook-Reinbeck,-21.0,-1.0
 Hayden Hicks,0.0,FR,TE/LB,#66,Boyer Valley,0.0,0.0
+Treyton Franzen,0.6,FR,FB/LB,#21,Turkey Valley,6.0,0.0
+Kaden Schmidt,9.9,FR,RB/LB,#18,Turkey Valley,39.0,1.0
 Trent Robertson,0.0,SR,WR/LB,#5,North Iowa,0.0,0.0
 Carter Michalek,0.0,JR,WR/DB,#2,Montezuma,0.0,0.0
 Lars Taylor,0.0,JR,TE/LB,#43,Montezuma,0.0,0.0

@@ -1,6 +1,6 @@
 Name,Year,Position,Number,School,YDS,TDS
+Oliver Schmitt,SR,FB,#22,Turkey Valley,529,9
 Myles Grove,SR,QB/LB,#10,English Valleys,544,8
-Oliver Schmitt,SR,FB,#22,Turkey Valley,409,7
 Nolan Kriegel,FR,QB/DB,#2,Iowa Valley,308,6
 Ty Alcott,JR,RB/DB,#24,Belle Plaine,377,5
 Shane Helmick,SR,QB/DE,#12,Moravia,288,4
@@ -27,6 +27,7 @@ Dane Appleby,JR,QB/LB,#4,Janesville,293,6
 Luke Cripps,SR,QB/S,#1,Boyer Valley,251,3
 Brady Boulton,SO,QB/DB,#1,Montezuma,289,5
 Fischer Buffington,JR,RB/DE,#12,East Union,205,1
+Burke Busta,SR,FB,#9,Turkey Valley,161,2
 Wyatt Oswald,JR,QB/LB,#10,Coon Rapids-Bayard,161,2
 Mason McIntosh,SR,QB/LB,#16,West Harrison,148,3
 Dalton Mudderman,JR,QB/LB,#5,Kee,259,8
@@ -66,7 +67,6 @@ Slate Witte,SR,,#7,GMG,79,2
 Anthony Harrington,SO,QB/LB,#2,Midland,179,5
 Jackson Schulte,SR,RB/LB,#21,Kee,239,3
 Kendrick Mastin,SR,RB/LB,#9,Murray,90,2
-Burke Busta,SR,FB,#9,Turkey Valley,69,1
 Mason Hoy,SO,RB/CB,#9,Springville,303,6
 Gabe Funk,JR,QB/DB,#17,Lenox,233,6
 Jamison Ewing,SO,WR/CB,#8,Southeast Warren,239,4
@@ -109,6 +109,7 @@ Trayton Cink,JR,RB/LB,#26,Bishop Garrigan,158,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,34,0
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,157,4
 Owen Johnson,FR,RB/DE,#26,Griswold,53,0
+Logan Busta,SO,QB/DB,#1,Turkey Valley,75,2
 Nathan Moon,FR,RB/LB,#6,Clarksville,83,0
 Grant Finck,JR,RB/LB,#10,Dunkerton,55,0
 Grant Whitehead,JR,QB/DB,#15,Sidney,117,1
@@ -125,7 +126,6 @@ Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,123,3
 Evan Alt,SR,RB/LB,#4,Audubon,36,0
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,87,3
 Dallas Smith,JR,QB/DB,#2,Twin Cedars,20,0
-Logan Busta,SO,QB/DB,#1,Turkey Valley,59,2
 Rocky Johnson,FR,RB/DB,#15,Melcher-Dallas,26,0
 Conner Nally,SR,QB/LB,#5,Bedford,177,4
 Brodyn Pryor,SO,QB/DB,#8,Woodbine,113,1
@@ -221,6 +221,7 @@ Mason Maschmann,SR,RB/LB,#11,BGM,51,3
 Ethan Baxter,JR,RB/LB,#52,Griswold,58,1
 Bode Wyman,JR,QB/CB,#8,Griswold,8,0
 Seth Bell,FR,QB/DB,#26,Collins-Maxwell,9,0
+Cale Langreck,FR,QB/LB,#10,Turkey Valley,22,0
 Riley Garrett,JR,RB/DL,#11,Dunkerton,21,0
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,-2,0
 Reece Chiabotta,SO,QB/DB,#34,Melcher-Dallas,-6,0
@@ -242,7 +243,6 @@ Brock Micetich,FR,RB/LB,#36,Twin Cedars,19,0
 Logan French,SR,WR/DB,#1,Stanton,23,0
 Caleb Coffelt,FR,WR/DB,#3,Collins-Maxwell,12,0
 Jackson Embree,JR,SL/LB,#33,East Mills,13,1
-Cale Langreck,FR,QB/LB,#10,Turkey Valley,19,0
 Isaac Loan,SO,QB/DB,#12,Central Elkader,20,0
 Leo Schrader,FR,QB/DB,#23,Melcher-Dallas,-4,0
 Lincoln Albertson,SO,RB/LB,#32,Moravia,6,0
@@ -312,6 +312,8 @@ Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,-9,0
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,1,0
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,14,0
 Hayden Hicks,FR,TE/LB,#66,Boyer Valley,4,0
+Treyton Franzen,FR,FB/LB,#21,Turkey Valley,6,0
+Kaden Schmidt,FR,RB/LB,#18,Turkey Valley,39,1
 Trent Robertson,SR,WR/LB,#5,North Iowa,10,0
 Carter Michalek,JR,WR/DB,#2,Montezuma,2,0
 Lars Taylor,JR,TE/LB,#43,Montezuma,17,0
