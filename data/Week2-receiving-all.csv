@@ -36,6 +36,7 @@ Cruz DeJong,SR,TE/LB,#40,Montezuma,8,106,2
 David Rose,JR,WR/DB,#5,Montezuma,8,88,1
 Broox Stockman,SO,RB/LB,#20,Montezuma,8,94,1
 Louden Huisenga,JR,RB/LB,#8,WACO,8,106,3
+Lucas Frohwein,SR,TE/DE,#9,Colo-Nesco,8,89,1
 Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,8,265,6
 Devon Ehlers,SO,TE/LB,#88,Ar-We-Va,8,62,0
 Mason Maschmann,SR,RB/LB,#11,BGM,8,180,1
@@ -218,7 +219,6 @@ Dillon Reed,SO,WR/DB,#11,Woodbine,2,19,0
 Collin Bower,SO,TE/DB,#25,CAM,2,32,1
 Kinnick Henning,SO,RB/LB,#22,St. Edmond,2,54,2
 Mason Hoy,SO,RB/CB,#9,Springville,2,14,0
-Braden Jordan,SO,QB/LB,#10,Springville,2,12,1
 Landon Lindgren,SO,RB/DB,#11,Lamoni,2,10,0
 Logan Franklin,SO,WR/DB,#7,New London,2,16,0
 Ezekiel Konkler,SR,WR/CB,#20,Audubon,2,1,0
@@ -286,7 +286,9 @@ Robert Beardsley,JR,WR/DB,#18,Southeast Warren,1,1,0
 Isaiah Malm,JR,S/WR,#24,GTRA,1,48,0
 Landen Dietrich,FR,RB/LB,#27,GTRA,1,26,0
 Cade Tentinger,JR,RB/DB,#5,Remsen St. Mary's,1,5,0
+Mark Bower,JR,RB/DB,#25,Colo-Nesco,1,8,0
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,1,0,0
+Hunter Hardin,JR,RB/LB,#36,Colo-Nesco,1,3,0
 Ben Ryan,SR,TE/DE,#17,Colo-Nesco,1,15,0
 Gannon Short,JR,RB/DB,#11,Colo-Nesco,1,8,0
 McKoy Nuss,SO,QB/LB,#13,Tripoli,1,3,0
@@ -304,6 +306,8 @@ Jakob Koopman,SO,SL/LB,#8,St. Edmond,1,30,1
 Dominic McClain,JR,WR/DB,#7,St. Edmond,1,40,0
 Sam Myer,JR,LB/RB,#33,St. Edmond,1,20,0
 Kahl Shanahan,JR,TE/LB,#24,Springville,1,8,0
+Jordan Goad,JR,QB/CB,#1,Springville,1,11,1
+Braden Jordan,SO,QB/LB,#10,Springville,1,1,0
 Carter Battin,SO,WR,#2,Edgewood-Colesburg,1,27,1
 Nathan Findlay,SO,RB/LB,#10,BGM,1,3,0
 Beckett Rhoads,SO,WR/DB,#1,BGM,1,13,0
