@@ -1,9 +1,10 @@
 Name,Year,Position,Number,School,REC,YDS,TDS
+Nolan Birdsall,JR,RB/LB,#2,West Harrison,26,298,3
 Kace Patton,SR,WR/CB,#10,Murray,25,322,2
 Treyton Travis,SR,WR/CB,#24,Baxter,24,452,7
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,19,196,2
-Nolan Birdsall,JR,RB/LB,#2,West Harrison,17,227,3
 Jackson Embree,JR,SL/LB,#33,East Mills,16,161,2
+Jamison Martin,JR,RB/DB,#11,West Harrison,16,185,2
 Garrett Watts,SR,WR/DB,#7,Montezuma,15,276,7
 Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,15,94,0
 Landon Blum,FR,WR/DB,#5,Woodbine,15,195,1
@@ -15,7 +16,6 @@ Jabari Woodbury,SR,,#2,GMG,12,156,0
 Cade Robinson,JR,WR/CB,#12,Baxter,11,75,0
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,11,155,1
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,11,161,3
-Jamison Martin,JR,RB/DB,#11,West Harrison,11,122,0
 Michael Hensley,JR,RB/LB,#6,Sidney,11,224,2
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,10,54,1
 Declan DeJong,SO,TE/DE,#41,Moravia,10,130,4
@@ -36,6 +36,7 @@ Cruz DeJong,SR,TE/LB,#40,Montezuma,8,106,2
 David Rose,JR,WR/DB,#5,Montezuma,8,88,1
 Broox Stockman,SO,RB/LB,#20,Montezuma,8,94,1
 Louden Huisenga,JR,RB/LB,#8,WACO,8,106,3
+Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,8,265,6
 Devon Ehlers,SO,TE/LB,#88,Ar-We-Va,8,62,0
 Mason Maschmann,SR,RB/LB,#11,BGM,8,180,1
 Austin Christensen,SO,WR/LB,#81,Audubon,8,40,0
@@ -47,6 +48,7 @@ Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,7,93,1
 Owen Garside,JR,S/QB,#3,Boyer Valley,7,90,1
 Evan Ten Eyck,SR,TE,#2,Boyer Valley,7,112,4
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,7,63,0
+Cole Milks,SR,RB/S,#11,Winfield-Mt Union,7,76,0
 Brayden Hepke,SR,WR/DB,#17,BGM,7,92,3
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,7,40,0
 Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,7,101,2
@@ -65,7 +67,6 @@ Colton Leichty,SR,TE/LB,#23,WACO,6,61,1
 Collin Hoffman,SR,QB/S,#14,GTRA,6,81,0
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,6,28,0
 Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,6,128,2
-Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,6,221,6
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,6,59,1
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,6,68,1
 Johnathan Riesselman,SO,WR/DB,#7,Ar-We-Va,6,141,1
@@ -87,6 +88,7 @@ Nolan Cushion,SR,TE/DE,#22,West Central,5,80,0
 Charlie Schaefer,SR,QB/S,#6,North Iowa,5,125,1
 Jaxson Schnell,SO,LB/WR,#4,GTRA,5,108,2
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,5,15,0
+Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,5,74,0
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,5,41,0
 Jack Follmann,SR,TE/LB,#40,CAM,5,143,2
 Will Felper,SR,SL,#18,Riceville,5,71,1
@@ -120,13 +122,12 @@ Christian Reinke,JR,TE/LB,#25,Rockford,4,40,0
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,4,124,0
 Jacob Morey,SR,OL/DL,#11,Tripoli,4,81,1
 Cal Peterman,JR,WR/LB,#15,Bedford,4,59,2
-Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,4,60,0
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,4,85,1
-Cole Milks,SR,RB/S,#11,Winfield-Mt Union,4,56,0
 Ty Christensen,SO,,#5,Don Bosco,4,23,0
 Leo Ehn,SR,TE/LB,#80,St. Edmond,4,118,2
 Trevor Forey,SR,WR/S,#6,Janesville,4,114,3
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,4,70,1
+Clay Westphal,SO,SL/S,#8,West Harrison,4,8,0
 Austin Lack,SR,WR/DB,#3,East Union,3,67,1
 Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,3,87,0
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,3,72,0
@@ -165,6 +166,7 @@ Owen Murphy,JR,WR/S,#10,Bishop Garrigan,3,48,0
 Kelan Stevenson,SO,TE/LB,#62,Lamoni,3,13,1
 London Franklin,SO,RB/DE,#6,New London,3,88,1
 Jordan Boehde,FR,RB/DB,#13,Easton Valley,3,17,0
+Cole Bethune,JR,WR/S,#4,West Harrison,3,29,0
 Braedon Godfread,JR,TE/S,#10,Sidney,3,24,2
 Terrian Islas,JR,TE/DE,#5,East Union,2,9,0
 Cael Weisskopf,FR,RB/LB,#5,HLV,2,12,0
@@ -290,6 +292,7 @@ Gannon Short,JR,RB/DB,#11,Colo-Nesco,1,8,0
 McKoy Nuss,SO,QB/LB,#13,Tripoli,1,3,0
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,1,6,0
 Silas Walston,SR,RB/DE,#33,Bedford,1,50,1
+Kael Johnson,SR,LB/OG,#4,Winfield-Mt Union,1,10,0
 Carter Hassebroek,JR,WR/DB,#8,Iowa Valley,1,29,0
 Joe Freund,SO,RB/LB,#6,Woodbine,1,12,0
 Brenden Wagner,SO,TE/LB,#16,Woodbine,1,12,0
@@ -311,7 +314,7 @@ Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,1,35,1
 Israel Lemley,FR,WR/DB,#25,New London,1,37,1
 Michael Raines,SR,TE/LB,#26,New London,1,1,0
 Corbin Jacobs-Jewell,JR,TE/DE,#10,New London,1,3,0
-Cole Bethune,JR,WR/S,#4,West Harrison,1,7,0
+Brady Lewis,SR,WR/S,#7,West Harrison,1,16,0
 Connor Rahn,JR,,#12,GMG,1,3,0
 Landon Stonewall,FR,,#18,GMG,1,37,1
 LaDarius Albright,JR,TE/LB,#9,Sidney,1,9,0

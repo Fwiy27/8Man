@@ -1,4 +1,5 @@
 Name,Points,YP,Number,School,YDS,TDS,INT
+Mason McIntosh,12.0,SR  QB/LB,#16,West Harrison,175,2,3
 Perrin Sulzle,0.0,JR  QB/LB,#7,Baxter,0,0,0
 Blayne Smith,0.0,JR  QB/DB,#15,Ar-We-Va,0,0,0
 Brady Boulton,0.0,SO  QB/DB,#1,Montezuma,0,0,0
@@ -7,11 +8,11 @@ Keagan Lee,0.0,SO  QB/DB,#17,Easton Valley,0,0,0
 Caden Page,0.0,JR  QB/LB,#8,Murray,0,0,0
 Shane Helmick,0.0,SR  QB/DE,#12,Moravia,0,0,0
 Kooper Julseth,0.0,JR  WR/LB,#1,Northwood-Kensett,0,0,0
-Mason McIntosh,0.0,SR  QB/LB,#16,West Harrison,0,0,0
 Brodyn Pryor,0.0,SO  QB/DB,#8,Woodbine,0,0,0
 Cooper Wierson,-0.4,SO  QB/LB,#1,Collins-Maxwell,65,0,3
 Grant Whitehead,0.0,JR  QB/DB,#15,Sidney,0,0,0
 Kasey Hough,0.0,JR  QB/S,#11,GTRA,0,0,0
+Jake Edwards,2.52,JR  QB/S,#3,Winfield-Mt Union,88,0,1
 Dylan Marquart,0.0,JR  QB/DB,#3,Dunkerton,0,0,0
 Dallas Smith,0.0,JR  QB/DB,#2,Twin Cedars,0,0,0
 Tate Foertsch,0.0,SO  QB/DB,#7,Bishop Garrigan,0,0,0
@@ -26,7 +27,6 @@ Luke Cripps,0.0,SR  QB/S,#1,Boyer Valley,0,0,0
 Nolan Grebin,0.0,SR  QB/S,#2,Stanton,0,0,0
 Wyatt Oswald,0.0,JR  QB/LB,#10,Coon Rapids-Bayard,0,0,0
 Landon Waldschmitt,0.0,JR  QB/DB,#7,Remsen St. Mary's,0,0,0
-Jake Edwards,0.0,JR  QB/S,#3,Winfield-Mt Union,0,0,0
 Nolan Kriegel,0.0,FR  QB/DB,#2,Iowa Valley,0,0,0
 Gavin Menke-Bailey,0.0,JR  QB/LB,#5,New London,0,0,0
 Judah Bielenberg,0.0,JR  QB/LB,#10,Siouxland Christian,0,0,0
@@ -76,6 +76,7 @@ Cale Langreck,0.0,FR  QB/LB,#10,Turkey Valley,0,0,0
 Eli Schmidt,0.0,SR  RB/S,#3,Clarksville,0,0,0
 Reece Chiabotta,0.0,SO  QB/DB,#34,Melcher-Dallas,0,0,0
 Brock Binkley,0.0,FR  QB/DB,#8,Lamoni,0,0,0
+Nolan Birdsall,0.0,JR  RB/LB,#2,West Harrison,0,0,0
 Dreyson Morgan,0.0,SO  WR/DB,#10,Gladbrook-Reinbeck,0,0,0
 Oliver Schmitt,1.56,SR  FB,#22,Turkey Valley,39,0,0
 MaKade Bloker,0.0,SR  RB/LB,#11,Clarksville,0,0,0
@@ -85,7 +86,7 @@ Gunnar Smith,0.0,SO  QB,#6,Riceville,0,0,0
 Ethan Bridgewater,0.0,SO  RB/LB,#35,BGM,0,0,0
 Ambrose Savage,0.0,JR  QB/LB,#12,Lamoni,0,0,0
 Carson Wessel,0.0,SO  QB/LB,#9,Audubon,0,0,0
-Nolan Birdsall,0.0,JR  RB/LB,#2,West Harrison,0,0,0
+Keenan Foland,0.2,FR  QB/S,#10,West Harrison,5,0,0
 Bryer Jack,0.0,FR  QB/DB,#14,HLV,0,0,0
 Trey Cota,0.0,FR  QB/LB,#10,Kee,0,0,0
 Dawson Evans,0.0,SO  QB/DB,#1,Lenox,0,0,0
@@ -99,5 +100,4 @@ Carter Anderson,0.0,JR  QB/DB,#15,Northwood-Kensett,0,0,0
 Jackson McDanel,0.0,SR  RB/LB,#30,Moravia,0,0,0
 Carson Ingles,0.0,SO  RB,#1,Edgewood-Colesburg,0,0,0
 Landon Lindgren,0.0,SO  RB/DB,#11,Lamoni,0,0,0
-Keenan Foland,0.0,FR  QB/S,#10,West Harrison,0,0,0
 Rider Kupka,0.0,SO  #21 GMG,,,0,0,0
