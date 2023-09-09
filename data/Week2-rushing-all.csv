@@ -22,6 +22,7 @@ Wyatt Oswald,JR,QB/LB,#10,Coon Rapids-Bayard,265,2
 Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,235,3
 Isaac Murphy,SR,RB/S,#1,GTRA,267,7
 Landon Lindgren,SO,RB/DB,#11,Lamoni,379,6
+Anthony Harrington,SO,QB/LB,#2,Midland,356,8
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,227,3
 Mason McIntosh,SR,QB/LB,#16,West Harrison,198,3
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,319,7
@@ -60,6 +61,7 @@ Triton Gwinn,SR,RB/LB,#22,Mormon Trail,170,3
 Brodie Ludwig,JR,RB/LB,#21,Woodbine,98,1
 Kooper Julseth,JR,WR/LB,#1,Northwood-Kensett,160,2
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,210,3
+Seth Bixler,SR,WR/S,#1,Midland,250,3
 Braden Jordan,SO,QB/LB,#10,Springville,158,1
 Brogyn Greensky,SR,QB/LB,#4,North Iowa,107,0
 Conner Nally,SR,QB/LB,#5,Bedford,240,6
@@ -84,7 +86,6 @@ Kasey Hough,JR,QB/S,#11,GTRA,130,5
 Klay Baker,JR,RB/LB,#17,St. Edmond,152,2
 Pryce Rochford,JR,QB,#22,Edgewood-Colesburg,461,10
 Slate Witte,SR,,#7,GMG,79,2
-Anthony Harrington,SO,QB/LB,#2,Midland,179,5
 Jackson Schulte,SR,RB/LB,#21,Kee,239,3
 Jayden Hanson,SR,QB/DB,#7,Central City,192,3
 Cade Robinson,JR,WR/CB,#12,Baxter,91,1
@@ -111,7 +112,6 @@ Jacob Berens,SR,RB/LB,#34,Boyer Valley,131,1
 Wyatt Nelson,JR,RB/DB,#9,West Central,166,3
 Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,66,2
 Grant Whitehead,JR,QB/DB,#15,Sidney,123,2
-Seth Bixler,SR,WR/S,#1,Midland,195,3
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,73,3
 Jordan Martin-England,JR,RB/LB,#18,Lenox,171,3
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,200,2
@@ -273,6 +273,7 @@ Callan Messerich,SO,WR/DB,#6,Easton Valley,35,1
 LaDarius Albright,JR,TE/LB,#9,Sidney,42,0
 Tate Mount,SO,QB/DB,#2,Sidney,-3,0
 Rylan Behrends,FR,RB/LB,#22,Sidney,10,0
+Sawyer House,SR,WR/CB,#4,Midland,9,0
 Wyatt Leonard,SO,RB/LB,#21,Lenox,9,0
 Braxton Davis,JR,WR/DB,#9,Twin Cedars,15,0
 Wyatt Silk,SO,WR/CB,#15,Griswold,5,0
@@ -305,7 +306,7 @@ Jordan Boehde,FR,RB/DB,#13,Easton Valley,-3,0
 Rider Kupka,SO,,#21,GMG,16,1
 Morgan Cooley,SO,OL/DL,#42,East Union,11,0
 Josh Lindsey,SO,WR/S,#36,Central City,8,0
-Sawyer House,SR,WR/CB,#4,Midland,9,0
+Dane Ballou,FR,QB/LB,#17,Midland,13,0
 Bryer Jack,FR,QB/DB,#14,HLV,-14,0
 Bryce Brabham,SO,RB/DB,#9,Exira-EHK,9,0
 Jarod Reams,JR,RB/DB,#8,Kee,9,0
@@ -354,7 +355,6 @@ Aiden Stenzel,SO,RB/DB,#20,Sidney,2,0
 Gabe Johnson,SR,QB/LB,#3,Sidney,11,1
 Rason Grail,SR,WR/DB,#23,East Union,4,0
 Chaz Cornelison,JR,RB/DB,#31,East Union,3,0
-Dane Ballou,FR,QB/LB,#17,Midland,5,0
 Wyatt Christiansen,SO,RB/LB,#10,Midland,-5,0
 Sean McCulloch,FR,QB/DB,#24,HLV,2,0
 Derek Kressley,FR,RB/LB,#10,Belle Plaine,10,0
