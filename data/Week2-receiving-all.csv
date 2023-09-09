@@ -14,6 +14,7 @@ Landon Blum,FR,WR/DB,#5,Woodbine,15,195,1
 Carter Seitz,JR,WR/DB,#7,Kee,14,333,6
 Declan DeJong,SO,TE/DE,#41,Moravia,14,198,4
 Josef Dvorak,JR,RB/DB,#25,Collins-Maxwell,13,201,2
+Isaac Murphy,SR,RB/S,#1,GTRA,13,204,4
 Callan Messerich,SO,WR/DB,#6,Easton Valley,13,224,4
 Michael Hensley,JR,RB/LB,#6,Sidney,13,269,2
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,12,137,2
@@ -28,10 +29,10 @@ Braxton Bormann,SO,RB/LB,#21,Central Elkader,10,54,1
 Dakota Heishman,JR,WR/DB,#8,BGM,10,125,1
 Aiden Klostermann,SR,RB/S,#10,Central City,9,151,3
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,9,110,0
-Isaac Murphy,SR,RB/S,#1,GTRA,9,175,4
 Dominic Coleman,SR,WR/DE,#23,BGM,9,162,4
 Evan Alt,SR,RB/LB,#4,Audubon,9,44,0
 Kolt Payne,JR,SL/CB,#24,Sidney,9,246,3
+Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,8,176,2
 Keyden Lown,JR,TE/DE,#84,English Valleys,8,111,4
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,8,106,1
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,8,204,1
@@ -53,6 +54,7 @@ Simon Showalter,JR,RB/LB,#6,Stanton,7,80,0
 Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,7,93,1
 Owen Garside,JR,S/QB,#3,Boyer Valley,7,90,1
 Evan Ten Eyck,SR,TE,#2,Boyer Valley,7,112,4
+Collin Hoffman,SR,QB/S,#14,GTRA,7,90,1
 Cole Milks,SR,RB/S,#11,Winfield-Mt Union,7,76,0
 Brayden Hepke,SR,WR/DB,#17,BGM,7,92,3
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,7,40,0
@@ -69,7 +71,6 @@ Oliver Schmitt,SR,FB,#22,Turkey Valley,6,48,3
 Luke Erselius,SO,WR/DB,#15,Montezuma,6,46,1
 Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,6,27,1
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,6,24,1
-Collin Hoffman,SR,QB/S,#14,GTRA,6,81,0
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,6,28,0
 Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,6,128,2
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,6,59,1
@@ -107,7 +108,10 @@ Rider Kupka,SO,,#21,GMG,5,33,1
 Wyatt Christiansen,SO,RB/LB,#10,Midland,4,27,0
 Kael Cress,JR,WR/S,#7,Midland,4,67,3
 Carter Sholtus,SR,WR/CB,#2,HLV,4,45,2
-Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,4,103,0
+Ty Alcott,JR,RB/DB,#24,Belle Plaine,4,53,0
+Riley Simmons,SR,E/DE,#85,Belle Plaine,4,67,3
+Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,4,35,0
+Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,4,101,0
 Ayden Lamb,FR,TE/LB,#18,Murray,4,20,1
 Jordan Martin-England,JR,RB/LB,#18,Lenox,4,36,0
 Dylan Linkenhoker,SR,,#21,Fremont-Mills,4,61,0
@@ -134,9 +138,10 @@ Ty Christensen,SO,,#5,Don Bosco,4,23,0
 Leo Ehn,SR,TE/LB,#80,St. Edmond,4,118,2
 Trevor Forey,SR,WR/S,#6,Janesville,4,114,3
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,4,70,1
+Landon Lindgren,SO,RB/DB,#11,Lamoni,4,52,0
+Kelan Stevenson,SO,TE/LB,#62,Lamoni,4,32,1
 Clay Westphal,SO,SL/S,#8,West Harrison,4,8,0
 Austin Lack,SR,WR/DB,#3,East Union,3,67,1
-Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,3,87,0
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,3,72,0
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,3,79,1
 Quintin White,SR,WR/DB,#3,Exira-EHK,3,30,0
@@ -158,6 +163,8 @@ Gage Samo,JR,WR/CB,#5,WACO,3,34,0
 Hunter Hughes,SR,CB/WR,#3,WACO,3,41,0
 Guyson Lyman,JR,TE/DE,#40,Newell-Fonda,3,45,0
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,3,32,0
+Braden Simington,SR,S/WR,#2,GTRA,3,55,0
+Caleb Swedin,SO,RB/LB,#7,GTRA,3,56,0
 Collin Homan,JR,OL/DL,#55,Remsen St. Mary's,3,44,1
 Ethan Schaufenbuel,SO,WR/CB,#20,Tripoli,3,34,0
 Tristan Freiberg,SR,WR/CB,#1,Tripoli,3,20,0
@@ -170,15 +177,15 @@ Grant Galles,SO,WR/DB,#6,St. Edmond,3,110,1
 Christopher Lange,SO,WR,#10,Edgewood-Colesburg,3,51,0
 Bennett Steger,SR,WR,#14,Edgewood-Colesburg,3,106,1
 Owen Murphy,JR,WR/S,#10,Bishop Garrigan,3,48,0
-Kelan Stevenson,SO,TE/LB,#62,Lamoni,3,13,1
+Creyton Ogier,SR,TE/DE,#5,Lamoni,3,86,1
 London Franklin,SO,RB/DE,#6,New London,3,88,1
 Jordan Boehde,FR,RB/DB,#13,Easton Valley,3,17,0
 Cole Bethune,JR,WR/S,#4,West Harrison,3,29,0
 Terrian Islas,JR,TE/DE,#5,East Union,2,9,0
 Cael Weisskopf,FR,RB/LB,#5,HLV,2,12,0
-Ty Alcott,JR,RB/DB,#24,Belle Plaine,2,11,0
-Riley Simmons,SR,E/DE,#85,Belle Plaine,2,35,1
-Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,2,13,0
+Wade Sankot,SO,RB/LB,#3,Belle Plaine,2,12,0
+Carter Fehr,SR,TE/DL,#13,West Bend-Mallard,2,7,1
+Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,2,23,0
 Aidan Yoch,SR,TE/DB,#14,West Bend-Mallard,2,22,0
 Bryce Brabham,SO,RB/DB,#9,Exira-EHK,2,28,1
 Jordan Cota,JR,TE/DE,#81,Kee,2,53,0
@@ -208,8 +215,7 @@ Blake Helmick,JR,OG/DE,#87,Moravia,2,13,1
 Jacksyn Hogrefe,SO,RB/DB,#26,Newell-Fonda,2,15,0
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,2,33,0
 Lucas Dirkx,SO,TE/DE,#40,Southeast Warren,2,22,0
-Braden Simington,SR,S/WR,#2,GTRA,2,35,0
-Caleb Swedin,SO,RB/LB,#7,GTRA,2,27,0
+Landen Dietrich,FR,RB/LB,#27,GTRA,2,77,1
 Sam Schmillen,JR,WR/LB,#10,Remsen St. Mary's,2,19,1
 Breckin Clatt,JR,RB/DB,#14,Colo-Nesco,2,4,0
 Lucas Daggett,JR,TE/LB,#35,Colo-Nesco,2,14,1
@@ -225,7 +231,6 @@ Dillon Reed,SO,WR/DB,#11,Woodbine,2,19,0
 Collin Bower,SO,TE/DB,#25,CAM,2,32,1
 Kinnick Henning,SO,RB/LB,#22,St. Edmond,2,54,2
 Mason Hoy,SO,RB/CB,#9,Springville,2,14,0
-Landon Lindgren,SO,RB/DB,#11,Lamoni,2,10,0
 Logan Franklin,SO,WR/DB,#7,New London,2,16,0
 Ezekiel Konkler,SR,WR/CB,#20,Audubon,2,1,0
 Mason McIntosh,SR,QB/LB,#16,West Harrison,2,37,0
@@ -238,7 +243,7 @@ Gabe Johnson,SR,QB/LB,#3,Sidney,2,11,0
 Mekhi Benton,SR,TE/DE,#34,Central City,1,27,1
 Chris Hanson,FR,FB/LB,#32,Central City,1,3,0
 Devon Weisskopf,JR,RB/LB,#32,HLV,1,4,0
-Wade Sankot,SO,RB/LB,#3,Belle Plaine,1,1,0
+Lane Vokoun,JR,RB/DB,#35,Belle Plaine,1,12,0
 Kaleb Drape,SR,WR/LB,#6,Kee,1,17,1
 Andrew Kolsrud,SR,WR/CB,#16,Kee,1,8,0
 Tanner Troendle,FR,RB/DB,#23,Kee,1,30,0
@@ -294,7 +299,6 @@ Isaac Rich,JR,CB/WR,#10,WACO,1,13,0
 Ty Tauber,SR,OT/LB,#25,Newell-Fonda,1,14,1
 Robert Beardsley,JR,WR/DB,#18,Southeast Warren,1,1,0
 Isaiah Malm,JR,S/WR,#24,GTRA,1,48,0
-Landen Dietrich,FR,RB/LB,#27,GTRA,1,26,0
 Cade Tentinger,JR,RB/DB,#5,Remsen St. Mary's,1,5,0
 Mark Bower,JR,RB/DB,#25,Colo-Nesco,1,8,0
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,1,0,0
@@ -323,7 +327,6 @@ Nathan Findlay,SO,RB/LB,#10,BGM,1,3,0
 Beckett Rhoads,SO,WR/DB,#1,BGM,1,13,0
 Tucker Wright,JR,RB/DB,#6,BGM,1,0,0
 Benjy Trainer,SR,TE/LB,#4,Bishop Garrigan,1,13,0
-Creyton Ogier,SR,TE/DE,#5,Lamoni,1,-2,0
 Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,1,35,1
 Israel Lemley,FR,WR/DB,#25,New London,1,37,1
 Michael Raines,SR,TE/LB,#26,New London,1,1,0
