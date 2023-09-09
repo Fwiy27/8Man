@@ -27,9 +27,11 @@ Colton Leichty,10.2,SR,TE/LB,#23,WACO,5.0,52.0,0.0
 Caleb Haack,11.9,JR,WR/DB,#7,Iowa Valley,2.0,39.0,1.0
 Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0,0.0
 Dakota Heishman,0.0,JR,WR/DB,#8,BGM,0.0,0.0,0.0
+Rason Grail,8.7,SR,WR/DB,#23,East Union,4.0,47.0,0.0
 Aiden Klostermann,2.2,SR,RB/S,#10,Central City,1.0,12.0,0.0
 Holden Roberts,0.0,SO,TE/DE,#13,Twin Cedars,0.0,0.0,0.0
 Chase Klatt,11.0,SO,TE/CB,#4,Calamus-Wheatland,2.0,30.0,1.0
+Trevor Forey,15.4,SR,WR/S,#6,Janesville,5.0,44.0,1.0
 Dominic Coleman,0.0,SR,WR/DE,#23,BGM,0.0,0.0,0.0
 Evan Alt,3.3,SR,RB/LB,#4,Audubon,2.0,13.0,0.0
 Kolt Payne,10.1,JR,SL/CB,#24,Sidney,2.0,21.0,1.0
@@ -61,6 +63,7 @@ Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
 Sam Plathe,0.0,SR,WR/CB,#24,Bishop Garrigan,0.0,0.0,0.0
 Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
+Austin Lack,7.3,SR,WR/DB,#3,East Union,3.0,43.0,0.0
 Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0,0.0
 Tyler Ballard,0.0,SR,TE/DE,#22,HLV,0.0,0.0,0.0
 Lucas Madison,26.7,SR,,#5,Fremont-Mills,6.0,87.0,2.0
@@ -82,7 +85,6 @@ Conlin Rouse,0.0,SO,RB/LB,#11,Springville,0.0,0.0,0.0
 Tate Martin,0.0,JR,RB/LB,#33,BGM,0.0,0.0,0.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
 Braedon Godfread,9.0,JR,TE/S,#10,Sidney,3.0,60.0,0.0
-Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0,0.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0,0.0
 Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0,0.0
 Logan French,3.5,SR,WR/DB,#1,Stanton,1.0,25.0,0.0
@@ -136,12 +138,10 @@ Cal Peterman,1.0,JR,WR/LB,#15,Bedford,1.0,0.0,0.0
 Carter Loyd,0.0,SR,RB/S,#2,Winfield-Mt Union,0.0,0.0,0.0
 Ty Christensen,6.3,SO,,#5,Don Bosco,4.0,23.0,0.0
 Leo Ehn,0.0,SR,TE/LB,#80,St. Edmond,0.0,0.0,0.0
-Trevor Forey,0.0,SR,WR/S,#6,Janesville,0.0,0.0,0.0
 Justin Bauer,0.0,SR,WR/CB,#12,Bishop Garrigan,0.0,0.0,0.0
 Landon Lindgren,6.2,SO,RB/DB,#11,Lamoni,2.0,42.0,0.0
 Kelan Stevenson,2.9,SO,TE/LB,#62,Lamoni,1.0,19.0,0.0
 Clay Westphal,4.8,SO,SL/S,#8,West Harrison,4.0,8.0,0.0
-Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0,0.0
 Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0,0.0
 Cannon Hansen,0.0,JR,TE/DL,#33,Exira-EHK,0.0,0.0,0.0
 Quintin White,0.0,SR,WR/DB,#3,Exira-EHK,0.0,0.0,0.0
@@ -320,6 +320,8 @@ Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0,0.0
 Jakob Koopman,0.0,SO,SL/LB,#8,St. Edmond,0.0,0.0,0.0
 Dominic McClain,0.0,JR,WR/DB,#7,St. Edmond,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
+Gabe Meaney,1.4,JR,TE/DE,#16,Janesville,1.0,4.0,0.0
+Talan Pletz,1.8,SO,RB/LB,#5,Janesville,1.0,8.0,0.0
 Kahl Shanahan,0.0,JR,TE/LB,#24,Springville,0.0,0.0,0.0
 Jordan Goad,8.1,JR,QB/CB,#1,Springville,1.0,11.0,1.0
 Braden Jordan,-8.1,SO,QB/LB,#10,Springville,-1.0,-11.0,-1.0

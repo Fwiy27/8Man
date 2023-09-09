@@ -27,9 +27,11 @@ Colton Leichty,SR,TE/LB,#23,WACO,11,113,1
 Caleb Haack,JR,WR/DB,#7,Iowa Valley,11,268,3
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,10,54,1
 Dakota Heishman,JR,WR/DB,#8,BGM,10,125,1
+Rason Grail,SR,WR/DB,#23,East Union,9,163,3
 Aiden Klostermann,SR,RB/S,#10,Central City,9,151,3
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,9,110,0
 Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,9,123,2
+Trevor Forey,SR,WR/S,#6,Janesville,9,158,4
 Dominic Coleman,SR,WR/DE,#23,BGM,9,162,4
 Evan Alt,SR,RB/LB,#4,Audubon,9,44,0
 Kolt Payne,JR,SL/CB,#24,Sidney,9,246,3
@@ -61,6 +63,7 @@ Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,7,40,0
 Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,7,101,2
 Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,7,54,0
 Justin Weispfenning,JR,RB/DB,#3,Easton Valley,7,55,1
+Austin Lack,SR,WR/DB,#3,East Union,6,110,1
 Seth Bixler,SR,WR/S,#1,Midland,6,79,1
 Tyler Ballard,SR,TE/DE,#22,HLV,6,112,0
 Lucas Madison,SR,,#5,Fremont-Mills,6,87,2
@@ -82,7 +85,6 @@ Conlin Rouse,SO,RB/LB,#11,Springville,6,84,1
 Tate Martin,JR,RB/LB,#33,BGM,6,79,2
 Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,6,59,1
 Braedon Godfread,JR,TE/S,#10,Sidney,6,84,2
-Rason Grail,SR,WR/DB,#23,East Union,5,116,3
 Nolan Gannon,FR,RB/LB,#34,Murray,5,75,1
 Gio Cruz,SR,RB/DB,#5,Lenox,5,48,1
 Logan French,SR,WR/DB,#1,Stanton,5,96,1
@@ -136,12 +138,10 @@ Cal Peterman,JR,WR/LB,#15,Bedford,4,59,2
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,4,85,1
 Ty Christensen,SO,,#5,Don Bosco,4,23,0
 Leo Ehn,SR,TE/LB,#80,St. Edmond,4,118,2
-Trevor Forey,SR,WR/S,#6,Janesville,4,114,3
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,4,70,1
 Landon Lindgren,SO,RB/DB,#11,Lamoni,4,52,0
 Kelan Stevenson,SO,TE/LB,#62,Lamoni,4,32,1
 Clay Westphal,SO,SL/S,#8,West Harrison,4,8,0
-Austin Lack,SR,WR/DB,#3,East Union,3,67,1
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,3,72,0
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,3,79,1
 Quintin White,SR,WR/DB,#3,Exira-EHK,3,30,0
@@ -320,6 +320,8 @@ Reagan Richardson,FR,RB,#22,Riceville,1,6,0
 Jakob Koopman,SO,SL/LB,#8,St. Edmond,1,30,1
 Dominic McClain,JR,WR/DB,#7,St. Edmond,1,40,0
 Sam Myer,JR,LB/RB,#33,St. Edmond,1,20,0
+Gabe Meaney,JR,TE/DE,#16,Janesville,1,4,0
+Talan Pletz,SO,RB/LB,#5,Janesville,1,8,0
 Kahl Shanahan,JR,TE/LB,#24,Springville,1,8,0
 Jordan Goad,JR,QB/CB,#1,Springville,1,11,1
 Braden Jordan,SO,QB/LB,#10,Springville,1,1,0
