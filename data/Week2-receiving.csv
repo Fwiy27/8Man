@@ -29,6 +29,7 @@ Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0,0.0
 Dakota Heishman,0.0,JR,WR/DB,#8,BGM,0.0,0.0,0.0
 Aiden Klostermann,2.2,SR,RB/S,#10,Central City,1.0,12.0,0.0
 Holden Roberts,0.0,SO,TE/DE,#13,Twin Cedars,0.0,0.0,0.0
+Chase Klatt,11.0,SO,TE/CB,#4,Calamus-Wheatland,2.0,30.0,1.0
 Dominic Coleman,0.0,SR,WR/DE,#23,BGM,0.0,0.0,0.0
 Evan Alt,3.3,SR,RB/LB,#4,Audubon,2.0,13.0,0.0
 Kolt Payne,10.1,JR,SL/CB,#24,Sidney,2.0,21.0,1.0
@@ -51,7 +52,6 @@ Matt Sauer,0.0,SR,TE/DE,#82,Midland,0.0,0.0,0.0
 Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0,0.0
 JW Linkenhoker,42.3,SO,,#11,Fremont-Mills,7.0,113.0,4.0
 Simon Showalter,9.4,JR,RB/LB,#6,Stanton,4.0,54.0,0.0
-Chase Klatt,0.0,SO,TE/CB,#4,Calamus-Wheatland,0.0,0.0,0.0
 Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
 Collin Hoffman,7.9,SR,QB/S,#14,GTRA,1.0,9.0,1.0
@@ -86,6 +86,7 @@ Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0,0.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0,0.0
 Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0,0.0
 Logan French,3.5,SR,WR/DB,#1,Stanton,1.0,25.0,0.0
+Samuel Dascher,1.2,SO,TE/CB,#31,Calamus-Wheatland,1.0,2.0,0.0
 Lane Oswalt,0.0,SR,WR/DB,#87,Collins-Maxwell,0.0,0.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
@@ -119,7 +120,6 @@ Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0,0.0
 Cody Dorscher,0.0,JR,WR/CB,#24,Griswold,0.0,0.0,0.0
 Gavin Ford,0.0,JR,QB/LB,#12,Stanton,0.0,0.0,0.0
 Johnny Resh,1.5,SR,TE/DL,#20,Stanton,1.0,5.0,0.0
-Samuel Dascher,0.0,SO,TE/CB,#31,Calamus-Wheatland,0.0,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0,0.0
 Drew Eilers,9.1,JR,WR/DL,#2,Gladbrook-Reinbeck,1.0,21.0,1.0
 Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0,0.0
@@ -195,6 +195,7 @@ Conner Bowers,0.0,JR,TE/CB,#21,Griswold,0.0,0.0,0.0
 Zane Johnson,0.0,JR,RB/LB,#7,Griswold,0.0,0.0,0.0
 Mason Steinhoff,0.0,SO,RB/LB,#11,Griswold,0.0,0.0,0.0
 Brayden Svejda,0.0,JR,QB/CB,#1,Calamus-Wheatland,0.0,0.0,0.0
+Kellen Whitman,3.3,FR,FB/LB,#32,Calamus-Wheatland,2.0,13.0,0.0
 Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0,0.0
 Layne Mastin,0.0,SR,OG/DE,#11,East Mills,0.0,0.0,0.0
 Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0,0.0

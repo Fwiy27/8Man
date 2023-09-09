@@ -16,6 +16,7 @@ Adam Scott,11.4,SR,RB/LB,#26,West Central,114.0,0.0
 Louden Huisenga,4.4,JR,RB/LB,#8,WACO,44.0,0.0
 Colby Wallace,0.0,JR,QB/S,#11,Glidden-Ralston,0.0,0.0
 Wyatt Oswald,10.4,JR,QB/LB,#10,Coon Rapids-Bayard,104.0,0.0
+Brody Koch,22.6,SO,RB/LB,#5,Calamus-Wheatland,106.0,2.0
 Isaac Murphy,32.7,SR,RB/S,#1,GTRA,147.0,3.0
 Landon Lindgren,20.0,SO,RB/DB,#11,Lamoni,80.0,2.0
 Cole Fehr,0.6,JR,RB/LB,#33,West Bend-Mallard,6.0,0.0
@@ -41,6 +42,7 @@ Broox Stockman,8.3,SO,RB/LB,#20,Montezuma,23.0,1.0
 Dane Appleby,0.0,JR,QB/LB,#4,Janesville,0.0,0.0
 Garrison Motsinger,23.8,JR,RB/S,#4,Bedford,118.0,2.0
 Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
+Luke Rohling,10.1,SR,FB/LB,#16,Calamus-Wheatland,41.0,1.0
 Burke Busta,15.2,SR,FB,#9,Turkey Valley,92.0,1.0
 Silas Walston,22.4,SR,RB/DE,#33,Bedford,104.0,2.0
 Evan Alt,70.1,SR,RB/LB,#4,Audubon,281.0,7.0
@@ -70,7 +72,6 @@ Landon Waldschmitt,0.0,JR,QB/DB,#7,Remsen St. Mary's,0.0,0.0
 Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0
 Lane Vokoun,9.7,JR,RB/DB,#35,Belle Plaine,37.0,1.0
-Luke Rohling,0.0,SR,FB/LB,#16,Calamus-Wheatland,0.0,0.0
 Talan Pletz,0.0,SO,RB/LB,#5,Janesville,0.0,0.0
 Nolan Gannon,4.6,FR,RB/LB,#34,Murray,46.0,0.0
 Josef Dvorak,15.2,JR,RB/DB,#25,Collins-Maxwell,92.0,1.0
@@ -85,7 +86,6 @@ Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0
 Jayden Hanson,15.2,SR,QB/DB,#7,Central City,92.0,1.0
 Gabe Funk,0.0,JR,QB/DB,#17,Lenox,0.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
-Brody Koch,0.0,SO,RB/LB,#5,Calamus-Wheatland,0.0,0.0
 Brayden Svejda,0.0,JR,QB/CB,#1,Calamus-Wheatland,0.0,0.0
 Levi Reineke,2.2,SO,LB/RB,#29,Boyer Valley,22.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0
@@ -158,6 +158,7 @@ Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0
 Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0
 Aidan Timm,0.0,SO,QB/DB,#9,Belle Plaine,0.0,0.0
 Zane Johnson,0.0,JR,RB/LB,#7,Griswold,0.0,0.0
+Chase Klatt,5.0,SO,TE/CB,#4,Calamus-Wheatland,50.0,0.0
 David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0
 Wyatt Throckmorton,0.0,SR,WR/LB,#23,Moravia,0.0,0.0
 Caleb Swedin,16.6,SO,RB/LB,#7,GTRA,46.0,2.0
@@ -366,6 +367,7 @@ Caden Kaufman,0.0,FR,RB/LB,#15,Lenox,0.0,0.0
 Mathew Lamkins,0.0,SR,,#32,Fremont-Mills,0.0,0.0
 Keeten Chenet,0.0,FR,RB/LB,#26,Twin Cedars,0.0,0.0
 Johnny Resh,-0.4,SR,TE/DL,#20,Stanton,-4.0,0.0
+Kellen Whitman,0.4,FR,FB/LB,#32,Calamus-Wheatland,4.0,0.0
 Nate Smith,0.0,JR,RB/DB,#21,Collins-Maxwell,0.0,0.0
 Urijah Courter,0.0,FR,RB/DB,#10,Collins-Maxwell,0.0,0.0
 Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0

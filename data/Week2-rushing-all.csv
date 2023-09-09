@@ -16,6 +16,7 @@ Adam Scott,SR,RB/LB,#26,West Central,301,2
 Louden Huisenga,JR,RB/LB,#8,WACO,261,3
 Colby Wallace,JR,QB/S,#11,Glidden-Ralston,289,5
 Wyatt Oswald,JR,QB/LB,#10,Coon Rapids-Bayard,265,2
+Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,235,3
 Isaac Murphy,SR,RB/S,#1,GTRA,267,7
 Landon Lindgren,SO,RB/DB,#11,Lamoni,379,6
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,227,3
@@ -41,6 +42,7 @@ Broox Stockman,SO,RB/LB,#20,Montezuma,180,2
 Dane Appleby,JR,QB/LB,#4,Janesville,293,6
 Garrison Motsinger,JR,RB/S,#4,Bedford,321,6
 Fischer Buffington,JR,RB/DE,#12,East Union,205,1
+Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,153,2
 Burke Busta,SR,FB,#9,Turkey Valley,161,2
 Silas Walston,SR,RB/DE,#33,Bedford,250,4
 Evan Alt,SR,RB/LB,#4,Audubon,317,7
@@ -70,7 +72,6 @@ Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,276,5
 Jordan Goad,JR,QB/CB,#1,Springville,81,1
 James Buhlman,FR,RB/LB,#27,Easton Valley,121,1
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,194,5
-Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,112,1
 Talan Pletz,SO,RB/LB,#5,Janesville,162,1
 Nolan Gannon,FR,RB/LB,#34,Murray,118,4
 Josef Dvorak,JR,RB/DB,#25,Collins-Maxwell,144,2
@@ -85,7 +86,6 @@ Mason Hoy,SO,RB/CB,#9,Springville,303,6
 Jayden Hanson,SR,QB/DB,#7,Central City,192,3
 Gabe Funk,JR,QB/DB,#17,Lenox,233,6
 McKoy Nuss,SO,QB/LB,#13,Tripoli,84,1
-Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,129,1
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,239,5
 Levi Reineke,SO,LB/RB,#29,Boyer Valley,122,1
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,206,4
@@ -158,6 +158,7 @@ Kinnick Henning,SO,RB/LB,#22,St. Edmond,87,1
 Devon Weisskopf,JR,RB/LB,#32,HLV,26,0
 Aidan Timm,SO,QB/DB,#9,Belle Plaine,65,2
 Zane Johnson,JR,RB/LB,#7,Griswold,36,0
+Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,50,0
 David Rose,JR,WR/DB,#5,Montezuma,42,0
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,48,0
 Caleb Swedin,SO,RB/LB,#7,GTRA,53,2
@@ -366,6 +367,7 @@ Caden Kaufman,FR,RB/LB,#15,Lenox,2,0
 Mathew Lamkins,SR,,#32,Fremont-Mills,5,0
 Keeten Chenet,FR,RB/LB,#26,Twin Cedars,10,0
 Johnny Resh,SR,TE/DL,#20,Stanton,-4,0
+Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,4,0
 Nate Smith,JR,RB/DB,#21,Collins-Maxwell,3,0
 Urijah Courter,FR,RB/DB,#10,Collins-Maxwell,2,0
 Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,2,0
