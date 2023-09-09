@@ -181,7 +181,7 @@ David Rose,0.0,WR/DB,Montezuma
 Dawson Smith,0.0,RB/LB,Iowa Valley
 Declan DeJong,0.0,TE/DE,Moravia
 Degin Dixson,0.0,QB/CB,Mormon Trail
-Derek Bartlett,0.0,LB/RB,Stanton
+Derek Bartlett,9.9,LB/RB,Stanton
 Derek Kressley,0.0,RB/LB,Belle Plaine
 Deshon Anderson,0.0,RB/LB,English Valleys
 Devin Meyer,0.0,TE/LB,Harris-Lake Park
@@ -229,7 +229,7 @@ Gannon Short,0.0,RB/DB,Colo-Nesco
 Garrett Watts,0.0,WR/DB,Montezuma
 Garrison Motsinger,23.8,RB/S,Bedford
 Gavin Clark,0.0,RB/LB,Twin Cedars
-Gavin Ford,0.0,QB/LB,Stanton
+Gavin Ford,-0.1,QB/LB,Stanton
 Gavin Menke-Bailey,0.0,QB/LB,New London
 Gavyn Thordarson,0.0,RB/DE,Melcher-Dallas
 Gio Cruz,0.0,RB/DB,Lenox
@@ -275,7 +275,7 @@ Jackson Schulte,0.0,RB/LB,Kee
 Jackson Stansberry,0.0,WR/DB,Siouxland Christian
 Jacksyn Hogrefe,0.0,RB/DB,Newell-Fonda
 Jacob Berens,16.0,RB/LB,Boyer Valley
-Jacob Martin,0.0,RB/LB,Stanton
+Jacob Martin,24.7,RB/LB,Stanton
 Jacob Morey,0.0,OL/DL,Tripoli
 Jacob Snyder,0.0,OL/DL,Dunkerton
 Jader Sanchez,0.0,RB/DB,Lone Tree
@@ -307,7 +307,7 @@ John Stauffer,0.0,TE/LB,Clarksville
 Johnathan Riesselman,0.0,WR/DB,Ar-We-Va
 Johnny Adams,1.0,WR,Riceville
 Johnny Milburn,0.0,QB/DB,Southeast Warren
-Johnny Resh,0.0,TE/DL,Stanton
+Johnny Resh,1.1,TE/DL,Stanton
 Jordan Boehde,0.0,RB/DB,Easton Valley
 Jordan Cota,4.7,TE/DE,Kee
 Jordan Goad,8.1,QB/CB,Springville
@@ -383,7 +383,7 @@ Lincoln Albertson,0.0,RB/LB,Moravia
 Logan Boldt,0.0,WR/LB,Tripoli
 Logan Busta,17.24,QB/DB,Turkey Valley
 Logan Franklin,0.0,WR/DB,New London
-Logan French,0.0,WR/DB,Stanton
+Logan French,12.9,WR/DB,Stanton
 Logan Grimm,0.0,RB/LB,West Bend-Mallard
 Logan Sharpe,0.0,RB/LB,Central Elkader
 London Franklin,0.0,RB/DE,New London
@@ -435,7 +435,7 @@ Noah Connelly,0.2,WR/DB,Kee
 Nolan Birdsall,19.2,RB/LB,West Harrison
 Nolan Cushion,6.9,TE/DE,West Central
 Nolan Gannon,0.0,RB/LB,Murray
-Nolan Grebin,0.0,QB/S,Stanton
+Nolan Grebin,12.9,QB/S,Stanton
 Nolan Kriegel,0.0,QB/DB,Iowa Valley
 Oliver Longerbeam,0.0,QB/DB,Springville
 Oliver Schmitt,25.56,FB,Turkey Valley
@@ -479,7 +479,7 @@ Seth Hudson,0.0,QB/S,East Union
 Shane Helmick,0.0,QB/DE,Moravia
 Sheldon Vandenberg,0.0,OG/LB,East Mills
 Silas Walston,22.4,RB/DE,Bedford
-Simon Showalter,0.0,RB/LB,Stanton
+Simon Showalter,11.9,RB/LB,Stanton
 Slate Witte,0.0,,GMG
 Stadan Vansice,0.0,WR/LB,Baxter
 Talan Jacobsen,0.0,QB/LB,North Iowa
