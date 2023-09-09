@@ -1,8 +1,8 @@
 Name,Points,YP,Number,School,YDS,TDS,INT
+Perrin Sulzle,26.88,JR  QB/LB,#7,Baxter,297,4,1
 Brady Boulton,16.48,SO  QB/DB,#1,Montezuma,112,3,0
 Shane Helmick,24.76,SR  QB/DE,#12,Moravia,219,4,0
 Mason McIntosh,12.0,SR  QB/LB,#16,West Harrison,175,2,3
-Perrin Sulzle,0.0,JR  QB/LB,#7,Baxter,0,0,0
 Blayne Smith,0.0,JR  QB/DB,#15,Ar-We-Va,0,0,0
 Caden Page,30.16,JR  QB/LB,#8,Murray,154,6,0
 Beau Burns,0.0,SO  QB/DB,#2,BGM,0,0,0
@@ -13,6 +13,7 @@ Kooper Julseth,0.0,JR  WR/LB,#1,Northwood-Kensett,0,0,0
 Clayton Miller,6.6,JR  QB/CB,#4,WACO,90,1,1
 Brodyn Pryor,0.0,SO  QB/DB,#8,Woodbine,0,0,0
 Cooper Wierson,-0.4,SO  QB/LB,#1,Collins-Maxwell,65,0,3
+Judah Bielenberg,6.28,JR  QB/LB,#10,Siouxland Christian,207,0,2
 Nolan Grebin,14.2,SR  QB/S,#2,Stanton,180,2,1
 Jake Edwards,2.52,JR  QB/S,#3,Winfield-Mt Union,88,0,1
 Wyatt Oswald,12.72,JR  QB/LB,#10,Coon Rapids-Bayard,118,2,0
@@ -32,7 +33,6 @@ Jamison Ewing,10.2,SO  WR/CB,#8,Southeast Warren,80,2,1
 Landon Waldschmitt,0.0,JR  QB/DB,#7,Remsen St. Mary's,0,0,0
 Gavin Menke-Bailey,0.0,JR  QB/LB,#5,New London,0,0,0
 Seth Hudson,0.6,SR  QB/S,#7,East Union,90,0,3
-Judah Bielenberg,0.0,JR  QB/LB,#10,Siouxland Christian,0,0,0
 Brogyn Greensky,0.0,SR  QB/LB,#4,North Iowa,0,0,0
 Caleb Urban,0.0,JR  WR/CB,#3,East Mills,0,0,0
 JT Laufersweiler,0.0,SR  QB/DB,#11,St. Edmond,0,0,0
@@ -60,18 +60,18 @@ Conner Nally,0.0,SR  QB/LB,#5,Bedford,0,0,0
 Kale Doeppke,0.0,SR  WR/DB,#5,Central Elkader,0,0,0
 Jed Tyler,0.8,SR  QB/DB,#7,West Central,45,0,1
 Max Carlson,0.0,JR  QB/LB,#10,Newell-Fonda,0,0,0
+Mason Hoy,12.6,SO  RB/CB,#9,Springville,115,2,0
 Wyatt Silk,0.0,SO  WR/CB,#15,Griswold,0,0,0
 Colby Wallace,0.0,JR  QB/S,#11,Glidden-Ralston,0,0,0
 McKoy Nuss,0.0,SO  QB/LB,#13,Tripoli,0,0,0
 Ambrose Savage,8.96,JR  QB/LB,#12,Lamoni,149,1,1
 Brayden Svejda,0.0,JR  QB/CB,#1,Calamus-Wheatland,0,0,0
 Owen Garside,-0.84,JR  S/QB,#3,Boyer Valley,4,0,1
-Braden Jordan,0.0,SO  QB/LB,#10,Springville,0,0,0
+Braden Jordan,-1.0,SO  QB/LB,#10,Springville,0,0,1
 Pryce Rochford,0.0,JR  QB,#22,Edgewood-Colesburg,0,0,0
 Aidan Timm,1.68,SO  QB/DB,#9,Belle Plaine,42,0,0
 Ethan Bockelman,0.0,SR  QB/DB,#22,Lone Tree,0,0,0
 Jack Angell,0.0,SO  QB/DB,#18,Colo-Nesco,0,0,0
-Mason Hoy,0.0,SO  RB/CB,#9,Springville,0,0,0
 Bode Wyman,0.0,JR  QB/CB,#8,Griswold,0,0,0
 Colby Eskildsen,0.0,JR  TE/DL,#12,Northwood-Kensett,0,0,0
 Cale Langreck,0.0,FR  QB/LB,#10,Turkey Valley,0,0,0
