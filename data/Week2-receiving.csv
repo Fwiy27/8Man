@@ -87,6 +87,7 @@ Andrew Beran,3.0,JR,RB,#2,Riceville,2.0,10.0,0.0
 Kaden Kobliska,8.7,SR,WR,#8,Riceville,5.0,37.0,0.0
 Tate Martin,0.0,JR,RB/LB,#33,BGM,0.0,0.0,0.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
+Cale Westerbeck,9.0,SO,WR/DB,#4,New London,1.0,20.0,1.0
 Braedon Godfread,9.0,JR,TE/S,#10,Sidney,3.0,60.0,0.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0,0.0
 Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0,0.0
@@ -108,7 +109,6 @@ Ian Smith,10.7,JR,TE/LB,#5,Iowa Valley,2.0,27.0,1.0
 Jack Follmann,0.0,SR,TE/LB,#40,CAM,0.0,0.0,0.0
 Will Felper,0.0,SR,SL,#18,Riceville,0.0,0.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
-Cale Westerbeck,0.0,SO,WR/DB,#4,New London,0.0,0.0,0.0
 Edward Miller,6.8,SR,TE/DE,#31,Audubon,2.0,48.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0,0.0
 Rider Kupka,14.3,SO,,#21,GMG,5.0,33.0,1.0
@@ -180,6 +180,7 @@ Christopher Lange,0.0,SO,WR,#10,Edgewood-Colesburg,0.0,0.0,0.0
 Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
 Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0,0.0
 Creyton Ogier,16.8,SR,TE/DE,#5,Lamoni,2.0,88.0,1.0
+Logan Franklin,1.6,SO,WR/DB,#7,New London,1.0,6.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0,0.0
 Jordan Boehde,0.0,FR,RB/DB,#13,Easton Valley,0.0,0.0,0.0
 Cole Bethune,4.2,JR,WR/S,#4,West Harrison,2.0,22.0,0.0
@@ -235,7 +236,6 @@ Collin Bower,0.0,SO,TE/DB,#25,CAM,0.0,0.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0,0.0
 Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0,0.0
 Braden Jordan,-2.4,SO,QB/LB,#10,Springville,0.0,36.0,-1.0
-Logan Franklin,0.0,SO,WR/DB,#7,New London,0.0,0.0,0.0
 Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison,0.0,0.0,0.0
 Carson Hopkins,0.0,FR,TE/LB,#15,West Harrison,0.0,0.0,0.0
