@@ -13,6 +13,7 @@ Jamison Martin,23.3,JR,RB/DB,#11,West Harrison,5.0,63.0,2.0
 Cal Heydon,14.8,SO,QB/DB,#11,Coon Rapids-Bayard,3.0,58.0,1.0
 Landon Blum,0.0,FR,WR/DB,#5,Woodbine,0.0,0.0,0.0
 Carter Seitz,18.7,JR,WR/DB,#7,Kee,3.0,97.0,1.0
+Dalton Weepie,20.2,JR,TE/LB,#33,Dunkerton,3.0,52.0,2.0
 Declan DeJong,10.8,SO,TE/DE,#41,Moravia,4.0,68.0,0.0
 Caleb Hemphill,17.1,SR,RB/LB,#3,Harris-Lake Park,8.0,91.0,0.0
 Josef Dvorak,1.9,JR,RB/DB,#25,Collins-Maxwell,1.0,9.0,0.0
@@ -23,7 +24,6 @@ Michael Hensley,6.5,JR,RB/LB,#6,Sidney,2.0,45.0,0.0
 Brogan Ewing,24.4,JR,WR/CB,#10,Southeast Warren,5.0,74.0,2.0
 Jabari Woodbury,27.6,SR,,#2,GMG,12.0,156.0,0.0
 Cainan Travis,14.6,JR,WR/LB,#20,Baxter,4.0,46.0,1.0
-Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Jed Bielenberg,9.7,SR,DE/WR,#15,Siouxland Christian,3.0,67.0,0.0
 Cruz DeJong,12.8,SR,TE/LB,#40,Montezuma,3.0,38.0,1.0
 Colby Eskildsen,16.2,JR,TE/DL,#12,Northwood-Kensett,5.0,52.0,1.0
@@ -79,6 +79,7 @@ Jacob Martin,23.6,JR,RB/LB,#3,Stanton,2.0,96.0,2.0
 Jack Gordon,0.0,SR,WR/DL,#18,East Mills,0.0,0.0,0.0
 Levi Reineke,0.0,SO,LB/RB,#29,Boyer Valley,0.0,0.0,0.0
 Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0,0.0
+Cristian Brown,14.2,SR,WR/DB,#47,Dunkerton,2.0,62.0,1.0
 Luke Erselius,3.8,SO,WR/DB,#15,Montezuma,2.0,18.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
@@ -129,7 +130,6 @@ Johnny Resh,1.5,SR,TE/DL,#20,Stanton,1.0,5.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0,0.0
 Drew Eilers,9.1,JR,WR/DL,#2,Gladbrook-Reinbeck,1.0,21.0,1.0
 Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0,0.0
-Cristian Brown,0.0,SR,WR/DB,#47,Dunkerton,0.0,0.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0,0.0
 Anthony Eisele,0.0,SR,OL/DL,#55,North Iowa,0.0,0.0,0.0
 Ryker Hoffman,9.4,JR,WR/CB,#2,Rockford,4.0,54.0,0.0
@@ -204,6 +204,7 @@ Layne Mastin,0.0,SR,OG/DE,#11,East Mills,0.0,0.0,0.0
 Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0,0.0
 Caleb Kurtenbach,0.0,SR,QB,#5,Turkey Valley,0.0,0.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
+Grant Finck,3.2,JR,RB/LB,#10,Dunkerton,2.0,12.0,0.0
 Jackson Stansberry,1.6,SO,WR/DB,#22,Siouxland Christian,1.0,6.0,0.0
 Adam Scott,0.0,SR,RB/LB,#26,West Central,0.0,0.0,0.0
 Mark Lensch,0.0,SR,TE/LB,#33,Glidden-Ralston,0.0,0.0,0.0
