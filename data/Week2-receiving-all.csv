@@ -64,7 +64,6 @@ Simon Showalter,JR,RB/LB,#6,Stanton,7,80,0
 Owen Garside,JR,S/QB,#3,Boyer Valley,7,90,1
 Evan Ten Eyck,SR,TE,#2,Boyer Valley,7,112,4
 Collin Hoffman,SR,QB/S,#14,GTRA,7,90,1
-Cole Milks,SR,RB/S,#11,Winfield-Mt Union,7,76,0
 Ty Christensen,SO,,#5,Don Bosco,7,70,1
 Jack Follmann,SR,TE/LB,#40,CAM,7,161,2
 Brayden Hepke,SR,WR/DB,#17,BGM,7,92,3
@@ -74,6 +73,7 @@ Justin Weispfenning,JR,RB/DB,#3,Easton Valley,7,55,1
 Austin Lack,SR,WR/DB,#3,East Union,6,110,1
 Kael Cress,JR,WR/S,#7,Midland,6,75,3
 Tyler Ballard,SR,TE/DE,#22,HLV,6,112,0
+Cael Weisskopf,FR,RB/LB,#5,HLV,6,106,1
 Cody Samson,SR,TE/LB,#36,Baxter,6,40,0
 Lucas Madison,SR,,#5,Fremont-Mills,6,87,2
 Jacob Martin,JR,RB/LB,#3,Stanton,6,195,3
@@ -84,15 +84,18 @@ Cristian Brown,SR,WR/DB,#47,Dunkerton,6,174,4
 Luke Erselius,SO,WR/DB,#15,Montezuma,6,46,1
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,6,28,0
 Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,6,128,2
+Cole Milks,SR,RB/S,#11,Winfield-Mt Union,6,68,0
 Ben Belew,JR,,#3,Don Bosco,6,108,1
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,6,59,1
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,6,68,1
 Johnathan Riesselman,SO,WR/DB,#7,Ar-We-Va,6,141,1
 Andrew Beran,JR,RB,#2,Riceville,6,27,1
 Kaden Kobliska,SR,WR,#8,Riceville,6,40,1
+Bennett Steger,SR,WR,#14,Edgewood-Colesburg,6,119,1
 Tate Martin,JR,RB/LB,#33,BGM,6,79,2
 Cale Westerbeck,SO,WR/DB,#4,New London,6,124,2
 Braedon Godfread,JR,TE/S,#10,Sidney,6,84,2
+Carter Sholtus,SR,WR/CB,#2,HLV,5,53,2
 Nolan Gannon,FR,RB/LB,#34,Murray,5,75,1
 Gio Cruz,SR,RB/DB,#5,Lenox,5,48,1
 Logan French,SR,WR/DB,#1,Stanton,5,96,1
@@ -107,17 +110,17 @@ Nolan Cushion,SR,TE/DE,#22,West Central,5,80,0
 Charlie Schaefer,SR,QB/S,#6,North Iowa,5,125,1
 Jaxson Schnell,SO,LB/WR,#4,GTRA,5,108,2
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,5,15,0
-Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,5,74,0
+Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,5,75,0
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,5,41,0
 Ian Smith,JR,TE/LB,#5,Iowa Valley,5,53,2
 Collin Bower,SO,TE/DB,#25,CAM,5,95,2
 Will Felper,SR,SL,#18,Riceville,5,71,1
+Christopher Lange,SO,WR,#10,Edgewood-Colesburg,5,95,0
 Brigham Porter,SO,SL/DB,#23,New London,5,65,1
 Edward Miller,SR,TE/DE,#31,Audubon,5,93,0
 James Buhlman,FR,RB/LB,#27,Easton Valley,5,102,1
 Rider Kupka,SO,,#21,GMG,5,33,1
 Wyatt Christiansen,SO,RB/LB,#10,Midland,4,27,0
-Carter Sholtus,SR,WR/CB,#2,HLV,4,45,2
 Ty Alcott,JR,RB/DB,#24,Belle Plaine,4,53,0
 Riley Simmons,SR,E/DE,#85,Belle Plaine,4,67,3
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,4,35,0
@@ -145,6 +148,7 @@ Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,4,70,1
 Landon Lindgren,SO,RB/DB,#11,Lamoni,4,52,0
 Kelan Stevenson,SO,TE/LB,#62,Lamoni,4,32,1
 Clay Westphal,SO,SL/S,#8,West Harrison,4,8,0
+Max Henstorf,SR,QB/LB,#7,HLV,3,20,0
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,3,72,0
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,3,79,1
 Quintin White,SR,WR/DB,#3,Exira-EHK,3,30,0
@@ -179,8 +183,6 @@ Brody Paulsen,SR,RB/DB,#2,CAM,3,57,0
 Aidan Ebert,JR,WR,#3,Riceville,3,19,0
 Klay Baker,JR,RB/LB,#17,St. Edmond,3,120,2
 Grant Galles,SO,WR/DB,#6,St. Edmond,3,110,1
-Christopher Lange,SO,WR,#10,Edgewood-Colesburg,3,51,0
-Bennett Steger,SR,WR,#14,Edgewood-Colesburg,3,106,1
 Owen Murphy,JR,WR/S,#10,Bishop Garrigan,3,48,0
 Creyton Ogier,SR,TE/DE,#5,Lamoni,3,86,1
 Logan Franklin,SO,WR/DB,#7,New London,3,22,0
@@ -188,7 +190,6 @@ London Franklin,SO,RB/DE,#6,New London,3,88,1
 Jordan Boehde,FR,RB/DB,#13,Easton Valley,3,17,0
 Cole Bethune,JR,WR/S,#4,West Harrison,3,29,0
 Terrian Islas,JR,TE/DE,#5,East Union,2,9,0
-Cael Weisskopf,FR,RB/LB,#5,HLV,2,12,0
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,2,12,0
 Carter Fehr,SR,TE/DL,#13,West Bend-Mallard,2,7,1
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,2,23,0
@@ -250,6 +251,7 @@ Gabe Johnson,SR,QB/LB,#3,Sidney,2,11,0
 Mekhi Benton,SR,TE/DE,#34,Central City,1,27,1
 Chris Hanson,FR,FB/LB,#32,Central City,1,3,0
 Devon Weisskopf,JR,RB/LB,#32,HLV,1,4,0
+Jayden Smith,JR,OG/DE,#25,HLV,1,0,0
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,1,12,0
 Kaleb Drape,SR,WR/LB,#6,Kee,1,17,1
 Andrew Kolsrud,SR,WR/CB,#16,Kee,1,8,0
@@ -314,7 +316,7 @@ Gannon Short,JR,RB/DB,#11,Colo-Nesco,1,8,0
 McKoy Nuss,SO,QB/LB,#13,Tripoli,1,3,0
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,1,6,0
 Silas Walston,SR,RB/DE,#33,Bedford,1,50,1
-Kael Johnson,SR,LB/OG,#4,Winfield-Mt Union,1,10,0
+Kael Johnson,SR,LB/OG,#4,Winfield-Mt Union,1,9,0
 Carter Hassebroek,JR,WR/DB,#8,Iowa Valley,1,29,0
 Joe Freund,SO,RB/LB,#6,Woodbine,1,12,0
 Brenden Wagner,SO,TE/LB,#16,Woodbine,1,12,0
@@ -330,6 +332,7 @@ Talan Pletz,SO,RB/LB,#5,Janesville,1,8,0
 Kahl Shanahan,JR,TE/LB,#24,Springville,1,8,0
 Jordan Goad,JR,QB/CB,#1,Springville,1,11,1
 Carter Battin,SO,WR,#2,Edgewood-Colesburg,1,27,1
+Caden Cole,SR,TE,#20,Edgewood-Colesburg,1,7,0
 Nathan Findlay,SO,RB/LB,#10,BGM,1,3,0
 Beckett Rhoads,SO,WR/DB,#1,BGM,1,13,0
 Tucker Wright,JR,RB/DB,#6,BGM,1,0,0
