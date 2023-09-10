@@ -55,6 +55,7 @@ Broox Stockman,0.0,SO,RB/LB,#20,Montezuma,0.0,0.0,0.0
 Lucas Frohwein,22.9,SR,TE/DE,#9,Colo-Nesco,8.0,89.0,1.0
 Cam Buffington,6.4,SR,QB/LB,#33,Winfield-Mt Union,2.0,44.0,0.0
 Devon Ehlers,0.0,SO,TE/LB,#88,Ar-We-Va,0.0,0.0,0.0
+Klay Baker,17.8,JR,RB/LB,#17,St. Edmond,5.0,68.0,1.0
 Conlin Rouse,20.8,SO,RB/LB,#11,Springville,2.0,68.0,2.0
 Mason Maschmann,0.0,SR,RB/LB,#11,BGM,0.0,0.0,0.0
 Austin Christensen,2.7,SO,WR/LB,#81,Audubon,2.0,7.0,0.0
@@ -66,6 +67,7 @@ Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
 Collin Hoffman,7.9,SR,QB/S,#14,GTRA,1.0,9.0,1.0
 Ty Christensen,20.0,SO,,#5,Don Bosco,7.0,70.0,1.0
 Jack Follmann,3.8,SR,TE/LB,#40,CAM,2.0,18.0,0.0
+Grant Galles,19.3,SO,WR/DB,#6,St. Edmond,4.0,93.0,1.0
 Brayden Hepke,0.0,SR,WR/DB,#17,BGM,0.0,0.0,0.0
 Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
 Sam Plathe,0.0,SR,WR/CB,#24,Bishop Garrigan,0.0,0.0,0.0
@@ -91,6 +93,7 @@ Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0,0.0
 Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
 Andrew Beran,3.0,JR,RB,#2,Riceville,2.0,10.0,0.0
 Kaden Kobliska,8.7,SR,WR,#8,Riceville,5.0,37.0,0.0
+Leo Ehn,8.8,SR,TE/LB,#80,St. Edmond,2.0,68.0,0.0
 Bennett Steger,4.3,SR,WR,#14,Edgewood-Colesburg,3.0,13.0,0.0
 Tate Martin,0.0,JR,RB/LB,#33,BGM,0.0,0.0,0.0
 Cale Westerbeck,9.0,SO,WR/DB,#4,New London,1.0,20.0,1.0
@@ -143,7 +146,6 @@ Carter Anderson,0.0,JR,QB/DB,#15,Northwood-Kensett,0.0,0.0,0.0
 Jacob Morey,0.0,SR,OL/DL,#11,Tripoli,0.0,0.0,0.0
 Cal Peterman,1.0,JR,WR/LB,#15,Bedford,1.0,0.0,0.0
 Carter Loyd,0.0,SR,RB/S,#2,Winfield-Mt Union,0.0,0.0,0.0
-Leo Ehn,0.0,SR,TE/LB,#80,St. Edmond,0.0,0.0,0.0
 Justin Bauer,0.0,SR,WR/CB,#12,Bishop Garrigan,0.0,0.0,0.0
 Landon Lindgren,6.2,SO,RB/DB,#11,Lamoni,2.0,42.0,0.0
 Kelan Stevenson,2.9,SO,TE/LB,#62,Lamoni,1.0,19.0,0.0
@@ -181,8 +183,8 @@ Micah Moores,0.0,FR,RB/LB,#9,Woodbine,0.0,0.0,0.0
 Cal Pryor,0.0,FR,QB/DB,#12,Woodbine,0.0,0.0,0.0
 Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0,0.0
 Aidan Ebert,2.3,JR,WR,#3,Riceville,1.0,13.0,0.0
-Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0,0.0
-Grant Galles,0.0,SO,WR/DB,#6,St. Edmond,0.0,0.0,0.0
+Kinnick Henning,2.3,SO,RB/LB,#22,St. Edmond,1.0,13.0,0.0
+Jakob Koopman,3.3,SO,SL/LB,#8,St. Edmond,2.0,13.0,0.0
 Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0,0.0
 Creyton Ogier,16.8,SR,TE/DE,#5,Lamoni,2.0,88.0,1.0
 Logan Franklin,1.6,SO,WR/DB,#7,New London,1.0,6.0,0.0
@@ -236,7 +238,6 @@ David Schmitz,3.1,JR,,#4,Don Bosco,2.0,11.0,0.0
 Owen Bral,22.2,JR,QB/LB,#3,Iowa Valley,2.0,82.0,2.0
 Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0,0.0
 Dillon Reed,0.0,SO,WR/DB,#11,Woodbine,0.0,0.0,0.0
-Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0,0.0
 Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0,0.0
 Braden Jordan,-2.4,SO,QB/LB,#10,Springville,0.0,36.0,-1.0
 Landon Wittrock,1.4,JR,SL/LB,#9,Harris-Lake Park,1.0,4.0,0.0
@@ -324,7 +325,6 @@ Brenner Sullivan,0.0,SO,RB/LB,#22,Woodbine,0.0,0.0,0.0
 Brayden Chester,0.0,JR,RB/LB,#34,CAM,0.0,0.0,0.0
 Johnny Adams,1.0,JR,WR,#10,Riceville,1.0,0.0,0.0
 Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0,0.0
-Jakob Koopman,0.0,SO,SL/LB,#8,St. Edmond,0.0,0.0,0.0
 Dominic McClain,0.0,JR,WR/DB,#7,St. Edmond,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
 Gabe Meaney,1.4,JR,TE/DE,#16,Janesville,1.0,4.0,0.0
