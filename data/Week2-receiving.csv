@@ -2,6 +2,7 @@ Name,Points,Year,Position,Number,School,REC,YDS,TDS
 Treyton Travis,31.3,SR,WR/CB,#24,Baxter,10.0,93.0,2.0
 Kace Patton,51.5,SR,WR/CB,#10,Murray,8.0,135.0,5.0
 Nolan Birdsall,16.1,JR,RB/LB,#2,West Harrison,9.0,71.0,0.0
+Evan Lorenzen,18.5,JR,RB/DB,#22,Northwood-Kensett,6.0,65.0,1.0
 Cade Robinson,21.0,JR,WR/CB,#12,Baxter,8.0,70.0,1.0
 Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0,0.0
 Garrett Watts,20.1,SR,WR/DB,#7,Montezuma,3.0,51.0,2.0
@@ -10,7 +11,6 @@ Jackson Embree,0.0,JR,SL/LB,#33,East Mills,0.0,0.0,0.0
 Jackson McDanel,27.6,SR,RB/LB,#30,Moravia,6.0,96.0,2.0
 Jamison Martin,23.3,JR,RB/DB,#11,West Harrison,5.0,63.0,2.0
 Cal Heydon,14.8,SO,QB/DB,#11,Coon Rapids-Bayard,3.0,58.0,1.0
-Evan Lorenzen,0.0,JR,RB/DB,#22,Northwood-Kensett,0.0,0.0,0.0
 Landon Blum,0.0,FR,WR/DB,#5,Woodbine,0.0,0.0,0.0
 Carter Seitz,18.7,JR,WR/DB,#7,Kee,3.0,97.0,1.0
 Declan DeJong,10.8,SO,TE/DE,#41,Moravia,4.0,68.0,0.0
@@ -26,10 +26,12 @@ Cainan Travis,14.6,JR,WR/LB,#20,Baxter,4.0,46.0,1.0
 Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Jed Bielenberg,9.7,SR,DE/WR,#15,Siouxland Christian,3.0,67.0,0.0
 Cruz DeJong,12.8,SR,TE/LB,#40,Montezuma,3.0,38.0,1.0
+Colby Eskildsen,16.2,JR,TE/DL,#12,Northwood-Kensett,5.0,52.0,1.0
 Louden Huisenga,11.7,JR,RB/LB,#8,WACO,3.0,27.0,1.0
 Colton Leichty,10.2,SR,TE/LB,#23,WACO,5.0,52.0,0.0
 Caleb Haack,11.9,JR,WR/DB,#7,Iowa Valley,2.0,39.0,1.0
 Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0,0.0
+Alex Tiedemann,13.3,SO,QB/DB,#34,Northwood-Kensett,4.0,33.0,1.0
 Dakota Heishman,0.0,JR,WR/DB,#8,BGM,0.0,0.0,0.0
 Rason Grail,8.7,SR,WR/DB,#23,East Union,4.0,47.0,0.0
 Aiden Klostermann,2.2,SR,RB/S,#10,Central City,1.0,12.0,0.0
@@ -78,8 +80,6 @@ Jack Gordon,0.0,SR,WR/DL,#18,East Mills,0.0,0.0,0.0
 Levi Reineke,0.0,SO,LB/RB,#29,Boyer Valley,0.0,0.0,0.0
 Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0,0.0
 Luke Erselius,3.8,SO,WR/DB,#15,Montezuma,2.0,18.0,0.0
-Colby Eskildsen,0.0,JR,TE/DL,#12,Northwood-Kensett,0.0,0.0,0.0
-Alex Tiedemann,0.0,SO,QB/DB,#34,Northwood-Kensett,0.0,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
 Harley Molina,0.0,SR,WR/LB,#24,Ar-We-Va,0.0,0.0,0.0
@@ -215,6 +215,7 @@ Alex Black,0.0,SR,WR/DB,#30,Montezuma,0.0,0.0,0.0
 Brett Plants,3.3,JR,RB/LB,#22,Montezuma,1.0,23.0,0.0
 Dane Strong,11.1,FR,RB/LB,#33,Montezuma,2.0,31.0,1.0
 Aden Bice,0.0,JR,WR/LB,#7,Northwood-Kensett,0.0,0.0,0.0
+Landen Nelson,1.9,FR,WR/DB,#36,Northwood-Kensett,2.0,-1.0,0.0
 Ben Yezek,0.0,SR,WR/DB,#21,Northwood-Kensett,0.0,0.0,0.0
 Blake Helmick,0.0,JR,OG/DE,#87,Moravia,0.0,0.0,0.0
 Jacksyn Hogrefe,0.0,SO,RB/DB,#26,Newell-Fonda,0.0,0.0,0.0

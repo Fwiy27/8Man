@@ -2,6 +2,7 @@ Name,Year,Position,Number,School,REC,YDS,TDS
 Treyton Travis,SR,WR/CB,#24,Baxter,34,545,9
 Kace Patton,SR,WR/CB,#10,Murray,33,457,7
 Nolan Birdsall,JR,RB/LB,#2,West Harrison,26,298,3
+Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,21,159,1
 Cade Robinson,JR,WR/CB,#12,Baxter,19,145,1
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,19,196,2
 Garrett Watts,SR,WR/DB,#7,Montezuma,18,327,9
@@ -10,7 +11,6 @@ Jackson Embree,JR,SL/LB,#33,East Mills,16,161,2
 Jackson McDanel,SR,RB/LB,#30,Moravia,16,275,5
 Jamison Martin,JR,RB/DB,#11,West Harrison,16,185,2
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,15,245,4
-Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,15,94,0
 Landon Blum,FR,WR/DB,#5,Woodbine,15,195,1
 Carter Seitz,JR,WR/DB,#7,Kee,14,333,6
 Declan DeJong,SO,TE/DE,#41,Moravia,14,198,4
@@ -26,10 +26,12 @@ Cainan Travis,JR,WR/LB,#20,Baxter,11,144,2
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,11,155,1
 Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,11,198,0
 Cruz DeJong,SR,TE/LB,#40,Montezuma,11,144,3
+Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,11,79,2
 Louden Huisenga,JR,RB/LB,#8,WACO,11,133,4
 Colton Leichty,SR,TE/LB,#23,WACO,11,113,1
 Caleb Haack,JR,WR/DB,#7,Iowa Valley,11,268,3
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,10,54,1
+Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,10,57,2
 Dakota Heishman,JR,WR/DB,#8,BGM,10,125,1
 Rason Grail,SR,WR/DB,#23,East Union,9,163,3
 Aiden Klostermann,SR,RB/S,#10,Central City,9,151,3
@@ -78,8 +80,6 @@ Jack Gordon,SR,WR/DL,#18,East Mills,6,89,2
 Levi Reineke,SO,LB/RB,#29,Boyer Valley,6,34,0
 Oliver Schmitt,SR,FB,#22,Turkey Valley,6,48,3
 Luke Erselius,SO,WR/DB,#15,Montezuma,6,46,1
-Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,6,27,1
-Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,6,24,1
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,6,28,0
 Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,6,128,2
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,6,59,1
@@ -215,6 +215,7 @@ Alex Black,SR,WR/DB,#30,Montezuma,2,25,2
 Brett Plants,JR,RB/LB,#22,Montezuma,2,39,0
 Dane Strong,FR,RB/LB,#33,Montezuma,2,31,1
 Aden Bice,JR,WR/LB,#7,Northwood-Kensett,2,43,0
+Landen Nelson,FR,WR/DB,#36,Northwood-Kensett,2,-1,0
 Ben Yezek,SR,WR/DB,#21,Northwood-Kensett,2,8,0
 Blake Helmick,JR,OG/DE,#87,Moravia,2,13,1
 Jacksyn Hogrefe,SO,RB/DB,#26,Newell-Fonda,2,15,0
