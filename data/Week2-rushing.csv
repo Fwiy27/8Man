@@ -20,6 +20,7 @@ MaKade Bloker,0.0,SR,RB/LB,#11,Clarksville,0.0,0.0
 Pryce Rochford,18.9,JR,QB,#22,Edgewood-Colesburg,129.0,1.0
 Aaron Olsen,11.2,JR,QB/S,#3,Audubon,52.0,1.0
 Adam Scott,11.4,SR,RB/LB,#26,West Central,114.0,0.0
+Gabe Funk,44.4,JR,QB/DB,#17,Lenox,204.0,4.0
 Louden Huisenga,4.4,JR,RB/LB,#8,WACO,44.0,0.0
 Fischer Buffington,14.5,JR,RB/DE,#12,East Union,85.0,1.0
 Wyatt Oswald,10.4,JR,QB/LB,#10,Coon Rapids-Bayard,104.0,0.0
@@ -69,6 +70,7 @@ Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0
 Seth Bixler,5.5,SR,WR/S,#1,Midland,55.0,0.0
 Braden Jordan,12.7,SO,QB/LB,#10,Springville,67.0,1.0
 Lucas Ahrenstorff,37.7,SR,QB/S,#1,Harris-Lake Park,137.0,4.0
+Jordan Martin-England,4.6,JR,RB/LB,#18,Lenox,46.0,0.0
 Grant Finck,20.6,JR,RB/LB,#10,Dunkerton,86.0,2.0
 Brogyn Greensky,0.0,SR,QB/LB,#4,North Iowa,0.0,0.0
 Conner Nally,18.3,SR,QB/LB,#5,Bedford,63.0,2.0
@@ -87,6 +89,7 @@ Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0
 Carter Oberbroeckling,4.0,SR,RB,#34,Edgewood-Colesburg,40.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0
 Lane Vokoun,9.7,JR,RB/DB,#35,Belle Plaine,37.0,1.0
+Dalton Kitzman,0.9,SR,RB/LB,#4,Lenox,9.0,0.0
 Nolan Gannon,4.6,FR,RB/LB,#34,Murray,46.0,0.0
 Josef Dvorak,15.2,JR,RB/DB,#25,Collins-Maxwell,92.0,1.0
 Christian Pierce,1.6,SO,QB/S,#4,Rockford,16.0,0.0
@@ -96,7 +99,6 @@ Slate Witte,0.0,SR,,#7,GMG,0.0,0.0
 Jackson Schulte,0.0,SR,RB/LB,#21,Kee,0.0,0.0
 Jayden Hanson,15.2,SR,QB/DB,#7,Central City,92.0,1.0
 Cade Robinson,12.3,JR,WR/CB,#12,Baxter,63.0,1.0
-Gabe Funk,0.0,JR,QB/DB,#17,Lenox,0.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
 Caleb Hemphill,2.0,SR,RB/LB,#3,Harris-Lake Park,20.0,0.0
 Cainan Travis,7.3,JR,WR/LB,#20,Baxter,73.0,0.0
@@ -117,20 +119,20 @@ Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0
+Talan Driscoll,15.6,FR,C/DE,#5,Easton Valley,36.0,2.0
 Matthew Klostermann,16.5,JR,RB/LB,#22,Central City,105.0,1.0
-Dalton Kitzman,0.0,SR,RB/LB,#4,Lenox,0.0,0.0
 Jacob Berens,16.0,SR,RB/LB,#34,Boyer Valley,100.0,1.0
 Ty Lindquist,3.4,JR,FB/LB,#18,Dunkerton,34.0,0.0
 Wyatt Nelson,2.0,JR,RB/DB,#9,West Central,20.0,0.0
 Grant Whitehead,6.6,JR,QB/DB,#15,Sidney,6.0,1.0
 Logan Grimm,1.1,SR,RB/LB,#34,West Bend-Mallard,11.0,0.0
-Jordan Martin-England,0.0,JR,RB/LB,#18,Lenox,0.0,0.0
 Jed Tyler,0.2,SR,QB/DB,#7,West Central,2.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Jake Edwards,-0.4,JR,QB/S,#3,Winfield-Mt Union,-4.0,0.0
 Cole Milks,3.3,SR,RB/S,#11,Winfield-Mt Union,33.0,0.0
 Blayne Smith,0.0,JR,QB/DB,#15,Ar-We-Va,0.0,0.0
 Carson Wessel,2.8,SO,QB/LB,#9,Audubon,28.0,0.0
+Keagan Lee,-3.3,SO,QB/DB,#17,Easton Valley,-33.0,0.0
 Isaac Hill,2.3,SO,OL/DL,#60,Springville,23.0,0.0
 Carson Ingles,8.1,SO,RB,#1,Edgewood-Colesburg,21.0,1.0
 Trayton Cink,0.0,JR,RB/LB,#26,Bishop Garrigan,0.0,0.0
@@ -177,7 +179,6 @@ Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0
 Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0
 Jack Follmann,1.6,SR,TE/LB,#40,CAM,16.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0
-Keagan Lee,0.0,SO,QB/DB,#17,Easton Valley,0.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0
 Elliott Ward,9.3,SR,RB/LB,#1,Sidney,33.0,1.0
 Andrew Kolsrud,8.3,SR,WR/CB,#16,Kee,23.0,1.0
@@ -186,6 +187,7 @@ Sam Fettkether,0.0,SR,OL/LB,#47,Central Elkader,0.0,0.0
 Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0
 Owen Bral,0.4,JR,QB/LB,#3,Iowa Valley,4.0,0.0
+Gio Cruz,0.1,SR,RB/DB,#5,Lenox,1.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
 Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
 Derek Bartlett,9.9,SR,LB/RB,#4,Stanton,39.0,1.0
@@ -203,7 +205,6 @@ Keenan Foland,1.5,FR,QB/S,#10,West Harrison,15.0,0.0
 Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0
 Landyn Ankrum,0.0,SO,RB/LB,#36,HLV,0.0,0.0
 Tanner Troendle,19.9,FR,RB/DB,#23,Kee,79.0,2.0
-Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0
 Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
 Maddox Jondle,0.0,JR,QB/LB,#11,Lone Tree,0.0,0.0
 Brett Plants,16.9,JR,RB/LB,#22,Montezuma,49.0,2.0
