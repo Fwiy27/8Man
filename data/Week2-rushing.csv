@@ -4,6 +4,7 @@ Oliver Schmitt,24.0,SR,FB,#22,Turkey Valley,120.0,2.0
 Shane Helmick,15.5,SR,QB/DE,#12,Moravia,95.0,1.0
 Nolan Kriegel,19.2,FR,QB/DB,#2,Iowa Valley,132.0,1.0
 Dane Appleby,14.9,JR,QB/LB,#4,Janesville,149.0,0.0
+Kaiden Knaack,46.4,SR,,#10,Don Bosco,224.0,4.0
 Breckin Clatt,14.2,JR,RB/DB,#14,Colo-Nesco,82.0,1.0
 Landon Montag,12.3,SR,RB/LB,#24,West Bend-Mallard,63.0,1.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
@@ -44,7 +45,6 @@ Talan Pletz,6.6,SO,RB/LB,#5,Janesville,66.0,0.0
 Mason Hoy,24.5,SO,RB/CB,#9,Springville,125.0,2.0
 Clayton Miller,-2.4,JR,QB/CB,#4,WACO,-24.0,0.0
 Cam Buffington,32.6,SR,QB/LB,#33,Winfield-Mt Union,146.0,3.0
-Kaiden Knaack,0.0,SR,,#10,Don Bosco,0.0,0.0
 Brady Boulton,0.1,SO,QB/DB,#1,Montezuma,1.0,0.0
 Broox Stockman,8.3,SO,RB/LB,#20,Montezuma,23.0,1.0
 Conlin Rouse,19.1,SO,RB/LB,#11,Springville,71.0,2.0
@@ -103,6 +103,7 @@ Graham Godsey,2.6,JR,RB/LB,#35,Bedford,26.0,0.0
 Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Isaac Clark,0.0,SR,QB/LB,#12,Gladbrook-Reinbeck,0.0,0.0
 Dylan Marquart,17.5,JR,QB/DB,#3,Dunkerton,55.0,2.0
+Ty Christensen,3.5,SO,,#5,Don Bosco,35.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
 Corbin Jacobs-Jewell,1.1,JR,TE/DE,#10,New London,11.0,0.0
 Sawyer Forney,11.5,SO,,#2,Fremont-Mills,55.0,1.0
@@ -145,7 +146,6 @@ Caden Oswald,25.0,FR,RB/DB,#6,Coon Rapids-Bayard,70.0,3.0
 Kale Doeppke,0.0,SR,WR/DB,#5,Central Elkader,0.0,0.0
 Rogellio Gonzalez,0.0,SO,FB/DB,#10,West Central,0.0,0.0
 Jake Edwards,1.9,JR,QB/S,#3,Winfield-Mt Union,19.0,0.0
-Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0
 Daniel Britt,7.1,JR,RB/S,#3,Janesville,11.0,1.0
 Austin Lack,1.4,SR,WR/DB,#3,East Union,14.0,0.0
 Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0
@@ -221,6 +221,7 @@ Jader Sanchez,0.0,SR,RB/DB,#4,Lone Tree,0.0,0.0
 Lucas Christian,0.0,JR,WR/S,#18,Glidden-Ralston,0.0,0.0
 Jesse Myhr,3.6,JR,FB/DE,#8,Moravia,36.0,0.0
 Jack Angell,0.0,SO,QB/DB,#18,Colo-Nesco,0.0,0.0
+Kyler Knaack,1.6,JR,,#20,Don Bosco,16.0,0.0
 Aiden Hellman,0.0,FR,,#18,Don Bosco,0.0,0.0
 Karter Thiessen,0.3,SR,RB/DB,#9,Iowa Valley,3.0,0.0
 Austin Williams,4.8,SR,RB/LB,#20,CAM,48.0,0.0
@@ -256,7 +257,6 @@ Brenden Wheeler,1.0,JR,RB/LB,#17,Southeast Warren,10.0,0.0
 Cade Tentinger,0.0,JR,RB/DB,#5,Remsen St. Mary's,0.0,0.0
 Hunter Hardin,0.0,JR,RB/LB,#36,Colo-Nesco,0.0,0.0
 John Deemer,0.0,FR,RB/LB,#28,Bedford,0.0,0.0
-Kyler Knaack,0.0,JR,,#20,Don Bosco,0.0,0.0
 Carter Hassebroek,0.3,JR,WR/DB,#8,Iowa Valley,3.0,0.0
 Ethan Bridgewater,0.0,SO,RB/LB,#35,BGM,0.0,0.0
 Carson Hopkins,0.9,FR,TE/LB,#15,West Harrison,9.0,0.0
@@ -342,6 +342,7 @@ Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0
 Brody King,0.0,JR,TE/LB,#2,Bedford,0.0,0.0
 Lane Genkinger,0.0,JR,RB/LB,#24,Winfield-Mt Union,0.0,0.0
 Cody Milks,0.0,FR,QB/LB,#12,Winfield-Mt Union,0.0,0.0
+Ben Belew,0.6,JR,,#3,Don Bosco,6.0,0.0
 Jaxon Larson,0.0,JR,,#7,Don Bosco,0.0,0.0
 Tucker Youngblut,0.0,SO,,#22,Don Bosco,0.0,0.0
 Owen Ary,2.4,SO,TE/LB,#22,Iowa Valley,24.0,0.0
@@ -414,7 +415,6 @@ Levi Halterman,0.0,JR,RB/LB,#11,Southeast Warren,0.0,0.0
 Dawson Konrad,0.2,JR,RB/CB,#21,Southeast Warren,2.0,0.0
 Trenton Beard,0.1,SR,OL/LB,#34,Colo-Nesco,1.0,0.0
 Cal Peterman,0.1,JR,WR/LB,#15,Bedford,1.0,0.0
-Ben Belew,0.0,JR,,#3,Don Bosco,0.0,0.0
 Jack Hogan,0.0,JR,,#37,Don Bosco,0.0,0.0
 Jaedon Koppman,0.0,SO,,#35,Don Bosco,0.0,0.0
 Dillon Reed,0.0,SO,WR/DB,#11,Woodbine,0.0,0.0
