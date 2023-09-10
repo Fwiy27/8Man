@@ -55,6 +55,7 @@ Broox Stockman,8.3,SO,RB/LB,#20,Montezuma,23.0,1.0
 JT Laufersweiler,6.3,SR,QB/DB,#11,St. Edmond,63.0,0.0
 Conlin Rouse,19.1,SO,RB/LB,#11,Springville,71.0,2.0
 Garrison Motsinger,23.8,JR,RB/S,#4,Bedford,118.0,2.0
+Wyatt Ragaller,4.6,SO,RB/DB,#8,Ar-We-Va,46.0,0.0
 Luke Rohling,10.1,SR,FB/LB,#16,Calamus-Wheatland,41.0,1.0
 Burke Busta,15.2,SR,FB,#9,Turkey Valley,92.0,1.0
 Silas Walston,22.4,SR,RB/DE,#33,Bedford,104.0,2.0
@@ -67,7 +68,6 @@ Jackson McDanel,7.7,SR,RB/LB,#30,Moravia,17.0,1.0
 Nolan Birdsall,3.1,JR,RB/LB,#2,West Harrison,31.0,0.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0
 Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0
-Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0
 Seth Bixler,5.5,SR,WR/S,#1,Midland,55.0,0.0
 Braden Jordan,12.7,SO,QB/LB,#10,Springville,67.0,1.0
 Lucas Ahrenstorff,37.7,SR,QB/S,#1,Harris-Lake Park,137.0,4.0
@@ -91,6 +91,7 @@ Carter Oberbroeckling,4.0,SR,RB,#34,Edgewood-Colesburg,40.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0
 Lane Vokoun,9.7,JR,RB/DB,#35,Belle Plaine,37.0,1.0
 Dalton Kitzman,0.9,SR,RB/LB,#4,Lenox,9.0,0.0
+Blayne Smith,3.1,JR,QB/DB,#15,Ar-We-Va,31.0,0.0
 Nolan Gannon,4.6,FR,RB/LB,#34,Murray,46.0,0.0
 Josef Dvorak,15.2,JR,RB/DB,#25,Collins-Maxwell,92.0,1.0
 Christian Pierce,1.6,SO,QB/S,#4,Rockford,16.0,0.0
@@ -119,6 +120,7 @@ Jacob Martin,1.1,JR,RB/LB,#3,Stanton,11.0,0.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0
+Wade Ragaller,1.8,JR,RB/LB,#28,Ar-We-Va,18.0,0.0
 Talan Driscoll,15.6,FR,C/DE,#5,Easton Valley,36.0,2.0
 Matthew Klostermann,16.5,JR,RB/LB,#22,Central City,105.0,1.0
 Jacob Berens,16.0,SR,RB/LB,#34,Boyer Valley,100.0,1.0
@@ -130,7 +132,6 @@ Jed Tyler,0.2,SR,QB/DB,#7,West Central,2.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Jake Edwards,-0.4,JR,QB/S,#3,Winfield-Mt Union,-4.0,0.0
 Cole Milks,3.3,SR,RB/S,#11,Winfield-Mt Union,33.0,0.0
-Blayne Smith,0.0,JR,QB/DB,#15,Ar-We-Va,0.0,0.0
 Carson Wessel,2.8,SO,QB/LB,#9,Audubon,28.0,0.0
 Keagan Lee,-3.3,SO,QB/DB,#17,Easton Valley,-33.0,0.0
 Isaac Hill,2.3,SO,OL/DL,#60,Springville,23.0,0.0
@@ -176,7 +177,6 @@ David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0
 Wyatt Throckmorton,0.0,SR,WR/LB,#23,Moravia,0.0,0.0
 Caleb Swedin,16.6,SO,RB/LB,#7,GTRA,46.0,2.0
 Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0
-Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0
 Jack Follmann,1.6,SR,TE/LB,#40,CAM,16.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0
@@ -423,6 +423,7 @@ Jaedon Koppman,0.0,SO,,#35,Don Bosco,0.0,0.0
 Dillon Reed,0.0,SO,WR/DB,#11,Woodbine,0.0,0.0
 Micah Moores,0.0,FR,RB/LB,#9,Woodbine,0.0,0.0
 Cal Pryor,0.0,FR,QB/DB,#12,Woodbine,0.0,0.0
+Devon Ehlers,0.4,SO,TE/LB,#88,Ar-We-Va,4.0,0.0
 Johnny Adams,0.0,JR,WR,#10,Riceville,0.0,0.0
 Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0
 Trevor Forey,0.6,SR,WR/S,#6,Janesville,6.0,0.0
