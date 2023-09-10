@@ -14,8 +14,10 @@ Evan Lorenzen,0.0,JR,RB/DB,#22,Northwood-Kensett,0.0,0.0,0.0
 Landon Blum,0.0,FR,WR/DB,#5,Woodbine,0.0,0.0,0.0
 Carter Seitz,18.7,JR,WR/DB,#7,Kee,3.0,97.0,1.0
 Declan DeJong,10.8,SO,TE/DE,#41,Moravia,4.0,68.0,0.0
+Caleb Hemphill,17.1,SR,RB/LB,#3,Harris-Lake Park,8.0,91.0,0.0
 Josef Dvorak,1.9,JR,RB/DB,#25,Collins-Maxwell,1.0,9.0,0.0
 Isaac Murphy,6.9,SR,RB/S,#1,GTRA,4.0,29.0,0.0
+Devin Meyer,8.6,SR,TE/LB,#15,Harris-Lake Park,6.0,26.0,0.0
 Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0,0.0
 Michael Hensley,6.5,JR,RB/LB,#6,Sidney,2.0,45.0,0.0
 Brogan Ewing,24.4,JR,WR/CB,#10,Southeast Warren,5.0,74.0,2.0
@@ -61,10 +63,10 @@ Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
 Collin Hoffman,7.9,SR,QB/S,#14,GTRA,1.0,9.0,1.0
 Cole Milks,5.0,SR,RB/S,#11,Winfield-Mt Union,3.0,20.0,0.0
+Jack Follmann,3.8,SR,TE/LB,#40,CAM,2.0,18.0,0.0
 Brayden Hepke,0.0,SR,WR/DB,#17,BGM,0.0,0.0,0.0
 Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
 Sam Plathe,0.0,SR,WR/CB,#24,Bishop Garrigan,0.0,0.0,0.0
-Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
 Austin Lack,7.3,SR,WR/DB,#3,East Union,3.0,43.0,0.0
 Kael Cress,2.8,JR,WR/S,#7,Midland,2.0,8.0,0.0
@@ -86,7 +88,6 @@ Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
 Andrew Beran,3.0,JR,RB,#2,Riceville,2.0,10.0,0.0
 Kaden Kobliska,8.7,SR,WR,#8,Riceville,5.0,37.0,0.0
 Tate Martin,0.0,JR,RB/LB,#33,BGM,0.0,0.0,0.0
-Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
 Cale Westerbeck,9.0,SO,WR/DB,#4,New London,1.0,20.0,1.0
 Braedon Godfread,9.0,JR,TE/S,#10,Sidney,3.0,60.0,0.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0,0.0
@@ -106,7 +107,7 @@ Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0,0.0
 Abram Edwards,2.4,SR,TE/DE,#84,Winfield-Mt Union,1.0,14.0,0.0
 Dawson Smith,0.0,SR,RB/LB,#20,Iowa Valley,0.0,0.0,0.0
 Ian Smith,10.7,JR,TE/LB,#5,Iowa Valley,2.0,27.0,1.0
-Jack Follmann,0.0,SR,TE/LB,#40,CAM,0.0,0.0,0.0
+Collin Bower,15.3,SO,TE/DB,#25,CAM,3.0,63.0,1.0
 Will Felper,0.0,SR,SL,#18,Riceville,0.0,0.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
 Edward Miller,6.8,SR,TE/DE,#31,Audubon,2.0,48.0,0.0
@@ -232,10 +233,10 @@ David Schmitz,3.1,JR,,#4,Don Bosco,2.0,11.0,0.0
 Owen Bral,22.2,JR,QB/LB,#3,Iowa Valley,2.0,82.0,2.0
 Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0,0.0
 Dillon Reed,0.0,SO,WR/DB,#11,Woodbine,0.0,0.0,0.0
-Collin Bower,0.0,SO,TE/DB,#25,CAM,0.0,0.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0,0.0
 Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0,0.0
 Braden Jordan,-2.4,SO,QB/LB,#10,Springville,0.0,36.0,-1.0
+Landon Wittrock,1.4,JR,SL/LB,#9,Harris-Lake Park,1.0,4.0,0.0
 Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison,0.0,0.0,0.0
 Carson Hopkins,0.0,FR,TE/LB,#15,West Harrison,0.0,0.0,0.0
@@ -331,7 +332,6 @@ Nathan Findlay,0.0,SO,RB/LB,#10,BGM,0.0,0.0,0.0
 Beckett Rhoads,0.0,SO,WR/DB,#1,BGM,0.0,0.0,0.0
 Tucker Wright,0.0,JR,RB/DB,#6,BGM,0.0,0.0,0.0
 Benjy Trainer,0.0,SR,TE/LB,#4,Bishop Garrigan,0.0,0.0,0.0
-Landon Wittrock,0.0,JR,SL/LB,#9,Harris-Lake Park,0.0,0.0,0.0
 Israel Lemley,0.0,FR,WR/DB,#25,New London,0.0,0.0,0.0
 Michael Raines,0.0,SR,TE/LB,#26,New London,0.0,0.0,0.0
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0,0.0
