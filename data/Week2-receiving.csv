@@ -10,6 +10,7 @@ Cade Robinson,21.0,JR,WR/CB,#12,Baxter,8.0,70.0,1.0
 Garrett Watts,20.1,SR,WR/DB,#7,Montezuma,3.0,51.0,2.0
 Wyatt Throckmorton,22.6,SR,WR/LB,#23,Moravia,6.0,46.0,2.0
 Aiden Eickert ,25.2,JR,WR/LB,#7,Easton Valley,9.0,102.0,1.0
+Braxton Bormann,13.3,SO,RB/LB,#21,Central Elkader,6.0,73.0,0.0
 Jackson McDanel,27.6,SR,RB/LB,#30,Moravia,6.0,96.0,2.0
 Jamison Martin,23.3,JR,RB/DB,#11,West Harrison,5.0,63.0,2.0
 Cal Heydon,14.8,SO,QB/DB,#11,Coon Rapids-Bayard,3.0,58.0,1.0
@@ -31,7 +32,6 @@ Colby Eskildsen,16.2,JR,TE/DL,#12,Northwood-Kensett,5.0,52.0,1.0
 Louden Huisenga,11.7,JR,RB/LB,#8,WACO,3.0,27.0,1.0
 Colton Leichty,10.2,SR,TE/LB,#23,WACO,5.0,52.0,0.0
 Caleb Haack,11.9,JR,WR/DB,#7,Iowa Valley,2.0,39.0,1.0
-Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0,0.0
 Alex Tiedemann,13.3,SO,QB/DB,#34,Northwood-Kensett,4.0,33.0,1.0
 Dakota Heishman,0.0,JR,WR/DB,#8,BGM,0.0,0.0,0.0
 Rason Grail,8.7,SR,WR/DB,#23,East Union,4.0,47.0,0.0
@@ -56,6 +56,7 @@ Reed Oswalt,7.6,SO,WR/DB,#24,Collins-Maxwell,2.0,56.0,0.0
 Kolby Culbertson,15.0,SR,TE/DB,#2,Coon Rapids-Bayard,3.0,60.0,1.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0,0.0
 Jack Gordon,3.1,SR,WR/DL,#18,East Mills,2.0,11.0,0.0
+Owen Hammersland,12.0,FR,RB/LB,#24,Central Elkader,3.0,30.0,1.0
 David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0,0.0
 Broox Stockman,0.0,SO,RB/LB,#20,Montezuma,0.0,0.0,0.0
 Lucas Frohwein,22.9,SR,TE/DE,#9,Colo-Nesco,8.0,89.0,1.0
@@ -111,7 +112,6 @@ Lane Oswalt,0.0,SR,WR/DB,#87,Collins-Maxwell,0.0,0.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
 J.D. Kruse,24.9,SO,RB/DE,#2,Turkey Valley,3.0,99.0,2.0
-Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0,0.0
 Jeremiah Lynam,5.3,SR,DB/WR,#9,Siouxland Christian,1.0,43.0,0.0
 Nolan Cushion,6.9,SR,TE/DE,#22,West Central,3.0,39.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0,0.0
@@ -171,6 +171,7 @@ Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0,0.0
 Luke Cripps,1.4,SR,QB/S,#1,Boyer Valley,1.0,4.0,0.0
 Burke Busta,11.1,SR,FB,#9,Turkey Valley,2.0,31.0,1.0
 John Stauffer,0.0,JR,TE/LB,#82,Clarksville,0.0,0.0,0.0
+Jack Scherf,4.1,JR,WR/DB,#23,Central Elkader,2.0,21.0,0.0
 Colin Snyder,0.0,SO,RB/LB,#24,Dunkerton,0.0,0.0,0.0
 Mark Lensch,1.5,SR,TE/LB,#33,Glidden-Ralston,1.0,5.0,0.0
 Emmett Snyder,3.3,SR,RB/S,#29,Glidden-Ralston,2.0,13.0,0.0
@@ -215,6 +216,9 @@ Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0,0.0
 Layne Mastin,0.0,SR,OG/DE,#11,East Mills,0.0,0.0,0.0
 Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0,0.0
 Caleb Kurtenbach,0.0,SR,QB,#5,Turkey Valley,0.0,0.0,0.0
+Sam Fettkether,1.2,SR,OL/LB,#47,Central Elkader,1.0,2.0,0.0
+Preston Kulper,3.3,SO,WR/DB,#81,Central Elkader,2.0,13.0,0.0
+Kyle Reinhart,2.2,JR,WR/DB,#40,Central Elkader,1.0,12.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
 Grant Finck,3.2,JR,RB/LB,#10,Dunkerton,2.0,12.0,0.0
 Jackson Stansberry,1.6,SO,WR/DB,#22,Siouxland Christian,1.0,6.0,0.0
@@ -293,9 +297,6 @@ Brody Koski,0.0,FR,QB/LB,#7,Boyer Valley,0.0,0.0,0.0
 Sam Hoodjer,0.0,JR,WR/CB,#80,Clarksville,0.0,0.0,0.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0,0.0
 Kale Doeppke,0.0,SR,WR/DB,#5,Central Elkader,0.0,0.0,0.0
-Sam Fettkether,0.0,SR,OL/LB,#47,Central Elkader,0.0,0.0,0.0
-Kyle Reinhart,0.0,JR,WR/DB,#40,Central Elkader,0.0,0.0,0.0
-Jack Scherf,0.0,JR,WR/DB,#23,Central Elkader,0.0,0.0,0.0
 Brody Magruder,0.0,JR,TE/DL,#26,Lone Tree,0.0,0.0,0.0
 Ledger Dalton,0.0,SO,WR/DB,#5,Dunkerton,0.0,0.0,0.0
 Jacob Snyder,0.0,SR,OL/DL,#52,Dunkerton,0.0,0.0,0.0
