@@ -1,5 +1,6 @@
 Name,Year,Position,Number,School,YDS,TDS
 Ty Alcott,JR,RB/DB,#24,Belle Plaine,534,6
+Jameson Kilworth,SR,QB/DB,#8,Exira-EHK,523,9
 Oliver Schmitt,SR,FB,#22,Turkey Valley,529,9
 Shane Helmick,SR,QB/DE,#12,Moravia,383,5
 Nolan Kriegel,FR,QB/DB,#2,Iowa Valley,440,7
@@ -14,7 +15,6 @@ Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,126,2
 Gavin Menke-Bailey,JR,QB/LB,#5,New London,267,2
 Max Henstorf,SR,QB/LB,#7,HLV,101,1
 Andrew Beran,JR,RB,#2,Riceville,347,5
-Jameson Kilworth,SR,QB/DB,#8,Exira-EHK,339,7
 Braxton Blackburn,SR,,#10,Fremont-Mills,364,4
 MaKade Bloker,SR,RB/LB,#11,Clarksville,448,6
 Pryce Rochford,JR,QB,#22,Edgewood-Colesburg,590,11
@@ -40,6 +40,7 @@ Michael Hensley,JR,RB/LB,#6,Sidney,322,5
 Perrin Sulzle,JR,QB/LB,#7,Baxter,130,1
 Ben Coffman,JR,RB/LB,#9,English Valleys,235,2
 Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,75,2
+McKoy Nuss,SO,QB/LB,#13,Tripoli,168,4
 Klay Baker,JR,RB/LB,#17,St. Edmond,233,5
 Aiden Klostermann,SR,RB/S,#10,Central City,344,5
 Caden Page,JR,QB/LB,#8,Murray,84,2
@@ -101,7 +102,6 @@ Slate Witte,SR,,#7,GMG,79,2
 Jackson Schulte,SR,RB/LB,#21,Kee,239,3
 Jayden Hanson,SR,QB/DB,#7,Central City,192,3
 Cade Robinson,JR,WR/CB,#12,Baxter,91,1
-McKoy Nuss,SO,QB/LB,#13,Tripoli,84,1
 Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,143,3
 Cainan Travis,JR,WR/LB,#20,Baxter,141,1
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,239,5
@@ -109,9 +109,11 @@ Levi Reineke,SO,LB/RB,#29,Boyer Valley,122,1
 Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,109,0
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,206,4
 Graham Godsey,JR,RB/LB,#35,Bedford,86,0
+Alex Hansen,JR,RB/LB,#22,Exira-EHK,115,3
 Deshon Anderson,SO,RB/LB,#32,English Valleys,134,2
 Isaac Clark,SR,QB/LB,#12,Gladbrook-Reinbeck,103,3
 Dylan Marquart,JR,QB/DB,#3,Dunkerton,29,3
+Kyle Boeckmann,JR,RB/LB,#8,Tripoli,90,0
 Ty Christensen,SO,,#5,Don Bosco,144,1
 London Franklin,SO,RB/DE,#6,New London,60,0
 Corbin Jacobs-Jewell,JR,TE/DE,#10,New London,11,0
@@ -120,6 +122,7 @@ Jacob Martin,JR,RB/LB,#3,Stanton,72,1
 Degin Dixson,SR,QB/CB,#3,Mormon Trail,66,2
 Joe Koehler,SR,FB/DE,#24,Rockford,63,0
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,137,1
+Hayden Loftsgard,JR,WR/CB,#2,Tripoli,60,1
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,59,0
 Talan Driscoll,FR,C/DE,#5,Easton Valley,36,2
 Matthew Klostermann,JR,RB/LB,#22,Central City,151,3
@@ -167,16 +170,15 @@ Kinnick Henning,SO,RB/LB,#22,St. Edmond,88,1
 Owen Murphy,JR,WR/S,#10,Bishop Garrigan,20,0
 Riley Raines,FR,RB/LB,#13,New London,5,0
 Jeremy Reineke,SR,OL/LB,#45,Belle Plaine,27,3
-Alex Hansen,JR,RB/LB,#22,Exira-EHK,102,2
 Colin Snyder,SO,RB/LB,#24,Dunkerton,59,0
 Devon Weisskopf,JR,RB/LB,#32,HLV,26,0
 Aidan Timm,SO,QB/DB,#9,Belle Plaine,65,2
+Cannon Hansen,JR,TE/DL,#33,Exira-EHK,30,0
 Zane Johnson,JR,RB/LB,#7,Griswold,36,0
 Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,50,0
 David Rose,JR,WR/DB,#5,Montezuma,42,0
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,48,0
 Caleb Swedin,SO,RB/LB,#7,GTRA,53,2
-Hayden Loftsgard,JR,WR/CB,#2,Tripoli,30,0
 Jack Follmann,SR,TE/LB,#40,CAM,33,0
 Brigham Porter,SO,SL/DB,#23,New London,60,1
 Justin Weispfenning,JR,RB/DB,#3,Easton Valley,35,0
@@ -214,7 +216,6 @@ Ty Tauber,SR,OT/LB,#25,Newell-Fonda,116,4
 Kenny Ness,SO,LB/WR,#6,GTRA,86,0
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,63,3
 Gannon Short,JR,RB/DB,#11,Colo-Nesco,44,3
-Kyle Boeckmann,JR,RB/LB,#8,Tripoli,21,0
 Eli Miller,SR,RB/LB,#7,Winfield-Mt Union,61,2
 Chance Hoyt,FR,RB/LB,#4,Iowa Valley,85,2
 Adam Bensley,SO,SL/LB,#12,Harris-Lake Park,57,1
@@ -233,7 +234,6 @@ Luke Lansing,SO,RB/LB,#44,Springville,42,1
 Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,47,0
 Jamison Martin,JR,RB/DB,#11,West Harrison,36,0
 Braedon Godfread,JR,TE/S,#10,Sidney,33,1
-Cannon Hansen,JR,TE/DL,#33,Exira-EHK,17,0
 Trey Cota,FR,QB/LB,#10,Kee,18,0
 Keegan Chew,FR,QB/S,#7,Murray,-4,0
 Kolben Robinson,SO,TE/LB,#25,Lenox,21,0
@@ -366,6 +366,7 @@ Chaz Cornelison,JR,RB/DB,#31,East Union,3,0
 Wyatt Christiansen,SO,RB/LB,#10,Midland,-5,0
 Derek Kressley,FR,RB/LB,#10,Belle Plaine,10,0
 Austin Schmidt,JR,QB/DB,#2,West Bend-Mallard,2,0
+Parker Fister,SO,RB/DB,#20,Exira-EHK,5,0
 Noah Connelly,SO,WR/DB,#22,Kee,2,0
 Zach Goetzinger,SO,RB/DB,#20,Kee,13,0
 Titus Barber,SR,OG/DE,#90,Murray,0,0

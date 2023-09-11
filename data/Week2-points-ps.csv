@@ -17,7 +17,7 @@ Aiden Stenzel,0.2,RB/DB,Sidney
 Aldo Esteban-Cabrera,9.1,RB/LB,Murray
 Alex Black,0.0,WR/DB,Montezuma
 Alex Daniel,9.7,RB/LB,Glidden-Ralston
-Alex Hansen,0.0,RB/LB,Exira-EHK
+Alex Hansen,27.5,RB/LB,Exira-EHK
 Alex Tiedemann,13.4,QB/DB,Northwood-Kensett
 Ambrose Savage,45.66,QB/LB,Lamoni
 Andreas Buttry,-0.1,QB/CB,Sidney
@@ -88,7 +88,7 @@ Brodyn Pryor,0.0,QB/DB,Woodbine
 Brogan Ewing,24.4,WR/CB,Southeast Warren
 Brogyn Greensky,0.0,QB/LB,North Iowa
 Broox Stockman,8.3,RB/LB,Montezuma
-Bryce Brabham,0.0,RB/DB,Exira-EHK
+Bryce Brabham,7.8,RB/DB,Exira-EHK
 Bryer Jack,6.78,QB/DB,HLV
 Burke Busta,26.3,FB,Turkey Valley
 Cade Robinson,33.3,WR/CB,Baxter
@@ -114,7 +114,7 @@ Caleb Swedin,20.5,RB/LB,GTRA
 Caleb Urban,19.2,WR/CB,East Mills
 Callan Messerich,36.8,WR/DB,Easton Valley
 Cam Buffington,40.9,QB/LB,Winfield-Mt Union
-Cannon Hansen,0.0,TE/DL,Exira-EHK
+Cannon Hansen,5.3,TE/DL,Exira-EHK
 Carson Frerichs,0.0,RB/LB,North Iowa
 Carson Hopkins,0.9,TE/LB,West Harrison
 Carson Ingles,7.54,RB,Edgewood-Colesburg
@@ -206,7 +206,7 @@ Drake Axmear,0.0,WR/CB,English Valleys
 Drew Eilers,1.0,WR/DL,Gladbrook-Reinbeck
 Drew Lappe,0.0,WR/CB,Bishop Garrigan
 Drew Stanek,0.0,RB/LB,Gladbrook-Reinbeck
-Drew Urbanek,0.0,QB/CB,Tripoli
+Drew Urbanek,1.04,QB/CB,Tripoli
 Dreyson Morgan,0.0,WR/DB,Gladbrook-Reinbeck
 Dylan Marquart,33.54,QB/DB,Dunkerton
 Easton Hudnut,0.0,WR/DB,Montezuma
@@ -252,7 +252,7 @@ Guyson Lyman,0.0,TE/DE,Newell-Fonda
 Harley Molina,12.6,WR/LB,Ar-We-Va
 Hayden Hicks,0.9,TE/LB,Boyer Valley
 Hayden Jones,0.0,TE/LB,Griswold
-Hayden Loftsgard,0.0,WR/CB,Tripoli
+Hayden Loftsgard,18.0,WR/CB,Tripoli
 Holden Jensen,0.0,WR/CB,Griswold
 Holden Roberts,0.0,TE/DE,Twin Cedars
 Hudson Clark,0.0,WR/DB,Gladbrook-Reinbeck
@@ -287,7 +287,7 @@ Jackson Stansberry,1.6,WR/DB,Siouxland Christian
 Jacksyn Hogrefe,0.0,RB/DB,Newell-Fonda
 Jacob Berens,16.0,RB/LB,Boyer Valley
 Jacob Martin,24.7,RB/LB,Stanton
-Jacob Morey,0.0,OL/DL,Tripoli
+Jacob Morey,13.2,OL/DL,Tripoli
 Jacob Snyder,0.0,OL/DL,Dunkerton
 Jader Sanchez,0.0,RB/DB,Lone Tree
 Jaedon Koppman,0.0,,Don Bosco
@@ -295,7 +295,7 @@ Jake Edwards,1.8,QB/S,Winfield-Mt Union
 Jake Schilling,0.3,OG,Edgewood-Colesburg
 Jakob Koopman,3.3,SL/LB,St. Edmond
 James Buhlman,2.1,RB/LB,Easton Valley
-Jameson Kilworth,0.0,QB/DB,Exira-EHK
+Jameson Kilworth,39.88,QB/DB,Exira-EHK
 Jamison Ewing,49.4,WR/CB,Southeast Warren
 Jamison Martin,23.3,RB/DB,West Harrison
 Jarod Reams,0.9,RB/DB,Kee
@@ -369,7 +369,7 @@ Kolby Culbertson,15.0,TE/DB,Coon Rapids-Bayard
 Kolt Payne,10.1,SL/CB,Sidney
 Kolton Robinson,0.0,RB/DB,Northwood-Kensett
 Kooper Julseth,30.66,WR/LB,Northwood-Kensett
-Kyle Boeckmann,0.0,RB/LB,Tripoli
+Kyle Boeckmann,9.3,RB/LB,Tripoli
 Kyle Reinhart,0.0,WR/DB,Central Elkader
 Kyler Knaack,13.2,,Don Bosco
 LaDarius Albright,4.2,TE/LB,Sidney
@@ -436,7 +436,7 @@ Max Carlson,0.0,QB/LB,Newell-Fonda
 Max Fettkether,0.0,RB/LB,Central Elkader
 Max Henstorf,8.7,QB/LB,HLV
 Mayson Hemsted,0.0,WR/DB,Lone Tree
-McKoy Nuss,0.0,QB/LB,Tripoli
+McKoy Nuss,36.82,QB/LB,Tripoli
 Mekhi Benton,9.7,TE/DE,Central City
 Micah Moores,0.0,RB/LB,Woodbine
 Michael Hensley,30.7,RB/LB,Sidney
@@ -463,11 +463,12 @@ Owen Garside,28.66,S/QB,Boyer Valley
 Owen Hammersland,0.0,RB/LB,Central Elkader
 Owen Johnson,0.0,RB/DE,Griswold
 Owen Murphy,0.0,WR/S,Bishop Garrigan
+Parker Fister,0.5,RB/DB,Exira-EHK
 Parker Hays,9.7,RB/DB,Coon Rapids-Bayard
 Perrin Sulzle,25.78,QB/LB,Baxter
 Peter Kielman,0.0,TE/LB,Clarksville
 Pryce Rochford,20.02,QB,Edgewood-Colesburg
-Quintin White,0.0,WR/DB,Exira-EHK
+Quintin White,8.7,WR/DB,Exira-EHK
 Rason Grail,9.1,WR/DB,East Union
 Reagan Richardson,0.0,RB,Riceville
 Reece Chiabotta,0.0,QB/DB,Melcher-Dallas

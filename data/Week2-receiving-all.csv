@@ -39,6 +39,7 @@ Aiden Klostermann,SR,RB/S,#10,Central City,9,151,3
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,9,110,0
 Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,9,123,2
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,9,100,0
+Hayden Loftsgard,JR,WR/CB,#2,Tripoli,9,65,0
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,9,95,2
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,9,114,1
 Trevor Forey,SR,WR/S,#6,Janesville,9,158,4
@@ -48,6 +49,7 @@ Kolt Payne,JR,SL/CB,#24,Sidney,9,246,3
 Seth Bixler,SR,WR/S,#1,Midland,8,86,1
 Matt Sauer,SR,TE/DE,#82,Midland,8,88,2
 Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,8,176,2
+Alex Hansen,JR,RB/LB,#22,Exira-EHK,8,164,1
 Keyden Lown,JR,TE/DE,#84,English Valleys,8,111,4
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,8,106,1
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,8,204,1
@@ -100,6 +102,7 @@ Cale Westerbeck,SO,WR/DB,#4,New London,6,124,2
 James Buhlman,FR,RB/LB,#27,Easton Valley,6,113,1
 Braedon Godfread,JR,TE/S,#10,Sidney,6,84,2
 Carter Sholtus,SR,WR/CB,#2,HLV,5,53,2
+Cannon Hansen,JR,TE/DL,#33,Exira-EHK,5,99,1
 Nolan Gannon,FR,RB/LB,#34,Murray,5,75,1
 Gio Cruz,SR,RB/DB,#5,Lenox,5,48,1
 Logan French,SR,WR/DB,#1,Stanton,5,96,1
@@ -113,7 +116,7 @@ Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,5,79,0
 Nolan Cushion,SR,TE/DE,#22,West Central,5,80,0
 Charlie Schaefer,SR,QB/S,#6,North Iowa,5,125,1
 Jaxson Schnell,SO,LB/WR,#4,GTRA,5,108,2
-Hayden Loftsgard,JR,WR/CB,#2,Tripoli,5,15,0
+Jacob Morey,SR,OL/DL,#11,Tripoli,5,143,2
 Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,5,75,0
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,5,41,0
 Ian Smith,JR,TE/LB,#5,Iowa Valley,5,53,2
@@ -129,6 +132,8 @@ Ty Alcott,JR,RB/DB,#24,Belle Plaine,4,53,0
 Riley Simmons,SR,E/DE,#85,Belle Plaine,4,67,3
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,4,35,0
 Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,4,101,0
+Quintin White,SR,WR/DB,#3,Exira-EHK,4,47,1
+Bryce Brabham,SO,RB/DB,#9,Exira-EHK,4,86,1
 Ayden Lamb,FR,TE/LB,#18,Murray,4,20,1
 Donald Bashor,SR,RB/LB,#44,Lenox,4,95,2
 Jordan Martin-England,JR,RB/LB,#18,Lenox,4,36,0
@@ -146,7 +151,6 @@ Anthony Eisele,SR,OL/DL,#55,North Iowa,4,46,3
 Ryker Hoffman,JR,WR/CB,#2,Rockford,4,54,0
 Christian Reinke,JR,TE/LB,#25,Rockford,4,40,0
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,4,124,0
-Jacob Morey,SR,OL/DL,#11,Tripoli,4,81,1
 Cal Peterman,JR,WR/LB,#15,Bedford,4,59,2
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,4,85,1
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,4,70,1
@@ -155,9 +159,6 @@ Kelan Stevenson,SO,TE/LB,#62,Lamoni,4,32,1
 Talan Driscoll,FR,C/DE,#5,Easton Valley,4,-1,0
 Clay Westphal,SO,SL/S,#8,West Harrison,4,8,0
 Max Henstorf,SR,QB/LB,#7,HLV,3,20,0
-Alex Hansen,JR,RB/LB,#22,Exira-EHK,3,72,0
-Cannon Hansen,JR,TE/DL,#33,Exira-EHK,3,79,1
-Quintin White,SR,WR/DB,#3,Exira-EHK,3,30,0
 Eric Wilson,SR,WR/DB,#15,Exira-EHK,3,36,0
 Jackson Schulte,SR,RB/LB,#21,Kee,3,129,1
 Stadan Vansice,SO,WR/LB,#5,Baxter,3,44,0
@@ -181,8 +182,10 @@ Trey Fisher,JR,RB/LB,#89,Southeast Warren,3,32,0
 Braden Simington,SR,S/WR,#2,GTRA,3,55,0
 Caleb Swedin,SO,RB/LB,#7,GTRA,3,56,0
 Collin Homan,JR,OL/DL,#55,Remsen St. Mary's,3,44,1
+McKoy Nuss,SO,QB/LB,#13,Tripoli,3,16,0
 Ethan Schaufenbuel,SO,WR/CB,#20,Tripoli,3,34,0
 Tristan Freiberg,SR,WR/CB,#1,Tripoli,3,20,0
+Kyle Boeckmann,JR,RB/LB,#8,Tripoli,3,10,0
 Kyler Knaack,JR,,#20,Don Bosco,3,26,1
 Micah Moores,FR,RB/LB,#9,Woodbine,3,39,1
 Cal Pryor,FR,QB/DB,#12,Woodbine,3,27,1
@@ -200,7 +203,6 @@ Wade Sankot,SO,RB/LB,#3,Belle Plaine,2,12,0
 Carter Fehr,SR,TE/DL,#13,West Bend-Mallard,2,7,1
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,2,23,0
 Aidan Yoch,SR,TE/DB,#14,West Bend-Mallard,2,22,0
-Bryce Brabham,SO,RB/DB,#9,Exira-EHK,2,28,1
 Jordan Cota,JR,TE/DE,#81,Kee,2,53,0
 Conner Bowers,JR,TE/CB,#21,Griswold,2,21,0
 Zane Johnson,JR,RB/LB,#7,Griswold,2,23,1
@@ -316,8 +318,6 @@ Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,1,0,0
 Hunter Hardin,JR,RB/LB,#36,Colo-Nesco,1,3,0
 Ben Ryan,SR,TE/DE,#17,Colo-Nesco,1,15,0
 Gannon Short,JR,RB/DB,#11,Colo-Nesco,1,8,0
-McKoy Nuss,SO,QB/LB,#13,Tripoli,1,3,0
-Kyle Boeckmann,JR,RB/LB,#8,Tripoli,1,6,0
 Silas Walston,SR,RB/DE,#33,Bedford,1,50,1
 Kael Johnson,SR,LB/OG,#4,Winfield-Mt Union,1,9,0
 Carter Hassebroek,JR,WR/DB,#8,Iowa Valley,1,29,0
