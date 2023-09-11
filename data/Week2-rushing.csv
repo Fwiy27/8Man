@@ -73,6 +73,7 @@ Seth Bixler,5.5,SR,WR/S,#1,Midland,55.0,0.0
 Braden Jordan,12.7,SO,QB/LB,#10,Springville,67.0,1.0
 Lucas Ahrenstorff,37.7,SR,QB/S,#1,Harris-Lake Park,137.0,4.0
 Jordan Martin-England,4.6,JR,RB/LB,#18,Lenox,46.0,0.0
+Owen Johnson,23.8,FR,RB/DE,#26,Griswold,118.0,2.0
 Grant Finck,20.6,JR,RB/LB,#10,Dunkerton,86.0,2.0
 Brogyn Greensky,0.0,SR,QB/LB,#4,North Iowa,0.0,0.0
 Conner Nally,18.3,SR,QB/LB,#5,Bedford,63.0,2.0
@@ -140,7 +141,7 @@ Keagan Lee,-3.3,SO,QB/DB,#17,Easton Valley,-33.0,0.0
 Isaac Hill,2.3,SO,OL/DL,#60,Springville,23.0,0.0
 Carson Ingles,8.1,SO,RB,#1,Edgewood-Colesburg,21.0,1.0
 Trayton Cink,0.0,JR,RB/LB,#26,Bishop Garrigan,0.0,0.0
-Owen Johnson,0.0,FR,RB/DE,#26,Griswold,0.0,0.0
+Mason Steinhoff,2.7,SO,RB/LB,#11,Griswold,27.0,0.0
 Owen Garside,29.5,JR,S/QB,#3,Boyer Valley,115.0,3.0
 Logan Busta,1.6,SO,QB/DB,#1,Turkey Valley,16.0,0.0
 Nathan Moon,0.0,FR,RB/LB,#6,Clarksville,0.0,0.0
@@ -164,7 +165,6 @@ Evan Lorenzen,1.2,JR,RB/DB,#22,Northwood-Kensett,12.0,0.0
 Brodyn Pryor,0.0,SO,QB/DB,#8,Woodbine,0.0,0.0
 Adyson Stark,0.0,JR,RB/DB,#6,Belle Plaine,0.0,0.0
 Kace Patton,-0.1,SR,WR/CB,#10,Murray,-1.0,0.0
-Mason Steinhoff,0.0,SO,RB/LB,#11,Griswold,0.0,0.0
 Brady Koenck,0.0,JR,RB/LB,#26,Remsen St. Mary's,0.0,0.0
 Kinnick Henning,0.1,SO,RB/LB,#22,St. Edmond,1.0,0.0
 Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0
@@ -237,6 +237,7 @@ Braedon Godfread,1.4,JR,TE/S,#10,Sidney,14.0,0.0
 Trey Cota,2.3,FR,QB/LB,#10,Kee,23.0,0.0
 Keegan Chew,-0.1,FR,QB/S,#7,Murray,-1.0,0.0
 Kolben Robinson,0.0,SO,TE/LB,#25,Lenox,0.0,0.0
+Ethan Baxter,0.6,JR,RB/LB,#52,Griswold,6.0,0.0
 Drew Stanek,0.0,JR,RB/LB,#16,Gladbrook-Reinbeck,0.0,0.0
 Dalton Weepie,11.3,JR,TE/LB,#33,Dunkerton,53.0,1.0
 Luke Brennan,0.0,SO,QB/DB,#6,Montezuma,0.0,0.0
@@ -245,7 +246,6 @@ Mason Maschmann,0.0,SR,RB/LB,#11,BGM,0.0,0.0
 Terrian Islas,0.7,JR,TE/DE,#5,East Union,7.0,0.0
 Bryer Jack,-1.1,FR,QB/DB,#14,HLV,-11.0,0.0
 Lawson Kling,0.9,SR,,#7,Fremont-Mills,9.0,0.0
-Ethan Baxter,0.0,JR,RB/LB,#52,Griswold,0.0,0.0
 Bode Wyman,0.0,JR,QB/CB,#8,Griswold,0.0,0.0
 Seth Bell,0.0,FR,QB/DB,#26,Collins-Maxwell,0.0,0.0
 Cale Langreck,0.3,FR,QB/LB,#10,Turkey Valley,3.0,0.0
@@ -286,6 +286,7 @@ Sawyer House,0.0,SR,WR/CB,#4,Midland,0.0,0.0
 Sean McCulloch,0.7,FR,QB/DB,#24,HLV,7.0,0.0
 Wyatt Leonard,0.0,SO,RB/LB,#21,Lenox,0.0,0.0
 Braxton Davis,0.0,JR,WR/DB,#9,Twin Cedars,0.0,0.0
+Cody Dorscher,0.2,JR,WR/CB,#24,Griswold,2.0,0.0
 Wyatt Silk,0.0,SO,WR/CB,#15,Griswold,0.0,0.0
 Cal Heydon,0.1,SO,QB/DB,#11,Coon Rapids-Bayard,1.0,0.0
 Levi Evans,0.0,SO,TE/DE,#20,Mormon Trail,0.0,0.0
@@ -324,7 +325,6 @@ Corey Breese,0.0,SR,TE/LB,#70,English Valleys,0.0,0.0
 Carter Rycroft,-0.6,SO,,#4,Fremont-Mills,-6.0,0.0
 Gavin Clark,0.0,SO,RB/LB,#25,Twin Cedars,0.0,0.0
 Holden Roberts,0.0,SO,TE/DE,#13,Twin Cedars,0.0,0.0
-Cody Dorscher,0.0,JR,WR/CB,#24,Griswold,0.0,0.0
 Hayden Jones,0.0,FR,TE/LB,#42,Griswold,0.0,0.0
 Eli Riedesel,0.0,SR,OG/DE,#57,Calamus-Wheatland,0.0,0.0
 Dalton Martin,0.0,SO,OL/DL,#40,Collins-Maxwell,0.0,0.0
