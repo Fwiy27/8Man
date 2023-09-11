@@ -2,6 +2,7 @@ Name,Year,Position,Number,School,YDS,TDS
 Ty Alcott,JR,RB/DB,#24,Belle Plaine,534,6
 Jameson Kilworth,SR,QB/DB,#8,Exira-EHK,523,9
 Oliver Schmitt,SR,FB,#22,Turkey Valley,529,9
+MaKade Bloker,SR,RB/LB,#11,Clarksville,639,8
 Shane Helmick,SR,QB/DE,#12,Moravia,383,5
 Nolan Kriegel,FR,QB/DB,#2,Iowa Valley,440,7
 Dane Appleby,JR,QB/LB,#4,Janesville,442,6
@@ -16,7 +17,6 @@ Gavin Menke-Bailey,JR,QB/LB,#5,New London,267,2
 Max Henstorf,SR,QB/LB,#7,HLV,101,1
 Andrew Beran,JR,RB,#2,Riceville,347,5
 Braxton Blackburn,SR,,#10,Fremont-Mills,364,4
-MaKade Bloker,SR,RB/LB,#11,Clarksville,448,6
 Pryce Rochford,JR,QB,#22,Edgewood-Colesburg,590,11
 Aaron Olsen,JR,QB/S,#3,Audubon,319,4
 Adam Scott,SR,RB/LB,#26,West Central,301,2
@@ -55,6 +55,7 @@ Brady Boulton,SO,QB/DB,#1,Montezuma,290,5
 Broox Stockman,SO,RB/LB,#20,Montezuma,180,2
 JT Laufersweiler,SR,QB/DB,#11,St. Edmond,169,3
 Conlin Rouse,SO,RB/LB,#11,Springville,125,3
+Owen Backer,SO,RB/S,#22,Clarksville,429,9
 Garrison Motsinger,JR,RB/S,#4,Bedford,321,6
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,256,3
 Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,153,2
@@ -70,6 +71,7 @@ Nolan Birdsall,JR,RB/LB,#2,West Harrison,145,3
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,170,3
 Brodie Ludwig,JR,RB/LB,#21,Woodbine,98,1
 Seth Bixler,SR,WR/S,#1,Midland,250,3
+Eli Schmidt,SR,RB/S,#3,Clarksville,172,4
 Braden Jordan,SO,QB/LB,#10,Springville,158,1
 Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,233,6
 Jordan Martin-England,JR,RB/LB,#18,Lenox,217,3
@@ -82,11 +84,9 @@ Seth Hudson,SR,QB/S,#7,East Union,58,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,173,2
 Kendrick Mastin,SR,RB/LB,#9,Murray,116,2
 Nolan Grebin,SR,QB/S,#2,Stanton,26,0
-Owen Backer,SO,RB/S,#22,Clarksville,261,6
 Beau Burns,SO,QB/DB,#2,BGM,530,9
 Caden Roethler,SR,FB/LB,#20,Bishop Garrigan,101,1
 Parker Hays,JR,RB/DB,#9,Coon Rapids-Bayard,85,1
-Eli Schmidt,SR,RB/S,#3,Clarksville,171,4
 Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,276,5
 Jordan Goad,JR,QB/CB,#1,Springville,81,1
 Carter Oberbroeckling,SR,RB,#34,Edgewood-Colesburg,282,3
@@ -128,6 +128,7 @@ Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,59,0
 Talan Driscoll,FR,C/DE,#5,Easton Valley,36,2
 Matthew Klostermann,JR,RB/LB,#22,Central City,151,3
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,131,1
+Nathan Moon,FR,RB/LB,#6,Clarksville,115,0
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,234,2
 Wyatt Nelson,JR,RB/DB,#9,West Central,166,3
 Grant Whitehead,JR,QB/DB,#15,Sidney,123,2
@@ -144,7 +145,6 @@ Trayton Cink,JR,RB/LB,#26,Bishop Garrigan,158,3
 Mason Steinhoff,SO,RB/LB,#11,Griswold,82,1
 Owen Garside,JR,S/QB,#3,Boyer Valley,168,5
 Logan Busta,SO,QB/DB,#1,Turkey Valley,75,2
-Nathan Moon,FR,RB/LB,#6,Clarksville,83,0
 Mark Bower,JR,RB/DB,#25,Colo-Nesco,138,1
 Brody Paulsen,SR,RB/DB,#2,CAM,82,2
 Christopher Greif,SR,LB/FB,#44,Central City,87,2
