@@ -116,7 +116,9 @@ Samuel Dascher,SO,TE/CB,#31,Calamus-Wheatland,5,66,1
 Lane Oswalt,SR,WR/DB,#87,Collins-Maxwell,5,45,0
 Jiri Brodigan,SO,WR/LB,#32,East Mills,5,52,1
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,5,87,1
+Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,5,89,3
 J.D. Kruse,SO,RB/DE,#2,Turkey Valley,5,129,2
+Emmett Burke,SO,WR/DB,#10,Lone Tree,5,102,1
 Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,5,79,0
 Nolan Cushion,SR,TE/DE,#22,West Central,5,80,0
 Charlie Schaefer,SR,QB/S,#6,North Iowa,5,125,1
@@ -149,8 +151,7 @@ Cody Dorscher,JR,WR/CB,#24,Griswold,4,64,0
 Gavin Ford,JR,QB/LB,#12,Stanton,4,13,1
 Johnny Resh,SR,TE/DL,#20,Stanton,4,26,0
 Caleb Urban,JR,WR/CB,#3,East Mills,4,66,0
-Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,4,70,2
-Emmett Burke,SO,WR/DB,#10,Lone Tree,4,78,1
+Treyvon Herron,FR,WR/DB,#9,Gladbrook-Reinbeck,4,146,3
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,4,69,1
 Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,4,73,1
 Anthony Eisele,SR,OL/DL,#55,North Iowa,4,46,3
@@ -172,7 +173,6 @@ Stadan Vansice,SO,WR/LB,#5,Baxter,3,44,0
 Braxton Blackburn,SR,,#10,Fremont-Mills,3,15,0
 Mason Steinhoff,SO,RB/LB,#11,Griswold,3,45,1
 Levi Evans,SO,TE/DE,#20,Mormon Trail,3,24,1
-Treyvon Herron,FR,WR/DB,#9,Gladbrook-Reinbeck,3,133,2
 Luke Cripps,SR,QB/S,#1,Boyer Valley,3,14,0
 Burke Busta,SR,FB,#9,Turkey Valley,3,59,1
 John Stauffer,JR,TE/LB,#82,Clarksville,3,63,1
@@ -221,11 +221,13 @@ Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,2,13,0
 Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,2,26,0
 Layne Mastin,SR,OG/DE,#11,East Mills,2,8,0
 Sheldon Vandenberg,JR,OG/LB,#12,East Mills,2,15,1
+Kael Blohm,SO,WR/DB,#15,Gladbrook-Reinbeck,2,36,1
 Caleb Kurtenbach,SR,QB,#5,Turkey Valley,2,33,1
 Sam Fettkether,SR,OL/LB,#47,Central Elkader,2,4,0
 Preston Kulper,SO,WR/DB,#81,Central Elkader,2,13,0
 Kyle Reinhart,JR,WR/DB,#40,Central Elkader,2,23,0
 Logan Sharpe,JR,RB/LB,#28,Central Elkader,2,6,0
+Domonic Garcia,SO,WR/DB,#8,Lone Tree,2,28,1
 Grant Finck,JR,RB/LB,#10,Dunkerton,2,12,0
 Jackson Stansberry,SO,WR/DB,#22,Siouxland Christian,2,31,0
 Adam Scott,SR,RB/LB,#26,West Central,2,45,1
@@ -296,12 +298,15 @@ Caden Oswald,FR,RB/DB,#6,Coon Rapids-Bayard,1,7,0
 Degin Dixson,SR,QB/CB,#3,Mormon Trail,1,40,1
 Trypp Roszell,JR,WR/DB,#18,Gladbrook-Reinbeck,1,5,0
 Anthony Knaack,FR,WR/LB,#47,Gladbrook-Reinbeck,1,6,0
+Brayden Utter,FR,WR/LB,#17,Gladbrook-Reinbeck,1,33,0
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,1,24,1
 Wiatt Schulte,SO,DL/OL,#89,Boyer Valley,1,16,0
 Brody Koski,FR,QB/LB,#7,Boyer Valley,1,8,0
 Sam Hoodjer,JR,WR/CB,#80,Clarksville,1,36,0
 Eli Schmidt,SR,RB/S,#3,Clarksville,1,50,1
 Kale Doeppke,SR,WR/DB,#5,Central Elkader,1,17,0
+Dominic Graap,SR,WR/DB,#19,Lone Tree,1,9,1
+Maddox Jondle,JR,QB/LB,#11,Lone Tree,1,42,1
 Brody Magruder,JR,TE/DL,#26,Lone Tree,1,8,0
 Ledger Dalton,SO,WR/DB,#5,Dunkerton,1,8,1
 Jacob Snyder,SR,OL/DL,#52,Dunkerton,1,4,1
