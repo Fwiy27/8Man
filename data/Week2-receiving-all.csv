@@ -36,6 +36,7 @@ Caleb Haack,JR,WR/DB,#7,Iowa Valley,11,268,3
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,10,115,1
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,10,57,2
 Dakota Heishman,JR,WR/DB,#8,BGM,10,125,1
+Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,10,90,1
 Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,10,99,0
 Rason Grail,SR,WR/DB,#23,East Union,9,163,3
 Aiden Klostermann,SR,RB/S,#10,Central City,9,151,3
@@ -67,6 +68,7 @@ Devon Ehlers,SO,TE/LB,#88,Ar-We-Va,8,62,0
 Klay Baker,JR,RB/LB,#17,St. Edmond,8,188,3
 Conlin Rouse,SO,RB/LB,#11,Springville,8,152,3
 Mason Maschmann,SR,RB/LB,#11,BGM,8,180,1
+Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,8,126,3
 Austin Christensen,SO,WR/LB,#81,Audubon,8,40,0
 Kaleb Gill,SR,,#1,GMG,8,68,1
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,168,3
@@ -79,8 +81,6 @@ Ty Christensen,SO,,#5,Don Bosco,7,70,1
 Jack Follmann,SR,TE/LB,#40,CAM,7,161,2
 Grant Galles,SO,WR/DB,#6,St. Edmond,7,203,2
 Brayden Hepke,SR,WR/DB,#17,BGM,7,92,3
-Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,7,40,0
-Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,7,101,2
 Justin Weispfenning,JR,RB/DB,#3,Easton Valley,7,55,1
 Austin Lack,SR,WR/DB,#3,East Union,6,110,1
 Kael Cress,JR,WR/S,#7,Midland,6,75,3
@@ -131,6 +131,7 @@ Ian Smith,JR,TE/LB,#5,Iowa Valley,5,53,2
 Collin Bower,SO,TE/DB,#25,CAM,5,95,2
 Will Felper,SR,SL,#18,Riceville,5,71,1
 Christopher Lange,SO,WR,#10,Edgewood-Colesburg,5,95,0
+Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,5,76,1
 Brigham Porter,SO,SL/DB,#23,New London,5,65,1
 Edward Miller,SR,TE/DE,#31,Audubon,5,93,0
 Jordan Boehde,FR,RB/DB,#13,Easton Valley,5,53,1
@@ -160,7 +161,7 @@ Christian Reinke,JR,TE/LB,#25,Rockford,4,40,0
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,4,124,0
 Cal Peterman,JR,WR/LB,#15,Bedford,4,59,2
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,4,85,1
-Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,4,70,1
+Owen Murphy,JR,WR/S,#10,Bishop Garrigan,4,87,1
 Landon Lindgren,SO,RB/DB,#11,Lamoni,4,52,0
 Kelan Stevenson,SO,TE/LB,#62,Lamoni,4,32,1
 Talan Driscoll,FR,C/DE,#5,Easton Valley,4,-1,0
@@ -203,7 +204,6 @@ Brody Paulsen,SR,RB/DB,#2,CAM,3,57,0
 Aidan Ebert,JR,WR,#3,Riceville,3,19,0
 Kinnick Henning,SO,RB/LB,#22,St. Edmond,3,67,2
 Jakob Koopman,SO,SL/LB,#8,St. Edmond,3,43,1
-Owen Murphy,JR,WR/S,#10,Bishop Garrigan,3,48,0
 Creyton Ogier,SR,TE/DE,#5,Lamoni,3,86,1
 Logan Franklin,SO,WR/DB,#7,New London,3,22,0
 London Franklin,SO,RB/DE,#6,New London,3,88,1
