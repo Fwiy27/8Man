@@ -17,6 +17,7 @@ Judah Bielenberg,12.5,JR,QB/LB,#10,Siouxland Christian,65.0,1.0
 Gavin Menke-Bailey,27.4,JR,QB/LB,#5,New London,154.0,2.0
 Max Henstorf,3.7,SR,QB/LB,#7,HLV,37.0,0.0
 Andrew Beran,3.9,JR,RB,#2,Riceville,39.0,0.0
+Triton Gwinn,12.1,SR,RB/LB,#22,Mormon Trail,61.0,1.0
 Braxton Blackburn,30.0,SR,,#10,Fremont-Mills,180.0,2.0
 Ethan Bockelman,14.3,SR,QB/DB,#22,Lone Tree,83.0,1.0
 Pryce Rochford,18.9,JR,QB,#22,Edgewood-Colesburg,129.0,1.0
@@ -73,7 +74,6 @@ Edde Gonzalez,8.6,SR,RB/LB,#1,West Central,26.0,1.0
 Jackson McDanel,7.7,SR,RB/LB,#30,Moravia,17.0,1.0
 Tate Foertsch,4.6,SO,QB/DB,#7,Bishop Garrigan,46.0,0.0
 Nolan Birdsall,3.1,JR,RB/LB,#2,West Harrison,31.0,0.0
-Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0
 Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0
 Maddox Jondle,41.1,JR,QB/LB,#11,Lone Tree,231.0,3.0
 Seth Bixler,5.5,SR,WR/S,#1,Midland,55.0,0.0
@@ -91,6 +91,7 @@ Kendrick Mastin,2.6,SR,RB/LB,#9,Murray,26.0,0.0
 Nolan Grebin,-1.3,SR,QB/S,#2,Stanton,-13.0,0.0
 Beau Burns,0.0,SO,QB/DB,#2,BGM,0.0,0.0
 Parker Hays,9.7,JR,RB/DB,#9,Coon Rapids-Bayard,37.0,1.0
+Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Landon Waldschmitt,0.0,JR,QB/DB,#7,Remsen St. Mary's,0.0,0.0
 Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0
 Carter Oberbroeckling,4.0,SR,RB,#34,Edgewood-Colesburg,40.0,0.0
@@ -125,7 +126,6 @@ London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
 Corbin Jacobs-Jewell,1.1,JR,TE/DE,#10,New London,11.0,0.0
 Sawyer Forney,11.5,SO,,#2,Fremont-Mills,55.0,1.0
 Jacob Martin,1.1,JR,RB/LB,#3,Stanton,11.0,0.0
-Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0
 Hayden Loftsgard,9.0,JR,WR/CB,#2,Tripoli,30.0,1.0
@@ -276,6 +276,7 @@ Keaton Brammer,6.7,FR,WR/CB,#14,Murray,7.0,1.0
 Gavin Clark,0.2,SO,RB/LB,#25,Twin Cedars,2.0,0.0
 Blake Micetich,0.0,SR,RB/DB,#3,Twin Cedars,0.0,0.0
 Caleb Coffelt,0.0,FR,WR/DB,#3,Collins-Maxwell,0.0,0.0
+Tyler Rodgers,1.3,JR,WR/CB,#17,Mormon Trail,13.0,0.0
 Isaac Loan,0.0,SO,QB/DB,#12,Central Elkader,0.0,0.0
 Hunter DeGard,0.1,FR,OG/DE,#24,Melcher-Dallas,1.0,0.0
 Leo Schrader,0.0,FR,QB/DB,#23,Melcher-Dallas,0.0,0.0
@@ -336,7 +337,6 @@ Hayden Jones,0.0,FR,TE/LB,#42,Griswold,0.0,0.0
 Eli Riedesel,0.0,SR,OG/DE,#57,Calamus-Wheatland,0.0,0.0
 Dalton Martin,0.0,SO,OL/DL,#40,Collins-Maxwell,0.0,0.0
 Reed Oswalt,0.0,SO,WR/DB,#24,Collins-Maxwell,0.0,0.0
-Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0
 Drew Eilers,-8.1,JR,WR/DL,#2,Gladbrook-Reinbeck,-21.0,-1.0
 Austin Gehring,6.1,SR,WR/DB,#4,Gladbrook-Reinbeck,1.0,1.0
@@ -396,6 +396,7 @@ Nate Smith,0.0,JR,RB/DB,#21,Collins-Maxwell,0.0,0.0
 Urijah Courter,0.0,FR,RB/DB,#10,Collins-Maxwell,0.0,0.0
 Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0
 Trey Rosenbeck,0.0,SR,TE/LB,#3,Coon Rapids-Bayard,0.0,0.0
+Ben Eslick,-0.1,FR,TE/LB,#32,Mormon Trail,-1.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0
 Trypp Roszell,6.6,JR,WR/DB,#18,Gladbrook-Reinbeck,6.0,1.0
 Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0

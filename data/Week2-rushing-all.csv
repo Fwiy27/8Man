@@ -17,6 +17,7 @@ Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,126,2
 Gavin Menke-Bailey,JR,QB/LB,#5,New London,267,2
 Max Henstorf,SR,QB/LB,#7,HLV,101,1
 Andrew Beran,JR,RB,#2,Riceville,347,5
+Triton Gwinn,SR,RB/LB,#22,Mormon Trail,231,4
 Braxton Blackburn,SR,,#10,Fremont-Mills,364,4
 Ethan Bockelman,SR,QB/DB,#22,Lone Tree,443,7
 Pryce Rochford,JR,QB,#22,Edgewood-Colesburg,590,11
@@ -73,7 +74,6 @@ Edde Gonzalez,SR,RB/LB,#1,West Central,156,5
 Jackson McDanel,SR,RB/LB,#30,Moravia,164,1
 Tate Foertsch,SO,QB/DB,#7,Bishop Garrigan,121,2
 Nolan Birdsall,JR,RB/LB,#2,West Harrison,145,3
-Triton Gwinn,SR,RB/LB,#22,Mormon Trail,170,3
 Brodie Ludwig,JR,RB/LB,#21,Woodbine,98,1
 Maddox Jondle,JR,QB/LB,#11,Lone Tree,340,5
 Seth Bixler,SR,WR/S,#1,Midland,250,3
@@ -91,6 +91,7 @@ Kendrick Mastin,SR,RB/LB,#9,Murray,116,2
 Nolan Grebin,SR,QB/S,#2,Stanton,26,0
 Beau Burns,SO,QB/DB,#2,BGM,530,9
 Parker Hays,JR,RB/DB,#9,Coon Rapids-Bayard,85,1
+Degin Dixson,SR,QB/CB,#3,Mormon Trail,66,2
 Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,276,5
 Jordan Goad,JR,QB/CB,#1,Springville,81,1
 Carter Oberbroeckling,SR,RB,#34,Edgewood-Colesburg,282,3
@@ -125,7 +126,6 @@ London Franklin,SO,RB/DE,#6,New London,60,0
 Corbin Jacobs-Jewell,JR,TE/DE,#10,New London,11,0
 Sawyer Forney,SO,,#2,Fremont-Mills,88,1
 Jacob Martin,JR,RB/LB,#3,Stanton,72,1
-Degin Dixson,SR,QB/CB,#3,Mormon Trail,66,2
 Joe Koehler,SR,FB/DE,#24,Rockford,63,0
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,137,1
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,60,1
@@ -276,6 +276,7 @@ Keaton Brammer,FR,WR/CB,#14,Murray,6,2
 Gavin Clark,SO,RB/LB,#25,Twin Cedars,23,0
 Blake Micetich,SR,RB/DB,#3,Twin Cedars,6,0
 Caleb Coffelt,FR,WR/DB,#3,Collins-Maxwell,12,0
+Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,4,0
 Isaac Loan,SO,QB/DB,#12,Central Elkader,20,0
 Hunter DeGard,FR,OG/DE,#24,Melcher-Dallas,8,0
 Leo Schrader,FR,QB/DB,#23,Melcher-Dallas,-4,0
@@ -336,7 +337,6 @@ Hayden Jones,FR,TE/LB,#42,Griswold,6,0
 Eli Riedesel,SR,OG/DE,#57,Calamus-Wheatland,4,0
 Dalton Martin,SO,OL/DL,#40,Collins-Maxwell,-8,0
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,11,0
-Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,-9,0
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,1,0
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,14,0
 Austin Gehring,SR,WR/DB,#4,Gladbrook-Reinbeck,-1,1
@@ -396,6 +396,7 @@ Nate Smith,JR,RB/DB,#21,Collins-Maxwell,3,0
 Urijah Courter,FR,RB/DB,#10,Collins-Maxwell,2,0
 Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,2,0
 Trey Rosenbeck,SR,TE/LB,#3,Coon Rapids-Bayard,17,0
+Ben Eslick,FR,TE/LB,#32,Mormon Trail,-1,0
 Jiri Brodigan,SO,WR/LB,#32,East Mills,0,0
 Trypp Roszell,JR,WR/DB,#18,Gladbrook-Reinbeck,6,1
 Treyvon Herron,FR,WR/DB,#9,Gladbrook-Reinbeck,1,0
