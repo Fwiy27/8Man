@@ -3,11 +3,11 @@ Treyton Travis,SR,WR/CB,#24,Baxter,34,545,9
 Kace Patton,SR,WR/CB,#10,Murray,33,457,7
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,26,335,4
 Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,26,298,3
+Jackson Embree,JR,SL/LB,#33,East Mills,25,301,3
+Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,24,187,1
 Landon Blum,FR,WR/DB,#5,Woodbine,24,377,7
 Michael Hensley,JR,RB/LB,#6,Sidney,22,366,5
-Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,21,159,1
 Carter Seitz,JR,WR/DB,#7,Kee,20,386,6
-Jackson Embree,JR,SL/LB,#33,East Mills,20,225,2
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,20,308,7
 Dakota Heishman,JR,WR/DB,#8,BGM,20,285,3
 Callan Messerich,SO,WR/DB,#6,Easton Valley,20,402,6
@@ -25,6 +25,8 @@ Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,16,185,2
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,15,245,4
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,15,153,3
 Jabari Woodbury,SR,,#2,GMG,15,204,0
+Rason Grail,SR,WR/DB,#23,East Union,14,193,4
+Jack Gordon,SR,WR/DL,#18,East Mills,14,205,5
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,14,207,3
 Dominic Coleman,SR,WR/DE,#23,BGM,14,221,5
 Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,14,150,1
@@ -35,20 +37,21 @@ Rider Kupka,SO,,#21,GMG,13,153,3
 Kolt Payne,JR,SL/CB,#24,Sidney,13,304,4
 Seth Bixler,SR,WR/S,#1,Midland,12,123,1
 Matt Sauer,SR,TE/DE,#82,Midland,12,132,3
+Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,12,84,2
 Louden Huisenga,JR,RB/LB,#8,WACO,12,144,4
 Brayden Hepke,SR,WR/DB,#17,BGM,12,154,3
 Cainan Travis,JR,WR/LB,#20,Baxter,11,144,2
 Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,11,198,0
 Cruz DeJong,SR,TE/LB,#40,Montezuma,11,144,3
-Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,11,79,2
+Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,11,69,2
+Alex Hansen,JR,RB/LB,#22,Exira-EHK,10,206,2
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,10,115,1
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex Vikings,10,111,0
-Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,10,57,2
 Jack Follmann,SR,TE/LB,#40,CAM,10,247,4
 Kaden Kobliska,SR,WR,#8,Riceville,10,93,2
+Trevor Forey,SR,WR/S,#6,Janesville,10,160,5
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,10,90,1
 Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,10,99,0
-Rason Grail,SR,WR/DB,#23,East Union,9,163,3
 Aiden Klostermann,SR,RB/S,#10,Central City,9,151,3
 Jackson Schulte,SR,RB/LB,#21,Kee,9,277,2
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,9,110,0
@@ -59,15 +62,12 @@ Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,9,100,0
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,9,65,0
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,9,95,2
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,9,114,1
-Trevor Forey,SR,WR/S,#6,Janesville,9,158,4
 Evan Alt,SR,RB/LB,#4,Audubon,9,44,0
 Kael Cress,JR,WR/S,#7,Midland,8,159,3
 Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,8,176,2
-Alex Hansen,JR,RB/LB,#22,Exira-EHK,8,164,1
 Keyden Lown,JR,TE/DE,#84,English Valleys,8,111,4
 Dylan Linkenhoker,SR,,#21,Fremont-Mills,8,146,1
 Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,8,90,1
-Jack Gordon,SR,WR/DL,#18,East Mills,8,100,2
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,8,61,2
 David Rose,JR,WR/DB,#5,Montezuma,8,88,1
 Broox Stockman,SO,RB/LB,#20,Montezuma,8,94,1
@@ -103,8 +103,11 @@ Tyler Ballard,SR,TE/DE,#22,HLV,6,112,0
 Cael Weisskopf,FR,RB/LB,#5,HLV,6,106,1
 Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,6,184,1
 Cody Samson,SR,TE/LB,#36,Baxter,6,40,0
+Donald Bashor,SR,RB/LB,#44,Lenox,6,159,4
+Gio Cruz,SR,RB/DB,#5,Lenox,6,54,1
 Logan French,SR,WR/DB,#1,Stanton/Essex Vikings,6,102,1
 Lane Oswalt,SR,WR/DB,#87,Collins-Maxwell,6,53,0
+Sheldon Vandenberg,JR,OG/LB,#12,East Mills,6,48,2
 Levi Reineke,SO,LB/RB,#29,Boyer Valley,6,34,0
 J.D. Kruse,SO,RB/DE,#2,Turkey Valley,6,159,3
 Oliver Schmitt,SR,FB,#22,Turkey Valley,6,48,3
@@ -126,9 +129,9 @@ James Buhlman,FR,RB/LB,#27,Easton Valley,6,113,1
 James Bell,SR,WR/DB,#21,Waterloo Christian,6,83,2
 Carter Sholtus,SR,WR/CB,#2,HLV,5,53,2
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,5,99,1
+Bryce Brabham,SO,RB/DB,#9,Exira-EHK,5,89,1
 Jordan Cota,JR,TE/DE,#81,Kee,5,93,2
 Nolan Gannon,FR,RB/LB,#34,Murray,5,75,1
-Gio Cruz,SR,RB/DB,#5,Lenox,5,48,1
 Samuel Dascher,SO,TE/CB,#31,Calamus-Wheatland,5,66,1
 Jiri Brodigan,SO,WR/LB,#32,East Mills,5,52,1
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,5,87,1
@@ -137,6 +140,7 @@ Emmett Burke,SO,WR/DB,#10,Lone Tree,5,102,1
 Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,5,79,0
 Charlie Schaefer,SR,QB/S,#6,North Iowa,5,125,1
 Christian Reinke,JR,TE/LB,#25,Rockford,5,43,0
+Kolton Robinson,SO,RB/DB,#23,Northwood-Kensett,5,17,0
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,5,90,1
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,5,52,0
 Jaxson Schnell,SO,LB/WR,#4,GTRA,5,108,2
@@ -155,10 +159,8 @@ Ty Alcott,JR,RB/DB,#24,Belle Plaine,4,53,0
 Riley Simmons,SR,E/DE,#85,Belle Plaine,4,67,3
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,4,35,0
 Quintin White,SR,WR/DB,#3,Exira-EHK,4,47,1
-Bryce Brabham,SO,RB/DB,#9,Exira-EHK,4,86,1
 Kaleb Drape,SR,WR/LB,#6,Kee,4,29,1
 Ayden Lamb,FR,TE/LB,#18,Murray,4,20,1
-Donald Bashor,SR,RB/LB,#44,Lenox,4,95,2
 Jordan Martin-England,JR,RB/LB,#18,Lenox,4,36,0
 Judson Beary,JR,RB/LB,#6,Twin Cedars,4,103,2
 Conner Bowers,JR,TE/CB,#21,Griswold,4,29,0
@@ -174,6 +176,7 @@ Anthony Eisele,SR,OL/DL,#55,North Iowa,4,46,3
 Ryker Hoffman,JR,WR/CB,#2,Rockford,4,54,0
 Marshawn Taylor,SR,RB/CB,#12,Rockford,4,65,0
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,4,124,0
+Landen Nelson,FR,WR/DB,#36,Northwood-Kensett,4,41,0
 Gage Samo,JR,WR/CB,#5,WACO,4,41,0
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,4,85,1
 Brodie Ludwig,JR,RB/LB,#21,Woodbine,4,21,0
@@ -183,6 +186,7 @@ Kelan Stevenson,SO,TE/LB,#62,Lamoni,4,32,1
 Talan Driscoll,FR,C/DE,#5,Easton Valley,4,-1,0
 Clay Westphal,SO,SL/S,#8,West Harrison/Whiting Hawkeyes,4,8,0
 Gavin Benter,SO,TE/DL,#99,Waterloo Christian,4,27,0
+Seth Hudson,SR,QB/S,#7,East Union,3,33,0
 Max Henstorf,SR,QB/LB,#7,HLV,3,20,0
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,3,39,0
 Eric Wilson,SR,WR/DB,#15,Exira-EHK,3,36,0
@@ -190,6 +194,7 @@ Andrew Kolsrud,SR,WR/CB,#16,Kee,3,33,1
 Stadan Vansice,SO,WR/LB,#5,Baxter,3,44,0
 Braxton Blackburn,SR,,#10,Fremont-Mills,3,15,0
 Mason Steinhoff,SO,RB/LB,#11,Griswold,3,45,1
+Layne Mastin,SR,OG/DE,#11,East Mills,3,17,0
 Luke Cripps,SR,QB/S,#1,Boyer Valley,3,14,0
 Burke Busta,SR,FB,#9,Turkey Valley,3,59,1
 Caleb Kurtenbach,SR,QB,#5,Turkey Valley,3,53,2
@@ -201,7 +206,6 @@ Mark Lensch,SR,TE/LB,#33,Glidden-Ralston,3,26,0
 Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,3,16,0
 Braydon Draeger,SR,TE/LB,#88,Melcher-Dallas,3,28,0
 Carter Michalek,JR,WR/DB,#2,Montezuma,3,8,1
-Kolton Robinson,SO,RB/DB,#23,Northwood-Kensett,3,4,0
 Hunter Hughes,SR,CB/WR,#3,WACO,3,41,0
 Jacksyn Hogrefe,SO,RB/DB,#26,Newell-Fonda,3,42,1
 Guyson Lyman,JR,TE/DE,#40,Newell-Fonda,3,45,0
@@ -225,16 +229,16 @@ Cole Bethune,JR,WR/S,#4,West Harrison/Whiting Hawkeyes,3,29,0
 Andreas Buttry,JR,QB/CB,#5,Sidney,3,21,1
 Eli Weimer,JR,WR/DB,#18,Waterloo Christian,3,51,2
 Terrian Islas,JR,TE/DE,#5,East Union,2,9,0
+Fischer Buffington,JR,RB/DE,#12,East Union,2,3,0
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,2,12,0
 Carter Fehr,SR,TE/DL,#13,West Bend-Mallard,2,7,1
 Aidan Yoch,SR,TE/DB,#14,West Bend-Mallard,2,22,0
+Dalton Kitzman,SR,RB/LB,#4,Lenox,2,51,1
 Zane Johnson,JR,RB/LB,#7,Griswold,2,23,1
 Derek Bartlett,SR,LB/RB,#4,Stanton/Essex Vikings,2,28,0
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,2,32,0
 Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,2,13,0
 Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,2,26,0
-Layne Mastin,SR,OG/DE,#11,East Mills,2,8,0
-Sheldon Vandenberg,JR,OG/LB,#12,East Mills,2,15,1
 Kael Blohm,SO,WR/DB,#15,Gladbrook-Reinbeck,2,36,1
 Sam Hoodjer,JR,WR/CB,#80,Clarksville,2,101,1
 Sam Fettkether,SR,OL/LB,#47,Central Elkader,2,4,0
@@ -253,7 +257,6 @@ Alex Black,SR,WR/DB,#30,Montezuma,2,25,2
 Brett Plants,JR,RB/LB,#22,Montezuma,2,39,0
 Dane Strong,FR,RB/LB,#33,Montezuma,2,31,1
 Aden Bice,JR,WR/LB,#7,Northwood-Kensett,2,43,0
-Landen Nelson,FR,WR/DB,#36,Northwood-Kensett,2,-1,0
 Ben Yezek,SR,WR/DB,#21,Northwood-Kensett,2,8,0
 Blake Helmick,JR,OG/DE,#87,Moravia,2,13,1
 Jesse Myhr,JR,FB/DE,#8,Moravia,2,14,0
@@ -282,6 +285,7 @@ Chris Hanson,FR,FB/LB,#32,Central City,1,3,0
 Devon Weisskopf,JR,RB/LB,#32,HLV,1,4,0
 Jayden Smith,JR,OG/DE,#25,HLV,1,0,0
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,1,12,0
+Cash Emgarten,SR,WR/DB,#10,Exira-EHK,1,9,0
 Karsen Strong,JR,OL/DL,#77,Kee,1,26,1
 Tanner Troendle,FR,RB/DB,#23,Kee,1,30,0
 Keegan Chew,FR,QB/S,#7,Murray,1,9,0
@@ -293,7 +297,6 @@ Deshon Anderson,SO,RB/LB,#32,English Valleys,1,3,0
 Drake Axmear,JR,WR/CB,#4,English Valleys,1,32,0
 Coen Good,SR,WR/CB,#2,English Valleys,1,10,0
 Dawson Evans,SO,QB/DB,#1,Lenox,1,13,0
-Dalton Kitzman,SR,RB/LB,#4,Lenox,1,10,0
 Keegan Smith,SR,RB/LB,#3,Lenox,1,20,0
 Chase England,JR,TE/DL,#33,Lenox,1,2,0
 Blake Micetich,SR,RB/DB,#3,Twin Cedars,1,2,0
