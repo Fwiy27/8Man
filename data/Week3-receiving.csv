@@ -30,6 +30,7 @@ Jack Gordon,34.5,SR,WR/DL,#18,East Mills,6.0,105.0,3.0
 Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Dominic Coleman,16.9,SR,WR/DE,#23,BGM,5.0,59.0,1.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
+Hudson Clark,44.9,SO,WR/DB,#3,Gladbrook-Reinbeck,8.0,129.0,4.0
 Colton Leichty,4.6,SR,TE/LB,#23,WACO,2.0,26.0,0.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0,0.0
 Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0,0.0
@@ -58,6 +59,7 @@ Holden Roberts,0.0,SO,TE/DE,#13,Twin Cedars,0.0,0.0,0.0
 Jacob Martin,58.3,JR,RB/LB,#3,Stanton/Essex Vikings,9.0,253.0,4.0
 Chase Klatt,0.0,SO,TE/CB,#4,Calamus-Wheatland,0.0,0.0,0.0
 Reed Oswalt,0.6,SO,WR/DB,#24,Collins-Maxwell,1.0,-4.0,0.0
+Drew Eilers,26.0,JR,WR/DL,#2,Gladbrook-Reinbeck,4.0,100.0,2.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
 Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0,0.0
 Harley Molina,0.0,SR,WR/LB,#24,Ar-We-Va,0.0,0.0,0.0
@@ -134,8 +136,6 @@ Jordan Cota,19.0,JR,TE/DE,#81,Kee,3.0,40.0,2.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0,0.0
 Samuel Dascher,0.0,SO,TE/CB,#31,Calamus-Wheatland,0.0,0.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0,0.0
-Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
-Drew Eilers,0.0,JR,WR/DL,#2,Gladbrook-Reinbeck,0.0,0.0,0.0
 Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0,0.0
 Jeremiah Lynam,0.0,SR,DB/WR,#9,Siouxland Christian,0.0,0.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0,0.0
@@ -309,6 +309,7 @@ Austin Boege,0.0,SO,RB/LB,#22,Collins-Maxwell,0.0,0.0,0.0
 Wyatt Oswald,0.0,JR,QB/LB,#10,Coon Rapids-Bayard,0.0,0.0,0.0
 Caden Oswald,0.0,FR,RB/DB,#6,Coon Rapids-Bayard,0.0,0.0,0.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0,0.0
+Austin Gehring,1.4,SR,WR/DB,#4,Gladbrook-Reinbeck,1.0,4.0,0.0
 Trypp Roszell,0.0,JR,WR/DB,#18,Gladbrook-Reinbeck,0.0,0.0,0.0
 Anthony Knaack,0.0,FR,WR/LB,#47,Gladbrook-Reinbeck,0.0,0.0,0.0
 Brayden Utter,0.0,FR,WR/LB,#17,Gladbrook-Reinbeck,0.0,0.0,0.0
