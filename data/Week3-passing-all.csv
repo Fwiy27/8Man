@@ -2,14 +2,14 @@ Name,Points,YP,Number,School,YDS,TDS,INT
 Perrin Sulzle,100.92,JR  QB/LB,#7,Baxter,1098,15,3
 Keagan Lee,121.8,SO  QB/DB,#17,Easton Valley,1220,20,7
 Beau Burns,99.28,SO  QB/DB,#2,BGM,1057,15,3
+Blayne Smith,75.52,JR  QB/DB,#15,Ar-We-Va,888,11,4
 Brady Boulton,103.88,SO  QB/DB,#1,Montezuma,847,18,2
 Shane Helmick,103.52,SR  QB/DE,#12,Moravia,913,18,5
-Blayne Smith,57.88,JR  QB/DB,#15,Ar-We-Va,747,8,4
 Mason McIntosh,47.96,SR  QB/LB,#16,West Harrison/Whiting Hawkeyes,724,6,5
 Kooper Julseth,35.24,JR  WR/LB,#1,Northwood-Kensett,506,5,5
 Brodyn Pryor,73.12,SO  QB/DB,#8,Woodbine,803,12,7
 Grant Whitehead,93.68,JR  QB/DB,#15,Sidney,942,15,4
-Caden Page,61.0,JR  QB/LB,#8,Murray,575,10,2
+Caden Page,71.68,JR  QB/LB,#8,Murray,642,12,2
 Dalton Mudderman,82.72,JR  QB/LB,#5,Kee,868,13,4
 Slate Witte,34.96,SR  #7 GMG,,,474,5,4
 JT Laufersweiler,99.72,SR  QB/DB,#11,St. Edmond,1018,16,5
@@ -80,6 +80,7 @@ Dreyson Morgan,7.2,SO  WR/DB,#10,Gladbrook-Reinbeck,80,1,0
 Jack Angell,0.48,SO  QB/DB,#18,Colo-Nesco,12,0,0
 Carson Ingles,2.44,SO  RB,#1,Edgewood-Colesburg,61,1,4
 Nolan Birdsall,2.92,JR  RB/LB,#2,West Harrison/Whiting Hawkeyes,98,0,1
+Keegan Chew,3.48,FR  QB/S,#7,Murray,87,0,0
 Eli Schmidt,8.96,SR  RB/S,#3,Clarksville,124,1,0
 Reece Chiabotta,-0.36,SO  QB/DB,#34,Melcher-Dallas,41,0,2
 Colby Eskildsen,1.0,JR  TE/DL,#12,Northwood-Kensett,25,0,0
@@ -88,7 +89,6 @@ Alex Tiedemann,1.8,SO  QB/DB,#34,Northwood-Kensett,45,0,0
 Johnny Milburn,6.88,JR  QB/DB,#13,Southeast Warren,72,1,0
 Brock Binkley,3.16,FR  QB/DB,#8,Lamoni,4,1,1
 Keenan Foland,0.0,FR  QB/S,#10,West Harrison/Whiting Hawkeyes,25,0,1
-Keegan Chew,1.8,FR  QB/S,#7,Murray,45,0,0
 Oliver Schmitt,2.32,SR  FB,#22,Turkey Valley,58,0,0
 MaKade Bloker,10.6,SR  RB/LB,#11,Clarksville,90,2,1
 Preston Kulper,0.48,SO  WR/DB,#81,Central Elkader,12,0,0
@@ -99,3 +99,17 @@ Carson Wessel,-0.8,SO  QB/LB,#9,Audubon,5,0,1
 Trey Cota,0.24,FR  QB/LB,#10,Kee,6,0,0
 Carter Smith,5.04,JR  C/DT,#70,Baxter,26,1,0
 Dawson Evans,0.08,SO  QB/DB,#1,Lenox,2,0,0
+Brenden Connett,0.12,SR  RB/LB,#20,Twin Cedars,3,0,0
+Holden Roberts,-1.8,SO  TE/DE,#13,Twin Cedars,5,0,2
+Cal Heydon,0.96,SO  QB/DB,#11,Coon Rapids-Bayard,24,0,0
+Triton Gwinn,4.6,SR  RB/LB,#22,Mormon Trail,40,1,1
+Brody Koski,0.64,FR  QB/LB,#7,Boyer Valley,16,0,0
+Jed Bielenberg,-0.4,SR  DE/WR,#15,Siouxland Christian,-10,0,0
+Jeremiah Lynam,0.28,SR  DB/WR,#9,Siouxland Christian,7,0,0
+Marshawn Taylor,1.44,SR  RB/CB,#12,Rockford,36,0,0
+Carter Anderson,-0.12,JR  QB/DB,#15,Northwood-Kensett,-3,0,0
+Jackson McDanel,0.32,SR  RB/LB,#30,Moravia,8,0,0
+Kale Moore,1.08,FR  QB/DB,#14,Moravia,27,0,0
+Hayden Shelman,0.04,FR  DB/RB,#15,WACO,1,0,0
+Landon Lindgren,0.28,SO  RB/DB,#11,Lamoni,7,0,0
+Rider Kupka,1.64,SO  #21 GMG,,,41,0,0
