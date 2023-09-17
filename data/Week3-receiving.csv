@@ -15,9 +15,11 @@ Wyatt Throckmorton,25.1,SR,WR/LB,#23,Moravia,3.0,101.0,2.0
 Dakota Heishman,38.0,JR,WR/DB,#8,BGM,10.0,160.0,2.0
 Jackson McDanel,9.4,SR,RB/LB,#30,Moravia,3.0,64.0,0.0
 Mason Maschmann,22.0,SR,RB/LB,#11,BGM,11.0,110.0,0.0
+Devin Meyer,19.1,SR,TE/LB,#15,Harris-Lake Park,6.0,71.0,1.0
 Braxton Bormann,3.2,SO,RB/LB,#21,Central Elkader,2.0,12.0,0.0
 Garrett Watts,0.0,SR,WR/DB,#7,Montezuma,0.0,0.0,0.0
 Josef Dvorak,14.0,JR,RB/DB,#25,Collins-Maxwell,4.0,40.0,1.0
+Caleb Hemphill,3.9,SR,RB/LB,#3,Harris-Lake Park,3.0,9.0,0.0
 Cainan Travis,15.9,JR,WR/LB,#20,Baxter,5.0,49.0,1.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0,0.0
 Declan DeJong,11.8,SO,TE/DE,#41,Moravia,2.0,38.0,1.0
@@ -25,16 +27,16 @@ Caleb Haack,20.1,JR,WR/DB,#7,Iowa Valley,5.0,91.0,1.0
 Jamison Martin,46.5,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,16.0,185.0,2.0
 Cal Heydon,0.0,SO,QB/DB,#11,Coon Rapids-Bayard,0.0,0.0,0.0
 Brogan Ewing,10.6,JR,WR/CB,#10,Southeast Warren,3.0,16.0,1.0
+Lucas Frohwein,13.8,SR,TE/DE,#9,Colo-Nesco,7.0,68.0,0.0
 Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0,0.0
 Rason Grail,14.0,SR,WR/DB,#23,East Union,5.0,30.0,1.0
 Jack Gordon,34.5,SR,WR/DL,#18,East Mills,6.0,105.0,3.0
 Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Dominic Coleman,16.9,SR,WR/DE,#23,BGM,5.0,59.0,1.0
-Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
 Hudson Clark,44.9,SO,WR/DB,#3,Gladbrook-Reinbeck,8.0,129.0,4.0
 Colton Leichty,4.6,SR,TE/LB,#23,WACO,2.0,26.0,0.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0,0.0
-Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0,0.0
+Grant Galles,55.0,SO,WR/DB,#6,St. Edmond,6.0,190.0,5.0
 Rider Kupka,0.0,SO,,#21,GMG,0.0,0.0,0.0
 Kolt Payne,15.8,JR,SL/CB,#24,Sidney,4.0,58.0,1.0
 Seth Bixler,7.7,SR,WR/S,#1,Midland,4.0,37.0,0.0
@@ -52,6 +54,7 @@ Simon Showalter,21.1,JR,RB/LB,#6,Stanton/Essex Vikings,10.0,111.0,0.0
 Owen Hammersland,14.3,FR,RB/LB,#24,Central Elkader,2.0,63.0,1.0
 Jack Follmann,23.6,SR,TE/LB,#40,CAM,3.0,86.0,2.0
 Kaden Kobliska,15.3,SR,WR,#8,Riceville,4.0,53.0,1.0
+Leo Ehn,18.1,SR,TE/LB,#80,St. Edmond,4.0,81.0,1.0
 Trevor Forey,7.2,SR,WR/S,#6,Janesville,1.0,2.0,1.0
 Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
 Jeremiah Marquette,0.0,SR,RB/LB,#25,Waterloo Christian,0.0,0.0,0.0
@@ -74,7 +77,6 @@ Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0,0.0
 David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0,0.0
 Broox Stockman,0.0,SO,RB/LB,#20,Montezuma,0.0,0.0,0.0
 Braxton Kniep,9.7,JR,WR/DE,#18,Remsen St. Mary's,2.0,17.0,1.0
-Lucas Frohwein,0.0,SR,TE/DE,#9,Colo-Nesco,0.0,0.0,0.0
 Cam Buffington,0.0,SR,QB/LB,#33,Winfield-Mt Union,0.0,0.0,0.0
 Brenner Sullivan,25.9,SO,RB/LB,#22,Woodbine,7.0,129.0,1.0
 Micah Moores,27.3,FR,RB/LB,#9,Woodbine,5.0,103.0,2.0
@@ -97,7 +99,6 @@ Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
 Nolan Cushion,3.0,SR,TE/DE,#22,West Central,2.0,10.0,0.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0,0.0
 Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0,0.0
-Grant Galles,0.0,SO,WR/DB,#6,St. Edmond,0.0,0.0,0.0
 Edward Miller,12.9,SR,TE/DE,#31,Audubon,2.0,49.0,1.0
 Talan Driscoll,11.5,FR,C/DE,#5,Easton Valley,3.0,25.0,1.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
@@ -128,7 +129,6 @@ Ian Smith,4.2,JR,TE/LB,#5,Iowa Valley,1.0,32.0,0.0
 Cal Pryor,5.0,FR,QB/DB,#12,Woodbine,3.0,20.0,0.0
 Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
 Will Felper,1.7,SR,SL,#18,Riceville,1.0,7.0,0.0
-Leo Ehn,0.0,SR,TE/LB,#80,St. Edmond,0.0,0.0,0.0
 Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
 Cale Westerbeck,0.0,SO,WR/DB,#4,New London,0.0,0.0,0.0
 Jordan Boehde,2.0,FR,RB/DB,#13,Easton Valley,1.0,10.0,0.0
@@ -346,6 +346,7 @@ Brady Wurth,1.1,JR,LB/WR,#11,Remsen St. Mary's,1.0,1.0,0.0
 Mark Bower,0.0,JR,RB/DB,#25,Colo-Nesco,0.0,0.0,0.0
 Landon Gjerde,0.0,SO,RB/LB,#1,Colo-Nesco,0.0,0.0,0.0
 Hunter Hardin,0.0,JR,RB/LB,#36,Colo-Nesco,0.0,0.0,0.0
+Mason McKinney,1.2,JR,OL/DE,#62,Colo-Nesco,1.0,2.0,0.0
 Ben Ryan,0.0,SR,TE/DE,#17,Colo-Nesco,0.0,0.0,0.0
 Gannon Short,0.0,JR,RB/DB,#11,Colo-Nesco,0.0,0.0,0.0
 Kael Johnson,0.0,SR,LB/OG,#4,Winfield-Mt Union,0.0,0.0,0.0
