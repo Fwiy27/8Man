@@ -74,6 +74,7 @@ Garrison Motsinger,1.2,JR,RB/S,#4,Bedford,12.0,0.0
 Braden Jordan,2.6,SO,QB/LB,#10,Springville,26.0,0.0
 Owen Backer,24.8,SO,RB/S,#22,Clarksville,128.0,2.0
 Edde Gonzalez,0.8,SR,RB/LB,#1,West Central,8.0,0.0
+Cael Weisskopf,14.0,FR,RB/LB,#5,HLV,80.0,1.0
 Brady Boulton,0.0,SO,QB/DB,#1,Montezuma,0.0,0.0
 Broox Stockman,0.0,SO,RB/LB,#20,Montezuma,0.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0
@@ -103,7 +104,6 @@ Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0
 Brogyn Greensky,0.0,SR,QB/LB,#4,North Iowa,0.0,0.0
 Keaton Harpenau,4.1,JR,SL/DB,#2,Remsen St. Mary's,41.0,0.0
 Seth Hudson,0.0,SR,QB/S,#7,East Union,0.0,0.0
-Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0
 Kendrick Mastin,0.0,SR,RB/LB,#9,Murray,0.0,0.0
 Cainan Travis,2.4,JR,WR/LB,#20,Baxter,24.0,0.0
 Caleb Hemphill,13.0,SR,RB/LB,#3,Harris-Lake Park,10.0,2.0
@@ -140,6 +140,7 @@ Dylan Marquart,0.0,JR,QB/DB,#3,Dunkerton,0.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0
 Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0
 Brody Paulsen,7.4,SR,RB/DB,#2,CAM,14.0,1.0
+Isaac Hill,0.8,SO,OL/DL,#60,Springville,8.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0
 Lucas Madison,10.0,SR,,#5,Fremont-Mills,40.0,1.0
@@ -160,7 +161,6 @@ Bryce Brabham,15.7,SO,RB/DB,#9,Exira-EHK,97.0,1.0
 Logan Busta,8.2,SO,QB/DB,#1,Turkey Valley,22.0,1.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0
 Brady Koenck,0.5,JR,RB/LB,#26,Remsen St. Mary's,5.0,0.0
-Isaac Hill,0.0,SO,OL/DL,#60,Springville,0.0,0.0
 Carson Ingles,0.0,SO,RB,#1,Edgewood-Colesburg,0.0,0.0
 Trayton Cink,0.0,JR,RB/LB,#26,Bishop Garrigan,0.0,0.0
 Carter Seitz,-1.0,JR,WR/DB,#7,Kee,-10.0,0.0
@@ -219,6 +219,7 @@ Logan Sharpe,0.1,JR,RB/LB,#28,Central Elkader,1.0,0.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0
 Owen Bral,0.0,JR,QB/LB,#3,Iowa Valley,0.0,0.0
 Chance Hoyt,0.8,FR,RB/LB,#4,Iowa Valley,8.0,0.0
+Sean McCulloch,-0.1,FR,QB/DB,#24,HLV,-1.0,0.0
 Lawson Kling,10.8,SR,,#7,Fremont-Mills,48.0,1.0
 Gavin Ford,1.8,JR,QB/LB,#12,Stanton/Essex Vikings,18.0,0.0
 Ethan Bauer,0.0,SO,RB/DB,#4,Coon Rapids-Bayard,0.0,0.0
@@ -240,6 +241,7 @@ Kenny Ness,0.0,SO,LB/WR,#6,GTRA,0.0,0.0
 Gannon Short,0.0,JR,RB/DB,#11,Colo-Nesco,0.0,0.0
 Eli Miller,0.0,SR,RB/LB,#7,Winfield-Mt Union,0.0,0.0
 Kaden Kobliska,0.3,SR,WR,#8,Riceville,3.0,0.0
+Luke Lansing,0.3,SO,RB/LB,#44,Springville,3.0,0.0
 Adam Bensley,0.0,SO,SL/LB,#12,Harris-Lake Park,0.0,0.0
 Jamison Martin,11.5,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,55.0,1.0
 Braedon Godfread,0.1,JR,TE/S,#10,Sidney,1.0,0.0
@@ -253,8 +255,8 @@ Kyler Knaack,0.0,JR,,#20,Don Bosco,0.0,0.0
 Aiden Hellman,0.0,FR,,#18,Don Bosco,0.0,0.0
 Brayden Chester,-0.2,JR,RB/LB,#34,CAM,-2.0,0.0
 Blayne Porter,4.8,SO,QB/S,#1,Janesville,48.0,0.0
-Luke Lansing,0.0,SO,RB/LB,#44,Springville,0.0,0.0
 Rason Grail,2.2,SR,WR/DB,#23,East Union,22.0,0.0
+Bryer Jack,0.3,FR,QB/DB,#14,HLV,3.0,0.0
 Trey Cota,0.0,FR,QB/LB,#10,Kee,0.0,0.0
 Keegan Chew,0.0,FR,QB/S,#7,Murray,0.0,0.0
 Wyatt Leonard,8.3,SO,RB/LB,#21,Lenox,23.0,1.0
@@ -272,7 +274,6 @@ Tayler Kibbee,18.4,SO,RB/LB,#11,Janesville,64.0,2.0
 Ezekiel Konkler,1.9,SR,WR/CB,#20,Audubon,19.0,0.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0
 Wyatt Kelley,0.4,FR,RB/LB,#19,East Union,4.0,0.0
-Bryer Jack,0.0,FR,QB/DB,#14,HLV,0.0,0.0
 Quintin White,7.7,SR,WR/DB,#3,Exira-EHK,17.0,1.0
 Caden Kaufman,11.3,FR,RB/LB,#15,Lenox,53.0,1.0
 Bode Wyman,0.0,JR,QB/CB,#8,Griswold,0.0,0.0
@@ -315,7 +316,6 @@ LaDarius Albright,0.0,JR,TE/LB,#9,Sidney,0.0,0.0
 Tate Mount,0.0,SO,QB/DB,#2,Sidney,0.0,0.0
 Rylan Behrends,0.0,FR,RB/LB,#22,Sidney,0.0,0.0
 Sawyer House,0.0,SR,WR/CB,#4,Midland,0.0,0.0
-Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0
 Drew Fehr,7.6,SR,RB/DB,#7,West Bend-Mallard,16.0,1.0
 Cash Emgarten,10.5,SR,WR/DB,#10,Exira-EHK,45.0,1.0
 Parker Fister,0.1,SO,RB/DB,#20,Exira-EHK,1.0,0.0
@@ -404,6 +404,7 @@ Austin Christensen,1.1,SO,WR/LB,#81,Audubon,11.0,0.0
 Aiden Stenzel,0.0,SO,RB/DB,#20,Sidney,0.0,0.0
 Chaz Cornelison,0.0,JR,RB/DB,#31,East Union,0.0,0.0
 Wyatt Christiansen,0.0,SO,RB/LB,#10,Midland,0.0,0.0
+Boston Roorda,-0.2,SO,TE/DB,#10,HLV,-2.0,0.0
 Derek Kressley,0.0,FR,RB/LB,#10,Belle Plaine,0.0,0.0
 Austin Schmidt,0.0,JR,QB/DB,#2,West Bend-Mallard,0.0,0.0
 Eli Hanson,0.3,JR,RB/DB,#8,West Bend-Mallard,3.0,0.0
