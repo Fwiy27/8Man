@@ -36,11 +36,11 @@ Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0
 Trey Fisher,6.9,JR,RB/LB,#89,Southeast Warren,69.0,0.0
 Pryce Rochford,0.0,JR,QB,#22,Edgewood-Colesburg,0.0,0.0
 Landon Waldschmitt,33.7,JR,QB/DB,#7,Remsen St. Mary's,157.0,3.0
+Cam Buffington,25.9,SR,QB/LB,#33,Winfield-Mt Union,139.0,2.0
 Jack Adams,4.2,JR,QB,#7,Riceville,42.0,0.0
 Mason Hoy,17.2,SO,RB/CB,#9,Springville,112.0,1.0
 Gabe Funk,0.0,JR,QB/DB,#17,Lenox,0.0,0.0
 Caleb Urban,10.5,JR,WR/CB,#3,East Mills,45.0,1.0
-Cam Buffington,25.8,SR,QB/LB,#33,Winfield-Mt Union,138.0,2.0
 Dawson Smith,17.8,SR,RB/LB,#20,Iowa Valley,58.0,2.0
 Brodie Ludwig,43.7,JR,RB/LB,#21,Woodbine,137.0,5.0
 Perrin Sulzle,10.4,JR,QB/LB,#7,Baxter,44.0,1.0
@@ -269,7 +269,7 @@ Ryan Heaton,0.0,JR,FB/DE,#43,Melcher-Dallas,0.0,0.0
 Luke Brennan,0.0,SO,QB/DB,#6,Montezuma,0.0,0.0
 Isaac Messamaker,1.0,JR,FB/LB,#25,Moravia,10.0,0.0
 Cade Tentinger,0.3,JR,RB/DB,#5,Remsen St. Mary's,3.0,0.0
-Lane Genkinger,1.7,JR,RB/LB,#24,Winfield-Mt Union,17.0,0.0
+Lane Genkinger,1.6,JR,RB/LB,#24,Winfield-Mt Union,16.0,0.0
 Tayler Kibbee,18.4,SO,RB/LB,#11,Janesville,64.0,2.0
 Ezekiel Konkler,1.9,SR,WR/CB,#20,Audubon,19.0,0.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0
@@ -285,7 +285,7 @@ Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0
 Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0.0,0.0
 Cruz DeJong,0.0,SR,TE/LB,#40,Montezuma,0.0,0.0
 Lucas Dow,0.0,JR,RB/LB,#26,Rockford,0.0,0.0
-Abram Edwards,7.5,SR,TE/DE,#84,Winfield-Mt Union,15.0,1.0
+Abram Edwards,7.0,SR,TE/DE,#84,Winfield-Mt Union,10.0,1.0
 Carter Hassebroek,0.0,JR,WR/DB,#8,Iowa Valley,0.0,0.0
 Gabe Reeves,7.8,FR,RB/LB,#9,Janesville,18.0,1.0
 Ethan Bridgewater,0.0,SO,RB/LB,#35,BGM,0.0,0.0
@@ -449,3 +449,33 @@ Luke Erselius,0.0,SO,WR/DB,#15,Montezuma,0.0,0.0
 Ryker Hoffman,0.0,JR,WR/CB,#2,Rockford,0.0,0.0
 Carter Anderson,0.0,JR,QB/DB,#15,Northwood-Kensett,0.0,0.0
 Landen Nelson,0.3,FR,WR/DB,#36,Northwood-Kensett,3.0,0.0
+Kale Moore,0.0,FR,QB/DB,#14,Moravia,0.0,0.0
+Lerik McCarty,0.0,JR,RB/LB,#2,WACO,0.0,0.0
+Hayden Shelman,-0.7,FR,DB/RB,#15,WACO,-7.0,0.0
+Caden Carruthers,0.0,JR,QB/DL,#20,Southeast Warren,0.0,0.0
+Levi Halterman,0.0,JR,RB/LB,#11,Southeast Warren,0.0,0.0
+Dawson Konrad,0.0,JR,RB/CB,#21,Southeast Warren,0.0,0.0
+Cal Peterman,0.0,JR,WR/LB,#15,Bedford,0.0,0.0
+Quentin Dalton,0.5,FR,QB/LB,#10,Bedford,5.0,0.0
+Jack Hogan,0.0,JR,,#37,Don Bosco,0.0,0.0
+Jaedon Koppman,0.0,SO,,#35,Don Bosco,0.0,0.0
+Dillon Reed,0.0,SO,WR/DB,#11,Woodbine,0.0,0.0
+Micah Moores,0.0,FR,RB/LB,#9,Woodbine,0.0,0.0
+Cal Pryor,0.0,FR,QB/DB,#12,Woodbine,0.0,0.0
+Devon Ehlers,0.0,SO,TE/LB,#88,Ar-We-Va,0.0,0.0
+Johnny Adams,0.0,JR,WR,#10,Riceville,0.0,0.0
+Aidan Ebert,0.0,JR,WR,#3,Riceville,0.0,0.0
+Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0
+Trevor Forey,0.0,SR,WR/S,#6,Janesville,0.0,0.0
+Dawson Graham,6.3,JR,RB/LB,#8,Janesville,3.0,1.0
+Caden Cole,0.0,SR,TE,#20,Edgewood-Colesburg,0.0,0.0
+Jake Schilling,0.0,SR,OG,#72,Edgewood-Colesburg,0.0,0.0
+Andrew Lichter,0.0,JR,RB/LB,#15,Bishop Garrigan,0.0,0.0
+Carter McGregor,0.0,SO,RB/LB,#8,Bishop Garrigan,0.0,0.0
+Drew Muller,0.0,JR,QB/DE,#6,Bishop Garrigan,0.0,0.0
+Brock Binkley,0.0,FR,QB/DB,#8,Lamoni,0.0,0.0
+Creyton Ogier,1.0,SR,TE/DE,#5,Lamoni,10.0,0.0
+Justin Mendenhall,0.0,SO,DL,#40,Lamoni,0.0,0.0
+Travis Luitjens,0.0,SR,OG/DT,#34,Harris-Lake Park,0.0,0.0
+Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0
+Charlie Rowenhorst,0.0,SR,K/RB,#3,Waterloo Christian,0.0,0.0
