@@ -34,6 +34,7 @@ Lucas Frohwein,13.8,SR,TE/DE,#9,Colo-Nesco,7.0,68.0,0.0
 Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0,0.0
 Rason Grail,14.0,SR,WR/DB,#23,East Union,5.0,30.0,1.0
 Jack Gordon,34.5,SR,WR/DL,#18,East Mills,6.0,105.0,3.0
+Hayden Loftsgard,7.9,JR,WR/CB,#2,Tripoli,5.0,29.0,0.0
 Dominic Coleman,16.9,SR,WR/DE,#23,BGM,5.0,59.0,1.0
 Hudson Clark,44.9,SO,WR/DB,#3,Gladbrook-Reinbeck,8.0,129.0,4.0
 Colton Leichty,4.6,SR,TE/LB,#23,WACO,2.0,26.0,0.0
@@ -71,7 +72,6 @@ Drew Eilers,26.0,JR,WR/DL,#2,Gladbrook-Reinbeck,4.0,100.0,2.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
 Broox Stockman,1.0,SO,RB/LB,#20,Montezuma,1.0,0.0,0.0
 Luke Erselius,3.9,SO,WR/DB,#15,Montezuma,3.0,9.0,0.0
-Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0,0.0
 Evan Alt,0.0,SR,RB/LB,#4,Audubon,0.0,0.0,0.0
 Kael Cress,10.4,JR,WR/S,#7,Midland,2.0,84.0,0.0
 Cael Weisskopf,11.1,FR,RB/LB,#5,HLV,2.0,31.0,1.0
@@ -128,6 +128,7 @@ Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0,0.0
 Robert Beardsley,34.6,JR,WR/DB,#18,Southeast Warren,5.0,116.0,3.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
 Collin Homan,13.1,JR,OL/DL,#55,Remsen St. Mary's,3.0,41.0,1.0
+McKoy Nuss,14.2,SO,QB/LB,#13,Tripoli,3.0,52.0,1.0
 Abram Edwards,2.9,SR,TE/DE,#84,Winfield-Mt Union,1.0,19.0,0.0
 Carter Loyd,5.3,SR,RB/S,#2,Winfield-Mt Union,2.0,33.0,0.0
 Ben Belew,0.0,JR,,#3,Don Bosco,0.0,0.0,0.0
@@ -187,6 +188,8 @@ Marshawn Taylor,1.3,SR,RB/CB,#12,Rockford,1.0,3.0,0.0
 Carter Anderson,0.0,JR,QB/DB,#15,Northwood-Kensett,0.0,0.0,0.0
 Landen Nelson,6.2,FR,WR/DB,#36,Northwood-Kensett,2.0,42.0,0.0
 Gage Samo,1.7,JR,WR/CB,#5,WACO,1.0,7.0,0.0
+Tristan Freiberg,0.7,SR,WR/CB,#1,Tripoli,1.0,-3.0,0.0
+Kyle Boeckmann,1.7,JR,RB/LB,#8,Tripoli,1.0,7.0,0.0
 Brodie Ludwig,2.6,JR,RB/LB,#21,Woodbine,2.0,6.0,0.0
 Mason Hoy,3.0,SO,RB/CB,#9,Springville,2.0,10.0,0.0
 Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0,0.0
@@ -216,10 +219,7 @@ Guyson Lyman,0.0,JR,TE/DE,#40,Newell-Fonda,0.0,0.0,0.0
 Lucas Dirkx,1.7,SO,TE/DE,#40,Southeast Warren,1.0,7.0,0.0
 Braden Simington,0.0,SR,S/WR,#2,GTRA,0.0,0.0,0.0
 Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0,0.0
-McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0,0.0
 Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0,0.0
-Tristan Freiberg,0.0,SR,WR/CB,#1,Tripoli,0.0,0.0,0.0
-Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0,0.0
 Silas Walston,21.3,SR,RB/DE,#33,Bedford,2.0,73.0,2.0
 Kyler Knaack,0.0,JR,,#20,Don Bosco,0.0,0.0,0.0
 Dillon Reed,2.5,SO,WR/DB,#11,Woodbine,1.0,15.0,0.0
