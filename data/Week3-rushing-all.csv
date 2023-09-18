@@ -37,6 +37,7 @@ Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,309,4
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,231,4
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,388,7
 McKoy Nuss,SO,QB/LB,#13,Tripoli,222,4
+Brogyn Greensky,SR,QB/LB,#4,North Iowa,296,2
 Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,433,8
 Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,533,7
 Jack Adams,JR,QB,#7,Riceville,281,3
@@ -101,6 +102,7 @@ Tate Foertsch,SO,QB/DB,#7,Bishop Garrigan,121,2
 Talan Driscoll,FR,C/DE,#5,Easton Valley,107,3
 Jacob Martin,JR,RB/LB,#3,Stanton/Essex Vikings,219,3
 Grant Finck,JR,RB/LB,#10,Dunkerton,150,2
+Carson Frerichs,SR,RB/LB,#28,North Iowa,96,1
 Nathan Moon,FR,RB/LB,#6,Clarksville,172,0
 Blayne Smith,JR,QB/DB,#15,Ar-We-Va,82,6
 Jackson Schulte,SR,RB/LB,#21,Kee,246,3
@@ -108,7 +110,6 @@ Dalton Kitzman,SR,RB/LB,#4,Lenox,119,4
 Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,177,1
 Graham Godsey,JR,RB/LB,#35,Bedford,112,1
 Owen Johnson,FR,RB/DE,#26,Griswold,171,2
-Brogyn Greensky,SR,QB/LB,#4,North Iowa,107,0
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,178,1
 Seth Hudson,SR,QB/S,#7,East Union,58,3
 Cainan Travis,JR,WR/LB,#20,Baxter,165,1
@@ -219,7 +220,6 @@ Elliott Ward,SR,RB/LB,#1,Sidney,66,1
 Gio Cruz,SR,RB/DB,#5,Lenox,46,0
 Zach Thornburg,SR,QB/CB,#9,East Mills,100,3
 Logan Sharpe,JR,RB/LB,#28,Central Elkader,14,0
-Carson Frerichs,SR,RB/LB,#28,North Iowa,0,0
 Owen Bral,JR,QB/LB,#3,Iowa Valley,97,2
 Chance Hoyt,FR,RB/LB,#4,Iowa Valley,93,2
 Sean McCulloch,FR,QB/DB,#24,HLV,8,0
@@ -239,6 +239,7 @@ Keenan Foland,FR,QB/S,#10,West Harrison/Whiting Hawkeyes,17,0
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,0
 Landyn Ankrum,SO,RB/LB,#36,HLV,-1,0
 Tanner Troendle,FR,RB/DB,#23,Kee,106,2
+Charlie Schaefer,SR,QB/S,#6,North Iowa,17,0
 Brenden Wheeler,JR,RB/LB,#17,Southeast Warren,76,1
 Kenny Ness,SO,LB/WR,#6,GTRA,86,0
 Gannon Short,JR,RB/DB,#11,Colo-Nesco,44,3
@@ -335,6 +336,8 @@ Hayden Hicks,FR,TE/LB,#66,Boyer Valley,13,0
 Emmett Burke,SO,WR/DB,#10,Lone Tree,29,0
 Cristian Brown,SR,WR/DB,#47,Dunkerton,3,0
 Milton Cushion,FR,RB/DB,#11,West Central,4,0
+Trent Robertson,SR,WR/LB,#5,North Iowa,23,0
+Talan Jacobsen,FR,QB/LB,#10,North Iowa,15,0
 Gavyn Thordarson,SO,RB/DE,#8,Melcher-Dallas,1,0
 Luke Long,SO,RB/DB,#9,Moravia,5,0
 Blake Ewing,FR,FB/LB,#31,Moravia,7,0
@@ -376,7 +379,6 @@ Dreyson Morgan,SO,WR/DB,#10,Gladbrook-Reinbeck,8,1
 Domonic Garcia,SO,WR/DB,#8,Lone Tree,10,0
 Dominic Graap,SR,WR/DB,#19,Lone Tree,3,0
 Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,6,0
-Trent Robertson,SR,WR/LB,#5,North Iowa,10,0
 Carter Michalek,JR,WR/DB,#2,Montezuma,2,0
 Lars Taylor,JR,TE/LB,#43,Montezuma,17,0
 Dane Strong,FR,RB/LB,#33,Montezuma,52,1
@@ -446,8 +448,7 @@ Aidan Hesse,SO,OL/DL,#50,Dunkerton,-7,0
 Waylon Hein,JR,TE/LB,#23,Glidden-Ralston,-1,0
 Anthony Eisele,SR,OL/DL,#55,North Iowa,-12,0
 Jeffery Gerber,SR,RB/LB,#20,North Iowa,6,0
-Charlie Schaefer,SR,QB/S,#6,North Iowa,-1,0
-Talan Jacobsen,FR,QB/LB,#10,North Iowa,3,0
+Brody Greensky,FR,RB/LB,#8,North Iowa,4,0
 Alex Black,SR,WR/DB,#30,Montezuma,0,0
 Ryker Hoffman,JR,WR/CB,#2,Rockford,1,0
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,3,0

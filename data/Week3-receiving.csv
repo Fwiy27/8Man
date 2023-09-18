@@ -71,6 +71,8 @@ Jacob Martin,58.3,JR,RB/LB,#3,Stanton/Essex Vikings,9.0,253.0,4.0
 Reed Oswalt,0.6,SO,WR/DB,#24,Collins-Maxwell,1.0,-4.0,0.0
 Drew Eilers,26.0,JR,WR/DL,#2,Gladbrook-Reinbeck,4.0,100.0,2.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
+Anthony Eisele,26.6,SR,OL/DL,#55,North Iowa,5.0,96.0,2.0
+Charlie Schaefer,29.0,SR,QB/S,#6,North Iowa,4.0,130.0,2.0
 Broox Stockman,1.0,SO,RB/LB,#20,Montezuma,1.0,0.0,0.0
 Luke Erselius,3.9,SO,WR/DB,#15,Montezuma,3.0,9.0,0.0
 Evan Alt,0.0,SR,RB/LB,#4,Audubon,0.0,0.0,0.0
@@ -103,6 +105,7 @@ Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
 Emmett Burke,4.4,SO,WR/DB,#10,Lone Tree,2.0,24.0,0.0
 Nolan Cushion,3.0,SR,TE/DE,#22,West Central,2.0,10.0,0.0
+Trent Robertson,24.1,SR,WR/LB,#5,North Iowa,5.0,71.0,2.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0,0.0
 Cole Milks,1.2,SR,RB/S,#11,Winfield-Mt Union,1.0,2.0,0.0
 Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0,0.0
@@ -148,7 +151,6 @@ Coen Good,11.6,SR,WR/CB,#2,English Valleys,4.0,76.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0,0.0
 Jeremiah Lynam,0.0,SR,DB/WR,#9,Siouxland Christian,0.0,0.0,0.0
 Emmett Snyder,11.4,SR,RB/S,#29,Glidden-Ralston,2.0,34.0,1.0
-Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0,0.0
 Christian Reinke,1.3,JR,TE/LB,#25,Rockford,1.0,3.0,0.0
 Kolton Robinson,3.3,SO,RB/DB,#23,Northwood-Kensett,2.0,13.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0,0.0
@@ -183,7 +185,7 @@ Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0,0.0
 Jack Scherf,12.1,JR,WR/DB,#23,Central Elkader,1.0,51.0,1.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0,0.0
 Alex Daniel,0.0,SO,RB/LB,#27,Glidden-Ralston,0.0,0.0,0.0
-Anthony Eisele,0.0,SR,OL/DL,#55,North Iowa,0.0,0.0,0.0
+Carson Frerichs,5.2,SR,RB/LB,#28,North Iowa,2.0,32.0,0.0
 Ryker Hoffman,0.0,JR,WR/CB,#2,Rockford,0.0,0.0,0.0
 Marshawn Taylor,1.3,SR,RB/CB,#12,Rockford,1.0,3.0,0.0
 Carter Anderson,0.0,JR,QB/DB,#15,Northwood-Kensett,0.0,0.0,0.0
@@ -258,9 +260,7 @@ Maddox Jondle,12.1,JR,QB/LB,#11,Lone Tree,1.0,51.0,1.0
 Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0,0.0
 Jackson Stansberry,0.0,SO,WR/DB,#22,Siouxland Christian,0.0,0.0,0.0
 Waylon Hein,0.0,JR,TE/LB,#23,Glidden-Ralston,0.0,0.0,0.0
-Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0,0.0
 Jeffery Gerber,0.0,SR,RB/LB,#20,North Iowa,0.0,0.0,0.0
-Trent Robertson,0.0,SR,WR/LB,#5,North Iowa,0.0,0.0,0.0
 Talan Jacobsen,0.0,FR,QB/LB,#10,North Iowa,0.0,0.0,0.0
 Alex Black,0.0,SR,WR/DB,#30,Montezuma,0.0,0.0,0.0
 Brett Plants,0.0,JR,RB/LB,#22,Montezuma,0.0,0.0,0.0
@@ -334,6 +334,7 @@ Biar Biar,0.0,JR,OG/DL,#65,Siouxland Christian,0.0,0.0,0.0
 Bennett Pfister,0.0,SO,WR/DB,#29,Siouxland Christian,0.0,0.0,0.0
 Edde Gonzalez,0.0,SR,RB/LB,#1,West Central,0.0,0.0,0.0
 Drake Puls,2.0,SO,WR/DB,#21,West Central,1.0,10.0,0.0
+Brogyn Greensky,1.9,SR,QB/LB,#4,North Iowa,1.0,9.0,0.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0,0.0
 Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0.0,0.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0,0.0
