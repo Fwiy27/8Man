@@ -8,7 +8,7 @@ Aden Bice,0.0,WR/LB,Northwood-Kensett
 Adyson Stark,0.0,RB/DB,Belle Plaine
 Aidan Ebert,15.2,WR,Riceville
 Aidan Hesse,0.0,OL/DL,Dunkerton
-Aidan Timm,0.0,QB/DB,Belle Plaine
+Aidan Timm,-1.0,QB/DB,Belle Plaine
 Aidan Yoch,0.0,TE/DB,West Bend-Mallard
 Aiden Eickert,45.7,WR/LB,Easton Valley
 Aiden Hellman,0.0,,Don Bosco
@@ -426,7 +426,7 @@ Landon Wittrock,0.0,SL/LB,Harris-Lake Park
 Landyn Ankrum,0.0,RB/LB,HLV
 Lane Genkinger,1.6,RB/LB,Winfield-Mt Union
 Lane Oswalt,1.8,WR/DB,Collins-Maxwell
-Lane Vokoun,0.0,RB/DB,Belle Plaine
+Lane Vokoun,23.9,RB/DB,Belle Plaine
 Lars Taylor,0.0,TE/LB,Montezuma
 Lawson Kling,10.8,,Fremont-Mills
 Layne Mastin,1.9,OG/DE,East Mills
@@ -539,7 +539,7 @@ Ryan Bower,2.5,WR/S,CAM
 Ryan Heaton,0.0,FB/DE,Melcher-Dallas
 Ryker Hoffman,0.0,WR/CB,Rockford
 Rylan Behrends,0.0,RB/LB,Sidney
-Sam DeMeulenaere,0.0,E/LB,Belle Plaine
+Sam DeMeulenaere,3.6,E/LB,Belle Plaine
 Sam Fettkether,0.0,OL/LB,Central Elkader
 Sam Hoodjer,13.5,WR/CB,Clarksville
 Sam Myer,8.8,LB/RB,St. Edmond
@@ -592,7 +592,7 @@ Triton Gwinn,0.0,RB/LB,Mormon Trail
 Trypp Roszell,0.0,WR/DB,Gladbrook-Reinbeck
 Tucker Wright,0.0,RB/DB,BGM
 Tucker Youngblut,0.0,,Don Bosco
-Ty Alcott,0.0,RB/DB,Belle Plaine
+Ty Alcott,36.56,RB/DB,Belle Plaine
 Ty Christensen,0.0,,Don Bosco
 Ty Flathers,-0.1,RB/DB,CAM
 Ty Lindquist,0.0,FB/LB,Dunkerton
@@ -602,7 +602,7 @@ Tyler Rodgers,0.0,WR/CB,Mormon Trail
 Tyler Rogers,1.1,LB/RB,WACO
 Urijah Courter,0.0,RB/DB,Collins-Maxwell
 Wade Ragaller,22.9,RB/LB,Ar-We-Va
-Wade Sankot,0.0,RB/LB,Belle Plaine
+Wade Sankot,32.8,RB/LB,Belle Plaine
 Waylon Hein,0.0,TE/LB,Glidden-Ralston
 Weston Toft,0.5,OL/DL,Ar-We-Va
 Wiatt Schulte,0.0,DL/OL,Boyer Valley

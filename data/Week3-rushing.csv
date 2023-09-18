@@ -1,5 +1,5 @@
 Name,Points,Year,Position,Number,School,YDS,TDS
-Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0
+Ty Alcott,30.8,JR,RB/DB,#24,Belle Plaine,128.0,3.0
 Myles Grove,4.7,SR,QB/LB,#10,English Valleys,47.0,0.0
 Colby Wallace,23.8,JR,QB/S,#11,Glidden-Ralston,118.0,2.0
 Oliver Schmitt,25.3,SR,FB,#22,Turkey Valley,73.0,3.0
@@ -90,6 +90,7 @@ Chase Spieker,18.8,JR,QB/DB,#5,CAM,68.0,2.0
 Caden Roethler,0.0,SR,FB/LB,#20,Bishop Garrigan,0.0,0.0
 Slate Witte,0.0,SR,,#7,GMG,0.0,0.0
 Seth Bixler,1.4,SR,WR/S,#1,Midland,14.0,0.0
+Lane Vokoun,11.9,JR,RB/DB,#35,Belle Plaine,59.0,1.0
 Jordan Martin-England,13.8,JR,RB/LB,#18,Lenox,78.0,1.0
 Kale Doeppke,-2.5,SR,WR/DB,#5,Central Elkader,-25.0,0.0
 Christian Pierce,5.5,SO,QB/S,#4,Rockford,55.0,0.0
@@ -120,7 +121,6 @@ Alex Hansen,33.0,JR,RB/LB,#22,Exira-EHK,150.0,3.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Mark Bower,13.2,JR,RB/DB,#25,Colo-Nesco,72.0,1.0
 Cole Milks,14.8,SR,RB/S,#11,Winfield-Mt Union,28.0,2.0
-Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0
 Cade Robinson,1.0,JR,WR/CB,#12,Baxter,10.0,0.0
 Isaac Clark,4.3,SR,QB/LB,#12,Gladbrook-Reinbeck,43.0,0.0
 Ty Tauber,14.8,SR,OT/LB,#25,Newell-Fonda,88.0,1.0
@@ -132,6 +132,7 @@ Logan Grimm,3.5,SR,RB/LB,#34,West Bend-Mallard,35.0,0.0
 Jacob Berens,0.2,SR,RB/LB,#34,Boyer Valley,2.0,0.0
 Wade Ragaller,13.4,JR,RB/LB,#28,Ar-We-Va,74.0,1.0
 Jayden Hanson,0.0,SR,QB/DB,#7,Central City,0.0,0.0
+Wade Sankot,31.5,SO,RB/LB,#3,Belle Plaine,135.0,3.0
 Deshon Anderson,0.7,SO,RB/LB,#32,English Valleys,7.0,0.0
 Sawyer Forney,-0.7,SO,,#2,Fremont-Mills,-7.0,0.0
 Owen Hammersland,20.3,FR,RB/LB,#24,Central Elkader,83.0,2.0
@@ -178,7 +179,6 @@ Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
 Rogellio Gonzalez,0.0,SO,FB/DB,#10,West Central,0.0,0.0
 Landon Gjerde,12.8,SO,RB/LB,#1,Colo-Nesco,68.0,1.0
 Daniel Britt,0.0,JR,RB/S,#3,Janesville,0.0,0.0
-Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0
 Aldo Esteban-Cabrera,0.0,JR,RB/LB,#22,Murray,0.0,0.0
 Kace Patton,-0.2,SR,WR/CB,#10,Murray,-2.0,0.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0
