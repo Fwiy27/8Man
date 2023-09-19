@@ -51,7 +51,7 @@ Perrin Sulzle,10.4,JR,QB/LB,#7,Baxter,44.0,1.0
 Trenton Struss,9.7,SR,RB/S,#21,Newell-Fonda,37.0,1.0
 Michael Hensley,3.9,JR,RB/LB,#6,Sidney,39.0,0.0
 Caden Page,27.5,JR,QB/LB,#8,Murray,95.0,3.0
-Mason McIntosh,38.1,SR,QB/LB,#16,West Harrison/Whiting Hawkeyes,201.0,3.0
+Mason McIntosh,0.3,SR,QB/LB,#16,West Harrison,3.0,0.0
 Jamison Ewing,4.2,SO,WR/CB,#8,Southeast Warren,42.0,0.0
 Silas Walston,28.1,SR,RB/DE,#33,Bedford,101.0,3.0
 Isaac Murphy,0.2,SR,RB/S,#1,GTRA,2.0,0.0
@@ -67,7 +67,7 @@ Nolan Gannon,20.1,FR,RB/LB,#34,Murray,141.0,1.0
 Nolan Grebin,25.5,SR,QB/S,#2,Stanton/Essex Vikings,135.0,2.0
 Burke Busta,16.5,SR,FB,#9,Turkey Valley,105.0,1.0
 Lucas Ahrenstorff,13.0,SR,QB/S,#1,Harris-Lake Park,130.0,0.0
-Nolan Birdsall,41.4,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,174.0,4.0
+Nolan Birdsall,8.9,JR,RB/LB,#2,West Harrison,29.0,1.0
 Maddox Jondle,22.9,JR,QB/LB,#11,Lone Tree,109.0,2.0
 Luke Cripps,0.4,SR,QB/S,#1,Boyer Valley,4.0,0.0
 Brady Boulton,-0.2,SO,QB/DB,#1,Montezuma,-2.0,0.0
@@ -239,7 +239,7 @@ Jayden Butler,0.0,JR,TE/DE,#22,Janesville,0.0,0.0
 Mason Maschmann,1.0,SR,RB/LB,#11,BGM,10.0,0.0
 Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0
 Colin Hartl,0.0,JR,RB/LB,#38,Audubon,0.0,0.0
-Keenan Foland,1.7,FR,QB/S,#10,West Harrison/Whiting Hawkeyes,17.0,0.0
+Keenan Foland,0.0,FR,QB/S,#10,West Harrison,0.0,0.0
 Gavin DeFord,0.0,JR,RB/LB,#44,Waterloo Christian,0.0,0.0
 Landyn Ankrum,0.0,SO,RB/LB,#36,HLV,0.0,0.0
 Tanner Troendle,0.0,FR,RB/DB,#23,Kee,0.0,0.0
@@ -251,7 +251,7 @@ Eli Miller,0.0,SR,RB/LB,#7,Winfield-Mt Union,0.0,0.0
 Kaden Kobliska,0.3,SR,WR,#8,Riceville,3.0,0.0
 Luke Lansing,0.3,SO,RB/LB,#44,Springville,3.0,0.0
 Adam Bensley,0.0,SO,SL/LB,#12,Harris-Lake Park,0.0,0.0
-Jamison Martin,11.5,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,55.0,1.0
+Jamison Martin,7.9,JR,RB/DB,#11,West Harrison,19.0,1.0
 Braedon Godfread,0.1,JR,TE/S,#10,Sidney,1.0,0.0
 Keegan Chew,-0.3,FR,QB/S,#7,Murray,-3.0,0.0
 Brock Micetich,0.0,FR,RB/LB,#36,Twin Cedars,0.0,0.0
@@ -295,7 +295,7 @@ Gabe Reeves,7.8,FR,RB/LB,#9,Janesville,18.0,1.0
 Ethan Bridgewater,0.0,SO,RB/LB,#35,BGM,0.0,0.0
 Isaac Delange,0.0,JR,WR/CB,#25,Bishop Garrigan,0.0,0.0
 Callan Messerich,6.2,SO,WR/DB,#6,Easton Valley,62.0,0.0
-Carson Hopkins,1.8,FR,TE/LB,#45,West Harrison/Whiting Hawkeyes,18.0,0.0
+Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison,0.0,0.0
 Kaleb Gill,0.5,SR,,#1,GMG,5.0,0.0
 Rider Kupka,0.2,SO,,#21,GMG,2.0,0.0
 Andreas Buttry,0.0,JR,QB/CB,#5,Sidney,0.0,0.0
