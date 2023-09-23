@@ -36,6 +36,7 @@ Emmett Snyder,16.0,SR,RB/S,#29,Glidden-Ralston,100.0,1.0
 Trey Fisher,18.6,JR,RB/LB,#89,Southeast Warren,66.0,2.0
 Brodie Ludwig,8.1,JR,RB/LB,#21,Woodbine,21.0,1.0
 Jack Adams,5.1,JR,QB,#7,Riceville,51.0,0.0
+Fischer Buffington,4.3,JR,RB/DE,#12,East Union,43.0,0.0
 Maddox Jondle,11.4,JR,QB/LB,#11,Lone Tree,54.0,1.0
 Pryce Rochford,0.0,JR,QB,#22,Edgewood-Colesburg,0.0,0.0
 Michael Hensley,7.7,JR,RB/LB,#6,Sidney,17.0,1.0
@@ -46,7 +47,6 @@ Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0
 Perrin Sulzle,2.1,JR,QB/LB,#7,Baxter,21.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Gavin Menke-Bailey,0.0,JR,QB/LB,#5,New London,0.0,0.0
-Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
 Nolan Birdsall,48.3,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,243.0,4.0
 Mason McIntosh,41.5,SR,QB/LB,#16,West Harrison/Whiting Hawkeyes,235.0,3.0
@@ -101,6 +101,7 @@ Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0
 Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0
 Kasey Hough,0.0,JR,QB/S,#11,GTRA,0.0,0.0
 Caden Roethler,0.0,SR,FB/LB,#20,Bishop Garrigan,0.0,0.0
+Austin Lack,2.0,SR,WR/DB,#3,East Union,20.0,0.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0
 Jackson Schulte,1.3,SR,RB/LB,#21,Kee,13.0,0.0
 Cade Robinson,4.0,JR,WR/CB,#12,Baxter,40.0,0.0
@@ -132,7 +133,6 @@ Seth Hudson,0.0,SR,QB/S,#7,East Union,0.0,0.0
 Sawyer Forney,3.3,SO,,#2,Fremont-Mills,33.0,0.0
 Brody Paulsen,9.8,SR,RB/DB,#2,CAM,38.0,1.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0
-Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0
 Bryce Brabham,3.0,SO,RB/DB,#9,Exira-EHK,30.0,0.0
 Reece Chiabotta,0.0,SO,QB/DB,#34,Melcher-Dallas,0.0,0.0
 Brady Koenck,17.1,JR,RB/LB,#26,Remsen St. Mary's,51.0,2.0
@@ -263,6 +263,7 @@ Gannon Short,0.0,JR,RB/DB,#11,Colo-Nesco,0.0,0.0
 Brayden Chester,0.0,JR,RB/LB,#34,CAM,0.0,0.0
 Adam Bensley,0.0,SO,SL/LB,#12,Harris-Lake Park,0.0,0.0
 Braedon Godfread,0.0,JR,TE/S,#10,Sidney,0.0,0.0
+Terrian Islas,-0.3,JR,TE/DE,#5,East Union,-3.0,0.0
 Keegan Chew,0.0,FR,QB/S,#7,Murray,0.0,0.0
 Carter Rycroft,1.7,SO,,#4,Fremont-Mills,17.0,0.0
 Brock Micetich,0.0,FR,RB/LB,#36,Twin Cedars,0.0,0.0
@@ -276,6 +277,7 @@ Aiden Hellman,0.0,FR,,#18,Don Bosco,0.0,0.0
 Blayne Porter,0.0,SO,QB/S,#1,Janesville,0.0,0.0
 Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0
 Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0
+Wyatt Kelley,0.1,FR,RB/LB,#19,East Union,1.0,0.0
 Bryer Jack,0.0,FR,QB/DB,#14,HLV,0.0,0.0
 Trey Cota,0.0,FR,QB/LB,#10,Kee,0.0,0.0
 Jack Anderson,1.2,JR,RB/DL,#2,Baxter,12.0,0.0
@@ -287,8 +289,6 @@ Trenton Beard,7.1,SR,OL/LB,#34,Colo-Nesco,11.0,1.0
 Tayler Kibbee,0.0,SO,RB/LB,#11,Janesville,0.0,0.0
 Dakota Heishman,1.8,JR,WR/DB,#8,BGM,18.0,0.0
 Jonas Buchanan,0.0,SO,,#34,GMG,0.0,0.0
-Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0
-Wyatt Kelley,0.0,FR,RB/LB,#19,East Union,0.0,0.0
 Cash Emgarten,1.4,SR,WR/DB,#10,Exira-EHK,14.0,0.0
 Quintin White,0.0,SR,WR/DB,#3,Exira-EHK,0.0,0.0
 Bode Wyman,0.0,JR,QB/CB,#8,Griswold,0.0,0.0

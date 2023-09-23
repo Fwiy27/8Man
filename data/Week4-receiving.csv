@@ -33,6 +33,7 @@ Brayden Hepke,10.2,SR,WR/DB,#17,BGM,6.0,42.0,0.0
 Cruz DeJong,2.5,SR,TE/LB,#40,Montezuma,1.0,15.0,0.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0,0.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
+Rason Grail,2.9,SR,WR/DB,#23,East Union,2.0,9.0,0.0
 Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0,0.0
 Brogan Ewing,2.3,JR,WR/CB,#10,Southeast Warren,1.0,13.0,0.0
 Cam Buffington,0.0,SR,QB/LB,#33,Winfield-Mt Union,0.0,0.0,0.0
@@ -44,7 +45,6 @@ Kolt Payne,7.7,JR,SL/CB,#24,Sidney,3.0,47.0,0.0
 Keaton Harpenau,16.9,JR,SL/DB,#2,Remsen St. Mary's,9.0,79.0,0.0
 Micah Moores,44.6,FR,RB/LB,#9,Woodbine,7.0,196.0,3.0
 Kaden Kobliska,18.8,SR,WR,#8,Riceville,5.0,78.0,1.0
-Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0,0.0
 Matt Sauer,4.2,SR,TE/DE,#82,Midland,2.0,22.0,0.0
 Jackson Schulte,8.8,SR,RB/LB,#21,Kee,5.0,38.0,0.0
 Jack Gordon,0.0,SR,WR/DL,#18,East Mills,0.0,0.0,0.0
@@ -187,6 +187,7 @@ Mason Hoy,1.9,SO,RB/CB,#9,Springville,1.0,9.0,0.0
 Justin Bauer,0.0,SR,WR/CB,#12,Bishop Garrigan,0.0,0.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
 Andreas Buttry,3.7,JR,QB/CB,#5,Sidney,2.0,17.0,0.0
+Seth Hudson,1.6,SR,QB/S,#7,East Union,1.0,6.0,0.0
 Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0,0.0
 Riley Simmons,0.0,SR,E/DE,#85,Belle Plaine,0.0,0.0,0.0
 Quintin White,0.0,SR,WR/DB,#3,Exira-EHK,0.0,0.0,0.0
@@ -219,7 +220,7 @@ Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0,0.0
 Creyton Ogier,0.0,SR,TE/DE,#5,Lamoni,0.0,0.0,0.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0,0.0
 Gavin Benter,0.0,SO,TE/DL,#99,Waterloo Christian,0.0,0.0,0.0
-Seth Hudson,0.0,SR,QB/S,#7,East Union,0.0,0.0,0.0
+Fischer Buffington,0.9,JR,RB/DE,#12,East Union,1.0,-1.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0,0.0
 Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0,0.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0,0.0
@@ -255,7 +256,6 @@ Carson Hopkins,6.6,FR,TE/LB,#45,West Harrison/Whiting Hawkeyes,3.0,36.0,0.0
 Gabe Johnson,1.7,SR,QB/LB,#3,Sidney,1.0,7.0,0.0
 Eli Weimer,0.0,JR,WR/DB,#18,Waterloo Christian,0.0,0.0,0.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0,0.0
-Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0,0.0
 Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0,0.0
 Carter Fehr,0.0,SR,TE/DL,#13,West Bend-Mallard,0.0,0.0,0.0
 Aidan Yoch,0.0,SR,TE/DB,#14,West Bend-Mallard,0.0,0.0,0.0
