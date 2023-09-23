@@ -1,14 +1,15 @@
 Name,Points,Year,Position,Number,School,YDS,TDS
 Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0
 Andrew Beran,28.9,JR,RB,#2,Riceville,109.0,3.0
+Aaron Olsen,16.4,JR,QB/S,#3,Audubon,104.0,1.0
 Breckin Clatt,11.2,JR,RB/DB,#14,Colo-Nesco,52.0,1.0
 Adam Scott,6.3,SR,RB/LB,#26,West Central,63.0,0.0
+Evan Alt,30.2,SR,RB/LB,#4,Audubon,182.0,2.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
 Colby Wallace,0.0,JR,QB/S,#11,Glidden-Ralston,0.0,0.0
 Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0
 Landon Montag,0.0,SR,RB/LB,#24,West Bend-Mallard,0.0,0.0
 Kaiden Knaack,0.0,SR,,#10,Don Bosco,0.0,0.0
-Aaron Olsen,0.0,JR,QB/S,#3,Audubon,0.0,0.0
 Jameson Kilworth,0.0,SR,QB/DB,#8,Exira-EHK,0.0,0.0
 Ambrose Savage,0.0,JR,QB/LB,#12,Lamoni,0.0,0.0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
@@ -36,7 +37,6 @@ Wyatt Oswald,0.0,JR,QB/LB,#10,Coon Rapids-Bayard,0.0,0.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Gavin Menke-Bailey,0.0,JR,QB/LB,#5,New London,0.0,0.0
-Evan Alt,0.0,SR,RB/LB,#4,Audubon,0.0,0.0
 Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
 Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0
@@ -268,6 +268,7 @@ Johnny Milburn,0.3,JR,QB/DB,#13,Southeast Warren,3.0,0.0
 Jack Angell,0.0,SO,QB/DB,#18,Colo-Nesco,0.0,0.0
 Aiden Hellman,0.0,FR,,#18,Don Bosco,0.0,0.0
 Blayne Porter,0.0,SO,QB/S,#1,Janesville,0.0,0.0
+Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0
 Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0
 Bryer Jack,0.0,FR,QB/DB,#14,HLV,0.0,0.0
 Trey Cota,0.0,FR,QB/LB,#10,Kee,0.0,0.0
@@ -281,7 +282,6 @@ Cade Tentinger,0.0,JR,RB/DB,#5,Remsen St. Mary's,0.0,0.0
 Trenton Beard,7.1,SR,OL/LB,#34,Colo-Nesco,11.0,1.0
 Tayler Kibbee,0.0,SO,RB/LB,#11,Janesville,0.0,0.0
 Dakota Heishman,1.8,JR,WR/DB,#8,BGM,18.0,0.0
-Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0
 Jonas Buchanan,0.0,SO,,#34,GMG,0.0,0.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0
 Wyatt Kelley,0.0,FR,RB/LB,#19,East Union,0.0,0.0
