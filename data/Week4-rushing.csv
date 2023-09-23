@@ -35,12 +35,12 @@ Evan Alt,0.0,SR,RB/LB,#4,Audubon,0.0,0.0
 Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
 Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0
+Cam Buffington,23.3,SR,QB/LB,#33,Winfield-Mt Union,113.0,2.0
 Beau Burns,0.0,SO,QB/DB,#2,BGM,0.0,0.0
 Trey Fisher,0.0,JR,RB/LB,#89,Southeast Warren,0.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
 Brogyn Greensky,0.0,SR,QB/LB,#4,North Iowa,0.0,0.0
 Landon Waldschmitt,0.0,JR,QB/DB,#7,Remsen St. Mary's,0.0,0.0
-Cam Buffington,0.0,SR,QB/LB,#33,Winfield-Mt Union,0.0,0.0
 Jack Adams,0.0,JR,QB,#7,Riceville,0.0,0.0
 Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0
 Gabe Funk,0.0,JR,QB/DB,#17,Lenox,0.0,0.0
@@ -114,6 +114,7 @@ Jackson Schulte,0.0,SR,RB/LB,#21,Kee,0.0,0.0
 Dalton Kitzman,0.0,SR,RB/LB,#4,Lenox,0.0,0.0
 Alex Daniel,0.0,SO,RB/LB,#27,Glidden-Ralston,0.0,0.0
 Graham Godsey,0.0,JR,RB/LB,#35,Bedford,0.0,0.0
+Cole Milks,16.2,SR,RB/S,#11,Winfield-Mt Union,42.0,2.0
 Mason Steinhoff,0.0,SO,RB/LB,#11,Griswold,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0
 Seth Hudson,0.0,SR,QB/S,#7,East Union,0.0,0.0
@@ -123,7 +124,6 @@ Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0
 Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0
 Reece Chiabotta,0.0,SO,QB/DB,#34,Melcher-Dallas,0.0,0.0
 Mark Bower,0.0,JR,RB/DB,#25,Colo-Nesco,0.0,0.0
-Cole Milks,0.0,SR,RB/S,#11,Winfield-Mt Union,0.0,0.0
 Cade Robinson,0.0,JR,WR/CB,#12,Baxter,0.0,0.0
 Isaac Clark,0.0,SR,QB/LB,#12,Gladbrook-Reinbeck,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0
@@ -195,6 +195,7 @@ Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
 Kaden Schmidt,0.0,FR,RB/LB,#18,Turkey Valley,0.0,0.0
 Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0
 Brett Plants,0.0,JR,RB/LB,#22,Montezuma,0.0,0.0
+Eli Miller,4.3,SR,RB/LB,#7,Winfield-Mt Union,43.0,0.0
 Riley Raines,0.0,FR,RB/LB,#13,New London,0.0,0.0
 Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0
 Jeremy Reineke,0.0,SR,OL/LB,#45,Belle Plaine,0.0,0.0
@@ -247,7 +248,7 @@ Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0
 Brenden Wheeler,0.0,JR,RB/LB,#17,Southeast Warren,0.0,0.0
 Gannon Short,0.0,JR,RB/DB,#11,Colo-Nesco,0.0,0.0
-Eli Miller,0.0,SR,RB/LB,#7,Winfield-Mt Union,0.0,0.0
+Lane Genkinger,9.7,JR,RB/LB,#24,Winfield-Mt Union,37.0,1.0
 Kaden Kobliska,0.0,SR,WR,#8,Riceville,0.0,0.0
 Luke Lansing,0.0,SO,RB/LB,#44,Springville,0.0,0.0
 Adam Bensley,0.0,SO,SL/LB,#12,Harris-Lake Park,0.0,0.0
@@ -274,7 +275,6 @@ Peter Kielman,0.0,JR,TE/LB,#21,Clarksville,0.0,0.0
 Cruz DeJong,0.0,SR,TE/LB,#40,Montezuma,0.0,0.0
 Isaac Messamaker,0.0,JR,FB/LB,#25,Moravia,0.0,0.0
 Cade Tentinger,0.0,JR,RB/DB,#5,Remsen St. Mary's,0.0,0.0
-Lane Genkinger,0.0,JR,RB/LB,#24,Winfield-Mt Union,0.0,0.0
 Tayler Kibbee,0.0,SO,RB/LB,#11,Janesville,0.0,0.0
 Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0
 Jonas Buchanan,0.0,SO,,#34,GMG,0.0,0.0
@@ -319,6 +319,7 @@ Kolton Robinson,0.0,SO,RB/DB,#23,Northwood-Kensett,0.0,0.0
 Alex Tiedemann,0.0,SO,QB/DB,#34,Northwood-Kensett,0.0,0.0
 Johnny Milburn,0.0,JR,QB/DB,#13,Southeast Warren,0.0,0.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0
+Jarit Tapia,0.6,SR,RB/DB,#14,Winfield-Mt Union,6.0,0.0
 Kason Calhoun,0.0,FR,RB/DB,#32,CAM,0.0,0.0
 Ty Flathers,0.0,SR,RB/DB,#15,CAM,0.0,0.0
 Nathan Findlay,0.0,SO,RB/LB,#10,BGM,0.0,0.0
@@ -351,6 +352,7 @@ Drew Urbanek,0.0,FR,QB/CB,#10,Tripoli,0.0,0.0
 Braxston Bucknell,0.0,FR,OL/DL,#99,Tripoli,0.0,0.0
 Braydon Hensley,0.0,JR,QB/CB,#13,Bedford,0.0,0.0
 Ashton Nally,0.0,SO,QB/CB,#1,Bedford,0.0,0.0
+Nicholas Sparrow,0.3,SO,QB/DB,#1,Winfield-Mt Union,3.0,0.0
 Ben Belew,0.0,JR,,#3,Don Bosco,0.0,0.0
 Dane Smith,0.0,FR,RB/DB,#10,Iowa Valley,0.0,0.0
 Spencer Munk,0.0,FR,RB/LB,#28,Woodbine,0.0,0.0
@@ -394,8 +396,7 @@ Teagan Hanson,0.0,SO,QB/S,#10,GTRA,0.0,0.0
 Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0
 Kase Coleman,0.0,SO,TE/DL,#37,Bedford,0.0,0.0
 Brody King,0.0,JR,TE/LB,#2,Bedford,0.0,0.0
-Jarit Tapia,0.0,SR,RB/DB,#14,Winfield-Mt Union,0.0,0.0
-Nicholas Sparrow,0.0,SO,QB/DB,#1,Winfield-Mt Union,0.0,0.0
+Tayson Samuels,1.2,FR,RB/DB,#21,Winfield-Mt Union,12.0,0.0
 Cody Milks,0.0,FR,QB/LB,#12,Winfield-Mt Union,0.0,0.0
 Jaxon Larson,0.0,JR,,#7,Don Bosco,0.0,0.0
 David Schmitz,0.0,JR,,#4,Don Bosco,0.0,0.0

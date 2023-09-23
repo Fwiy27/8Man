@@ -1,6 +1,6 @@
 Name,Points,Position,School
 Aaron Olsen,0.0,QB/S,Audubon
-Abram Edwards,0.0,TE/DE,Winfield-Mt Union
+Abram Edwards,9.6,TE/DE,Winfield-Mt Union
 Adam Bensley,0.0,SL/LB,Harris-Lake Park
 Adam Scott,0.0,RB/LB,West Central
 Adam Swaney,0.0,RB/LB,Bedford
@@ -124,7 +124,7 @@ Caleb Kurtenbach,0.0,QB,Turkey Valley
 Caleb Swedin,0.0,RB/LB,GTRA
 Caleb Urban,0.0,WR/CB,East Mills
 Callan Messerich,0.0,WR/DB,Easton Valley
-Cam Buffington,0.0,QB/LB,Winfield-Mt Union
+Cam Buffington,23.3,QB/LB,Winfield-Mt Union
 Camden Behrends,0.0,QB/LB,Clarksville
 Cannon Hansen,0.0,TE/DL,Exira-EHK
 Carson Frerichs,0.0,RB/LB,North Iowa
@@ -135,7 +135,7 @@ Carter Anderson,0.0,QB/DB,Northwood-Kensett
 Carter Battin,0.0,WR,Edgewood-Colesburg
 Carter Fehr,0.0,TE/DL,West Bend-Mallard
 Carter Hassebroek,0.0,WR/DB,Iowa Valley
-Carter Loyd,0.0,RB/S,Winfield-Mt Union
+Carter Loyd,3.4,RB/S,Winfield-Mt Union
 Carter McGregor,0.0,RB/LB,Bishop Garrigan
 Carter Michalek,0.0,WR/DB,Montezuma
 Carter Oberbroeckling,0.0,RB,Edgewood-Colesburg
@@ -170,7 +170,7 @@ Colby Wallace,0.0,QB/S,Glidden-Ralston
 Cole Bethune,11.1,WR/S,West Harrison/Whiting Hawkeyes
 Cole Fehr,0.0,RB/LB,West Bend-Mallard
 Cole Green,0.0,TE/DE,Calamus-Wheatland
-Cole Milks,0.0,RB/S,Winfield-Mt Union
+Cole Milks,26.8,RB/S,Winfield-Mt Union
 Colin Hartl,0.0,RB/LB,Audubon
 Colin Snyder,0.0,RB/LB,Dunkerton
 Collin Bower,0.0,TE/DB,CAM
@@ -240,7 +240,7 @@ Easton Hudnut,0.0,WR/DB,Montezuma
 Edde Gonzalez,0.0,RB/LB,West Central
 Edward Miller,0.0,TE/DE,Audubon
 Eli Hanson,0.0,RB/DB,West Bend-Mallard
-Eli Miller,0.0,RB/LB,Winfield-Mt Union
+Eli Miller,4.3,RB/LB,Winfield-Mt Union
 Eli Riedesel,0.0,OG/DE,Calamus-Wheatland
 Eli Schmidt,0.0,RB/S,Clarksville
 Eli Weimer,0.0,WR/DB,Waterloo Christian
@@ -327,7 +327,7 @@ Jacob Morey,0.0,OL/DL,Tripoli
 Jacob Snyder,0.0,OL/DL,Dunkerton
 Jader Sanchez,0.0,RB/DB,Lone Tree
 Jaedon Koppman,0.0,,Don Bosco
-Jake Edwards,0.0,QB/S,Winfield-Mt Union
+Jake Edwards,11.04,QB/S,Winfield-Mt Union
 Jake Schilling,0.0,OG,Edgewood-Colesburg
 Jakob Koopman,0.0,SL/LB,St. Edmond
 James Bell,0.0,WR/DB,Waterloo Christian
@@ -335,7 +335,7 @@ James Buhlman,0.0,RB/LB,Easton Valley
 Jameson Kilworth,0.0,QB/DB,Exira-EHK
 Jamison Ewing,0.0,WR/CB,Southeast Warren
 Jamison Martin,81.3,RB/DB,West Harrison/Whiting Hawkeyes
-Jarit Tapia,0.0,RB/DB,Winfield-Mt Union
+Jarit Tapia,0.6,RB/DB,Winfield-Mt Union
 Jarod Reams,0.0,RB/DB,Kee
 Jaxon Darby,0.0,TE/CB,Murray
 Jaxon Larson,0.0,,Don Bosco
@@ -429,7 +429,7 @@ Landon Montag,0.0,RB/LB,West Bend-Mallard
 Landon Waldschmitt,0.0,QB/DB,Remsen St. Mary's
 Landon Wittrock,0.0,SL/LB,Harris-Lake Park
 Landyn Ankrum,0.0,RB/LB,HLV
-Lane Genkinger,0.0,RB/LB,Winfield-Mt Union
+Lane Genkinger,9.7,RB/LB,Winfield-Mt Union
 Lane Oswalt,0.0,WR/DB,Collins-Maxwell
 Lane Vokoun,0.0,RB/DB,Belle Plaine
 Lars Taylor,0.0,TE/LB,Montezuma
@@ -497,7 +497,7 @@ Myles Grove,0.0,QB/LB,English Valleys
 Nate Smith,0.0,RB/DB,Collins-Maxwell
 Nathan Findlay,0.0,RB/LB,BGM
 Nathan Moon,0.0,RB/LB,Clarksville
-Nicholas Sparrow,0.0,QB/DB,Winfield-Mt Union
+Nicholas Sparrow,0.3,QB/DB,Winfield-Mt Union
 Niles Reichenbach,0.0,RB/DB,WACO
 Noah Connelly,0.0,WR/DB,Kee
 Noah Fee,0.0,TE/DB,Twin Cedars
@@ -573,6 +573,7 @@ Tate Foertsch,0.0,QB/DB,Bishop Garrigan
 Tate Martin,0.0,RB/LB,BGM
 Tate Mount,0.0,QB/DB,Sidney
 Tayler Kibbee,0.0,RB/LB,Janesville
+Tayson Samuels,1.2,RB/DB,Winfield-Mt Union
 Teagan Hanson,0.0,QB/S,GTRA
 Terrian Islas,0.0,TE/DE,East Union
 Titus Barber,0.0,OG/DE,Murray
