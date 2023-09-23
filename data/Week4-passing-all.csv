@@ -1,16 +1,17 @@
 Name,Points,YP,Number,School,YDS,TDS,INT
 Beau Burns,129.48,SO  QB/DB,#2,BGM,1412,19,3
 Perrin Sulzle,100.92,JR  QB/LB,#7,Baxter,1098,15,3
+Mason McIntosh,85.36,SR  QB/LB,#16,West Harrison/Whiting Hawkeyes,1084,12,6
 Keagan Lee,121.8,SO  QB/DB,#17,Easton Valley,1220,20,7
 Brodyn Pryor,115.48,SO  QB/DB,#8,Woodbine,1187,19,8
 Brady Boulton,115.2,SO  QB/DB,#1,Montezuma,930,20,2
 Grant Whitehead,105.84,JR  QB/DB,#15,Sidney,1146,16,4
 Blayne Smith,75.52,JR  QB/DB,#15,Ar-We-Va,888,11,4
 Shane Helmick,117.44,SR  QB/DE,#12,Moravia,1061,20,5
+JT Laufersweiler,117.76,SR  QB/DB,#11,St. Edmond,1319,18,7
 Kooper Julseth,40.96,JR  WR/LB,#1,Northwood-Kensett,549,6,5
 Slate Witte,65.88,SR  #7 GMG,,,847,9,4
 Dalton Mudderman,89.88,JR  QB/LB,#5,Kee,997,14,6
-Mason McIntosh,47.96,SR  QB/LB,#16,West Harrison/Whiting Hawkeyes,724,6,5
 Kasey Hough,70.44,JR  QB/S,#11,GTRA,811,10,2
 Caden Page,71.68,JR  QB/LB,#8,Murray,642,12,2
 Cooper Wierson,30.04,SO  QB/LB,#1,Collins-Maxwell,601,4,10
@@ -18,7 +19,6 @@ Anthony Harrington,49.6,SO  QB/LB,#2,Midland,540,8,4
 Judah Bielenberg,30.76,JR  QB/LB,#10,Siouxland Christian,644,3,7
 Jake Edwards,85.12,JR  QB/S,#3,Winfield-Mt Union,878,13,2
 Jack Adams,41.76,JR  QB,#7,Riceville,394,7,2
-JT Laufersweiler,95.72,SR  QB/DB,#11,St. Edmond,1018,15,5
 Caleb Urban,43.48,JR  WR/CB,#3,East Mills,437,8,6
 Clayton Miller,49.88,JR  QB/CB,#4,WACO,472,8,1
 Chase Spieker,63.68,JR  QB/DB,#5,CAM,667,10,3
@@ -29,6 +29,7 @@ Brogyn Greensky,61.68,SR  QB/LB,#4,North Iowa,592,10,2
 Kambridge Wainscott,41.2,SR  QB/DB,#15,Waterloo Christian,430,7,4
 Degin Dixson,34.08,SR  QB/CB,#3,Mormon Trail,452,5,4
 Dylan Marquart,58.0,JR  QB/DB,#3,Dunkerton,500,10,2
+Landon Waldschmitt,41.44,JR  QB/DB,#7,Remsen St. Mary's,361,7,1
 Nolan Kriegel,52.84,FR  QB/DB,#2,Iowa Valley,596,8,3
 Aaron Olsen,11.32,JR  QB/S,#3,Audubon,258,1,3
 Sawyer Forney,40.12,SO  #2 Fremont-Mills,,,403,7,4
@@ -38,7 +39,6 @@ Breckin Clatt,27.72,JR  RB/DB,#14,Colo-Nesco,293,5,4
 Kale Doeppke,26.36,SR  WR/DB,#5,Central Elkader,309,4,2
 Jamison Ewing,28.16,SO  WR/CB,#8,Southeast Warren,279,5,3
 Gabe Funk,52.68,JR  QB/DB,#17,Lenox,492,9,3
-Landon Waldschmitt,34.32,JR  QB/DB,#7,Remsen St. Mary's,283,6,1
 Jameson Kilworth,24.28,SR  QB/DB,#8,Exira-EHK,382,3,3
 Dallas Smith,19.08,JR  QB/DB,#2,Twin Cedars,327,3,6
 Kaiden Knaack,19.68,SR  #10 Don Bosco,,,267,3,3
@@ -101,6 +101,7 @@ Hayden Shelman,0.4,FR  DB/RB,#15,WACO,10,0,0
 Gunnar Smith,0.24,SO  QB,#6,Riceville,6,0,0
 Ethan Bridgewater,0.64,SO  RB/LB,#35,BGM,16,0,0
 Carson Wessel,-0.8,SO  QB/LB,#9,Audubon,5,0,1
+Dane Ballou,-0.72,FR  QB/LB,#17,Midland,7,0,1
 Trey Cota,-0.76,FR  QB/LB,#10,Kee,6,0,1
 Carter Smith,5.04,JR  C/DT,#70,Baxter,26,1,0
 Dawson Evans,0.08,SO  QB/DB,#1,Lenox,2,0,0
