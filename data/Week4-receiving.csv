@@ -63,6 +63,7 @@ Austin Christensen,7.2,SO,WR/LB,#81,Audubon,4.0,32.0,0.0
 Simon Showalter,0.9,JR,RB/LB,#6,Stanton/Essex Vikings,1.0,-1.0,0.0
 Chase Klatt,0.0,SO,TE/CB,#4,Calamus-Wheatland,0.0,0.0,0.0
 Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0,0.0
+Emmett Burke,8.2,SO,WR/DB,#10,Lone Tree,4.0,42.0,0.0
 Jack Follmann,2.2,SR,TE/LB,#40,CAM,1.0,12.0,0.0
 Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0,0.0
@@ -118,7 +119,6 @@ Gavin DeFord,0.0,JR,RB/LB,#44,Waterloo Christian,0.0,0.0,0.0
 Lucas Madison,0.0,SR,,#5,Fremont-Mills,0.0,0.0,0.0
 Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
-Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0,0.0
 Trent Robertson,0.0,SR,WR/LB,#5,North Iowa,0.0,0.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0,0.0
 Carter Loyd,3.4,SR,RB/S,#2,Winfield-Mt Union,1.0,24.0,0.0
@@ -141,6 +141,7 @@ Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0,0.0
 Levi Reineke,0.0,SO,LB/RB,#29,Boyer Valley,0.0,0.0,0.0
 J.D. Kruse,0.0,SO,RB/DE,#2,Turkey Valley,0.0,0.0,0.0
 Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0,0.0
+Marshawn Taylor,2.6,SR,RB/CB,#12,Rockford,2.0,6.0,0.0
 Robert Beardsley,0.0,JR,WR/DB,#18,Southeast Warren,0.0,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
 Collin Homan,0.0,JR,OL/DL,#55,Remsen St. Mary's,0.0,0.0,0.0
@@ -198,7 +199,6 @@ Adam Scott,1.9,SR,RB/LB,#26,West Central,1.0,9.0,0.0
 Alex Daniel,0.0,SO,RB/LB,#27,Glidden-Ralston,0.0,0.0,0.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0,0.0
 Ryker Hoffman,0.0,JR,WR/CB,#2,Rockford,0.0,0.0,0.0
-Marshawn Taylor,0.0,SR,RB/CB,#12,Rockford,0.0,0.0,0.0
 Carter Anderson,0.0,JR,QB/DB,#15,Northwood-Kensett,0.0,0.0,0.0
 Landen Nelson,0.0,FR,WR/DB,#36,Northwood-Kensett,0.0,0.0,0.0
 Hunter Hughes,7.4,SR,CB/WR,#3,WACO,1.0,4.0,1.0
@@ -271,6 +271,7 @@ Preston Kulper,0.0,SO,WR/DB,#81,Central Elkader,0.0,0.0,0.0
 Kyle Reinhart,0.0,JR,WR/DB,#40,Central Elkader,0.0,0.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
 Domonic Garcia,0.0,SO,WR/DB,#8,Lone Tree,0.0,0.0,0.0
+Dominic Graap,8.5,SR,WR/DB,#19,Lone Tree,1.0,15.0,1.0
 Maddox Jondle,0.0,JR,QB/LB,#11,Lone Tree,0.0,0.0,0.0
 Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0,0.0
 Waylon Hein,0.0,JR,TE/LB,#23,Glidden-Ralston,0.0,0.0,0.0
@@ -338,8 +339,8 @@ Wiatt Schulte,0.0,SO,DL/OL,#89,Boyer Valley,0.0,0.0,0.0
 Brody Koski,0.0,FR,QB/LB,#7,Boyer Valley,0.0,0.0,0.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0,0.0
 Kale Doeppke,0.0,SR,WR/DB,#5,Central Elkader,0.0,0.0,0.0
-Dominic Graap,0.0,SR,WR/DB,#19,Lone Tree,0.0,0.0,0.0
 Brody Magruder,0.0,JR,TE/DL,#26,Lone Tree,0.0,0.0,0.0
+Jader Sanchez,3.3,SR,RB/DB,#4,Lone Tree,1.0,23.0,0.0
 Ledger Dalton,0.0,SO,WR/DB,#5,Dunkerton,0.0,0.0,0.0
 Jacob Snyder,0.0,SR,OL/DL,#52,Dunkerton,0.0,0.0,0.0
 Biar Biar,0.0,JR,OG/DL,#65,Siouxland Christian,0.0,0.0,0.0
@@ -352,8 +353,10 @@ Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0,0.0
 Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0.0,0.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0,0.0
 Kenny Criswell,0.0,SR,WR/DB,#9,Montezuma,0.0,0.0,0.0
+Alex Havaranek,1.4,FR,QB/S,#10,Rockford,1.0,4.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0,0.0
 Corbin Harris,0.0,JR,WR/S,#23,Rockford,0.0,0.0,0.0
+Payton Malchow,1.4,JR,WR/CB,#28,Rockford,1.0,4.0,0.0
 Shane Helmick,0.0,SR,QB/DE,#12,Moravia,0.0,0.0,0.0
 William Kok,0.0,SO,WR/DB,#22,Moravia,0.0,0.0,0.0
 Isaac Messamaker,0.0,JR,FB/LB,#25,Moravia,0.0,0.0,0.0
