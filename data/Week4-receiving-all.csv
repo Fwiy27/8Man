@@ -22,6 +22,7 @@ Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,21,308,3
 Carter Seitz,JR,WR/DB,#7,Kee,20,386,6
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,20,300,4
 Jackson McDanel,SR,RB/LB,#30,Moravia,20,369,6
+Lucas Frohwein,SR,TE/DE,#9,Colo-Nesco,19,224,3
 Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,19,151,1
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,18,139,1
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,18,271,3
@@ -39,8 +40,8 @@ Collin Bower,SO,TE/DB,#25,CAM,16,194,4
 Kaleb Gill,SR,,#1,GMG,16,232,2
 Rider Kupka,SO,,#21,GMG,16,180,3
 Kolt Payne,JR,SL/CB,#24,Sidney,16,351,4
-Lucas Frohwein,SR,TE/DE,#9,Colo-Nesco,15,157,1
 Micah Moores,FR,RB/LB,#9,Woodbine,15,338,6
+Kaden Kobliska,SR,WR,#8,Riceville,15,171,3
 Rason Grail,SR,WR/DB,#23,East Union,14,193,4
 Jack Gordon,SR,WR/DL,#18,East Mills,14,205,5
 Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,14,99,3
@@ -69,7 +70,6 @@ Owen Hammersland,FR,RB/LB,#24,Central Elkader,10,124,3
 Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,10,126,1
 Ty Christensen,SO,,#5,Don Bosco,10,90,1
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,10,115,2
-Kaden Kobliska,SR,WR,#8,Riceville,10,93,2
 Leo Ehn,SR,TE/LB,#80,St. Edmond,10,267,2
 Trevor Forey,SR,WR/S,#6,Janesville,10,160,5
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,10,90,1
@@ -87,6 +87,7 @@ Broox Stockman,SO,RB/LB,#20,Montezuma,9,94,1
 Luke Erselius,SO,WR/DB,#15,Montezuma,9,55,1
 Jaxson Schnell,SO,LB/WR,#4,GTRA,9,143,2
 Braden Simington,SR,S/WR,#2,GTRA,9,123,1
+Andrew Beran,JR,RB,#2,Riceville,9,66,1
 Evan Alt,SR,RB/LB,#4,Audubon,9,44,0
 Kael Cress,JR,WR/S,#7,Midland,8,159,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,8,137,2
@@ -102,7 +103,6 @@ Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,8,110,1
 Cole Milks,SR,RB/S,#11,Winfield-Mt Union,8,106,1
 Ben Belew,JR,,#3,Don Bosco,8,140,1
 Devon Ehlers,SO,TE/LB,#88,Ar-We-Va,8,62,0
-Andrew Beran,JR,RB,#2,Riceville,8,67,1
 Klay Baker,JR,RB/LB,#17,St. Edmond,8,188,3
 Conlin Rouse,SO,RB/LB,#11,Springville,8,152,3
 Bennett Steger,SR,WR,#14,Edgewood-Colesburg,8,145,1
@@ -119,6 +119,7 @@ Emmett Burke,SO,WR/DB,#10,Lone Tree,7,126,1
 Trent Robertson,SR,WR/LB,#5,North Iowa,7,108,2
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,7,94,1
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,7,142,1
+Aidan Ebert,JR,WR,#3,Riceville,7,64,2
 Edward Miller,SR,TE/DE,#31,Audubon,7,142,1
 Talan Driscoll,FR,RB/LB,#8,Easton Valley,7,24,1
 Justin Weispfenning,JR,RB/DB,#3,Easton Valley,7,55,1
@@ -168,7 +169,6 @@ Jacob Morey,SR,OL/DL,#11,Tripoli,5,143,2
 Cal Peterman,JR,WR/LB,#15,Bedford,5,76,2
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,5,41,0
 Brody Paulsen,SR,RB/DB,#2,CAM,5,71,0
-Aidan Ebert,JR,WR,#3,Riceville,5,31,2
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,5,76,1
 Brigham Porter,SO,SL/DB,#23,New London,5,65,1
 Cole Bethune,JR,WR/S,#4,West Harrison/Whiting Hawkeyes,5,61,0
@@ -204,6 +204,7 @@ Jacksyn Hogrefe,SO,RB/DB,#26,Newell-Fonda,4,66,2
 Ty Tauber,SR,OT/LB,#25,Newell-Fonda,4,39,1
 Caleb Swedin,SO,RB/LB,#7,GTRA,4,71,0
 Landen Dietrich,FR,RB/LB,#27,GTRA,4,88,2
+Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,4,28,1
 Tristan Freiberg,SR,WR/CB,#1,Tripoli,4,17,0
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,4,17,0
 Mason Hoy,SO,RB/CB,#9,Springville,4,24,0
@@ -232,6 +233,7 @@ Dane Strong,FR,RB/LB,#33,Montezuma,3,35,1
 Jesse Myhr,JR,FB/DE,#8,Moravia,3,23,0
 Hunter Hughes,SR,CB/WR,#3,WACO,3,41,0
 Lucas Dirkx,SO,TE/DE,#40,Southeast Warren,3,29,0
+Lucas Daggett,JR,TE/LB,#35,Colo-Nesco,3,28,1
 Ethan Schaufenbuel,SO,WR/CB,#20,Tripoli,3,34,0
 Garrison Motsinger,JR,RB/S,#4,Bedford,3,66,1
 Silas Walston,SR,RB/DE,#33,Bedford,3,123,3
@@ -285,7 +287,6 @@ Blake Helmick,JR,OG/DE,#87,Moravia,2,13,1
 Isaac Rich,JR,CB/WR,#10,WACO,2,58,1
 Sam Schmillen,JR,WR/LB,#10,Remsen St. Mary's,2,19,1
 Breckin Clatt,JR,RB/DB,#14,Colo-Nesco,2,4,0
-Lucas Daggett,JR,TE/LB,#35,Colo-Nesco,2,14,1
 Logan Boldt,SO,WR/LB,#3,Tripoli,2,4,0
 Brody King,JR,TE/LB,#2,Bedford,2,22,2
 David Schmitz,JR,,#4,Don Bosco,2,11,0
@@ -364,7 +365,6 @@ Kenny Ness,SO,LB/WR,#6,GTRA,1,2,0
 Cade Tentinger,JR,RB/DB,#5,Remsen St. Mary's,1,5,0
 Brady Wurth,JR,LB/WR,#11,Remsen St. Mary's,1,1,0
 Mark Bower,JR,RB/DB,#25,Colo-Nesco,1,8,0
-Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,1,0,0
 Hunter Hardin,JR,RB/LB,#36,Colo-Nesco,1,3,0
 Mason McKinney,JR,OL/DE,#62,Colo-Nesco,1,2,0
 Ben Ryan,SR,TE/DE,#17,Colo-Nesco,1,15,0
