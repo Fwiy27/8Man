@@ -9,21 +9,21 @@ Shane Helmick,117.44,SR  QB/DE,#12,Moravia,1061,20,5
 Brady Boulton,103.88,SO  QB/DB,#1,Montezuma,847,18,2
 Kooper Julseth,40.96,JR  WR/LB,#1,Northwood-Kensett,549,6,5
 Slate Witte,65.88,SR  #7 GMG,,,847,9,4
+Dalton Mudderman,89.88,JR  QB/LB,#5,Kee,997,14,6
 Mason McIntosh,47.96,SR  QB/LB,#16,West Harrison/Whiting Hawkeyes,724,6,5
 Kasey Hough,70.44,JR  QB/S,#11,GTRA,811,10,2
 Caden Page,71.68,JR  QB/LB,#8,Murray,642,12,2
 Cooper Wierson,30.04,SO  QB/LB,#1,Collins-Maxwell,601,4,10
-Dalton Mudderman,82.72,JR  QB/LB,#5,Kee,868,13,4
 Judah Bielenberg,30.76,JR  QB/LB,#10,Siouxland Christian,644,3,7
 Jake Edwards,85.12,JR  QB/S,#3,Winfield-Mt Union,878,13,2
 Jack Adams,41.76,JR  QB,#7,Riceville,394,7,2
 JT Laufersweiler,95.72,SR  QB/DB,#11,St. Edmond,1018,15,5
 Anthony Harrington,44.04,SO  QB/LB,#2,Midland,451,7,2
 Caleb Urban,43.48,JR  WR/CB,#3,East Mills,437,8,6
+Clayton Miller,49.88,JR  QB/CB,#4,WACO,472,8,1
 Chase Spieker,63.68,JR  QB/DB,#5,CAM,667,10,3
 Lucas Ahrenstorff,20.96,SR  QB/S,#1,Harris-Lake Park,349,3,5
 Nolan Grebin,41.32,SR  QB/S,#2,Stanton/Essex Vikings,533,6,4
-Clayton Miller,39.92,JR  QB/CB,#4,WACO,423,6,1
 Wyatt Oswald,32.36,JR  QB/LB,#10,Coon Rapids-Bayard,409,5,4
 Brogyn Greensky,61.68,SR  QB/LB,#4,North Iowa,592,10,2
 Kambridge Wainscott,41.2,SR  QB/DB,#15,Waterloo Christian,430,7,4
@@ -41,6 +41,7 @@ Landon Waldschmitt,34.32,JR  QB/DB,#7,Remsen St. Mary's,283,6,1
 Jameson Kilworth,24.28,SR  QB/DB,#8,Exira-EHK,382,3,3
 Dallas Smith,19.08,JR  QB/DB,#2,Twin Cedars,327,3,6
 Kaiden Knaack,19.68,SR  #10 Don Bosco,,,267,3,3
+Landon Montag,23.8,SR  RB/LB,#24,West Bend-Mallard,395,3,4
 Gabe Funk,34.32,JR  QB/DB,#17,Lenox,333,6,3
 Max Carlson,22.32,JR  QB/LB,#10,Newell-Fonda,258,4,4
 Drew Urbanek,7.04,FR  QB/CB,#10,Tripoli,176,1,4
@@ -52,7 +53,6 @@ Ty Alcott,33.32,JR  RB/DB,#24,Belle Plaine,308,6,3
 Brody Koch,27.72,SO  RB/LB,#5,Calamus-Wheatland,318,4,1
 McKoy Nuss,12.04,SO  QB/LB,#13,Tripoli,201,2,4
 Seth Hudson,23.28,SR  QB/S,#7,East Union,282,4,4
-Landon Montag,16.48,SR  RB/LB,#24,West Bend-Mallard,287,2,3
 Bode Wyman,6.96,JR  QB/CB,#8,Griswold,249,0,3
 Owen Garside,12.28,JR  S/QB,#3,Boyer Valley,157,2,2
 Luke Brennan,18.04,SO  QB/DB,#6,Montezuma,151,3,0
@@ -97,10 +97,11 @@ MaKade Bloker,10.6,SR  RB/LB,#11,Clarksville,90,2,1
 Preston Kulper,0.48,SO  WR/DB,#81,Central Elkader,12,0,0
 Talan Jacobsen,0.44,FR  QB/LB,#10,North Iowa,11,0,0
 Leo Schrader,0.28,FR  QB/DB,#23,Melcher-Dallas,7,0,0
+Hayden Shelman,0.4,FR  DB/RB,#15,WACO,10,0,0
 Gunnar Smith,0.24,SO  QB,#6,Riceville,6,0,0
 Ethan Bridgewater,0.64,SO  RB/LB,#35,BGM,16,0,0
 Carson Wessel,-0.8,SO  QB/LB,#9,Audubon,5,0,1
-Trey Cota,0.24,FR  QB/LB,#10,Kee,6,0,0
+Trey Cota,-0.76,FR  QB/LB,#10,Kee,6,0,1
 Carter Smith,5.04,JR  C/DT,#70,Baxter,26,1,0
 Dawson Evans,0.08,SO  QB/DB,#1,Lenox,2,0,0
 Brenden Connett,0.12,SR  RB/LB,#20,Twin Cedars,3,0,0
@@ -114,7 +115,7 @@ Marshawn Taylor,1.44,SR  RB/CB,#12,Rockford,36,0,0
 Carter Anderson,-0.12,JR  QB/DB,#15,Northwood-Kensett,-3,0,0
 Jackson McDanel,0.32,SR  RB/LB,#30,Moravia,8,0,0
 Kale Moore,1.08,FR  QB/DB,#14,Moravia,27,0,0
-Hayden Shelman,0.04,FR  DB/RB,#15,WACO,1,0,0
+Reece Oswald,-0.64,SR  RB/CB,#27,WACO,9,0,1
 Teagan Hanson,0.08,SO  QB/S,#10,GTRA,2,0,0
 Mark Bower,0.6,JR  RB/DB,#25,Colo-Nesco,15,0,0
 Landon Lindgren,0.28,SO  RB/DB,#11,Lamoni,7,0,0
