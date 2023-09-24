@@ -69,6 +69,7 @@ Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0,0.0
 Emmett Burke,8.2,SO,WR/DB,#10,Lone Tree,4.0,42.0,0.0
 Braxton Kniep,9.4,JR,WR/DE,#18,Remsen St. Mary's,3.0,64.0,0.0
 Jack Follmann,2.2,SR,TE/LB,#40,CAM,1.0,12.0,0.0
+Kelan Stevenson,7.3,SO,TE/LB,#62,Lamoni,3.0,43.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0,0.0
 Jacob Martin,2.3,JR,RB/LB,#3,Stanton/Essex Vikings,1.0,13.0,0.0
 Luke Cripps,17.5,SR,QB/S,#1,Boyer Valley,4.0,75.0,1.0
@@ -115,7 +116,6 @@ Devon Ehlers,0.0,SO,TE/LB,#88,Ar-We-Va,0.0,0.0,0.0
 Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0,0.0
 Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
 Sam Plathe,0.0,SR,WR/CB,#24,Bishop Garrigan,0.0,0.0,0.0
-Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0,0.0
 Edward Miller,1.4,SR,TE/DE,#31,Audubon,1.0,4.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0,0.0
 Braedon Godfread,0.0,JR,TE/S,#10,Sidney,0.0,0.0,0.0
@@ -160,6 +160,7 @@ Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
 Will Felper,0.0,SR,SL,#18,Riceville,0.0,0.0,0.0
 Dominic McClain,17.8,JR,WR/DB,#7,St. Edmond,5.0,68.0,1.0
 Christopher Lange,0.0,SO,WR,#10,Edgewood-Colesburg,0.0,0.0,0.0
+Landon Lindgren,10.8,SO,RB/DB,#11,Lamoni,2.0,28.0,1.0
 Cale Westerbeck,0.0,SO,WR/DB,#4,New London,0.0,0.0,0.0
 Jordan Boehde,0.0,FR,RB/DB,#13,Easton Valley,0.0,0.0,0.0
 James Bell,0.0,SR,WR/DB,#21,Waterloo Christian,0.0,0.0,0.0
@@ -185,6 +186,7 @@ Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0,0.0
 Kinnick Henning,4.8,SO,RB/LB,#22,St. Edmond,2.0,28.0,0.0
 Mason Hoy,1.9,SO,RB/CB,#9,Springville,1.0,9.0,0.0
 Justin Bauer,0.0,SR,WR/CB,#12,Bishop Garrigan,0.0,0.0,0.0
+Creyton Ogier,2.0,SR,TE/DE,#5,Lamoni,1.0,10.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
 Andreas Buttry,3.7,JR,QB/CB,#5,Sidney,2.0,17.0,0.0
 Seth Hudson,1.6,SR,QB/S,#7,East Union,1.0,6.0,0.0
@@ -217,8 +219,6 @@ Landon Gjerde,11.8,SO,RB/LB,#1,Colo-Nesco,3.0,28.0,1.0
 Tristan Freiberg,0.0,SR,WR/CB,#1,Tripoli,0.0,0.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0,0.0
 Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0,0.0
-Creyton Ogier,0.0,SR,TE/DE,#5,Lamoni,0.0,0.0,0.0
-Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0,0.0
 Gavin Benter,0.0,SO,TE/DL,#99,Waterloo Christian,0.0,0.0,0.0
 Fischer Buffington,0.9,JR,RB/DE,#12,East Union,1.0,-1.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0,0.0
