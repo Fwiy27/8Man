@@ -48,8 +48,8 @@ Perrin Sulzle,2.1,JR,QB/LB,#7,Baxter,21.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Gavin Menke-Bailey,0.0,JR,QB/LB,#5,New London,0.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
-Nolan Birdsall,48.3,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,243.0,4.0
-Mason McIntosh,41.5,SR,QB/LB,#16,West Harrison/Whiting Hawkeyes,235.0,3.0
+Nolan Birdsall,6.9,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,69.0,0.0
+Mason McIntosh,3.4,SR,QB/LB,#16,West Harrison/Whiting Hawkeyes,34.0,0.0
 Cam Buffington,23.3,SR,QB/LB,#33,Winfield-Mt Union,113.0,2.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
 Luke Cripps,22.2,SR,QB/S,#1,Boyer Valley,102.0,2.0
@@ -235,7 +235,7 @@ Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0
 Lincoln Albertson,-0.1,SO,RB/LB,#32,Moravia,-1.0,0.0
 Owen Bral,0.0,JR,QB/LB,#3,Iowa Valley,0.0,0.0
 Chance Hoyt,0.0,FR,RB/LB,#4,Iowa Valley,0.0,0.0
-Jamison Martin,11.4,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,54.0,1.0
+Jamison Martin,-0.1,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,-1.0,0.0
 Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0
 Kolben Robinson,1.2,SO,TE/LB,#25,Lenox,12.0,0.0
 Caden Kaufman,0.5,FR,RB/LB,#15,Lenox,5.0,0.0
@@ -250,7 +250,7 @@ Kaden Kobliska,9.8,SR,WR,#8,Riceville,38.0,1.0
 Jayden Butler,0.0,JR,TE/DE,#22,Janesville,0.0,0.0
 Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0
 Colin Hartl,0.0,JR,RB/LB,#38,Audubon,0.0,0.0
-Keenan Foland,1.7,FR,QB/S,#10,West Harrison/Whiting Hawkeyes,17.0,0.0
+Keenan Foland,0.0,FR,QB/S,#10,West Harrison/Whiting Hawkeyes,0.0,0.0
 Gabe Johnson,0.6,SR,QB/LB,#3,Sidney,6.0,0.0
 Gavin DeFord,0.0,JR,RB/LB,#44,Waterloo Christian,0.0,0.0
 Landyn Ankrum,0.0,SO,RB/LB,#36,HLV,0.0,0.0
@@ -304,7 +304,7 @@ Gabe Reeves,0.0,FR,RB/LB,#9,Janesville,0.0,0.0
 Ethan Bridgewater,0.0,SO,RB/LB,#35,BGM,0.0,0.0
 Isaac Delange,0.0,JR,WR/CB,#25,Bishop Garrigan,0.0,0.0
 Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0
-Carson Hopkins,1.8,FR,TE/LB,#45,West Harrison/Whiting Hawkeyes,18.0,0.0
+Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison/Whiting Hawkeyes,0.0,0.0
 Kaleb Gill,0.0,SR,,#1,GMG,0.0,0.0
 Rider Kupka,0.0,SO,,#21,GMG,0.0,0.0
 Andreas Buttry,0.0,JR,QB/CB,#5,Sidney,0.0,0.0

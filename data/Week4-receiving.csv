@@ -1,9 +1,9 @@
 Name,Points,Year,Position,Number,School,REC,YDS,TDS
 Treyton Travis,25.4,SR,WR/CB,#24,Baxter,14.0,114.0,0.0
 Kace Patton,0.0,SR,WR/CB,#10,Murray,0.0,0.0,0.0
-Nolan Birdsall,110.9,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,37.0,439.0,5.0
+Nolan Birdsall,32.9,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,9.0,119.0,2.0
 Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0,0.0
-Jamison Martin,111.5,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,30.0,455.0,6.0
+Jamison Martin,41.7,JR,RB/DB,#11,West Harrison/Whiting Hawkeyes,9.0,147.0,3.0
 Landon Blum,31.6,FR,WR/DB,#5,Woodbine,4.0,96.0,3.0
 Dominic Coleman,47.8,SR,WR/DE,#23,BGM,14.0,218.0,2.0
 Cade Robinson,5.9,JR,WR/CB,#12,Baxter,3.0,29.0,0.0
@@ -130,8 +130,8 @@ Carter Loyd,3.4,SR,RB/S,#2,Winfield-Mt Union,1.0,24.0,0.0
 Aidan Ebert,5.3,JR,WR,#3,Riceville,2.0,33.0,0.0
 Talan Driscoll,0.0,FR,RB/LB,#8,Easton Valley,0.0,0.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
-Cole Bethune,17.9,JR,WR/S,#4,West Harrison/Whiting Hawkeyes,7.0,109.0,0.0
-Clay Westphal,21.1,SO,SL/S,#8,West Harrison/Whiting Hawkeyes,7.0,81.0,1.0
+Cole Bethune,6.8,JR,WR/S,#4,West Harrison/Whiting Hawkeyes,2.0,48.0,0.0
+Clay Westphal,12.6,SO,SL/S,#8,West Harrison/Whiting Hawkeyes,2.0,46.0,1.0
 Aiden Stenzel,3.1,SO,RB/DB,#20,Sidney,2.0,11.0,0.0
 Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0,0.0
 Wyatt Christiansen,0.0,SO,RB/LB,#10,Midland,0.0,0.0,0.0
@@ -251,8 +251,8 @@ Jakob Koopman,0.0,SO,SL/LB,#8,St. Edmond,0.0,0.0,0.0
 Sam Myer,12.0,JR,LB/RB,#33,St. Edmond,2.0,40.0,1.0
 Logan Franklin,0.0,SO,WR/DB,#7,New London,0.0,0.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0,0.0
-Mason McIntosh,10.1,SR,QB/LB,#16,West Harrison/Whiting Hawkeyes,3.0,71.0,0.0
-Carson Hopkins,6.6,FR,TE/LB,#45,West Harrison/Whiting Hawkeyes,3.0,36.0,0.0
+Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison/Whiting Hawkeyes,0.0,0.0,0.0
+Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison/Whiting Hawkeyes,0.0,0.0,0.0
 Gabe Johnson,1.7,SR,QB/LB,#3,Sidney,1.0,7.0,0.0
 Eli Weimer,0.0,JR,WR/DB,#18,Waterloo Christian,0.0,0.0,0.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0,0.0
@@ -395,16 +395,9 @@ Benjy Trainer,0.0,SR,TE/LB,#4,Bishop Garrigan,0.0,0.0,0.0
 Israel Lemley,0.0,FR,WR/DB,#25,New London,0.0,0.0,0.0
 Michael Raines,0.0,SR,TE/LB,#26,New London,0.0,0.0,0.0
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0,0.0
-Brady Lewis,2.6,SR,WR/S,#7,West Harrison/Whiting Hawkeyes,1.0,16.0,0.0
+Brady Lewis,0.0,SR,WR/S,#7,West Harrison/Whiting Hawkeyes,0.0,0.0,0.0
 Ethan Klemesrud,0.0,FR,,#28,GMG,0.0,0.0,0.0
 Landon Stonewall,0.0,FR,,#18,GMG,0.0,0.0,0.0
 LaDarius Albright,0.0,JR,TE/LB,#9,Sidney,0.0,0.0,0.0
 Tate Mount,0.0,SO,QB/DB,#2,Sidney,0.0,0.0,0.0
 Drew Wagner,0.0,SR,TE/DL,#98,Waterloo Christian,0.0,0.0,0.0
-Nolan Birdsall,0.0,,,,West Harrison,,,
-Jamison Martin,0.0,,,,West Harrison,,,
-Cole Bethune,0.0,,,,West Harrison,,,
-Clay Westphal,0.0,,,,West Harrison,,,
-Mason McIntosh,0.0,,,,West Harrison,,,
-Carson Hopkins,0.0,,,,West Harrison,,,
-Brady Lewis,0.0,,,,West Harrison,,,
