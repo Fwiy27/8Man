@@ -149,15 +149,17 @@ Jayden Hanson,SR,QB/DB,#7,Central City,192,3
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,222,6
 Deshon Anderson,SO,RB/LB,#32,English Valleys,141,2
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,203,5
+Colin Snyder,SO,RB/LB,#24,Dunkerton,117,1
 Wyatt Nelson,JR,RB/DB,#9,West Central,183,3
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,239,5
 Caden Oswald,FR,RB/DB,#6,Coon Rapids-Bayard,105,4
 Owen Garside,JR,S/QB,#3,Boyer Valley,252,7
 Levi Reineke,SO,LB/RB,#29,Boyer Valley,122,1
+Ty Lindquist,JR,FB/LB,#18,Dunkerton,348,5
+Dylan Marquart,JR,QB/DB,#3,Dunkerton,9,3
 Joe Koehler,SR,FB/DE,#24,Rockford,62,0
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,89,0
 Owen Murphy,JR,WR/S,#10,Bishop Garrigan,74,0
-Dylan Marquart,JR,QB/DB,#3,Dunkerton,29,3
 Trey Edeker,SO,RB/DE,#20,WACO,48,0
 Hunter Hardin,JR,RB/LB,#36,Colo-Nesco,90,0
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,55,1
@@ -170,7 +172,7 @@ Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,54,0
 Reece Oswald,SR,RB/CB,#27,WACO,115,4
 Keagan Lee,SO,QB/DB,#17,Easton Valley,-57,0
 Matthew Klostermann,JR,RB/LB,#22,Central City,151,3
-Ty Lindquist,JR,FB/LB,#18,Dunkerton,234,2
+Riley Garrett,JR,RB/DL,#11,Dunkerton,37,0
 Jake Edwards,JR,QB/S,#3,Winfield-Mt Union,29,1
 Carson Wessel,SO,QB/LB,#9,Audubon,63,1
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,88,1
@@ -184,7 +186,6 @@ Aldo Esteban-Cabrera,JR,RB/LB,#22,Murray,91,3
 Kace Patton,SR,WR/CB,#10,Murray,33,0
 Austin Vaverka,SR,RB/LB,#5,Gladbrook-Reinbeck,190,5
 Treyton Franzen,FR,FB/LB,#21,Turkey Valley,76,2
-Colin Snyder,SO,RB/LB,#24,Dunkerton,69,0
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,138,3
 John McLaughlin,SR,WR/CB,#6,WACO,41,3
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,133,4
@@ -193,7 +194,6 @@ Judson Beary,JR,RB/LB,#6,Twin Cedars,50,0
 Daniel Britt,JR,RB/S,#3,Janesville,73,2
 Dane Ballou,FR,QB/LB,#17,Midland,111,1
 Dallas Smith,JR,QB/DB,#2,Twin Cedars,20,0
-Riley Garrett,JR,RB/DL,#11,Dunkerton,8,0
 Rocky Johnson,FR,RB/DB,#15,Melcher-Dallas,26,0
 Jesse Myhr,JR,FB/DE,#8,Moravia,134,2
 Marco Avila,JR,FB,#52,Riceville,95,1
@@ -463,7 +463,9 @@ Matt Ferguson,SR,OL/DL,#31,Boyer Valley,1,0
 Camden Behrends,SO,QB/LB,#32,Clarksville,-2,0
 Max Fettkether,SO,RB/LB,#20,Central Elkader,3,0
 Mayson Hemsted,SO,WR/DB,#2,Lone Tree,4,0
+Otto French,FR,FB/LB,#16,Dunkerton,29,0
 Aidan Hesse,SO,OL/DL,#50,Dunkerton,-7,0
+Noah Fuelling,JR,WR/DB,#12,Dunkerton,7,0
 Waylon Hein,JR,TE/LB,#23,Glidden-Ralston,-1,0
 Henry Sturm,FR,OL/LB,#30,Glidden-Ralston,1,0
 Anthony Eisele,SR,OL/DL,#55,North Iowa,-12,0
