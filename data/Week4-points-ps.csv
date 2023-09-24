@@ -51,7 +51,7 @@ Ben Ryan,0.0,TE/DE,Colo-Nesco
 Ben Yezek,0.0,WR/DB,Northwood-Kensett
 Benjy Trainer,0.0,TE/LB,Bishop Garrigan
 Bennett Pfister,0.0,WR/DB,Siouxland Christian
-Bennett Steger,0.0,WR,Edgewood-Colesburg
+Bennett Steger,1.6,WR,Edgewood-Colesburg
 Biar Biar,0.0,OG/DL,Siouxland Christian
 Blake Ewing,0.3,FB/LB,Moravia
 Blake Helmick,0.0,OG/DE,Moravia
@@ -102,7 +102,7 @@ Brogyn Greensky,0.0,QB/LB,North Iowa
 Broox Stockman,11.7,RB/LB,Montezuma
 Bryce Brabham,17.7,RB/DB,Exira-EHK
 Bryer Jack,0.0,QB/DB,HLV
-Burke Busta,0.0,FB,Turkey Valley
+Burke Busta,15.9,FB,Turkey Valley
 CJ Smith,0.0,TE/DB,Melcher-Dallas
 Cade Robinson,9.9,WR/CB,Baxter
 Cade Tentinger,0.6,RB/DB,Remsen St. Mary's
@@ -124,7 +124,7 @@ Cale Westerbeck,0.0,WR/DB,New London
 Caleb Coffelt,0.0,WR/DB,Collins-Maxwell
 Caleb Haack,0.0,WR/DB,Iowa Valley
 Caleb Hemphill,0.0,RB/LB,Harris-Lake Park
-Caleb Kurtenbach,0.0,QB,Turkey Valley
+Caleb Kurtenbach,13.6,QB,Turkey Valley
 Caleb Swedin,0.0,RB/LB,GTRA
 Caleb Urban,0.4,WR/CB,East Mills
 Callan Messerich,18.1,WR/DB,Easton Valley
@@ -134,7 +134,7 @@ Cameron Nicoletto,8.0,C/DT,Moravia
 Cannon Hansen,0.0,TE/DL,Exira-EHK
 Carson Frerichs,0.0,RB/LB,North Iowa
 Carson Hopkins,0.0,TE/LB,West Harrison/Whiting Hawkeyes
-Carson Ingles,0.0,RB,Edgewood-Colesburg
+Carson Ingles,26.36,RB,Edgewood-Colesburg
 Carson Peters,0.4,TE/S,Glidden-Ralston
 Carson Wessel,0.0,QB/LB,Audubon
 Carter Anderson,0.0,QB/DB,Northwood-Kensett
@@ -144,7 +144,7 @@ Carter Hassebroek,0.0,WR/DB,Iowa Valley
 Carter Loyd,3.4,RB/S,Winfield-Mt Union
 Carter McGregor,0.0,RB/LB,Bishop Garrigan
 Carter Michalek,0.0,WR/DB,Montezuma
-Carter Oberbroeckling,0.0,RB,Edgewood-Colesburg
+Carter Oberbroeckling,19.0,RB,Edgewood-Colesburg
 Carter Rycroft,1.7,,Fremont-Mills
 Carter Seitz,7.6,WR/DB,Kee
 Carter Sholtus,0.0,WR/CB,HLV
@@ -165,7 +165,7 @@ Chris Hanson,0.0,FB/LB,Central City
 Christian Pierce,-0.14,QB/S,Rockford
 Christian Reinke,0.0,TE/LB,Rockford
 Christopher Greif,0.0,LB/FB,Central City
-Christopher Lange,0.0,WR,Edgewood-Colesburg
+Christopher Lange,4.0,WR,Edgewood-Colesburg
 Clay Westphal,12.6,SL/S,West Harrison/Whiting Hawkeyes
 Clayton Miller,11.56,QB/CB,WACO
 Cody Dorscher,0.0,WR/CB,Griswold
@@ -314,7 +314,7 @@ Isaac Rich,0.0,CB/WR,WACO
 Isaiah Malm,0.0,S/WR,GTRA
 Israel Lemley,0.0,WR/DB,New London
 Israel Valenzuela,0.5,OG/DT,Bedford
-J.D. Kruse,0.0,RB/DE,Turkey Valley
+J.D. Kruse,1.6,RB/DE,Turkey Valley
 JT Laufersweiler,48.54,QB/DB,St. Edmond
 JW Linkenhoker,3.1,,Fremont-Mills
 Jabari Woodbury,0.0,,GMG
@@ -460,7 +460,7 @@ Levi Halterman,0.0,RB/LB,Southeast Warren
 Levi Reineke,0.0,LB/RB,Boyer Valley
 Lincoln Albertson,-0.1,RB/LB,Moravia
 Logan Boldt,0.0,WR/LB,Tripoli
-Logan Busta,0.0,QB/DB,Turkey Valley
+Logan Busta,7.66,QB/DB,Turkey Valley
 Logan Franklin,0.0,WR/DB,New London
 Logan French,15.6,WR/DB,Stanton/Essex Vikings
 Logan Grimm,17.7,RB/LB,West Bend-Mallard
@@ -527,7 +527,7 @@ Nolan Gannon,34.7,RB/LB,Murray
 Nolan Grebin,0.0,QB/S,Stanton/Essex Vikings
 Nolan Kriegel,0.0,QB/DB,Iowa Valley
 Oliver Longerbeam,0.0,QB/DB,Springville
-Oliver Schmitt,0.0,FB,Turkey Valley
+Oliver Schmitt,19.4,FB,Turkey Valley
 Otto French,2.9,FB/LB,Dunkerton
 Owen Ary,0.0,TE/LB,Iowa Valley
 Owen Backer,39.0,RB/S,Clarksville
@@ -563,6 +563,7 @@ Robert Beardsley,0.0,WR/DB,Southeast Warren
 Robert Brasel,0.0,LB/RB,Boyer Valley
 Rocky Johnson,0.0,RB/DB,Melcher-Dallas
 Rogellio Gonzalez,0.2,FB/DB,West Central
+Russell Nieman,0.8,OG,Turkey Valley
 Ryan Bower,11.1,WR/S,CAM
 Ryan Heaton,0.0,FB/DE,Melcher-Dallas
 Ryker Hoffman,0.0,WR/CB,Rockford
