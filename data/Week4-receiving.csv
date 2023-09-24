@@ -15,6 +15,7 @@ Garrett Watts,5.1,SR,WR/DB,#7,Montezuma,2.0,31.0,0.0
 Evan Lorenzen,5.0,JR,RB/DB,#22,Northwood-Kensett,2.0,30.0,0.0
 Aiden Eickert ,2.1,SO,WR/LB,#7,Easton Valley,1.0,11.0,0.0
 Cainan Travis,32.5,JR,WR/LB,#20,Baxter,9.0,115.0,2.0
+Cal Heydon,25.2,SO,QB/DB,#11,Coon Rapids-Bayard,5.0,82.0,2.0
 Carter Seitz,7.6,JR,WR/DB,#7,Kee,3.0,46.0,0.0
 Josef Dvorak,11.9,JR,RB/DB,#25,Collins-Maxwell,6.0,59.0,0.0
 Dakota Heishman,5.5,JR,WR/DB,#8,BGM,3.0,25.0,0.0
@@ -23,7 +24,6 @@ Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0,0.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0,0.0
 Wyatt Throckmorton,2.4,SR,WR/LB,#23,Moravia,1.0,14.0,0.0
 Isaac Murphy,10.0,SR,RB/S,#1,GTRA,4.0,60.0,0.0
-Cal Heydon,0.0,SO,QB/DB,#11,Coon Rapids-Bayard,0.0,0.0,0.0
 Jackson McDanel,10.0,SR,RB/LB,#30,Moravia,1.0,30.0,1.0
 Dalton Weepie,12.4,JR,TE/LB,#33,Dunkerton,1.0,54.0,1.0
 Lucas Frohwein,22.7,SR,TE/DE,#9,Colo-Nesco,4.0,67.0,2.0
@@ -57,6 +57,7 @@ Seth Bixler,1.7,SR,WR/S,#1,Midland,1.0,7.0,0.0
 Reed Oswalt,5.6,SO,WR/DB,#24,Collins-Maxwell,4.0,16.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
 Tate Martin,22.5,JR,RB/LB,#33,BGM,5.0,55.0,2.0
+Kolby Culbertson,1.9,SR,TE/DB,#2,Coon Rapids-Bayard,1.0,9.0,0.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
 Alex Tiedemann,0.8,SO,QB/DB,#34,Northwood-Kensett,1.0,-2.0,0.0
 Louden Huisenga,0.0,JR,RB/LB,#8,WACO,0.0,0.0,0.0
@@ -68,7 +69,6 @@ Kael Cress,15.0,JR,WR/S,#7,Midland,3.0,60.0,1.0
 Alex Hansen,1.4,JR,RB/LB,#22,Exira-EHK,1.0,4.0,0.0
 Simon Showalter,0.9,JR,RB/LB,#6,Stanton/Essex Vikings,1.0,-1.0,0.0
 Chase Klatt,0.0,SO,TE/CB,#4,Calamus-Wheatland,0.0,0.0,0.0
-Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0,0.0
 Emmett Burke,8.2,SO,WR/DB,#10,Lone Tree,4.0,42.0,0.0
 Braxton Kniep,9.4,JR,WR/DE,#18,Remsen St. Mary's,3.0,64.0,0.0
 Jack Follmann,2.2,SR,TE/LB,#40,CAM,1.0,12.0,0.0
@@ -234,6 +234,7 @@ Tanner Troendle,3.1,FR,RB/DB,#23,Kee,2.0,11.0,0.0
 Kendrick Mastin,2.2,SR,RB/LB,#9,Murray,1.0,12.0,0.0
 Drake Axmear,0.0,JR,WR/CB,#4,English Valleys,0.0,0.0,0.0
 Derek Bartlett,2.2,SR,LB/RB,#4,Stanton/Essex Vikings,1.0,12.0,0.0
+Trey Rosenbeck,7.2,SR,TE/LB,#3,Coon Rapids-Bayard,3.0,42.0,0.0
 John Stauffer,0.0,JR,TE/LB,#82,Clarksville,0.0,0.0,0.0
 Colin Snyder,0.0,SO,RB/LB,#24,Dunkerton,0.0,0.0,0.0
 Waylon Hein,4.4,JR,TE/LB,#23,Glidden-Ralston,1.0,34.0,0.0
@@ -332,6 +333,7 @@ Cole Green,0.0,FR,TE/DE,#34,Calamus-Wheatland,0.0,0.0,0.0
 Brody Koch,0.0,SO,RB/LB,#5,Calamus-Wheatland,0.0,0.0,0.0
 Luke Rohling,0.0,SR,FB/LB,#16,Calamus-Wheatland,0.0,0.0,0.0
 Austin Boege,0.0,SO,RB/LB,#22,Collins-Maxwell,0.0,0.0,0.0
+Parker Hays,1.7,JR,RB/DB,#9,Coon Rapids-Bayard,1.0,7.0,0.0
 Wyatt Oswald,0.0,JR,QB/LB,#10,Coon Rapids-Bayard,0.0,0.0,0.0
 Caden Oswald,0.0,FR,RB/DB,#6,Coon Rapids-Bayard,0.0,0.0,0.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0,0.0
