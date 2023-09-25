@@ -24,6 +24,7 @@ Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0
 Landon Lindgren,12.8,SO,RB/DB,#11,Lamoni,68.0,1.0
 Beau Burns,30.6,SO,QB/DB,#2,BGM,126.0,3.0
 Landon Waldschmitt,27.8,JR,QB/DB,#7,Remsen St. Mary's,98.0,3.0
+Gavin Menke-Bailey,18.5,JR,QB/LB,#5,New London,125.0,1.0
 Anthony Harrington,4.9,SO,QB/LB,#2,Midland,49.0,0.0
 Braxton Blackburn,54.7,SR,,#10,Fremont-Mills,187.0,6.0
 Louden Huisenga,26.9,JR,RB/LB,#8,WACO,149.0,2.0
@@ -48,7 +49,6 @@ Gabe Funk,11.0,JR,QB/DB,#17,Lenox,50.0,1.0
 Brady Boulton,35.6,SO,QB/DB,#1,Montezuma,116.0,4.0
 Perrin Sulzle,2.1,JR,QB/LB,#7,Baxter,21.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
-Gavin Menke-Bailey,0.0,JR,QB/LB,#5,New London,0.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
 Nolan Birdsall,6.9,JR,RB/LB,#2,West Harrison/Whiting Hawkeyes,69.0,0.0
 Mason McIntosh,3.4,SR,QB/LB,#16,West Harrison/Whiting Hawkeyes,34.0,0.0
@@ -207,8 +207,10 @@ Kaden Schmidt,0.0,FR,RB/LB,#18,Turkey Valley,0.0,0.0
 Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0
 Brenden Wheeler,-0.5,JR,RB/LB,#17,Southeast Warren,-5.0,0.0
 Eli Miller,4.3,SR,RB/LB,#7,Winfield-Mt Union,43.0,0.0
+Aiden Hellman,9.2,FR,,#18,Don Bosco,32.0,1.0
 Luke Lansing,10.7,SO,RB/LB,#44,Springville,47.0,1.0
 Riley Raines,0.0,FR,RB/LB,#13,New London,0.0,0.0
+Michael Raines,3.4,SR,TE/LB,#26,New London,34.0,0.0
 Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0
 Sawyer House,4.4,SR,WR/CB,#4,Midland,44.0,0.0
 Jeremy Reineke,0.0,SR,OL/LB,#45,Belle Plaine,0.0,0.0
@@ -250,6 +252,7 @@ Kenny Ness,0.0,SO,LB/WR,#6,GTRA,0.0,0.0
 Kayden Winther,0.0,FR,RB/LB,#13,CAM,0.0,0.0
 Kaden Kobliska,9.8,SR,WR,#8,Riceville,38.0,1.0
 Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0
+Cale Westerbeck,11.3,SO,WR/DB,#4,New London,53.0,1.0
 Colin Hartl,0.0,JR,RB/LB,#38,Audubon,0.0,0.0
 Keenan Foland,0.0,FR,QB/S,#10,West Harrison/Whiting Hawkeyes,0.0,0.0
 Gabe Johnson,0.6,SR,QB/LB,#3,Sidney,6.0,0.0
@@ -276,7 +279,6 @@ Johnny Milburn,0.3,JR,QB/DB,#13,Southeast Warren,3.0,0.0
 Jack Angell,0.0,SO,QB/DB,#18,Colo-Nesco,0.0,0.0
 Lane Genkinger,9.7,JR,RB/LB,#24,Winfield-Mt Union,37.0,1.0
 Ben Belew,14.8,JR,,#3,Don Bosco,88.0,1.0
-Aiden Hellman,0.0,FR,,#18,Don Bosco,0.0,0.0
 Blayne Porter,0.0,SO,QB/S,#1,Janesville,0.0,0.0
 Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0
 Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0
@@ -306,6 +308,7 @@ Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0.0,0.0
 Lucas Dow,0.0,JR,RB/LB,#26,Rockford,0.0,0.0
 Collin Hoffman,0.2,SR,QB/S,#14,GTRA,2.0,0.0
 Abram Edwards,0.0,SR,TE/DE,#84,Winfield-Mt Union,0.0,0.0
+Tucker Youngblut,0.1,SO,,#22,Don Bosco,1.0,0.0
 Carter Hassebroek,0.0,JR,WR/DB,#8,Iowa Valley,0.0,0.0
 Gabe Reeves,0.0,FR,RB/LB,#9,Janesville,0.0,0.0
 Ethan Bridgewater,0.0,SO,RB/LB,#35,BGM,0.0,0.0
@@ -375,6 +378,8 @@ Braxston Bucknell,0.0,FR,OL/DL,#99,Tripoli,0.0,0.0
 Kase Coleman,7.5,SO,TE/DL,#37,Bedford,15.0,1.0
 Braydon Hensley,0.0,JR,QB/CB,#13,Bedford,0.0,0.0
 Nicholas Sparrow,0.3,SO,QB/DB,#1,Winfield-Mt Union,3.0,0.0
+Jaxon Larson,0.1,JR,,#7,Don Bosco,1.0,0.0
+David Schmitz,0.2,JR,,#4,Don Bosco,2.0,0.0
 Dane Smith,0.0,FR,RB/DB,#10,Iowa Valley,0.0,0.0
 Spencer Munk,0.0,FR,RB/LB,#28,Woodbine,0.0,0.0
 Parker Opperman,0.0,JR,RB/DT,#26,Janesville,0.0,0.0
@@ -383,7 +388,6 @@ Jace March,0.0,FR,RB/CB,#3,Springville,0.0,0.0
 Ethan Marso,0.0,SO,FB/LB,#11,Bishop Garrigan,0.0,0.0
 Kelan Stevenson,0.3,SO,TE/LB,#62,Lamoni,3.0,0.0
 Mason Ahrenstorff,0.0,SO,WR/S,#11,Harris-Lake Park,0.0,0.0
-Michael Raines,0.0,SR,TE/LB,#26,New London,0.0,0.0
 Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0
 Jeremiah Marquette,0.0,SR,RB/LB,#25,Waterloo Christian,0.0,0.0
 Morgan Cooley,0.0,SO,OL/DL,#42,East Union,0.0,0.0
@@ -419,9 +423,6 @@ Brody King,0.0,JR,TE/LB,#2,Bedford,0.0,0.0
 Quentin Dalton,0.8,FR,QB/LB,#10,Bedford,8.0,0.0
 Tayson Samuels,1.2,FR,RB/DB,#21,Winfield-Mt Union,12.0,0.0
 Cody Milks,0.0,FR,QB/LB,#12,Winfield-Mt Union,0.0,0.0
-Jaxon Larson,0.0,JR,,#7,Don Bosco,0.0,0.0
-David Schmitz,0.0,JR,,#4,Don Bosco,0.0,0.0
-Tucker Youngblut,0.0,SO,,#22,Don Bosco,0.0,0.0
 Owen Ary,0.0,SO,TE/LB,#22,Iowa Valley,0.0,0.0
 Ian Smith,0.0,JR,TE/LB,#5,Iowa Valley,0.0,0.0
 Brenner Sullivan,0.0,SO,RB/LB,#22,Woodbine,0.0,0.0
