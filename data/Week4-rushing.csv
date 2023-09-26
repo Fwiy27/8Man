@@ -71,6 +71,7 @@ Dawson Smith,0.0,SR,RB/LB,#20,Iowa Valley,0.0,0.0
 Chase Spieker,4.4,JR,QB/DB,#5,CAM,44.0,0.0
 Carter Oberbroeckling,17.7,SR,RB,#34,Edgewood-Colesburg,57.0,2.0
 Burke Busta,10.8,SR,FB,#9,Turkey Valley,48.0,1.0
+Caden Roethler,27.6,SR,FB/LB,#20,Bishop Garrigan,96.0,3.0
 Josef Dvorak,19.2,JR,RB/DB,#25,Collins-Maxwell,132.0,1.0
 Broox Stockman,4.3,SO,RB/LB,#20,Montezuma,43.0,0.0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
@@ -92,6 +93,7 @@ Edde Gonzalez,2.3,SR,RB/LB,#1,West Central,23.0,0.0
 Talan Pletz,1.2,SO,RB/LB,#5,Janesville,12.0,0.0
 Braden Jordan,0.8,SO,QB/LB,#10,Springville,8.0,0.0
 Aiden Klostermann,12.1,SR,RB/S,#10,Central City,61.0,1.0
+Tate Foertsch,9.3,SO,QB/DB,#7,Bishop Garrigan,33.0,1.0
 Clayton Miller,1.6,JR,QB/CB,#4,WACO,16.0,0.0
 Garrison Motsinger,18.6,JR,RB/S,#4,Bedford,66.0,2.0
 Kendrick Mastin,2.0,SR,RB/LB,#9,Murray,20.0,0.0
@@ -108,7 +110,6 @@ Parker Hays,1.7,JR,RB/DB,#9,Coon Rapids-Bayard,17.0,0.0
 Eli Schmidt,12.6,SR,RB/S,#3,Clarksville,66.0,1.0
 James Buhlman,0.3,FR,RB/LB,#27,Easton Valley,3.0,0.0
 Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0
-Caden Roethler,0.0,SR,FB/LB,#20,Bishop Garrigan,0.0,0.0
 Austin Lack,2.0,SR,WR/DB,#3,East Union,20.0,0.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0
 Jackson Schulte,1.3,SR,RB/LB,#21,Kee,13.0,0.0
@@ -122,7 +123,6 @@ Isaac Clark,20.1,SR,QB/LB,#12,Gladbrook-Reinbeck,81.0,2.0
 Talan Driscoll,-0.2,FR,RB/LB,#8,Easton Valley,-2.0,0.0
 Sam Myer,11.0,JR,LB/RB,#33,St. Edmond,50.0,1.0
 Graham Godsey,4.0,JR,RB/LB,#35,Bedford,40.0,0.0
-Tate Foertsch,0.0,SO,QB/DB,#7,Bishop Garrigan,0.0,0.0
 Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0
 Wade Ragaller,4.9,JR,RB/LB,#28,Ar-We-Va,49.0,0.0
 Alex Hansen,8.3,JR,RB/LB,#22,Exira-EHK,23.0,1.0
@@ -143,6 +143,7 @@ Bryce Brabham,3.0,SO,RB/DB,#9,Exira-EHK,30.0,0.0
 Brady Koenck,17.1,JR,RB/LB,#26,Remsen St. Mary's,51.0,2.0
 Hayden Loftsgard,14.3,JR,WR/CB,#2,Tripoli,83.0,1.0
 Austin Williams,12.9,SR,RB/LB,#20,CAM,69.0,1.0
+Owen Murphy,4.4,JR,WR/S,#10,Bishop Garrigan,44.0,0.0
 Keagan Lee,1.1,SO,QB/DB,#17,Easton Valley,11.0,0.0
 Jayden Hanson,0.3,SR,QB/DB,#7,Central City,3.0,0.0
 Jacob Berens,0.1,SR,RB/LB,#34,Boyer Valley,1.0,0.0
@@ -164,7 +165,6 @@ Levi Reineke,0.0,SO,LB/RB,#29,Boyer Valley,0.0,0.0
 Ty Lindquist,29.4,JR,FB/LB,#18,Dunkerton,114.0,3.0
 Dylan Marquart,-2.0,JR,QB/DB,#3,Dunkerton,-20.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0
-Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0
 Jabari Woodbury,34.5,SR,,#2,GMG,105.0,4.0
 Matthew Klostermann,3.6,JR,RB/LB,#22,Central City,36.0,0.0
 Zane Johnson,5.0,JR,RB/LB,#7,Griswold,50.0,0.0
@@ -194,6 +194,7 @@ Treyton Franzen,0.0,FR,FB/LB,#21,Turkey Valley,0.0,0.0
 Wyatt Throckmorton,8.4,SR,WR/LB,#23,Moravia,24.0,1.0
 John McLaughlin,6.8,SR,WR/CB,#6,WACO,8.0,1.0
 Landon Gjerde,0.2,SO,RB/LB,#1,Colo-Nesco,2.0,0.0
+Isaac Delange,4.5,JR,WR/CB,#25,Bishop Garrigan,45.0,0.0
 Christopher Greif,0.0,SR,LB/FB,#44,Central City,0.0,0.0
 Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
 Justin Weispfenning,-0.4,JR,RB/DB,#3,Easton Valley,-4.0,0.0
@@ -301,6 +302,8 @@ Cruz DeJong,0.0,SR,TE/LB,#40,Montezuma,0.0,0.0
 Trenton Beard,7.1,SR,OL/LB,#34,Colo-Nesco,11.0,1.0
 Tayler Kibbee,0.0,SO,RB/LB,#11,Janesville,0.0,0.0
 Dakota Heishman,1.8,JR,WR/DB,#8,BGM,18.0,0.0
+Drew Muller,0.6,JR,QB/DE,#6,Bishop Garrigan,6.0,0.0
+Michael Joyce,1.4,FR,QB/S,#9,Bishop Garrigan,14.0,0.0
 Jonas Buchanan,0.0,SO,,#34,GMG,0.0,0.0
 Cash Emgarten,1.4,SR,WR/DB,#10,Exira-EHK,14.0,0.0
 Quintin White,0.0,SR,WR/DB,#3,Exira-EHK,0.0,0.0
@@ -319,7 +322,7 @@ Tucker Youngblut,0.1,SO,,#22,Don Bosco,1.0,0.0
 Carter Hassebroek,0.0,JR,WR/DB,#8,Iowa Valley,0.0,0.0
 Gabe Reeves,0.0,FR,RB/LB,#9,Janesville,0.0,0.0
 Ethan Bridgewater,0.0,SO,RB/LB,#35,BGM,0.0,0.0
-Isaac Delange,0.0,JR,WR/CB,#25,Bishop Garrigan,0.0,0.0
+Ethan Marso,6.9,SO,FB/LB,#11,Bishop Garrigan,9.0,1.0
 Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0
 Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison/Whiting,0.0,0.0
 Andreas Buttry,0.0,JR,QB/CB,#5,Sidney,0.0,0.0
@@ -348,6 +351,8 @@ Jarit Tapia,0.6,SR,RB/DB,#14,Winfield-Mt Union,6.0,0.0
 Kason Calhoun,0.0,FR,RB/DB,#32,CAM,0.0,0.0
 Ty Flathers,0.0,SR,RB/DB,#15,CAM,0.0,0.0
 Nathan Findlay,0.0,SO,RB/LB,#10,BGM,0.0,0.0
+Dalton Klenz,8.2,FR,RB/CB,#16,Bishop Garrigan,22.0,1.0
+Kyle Bormann,3.5,SO,RB/CB,#2,Bishop Garrigan,35.0,0.0
 Carter Waetzig,9.0,JR,OG/DT,#51,Lamoni,30.0,1.0
 Jordan Boehde,0.4,FR,RB/DB,#13,Easton Valley,4.0,0.0
 LaDarius Albright,0.0,JR,TE/LB,#9,Sidney,0.0,0.0
@@ -388,7 +393,8 @@ Spencer Munk,0.0,FR,RB/LB,#28,Woodbine,0.0,0.0
 Parker Opperman,0.0,JR,RB/DT,#26,Janesville,0.0,0.0
 Oliver Longerbeam,0.0,SO,QB/DB,#2,Springville,0.0,0.0
 Jace March,0.0,FR,RB/CB,#3,Springville,0.0,0.0
-Ethan Marso,0.0,SO,FB/LB,#11,Bishop Garrigan,0.0,0.0
+Brody Ludwig,8.5,SR,RB/CB,#22,Bishop Garrigan,25.0,1.0
+Matt Besch,1.8,FR,OG/LB,#44,Bishop Garrigan,18.0,0.0
 Kelan Stevenson,0.3,SO,TE/LB,#62,Lamoni,3.0,0.0
 Mason Ahrenstorff,0.0,SO,WR/S,#11,Harris-Lake Park,0.0,0.0
 Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0
@@ -510,7 +516,6 @@ Caden Cole,0.0,SR,TE,#20,Edgewood-Colesburg,0.0,0.0
 Jake Schilling,0.0,SR,OG,#72,Edgewood-Colesburg,0.0,0.0
 Andrew Lichter,0.0,JR,RB/LB,#15,Bishop Garrigan,0.0,0.0
 Carter McGregor,0.0,SO,RB/LB,#8,Bishop Garrigan,0.0,0.0
-Drew Muller,0.0,JR,QB/DE,#6,Bishop Garrigan,0.0,0.0
 Brock Binkley,0.0,FR,QB/DB,#8,Lamoni,0.0,0.0
 Creyton Ogier,0.0,SR,TE/DE,#5,Lamoni,0.0,0.0
 Trevor Kuster,0.1,JR,RB/LB,#20,Lamoni,1.0,0.0
