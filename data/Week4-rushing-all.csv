@@ -17,6 +17,7 @@ Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,497,9
 Adam Scott,SR,RB/LB,#26,West Central,461,2
 Evan Alt,SR,RB/LB,#4,Audubon,736,13
 Myles Grove,SR,QB/LB,#10,English Valleys,591,8
+Triton Gwinn,SR,RB/LB,#22,Mormon Trail,253,4
 Ethan Bockelman,SR,QB/DB,#22,Lone Tree,820,14
 Kooper Julseth,JR,WR/LB,#1,Northwood-Kensett,475,9
 Shane Helmick,SR,QB/DE,#12,Moravia,457,7
@@ -32,7 +33,6 @@ Braxton Blackburn,SR,,#10,Fremont-Mills,714,14
 Louden Huisenga,JR,RB/LB,#8,WACO,489,7
 Cooper Wierson,SO,QB/LB,#1,Collins-Maxwell,133,5
 Wyatt Oswald,JR,QB/LB,#10,Coon Rapids-Bayard,279,2
-Triton Gwinn,SR,RB/LB,#22,Mormon Trail,234,4
 Dalton Mudderman,JR,QB/LB,#5,Kee,407,10
 Nolan Gannon,FR,RB/LB,#34,Murray,426,8
 Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,372,5
@@ -65,6 +65,7 @@ Luke Cripps,SR,QB/S,#1,Boyer Valley,487,8
 Silas Walston,SR,RB/DE,#33,Bedford,458,11
 Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,370,6
 Isaac Murphy,SR,RB/S,#1,GTRA,279,7
+Degin Dixson,SR,QB/CB,#3,Mormon Trail,61,2
 Jamison Ewing,SO,WR/CB,#8,Southeast Warren,485,10
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,382,9
 Chase Spieker,JR,QB/DB,#5,CAM,451,12
@@ -91,7 +92,6 @@ Edde Gonzalez,SR,RB/LB,#1,West Central,187,5
 Talan Pletz,SO,RB/LB,#5,Janesville,241,2
 Braden Jordan,SO,QB/LB,#10,Springville,192,1
 Aiden Klostermann,SR,RB/S,#10,Central City,405,6
-Degin Dixson,SR,QB/CB,#3,Mormon Trail,75,2
 Clayton Miller,JR,QB/CB,#4,WACO,188,4
 Garrison Motsinger,JR,RB/S,#4,Bedford,399,8
 Kendrick Mastin,SR,RB/LB,#9,Murray,171,3
@@ -206,6 +206,7 @@ Marco Avila,JR,FB,#52,Riceville,95,1
 Kambridge Wainscott,SR,QB/DB,#15,Waterloo Christian,-17,0
 Adyson Stark,JR,RB/DB,#6,Belle Plaine,166,3
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,44,0
+Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,16,0
 Kaden Schmidt,FR,RB/LB,#18,Turkey Valley,92,2
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,112,1
 Brenden Wheeler,JR,RB/LB,#17,Southeast Warren,71,1
@@ -237,7 +238,6 @@ Brigham Porter,SO,SL/DB,#23,New London,60,1
 Rider Kupka,SO,,#21,GMG,96,1
 Elliott Ward,SR,RB/LB,#1,Sidney,66,1
 Lawson Kling,SR,,#7,Fremont-Mills,93,2
-Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,9,0
 Jackson Embree,JR,SL/LB,#33,East Mills,36,1
 Zach Thornburg,SR,QB/CB,#9,East Mills,100,3
 Lincoln Albertson,SO,RB/LB,#32,Moravia,34,1
@@ -265,6 +265,7 @@ Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,0
 Landyn Ankrum,SO,RB/LB,#36,HLV,-1,0
 Tanner Troendle,FR,RB/DB,#23,Kee,106,2
 Wyatt Leonard,SO,RB/LB,#21,Lenox,38,1
+Levi Evans,SO,TE/DE,#20,Mormon Trail,15,1
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,45,0
 Cade Tentinger,JR,RB/DB,#5,Remsen St. Mary's,27,0
 Gannon Short,JR,RB/DB,#11,Colo-Nesco,44,3
@@ -331,7 +332,6 @@ Cody Dorscher,JR,WR/CB,#24,Griswold,6,0
 Wyatt Silk,SO,WR/CB,#15,Griswold,7,0
 Cale Haley,SO,OG,#24,Stanton/Essex,33,0
 Caleb Coffelt,FR,WR/DB,#3,Collins-Maxwell,12,0
-Levi Evans,SO,TE/DE,#20,Mormon Trail,9,1
 Brody Koski,FR,QB/LB,#7,Boyer Valley,69,0
 Parker Reicks,SO,FB/LB,#42,Turkey Valley,25,0
 Isaac Loan,SO,QB/DB,#12,Central Elkader,20,0
