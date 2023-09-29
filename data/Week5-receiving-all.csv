@@ -60,9 +60,9 @@ Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,14,99,3
 Colton Leichty,SR,TE/LB,#23,WACO,14,149,1
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,14,130,2
 Seth Bixler,SR,WR/S,#1,Midland,13,130,1
+Brenden Connett,SR,RB/LB,#20,Twin Cedars,13,136,1
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,13,216,1
 Tate Martin,JR,RB/LB,#33,BGM,13,162,5
-Brenden Connett,SR,RB/LB,#20,Twin Cedars,12,127,1
 Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,12,111,1
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,12,153,1
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,12,67,2
@@ -73,6 +73,7 @@ Austin Christensen,SO,WR/LB,#81,Audubon,12,72,0
 James Buhlman,FR,RB/LB,#27,Easton Valley,12,188,2
 Kael Cress,JR,WR/S,#7,Midland,11,219,4
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,11,210,2
+Holden Roberts,SO,TE/DE,#13,Twin Cedars,11,141,0
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,11,110,0
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,11,201,6
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,11,129,3
@@ -96,7 +97,6 @@ Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,9,202,2
 Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,9,284,2
 Keyden Lown,JR,TE/DE,#84,English Valleys,9,117,5
 Dylan Linkenhoker,SR,,#21,Fremont-Mills,9,160,1
-Holden Roberts,SO,TE/DE,#13,Twin Cedars,9,110,0
 Cody Dorscher,JR,WR/CB,#24,Griswold,9,119,1
 Oliver Schmitt,SR,FB,#22,Turkey Valley,9,64,3
 Charlie Schaefer,SR,QB/S,#6,North Iowa,9,255,3
@@ -280,6 +280,8 @@ Carter Fehr,SR,TE/DL,#13,West Bend-Mallard,2,7,1
 Aidan Yoch,SR,TE/DB,#14,West Bend-Mallard,2,22,0
 Ben Coffman,JR,RB/LB,#9,English Valleys,2,1,0
 Dalton Kitzman,SR,RB/LB,#4,Lenox,2,51,1
+Nate Curry,SR,RB/LB,#38,Twin Cedars,2,11,0
+Dallas Smith,JR,QB/DB,#2,Twin Cedars,2,21,0
 Cole Green,FR,TE/DE,#34,Calamus-Wheatland,2,71,1
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,2,32,0
 Cooper Smith,FR,TE/LB,#16,Mormon Trail,2,6,0
@@ -335,9 +337,9 @@ Deshon Anderson,SO,RB/LB,#32,English Valleys,1,3,0
 Dawson Evans,SO,QB/DB,#1,Lenox,1,13,0
 Keegan Smith,SR,RB/LB,#3,Lenox,1,20,0
 Chase England,JR,TE/DL,#33,Lenox,1,2,0
-Nate Curry,SR,RB/LB,#38,Twin Cedars,1,3,0
+Gavin Clark,SO,RB/LB,#25,Twin Cedars,1,24,1
+Braxton Davis,JR,WR/DB,#9,Twin Cedars,1,2,0
 Blake Micetich,SR,RB/DB,#3,Twin Cedars,1,2,0
-Dallas Smith,JR,QB/DB,#2,Twin Cedars,1,5,0
 Wyatt Roberts,SO,TE/DB,#25,Stanton/Essex,1,26,0
 Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,1,23,1
 Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,1,3,0
