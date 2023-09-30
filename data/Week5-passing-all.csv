@@ -2,10 +2,10 @@ Name,Points,YP,Number,School,YDS,TDS,INT
 Beau Burns,142.56,SO  QB/DB,#2,BGM,1614,21,6
 Perrin Sulzle,120.0,JR  QB/LB,#7,Baxter,1375,17,3
 Keagan Lee,134.16,SO  QB/DB,#17,Easton Valley,1354,22,8
+Brodyn Pryor,144.72,SO  QB/DB,#8,Woodbine,1418,24,8
 Brady Boulton,132.56,SO  QB/DB,#1,Montezuma,1064,23,2
 Mason McIntosh,85.36,SR  QB/LB,#16,West Harrison/Whiting,1084,12,6
 Slate Witte,88.12,SR  #7 GMG,,,1128,12,5
-Brodyn Pryor,115.48,SO  QB/DB,#8,Woodbine,1187,19,8
 Cooper Wierson,47.52,SO  QB/LB,#1,Collins-Maxwell,888,6,12
 Blayne Smith,78.44,JR  QB/DB,#15,Ar-We-Va,911,12,6
 Dalton Mudderman,127.28,JR  QB/LB,#5,Kee,1232,21,6
@@ -20,6 +20,7 @@ Judah Bielenberg,37.16,JR  QB/LB,#10,Siouxland Christian,829,3,8
 Caleb Urban,45.28,JR  WR/CB,#3,East Mills,557,8,9
 Bode Wyman,41.4,JR  QB/CB,#8,Griswold,660,5,5
 Jake Edwards,104.88,JR  QB/S,#3,Winfield-Mt Union,972,17,2
+Christian Pierce,2.64,SO  QB/S,#4,Rockford,316,0,10
 Chase Spieker,84.72,JR  QB/DB,#5,CAM,793,14,3
 Anthony Harrington,49.6,SO  QB/LB,#2,Midland,540,8,4
 Wyatt Oswald,44.96,JR  QB/LB,#10,Coon Rapids-Bayard,549,7,5
@@ -44,11 +45,11 @@ Breckin Clatt,27.72,JR  QB/DB,#14,Colo-Nesco,293,5,4
 Gavin Menke-Bailey,42.2,JR  QB/LB,#5,New London,430,7,3
 Brody Koch,29.52,SO  RB/LB,#5,Calamus-Wheatland,363,4,1
 Jamison Ewing,28.16,SO  WR/CB,#8,Southeast Warren,279,5,3
+Landon Montag,29.52,SR  RB/LB,#24,West Bend-Mallard,438,4,4
 Gabe Funk,52.68,JR  QB/DB,#17,Lenox,492,9,3
 Owen Garside,18.8,JR  S/QB,#3,Boyer Valley,220,3,2
 Logan Busta,42.6,SO  QB/DB,#1,Turkey Valley,290,8,1
 Kaiden Knaack,19.68,SR  #10 Don Bosco,,,267,3,3
-Landon Montag,23.8,SR  RB/LB,#24,West Bend-Mallard,395,3,4
 Myles Grove,31.0,SR  QB/LB,#10,English Valleys,250,6,3
 Max Carlson,22.32,JR  QB/LB,#10,Newell-Fonda,258,4,4
 McKoy Nuss,17.36,SO  QB/LB,#13,Tripoli,234,3,4
@@ -60,7 +61,6 @@ Jayden Hanson,53.0,SR  QB/DB,#7,Central City,425,9,0
 Ty Alcott,33.32,JR  RB/DB,#24,Belle Plaine,308,6,3
 Colby Wallace,13.52,JR  QB/S,#11,Glidden-Ralston,238,2,4
 Reece Chiabotta,25.96,SO  QB/DB,#34,Melcher-Dallas,324,4,3
-Christian Pierce,-1.88,SO  QB/S,#4,Rockford,153,0,8
 Ambrose Savage,18.24,JR  QB/LB,#12,Lamoni,331,2,3
 Dane Appleby,25.88,JR  QB/LB,#4,Janesville,197,5,2
 Luke Brennan,18.04,SO  QB/DB,#6,Montezuma,151,3,0
@@ -109,6 +109,7 @@ Hudson Welton,0.16,FR  QB/DB,#11,Central City,4,0,0
 Matthew Klostermann,6.08,JR  RB/LB,#22,Central City,52,1,0
 Cooper McLaughlin,5.48,SO  QB/S,#8,Central City,37,1,0
 Dane Ballou,-0.72,FR  QB/LB,#17,Midland,7,0,1
+Carson Schnieder,5.2,SO  QB/DB,#12,West Bend-Mallard,30,1,0
 Trey Cota,-0.76,FR  QB/LB,#10,Kee,6,0,1
 Carter Smith,5.04,JR  C/DT,#70,Baxter,26,1,0
 Dawson Evans,0.08,SO  QB/DB,#1,Lenox,2,0,0
@@ -129,6 +130,7 @@ Kale Moore,1.08,FR  QB/DB,#14,Moravia,27,0,0
 Reece Oswald,-0.64,SR  RB/CB,#27,WACO,9,0,1
 Teagan Hanson,0.08,SO  QB/S,#10,GTRA,2,0,0
 Mark Bower,0.6,JR  RB/DB,#25,Colo-Nesco,15,0,0
+Cal Pryor,6.72,FR  QB/DB,#12,Woodbine,68,1,0
 Makade Paulsen,0.72,JR  QB/DB,#3,CAM,18,0,0
 Landon Lindgren,0.28,SO  RB/DB,#11,Lamoni,7,0,0
 Rider Kupka,1.64,SO  #21 GMG,,,41,0,0
