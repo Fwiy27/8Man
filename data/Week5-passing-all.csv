@@ -51,7 +51,9 @@ Landon Montag,29.52,SR  RB/LB,#24,West Bend-Mallard,438,4,4
 Owen Garside,18.8,JR  S/QB,#3,Boyer Valley,220,3,2
 Kaiden Knaack,19.68,SR  #10 Don Bosco,,,267,3,3
 Ethan Bockelman,41.48,SR  QB/DB,#22,Lone Tree,412,7,3
+Ambrose Savage,18.0,JR  QB/LB,#12,Lamoni,350,2,4
 Myles Grove,31.0,SR  QB/LB,#10,English Valleys,250,6,3
+Jed Tyler,9.6,SR  QB/DB,#7,West Central,265,1,5
 Max Carlson,22.32,JR  QB/LB,#10,Newell-Fonda,258,4,4
 McKoy Nuss,17.36,SO  QB/LB,#13,Tripoli,234,3,4
 Seth Hudson,23.36,SR  QB/S,#7,East Union,284,4,4
@@ -61,10 +63,8 @@ Jayden Hanson,53.0,SR  QB/DB,#7,Central City,425,9,0
 Ty Alcott,33.32,JR  RB/DB,#24,Belle Plaine,308,6,3
 Colby Wallace,13.52,JR  QB/S,#11,Glidden-Ralston,238,2,4
 Reece Chiabotta,25.96,SO  QB/DB,#34,Melcher-Dallas,324,4,3
-Ambrose Savage,18.24,JR  QB/LB,#12,Lamoni,331,2,3
 Dane Appleby,25.88,JR  QB/LB,#4,Janesville,197,5,2
 Luke Brennan,18.04,SO  QB/DB,#6,Montezuma,151,3,0
-Jed Tyler,7.44,SR  QB/DB,#7,West Central,211,1,5
 Bryer Jack,12.08,FR  QB/DB,#14,HLV,177,2,3
 Isaac Loan,6.16,SO  QB/DB,#12,Central Elkader,79,1,1
 Conner Nally,41.48,SR  QB/LB,#5,Bedford,287,8,2
@@ -123,6 +123,7 @@ Drew Eilers,0.2,JR  WR/DL,#2,Gladbrook-Reinbeck,5,0,0
 Brody Koski,0.64,FR  QB/LB,#7,Boyer Valley,16,0,0
 Jed Bielenberg,-0.4,SR  DE/WR,#15,Siouxland Christian,-10,0,0
 Jeremiah Lynam,-0.72,SR  DB/WR,#9,Siouxland Christian,7,0,1
+Brody Wolff,0.12,FR  QB/DB,#3,West Central,3,0,0
 Gavyn Thordarson,0.04,SO  RB/DE,#8,Melcher-Dallas,1,0,0
 Marshawn Taylor,1.44,SR  RB/CB,#12,Rockford,36,0,0
 Carter Anderson,-0.12,JR  QB/DB,#15,Northwood-Kensett,-3,0,0

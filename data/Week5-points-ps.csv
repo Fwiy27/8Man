@@ -2,7 +2,7 @@ Name,Points,Position,School
 Aaron Olsen,40.92,QB/S,Audubon
 Abram Edwards,11.5,TE/DE,Winfield-Mt Union
 Adam Bensley,0.0,SL/LB,Harris-Lake Park
-Adam Scott,0.0,RB/LB,West Central
+Adam Scott,3.1,RB/LB,West Central
 Adam Swaney,0.0,RB/LB,Bedford
 Aden Bice,0.0,WR/LB,Northwood-Kensett
 Adyson Stark,0.0,RB/DB,Belle Plaine
@@ -21,7 +21,7 @@ Alex Daniel,0.0,RB/LB,Glidden-Ralston
 Alex Hansen,0.0,RB/LB,Exira-EHK
 Alex Havaranek,0.0,QB/S,Rockford
 Alex Tiedemann,0.92,QB/DB,Northwood-Kensett
-Ambrose Savage,0.0,QB/LB,Lamoni
+Ambrose Savage,16.16,QB/LB,Lamoni
 Andreas Buttry,0.0,QB/CB,Sidney
 Andrew Beran,32.7,RB,Riceville
 Andrew Kolsrud,0.0,WR/CB,Kee
@@ -248,7 +248,7 @@ Dominic McClain,0.0,WR/DB,St. Edmond
 Domonic Garcia,0.0,WR/DB,Lone Tree
 Donald Bashor,11.4,RB/LB,Lenox
 Drake Axmear,0.0,WR/CB,English Valleys
-Drake Puls,0.0,WR/DB,West Central
+Drake Puls,1.7,WR/DB,West Central
 Drew Eilers,0.0,WR/DL,Gladbrook-Reinbeck
 Drew Fehr,0.1,RB/DB,West Bend-Mallard
 Drew Lappe,0.0,WR/CB,Bishop Garrigan
@@ -259,7 +259,7 @@ Drew Wagner,0.0,TE/DL,Waterloo Christian
 Dreyson Morgan,0.0,WR/DB,Gladbrook-Reinbeck
 Dylan Marquart,0.0,QB/DB,Dunkerton
 Easton Hudnut,0.0,WR/DB,Montezuma
-Edde Gonzalez,0.0,RB/LB,West Central
+Edde Gonzalez,2.4,RB/LB,West Central
 Edward Miller,3.2,TE/DE,Audubon
 Eli Hanson,0.2,RB/DB,West Bend-Mallard
 Eli Miller,12.5,RB/LB,Winfield-Mt Union
@@ -374,7 +374,7 @@ Jayden Hanson,13.66,QB/DB,Central City
 Jayden Robinson,1.3,WR/LB,Moravia
 Jayden Smith,0.0,OG/DE,HLV
 Jed Bielenberg,0.0,DE/WR,Siouxland Christian
-Jed Tyler,0.0,QB/DB,West Central
+Jed Tyler,8.16,QB/DB,West Central
 Jeffery Gerber,0.0,RB/LB,North Iowa
 Jeremiah Lynam,0.0,DB/WR,Siouxland Christian
 Jeremiah Marquette,0.0,RB/LB,Waterloo Christian
@@ -434,7 +434,7 @@ Keegan Chew,0.0,QB/S,Murray
 Keegan Smith,0.0,RB/LB,Lenox
 Keenan Foland,0.0,QB/S,West Harrison/Whiting
 Keeten Chenet,0.0,RB/LB,Twin Cedars
-Kelan Stevenson,0.0,TE/LB,Lamoni
+Kelan Stevenson,2.0,TE/LB,Lamoni
 Kellen Whitman,0.0,FB/LB,Calamus-Wheatland
 Kendrick Mastin,0.0,RB/LB,Murray
 Kenny Criswell,0.0,WR/DB,Montezuma
@@ -460,7 +460,7 @@ Landon Blum,33.6,WR/DB,Woodbine
 Landon Campbell,0.0,RB,Edgewood-Colesburg
 Landon Gibbs,0.0,RB/CB,East Mills
 Landon Gjerde,0.0,RB/LB,Colo-Nesco
-Landon Lindgren,0.0,RB/DB,Lamoni
+Landon Lindgren,3.9,RB/DB,Lamoni
 Landon Montag,39.22,RB/LB,West Bend-Mallard
 Landon Waldschmitt,0.0,QB/DB,Remsen St. Mary's
 Landon Wittrock,0.0,SL/LB,Harris-Lake Park
@@ -535,7 +535,7 @@ Micah Moores,20.9,RB/LB,Woodbine
 Michael Hensley,7.2,RB/LB,Sidney
 Michael Joyce,0.0,QB/S,Bishop Garrigan
 Michael Raines,0.0,TE/LB,New London
-Milton Cushion,0.0,RB/DB,West Central
+Milton Cushion,0.1,RB/DB,West Central
 Mitch Stevens,10.0,TE/LB,West Bend-Mallard
 Morgan Cooley,0.0,OL/DL,East Union
 Myles Grove,0.0,QB/LB,English Valleys
@@ -552,7 +552,7 @@ Noah Connelly,0.0,WR/DB,Kee
 Noah Fee,0.0,TE/DB,Twin Cedars
 Noah Fuelling,0.0,WR/DB,Dunkerton
 Nolan Birdsall,0.0,RB/LB,West Harrison/Whiting
-Nolan Cushion,0.0,TE/DE,West Central
+Nolan Cushion,3.1,TE/DE,West Central
 Nolan Gannon,0.0,RB/LB,Murray
 Nolan Grebin,0.0,QB/S,Stanton/Essex
 Nolan Kriegel,10.7,QB/DB,Iowa Valley
@@ -593,7 +593,7 @@ Riley Simmons,0.0,E/DE,Belle Plaine
 Robert Beardsley,12.1,WR/DB,Southeast Warren
 Robert Brasel,0.0,LB/RB,Boyer Valley
 Rocky Johnson,0.0,RB/DB,Melcher-Dallas
-Rogellio Gonzalez,0.0,FB/DB,West Central
+Rogellio Gonzalez,1.3,FB/DB,West Central
 Russell Nieman,0.0,OG,Turkey Valley
 Ryan Bower,8.3,WR/S,CAM
 Ryan Heaton,0.0,FB/DE,Melcher-Dallas
@@ -683,7 +683,7 @@ William Kok,1.4,WR/DB,Moravia
 Wyatt Christiansen,0.0,RB/LB,Midland
 Wyatt Kelley,0.0,RB/LB,East Union
 Wyatt Leonard,0.2,RB/LB,Lenox
-Wyatt Nelson,0.0,RB/DB,West Central
+Wyatt Nelson,5.6,RB/DB,West Central
 Wyatt Oswald,35.24,QB/LB,Coon Rapids-Bayard
 Wyatt Patton,0.0,OG/LB,Murray
 Wyatt Ragaller,0.0,RB/DB,Ar-We-Va
