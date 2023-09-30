@@ -1,5 +1,5 @@
 Name,Points,Position,School
-Aaron Olsen,0.0,QB/S,Audubon
+Aaron Olsen,40.92,QB/S,Audubon
 Abram Edwards,0.0,TE/DE,Winfield-Mt Union
 Adam Bensley,0.0,SL/LB,Harris-Lake Park
 Adam Scott,0.0,RB/LB,West Central
@@ -34,12 +34,12 @@ Asher Stutzman,0.0,RB/LB,English Valleys
 Ashton Nally,0.0,QB/CB,Bedford
 Auden Wilson,0.0,WR/CB,Griswold
 Austin Boege,0.0,RB/LB,Collins-Maxwell
-Austin Christensen,0.0,WR/LB,Audubon
+Austin Christensen,6.4,WR/LB,Audubon
 Austin Gehring,0.0,WR/DB,Gladbrook-Reinbeck
 Austin Lack,0.0,WR/DB,East Union
 Austin Schmidt,0.0,QB/DB,West Bend-Mallard
 Austin Vaverka,0.0,RB/LB,Gladbrook-Reinbeck
-Austin Williams,0.0,RB/LB,CAM
+Austin Williams,22.2,RB/LB,CAM
 Ayden Lamb,0.0,TE/LB,Murray
 Beau Burns,0.0,QB/DB,BGM
 Beckett Rhoads,0.0,WR/DB,BGM
@@ -74,7 +74,7 @@ Braxton Blackburn,0.0,,Fremont-Mills
 Braxton Bormann,0.0,RB/LB,Central Elkader
 Braxton Davis,1.2,WR/DB,Twin Cedars
 Braxton Kniep,0.0,WR/DE,Remsen St. Mary's
-Brayden Chester,0.0,RB/LB,CAM
+Brayden Chester,2.9,RB/LB,CAM
 Brayden Hepke,0.0,WR/DB,BGM
 Brayden Svejda,0.0,QB/CB,Calamus-Wheatland
 Brayden Utter,0.0,WR/LB,Gladbrook-Reinbeck
@@ -96,7 +96,7 @@ Brody Koch,0.0,RB/LB,Calamus-Wheatland
 Brody Koski,0.0,QB/LB,Boyer Valley
 Brody Ludwig,0.0,RB/CB,Bishop Garrigan
 Brody Magruder,0.0,TE/DL,Lone Tree
-Brody Paulsen,0.0,RB/DB,CAM
+Brody Paulsen,8.6,RB/DB,CAM
 Brodyn Pryor,0.0,QB/DB,Woodbine
 Brogan Ewing,0.0,WR/CB,Southeast Warren
 Brogyn Greensky,0.0,QB/LB,North Iowa
@@ -161,7 +161,7 @@ Charlie Schaefer,0.0,QB/S,North Iowa
 Chase England,0.0,TE/DL,Lenox
 Chase Forey,0.0,WR/LB,Janesville
 Chase Klatt,0.0,TE/CB,Calamus-Wheatland
-Chase Spieker,0.0,QB/DB,CAM
+Chase Spieker,28.24,QB/DB,CAM
 Chaz Cornelison,0.0,RB/DB,East Union
 Chris Hanson,0.0,FB/LB,Central City
 Christian Pierce,0.0,QB/S,Rockford
@@ -180,9 +180,9 @@ Cole Bethune,0.0,WR/S,West Harrison/Whiting
 Cole Fehr,0.0,RB/LB,West Bend-Mallard
 Cole Green,0.0,TE/DE,Calamus-Wheatland
 Cole Milks,0.0,RB/S,Winfield-Mt Union
-Colin Hartl,0.0,RB/LB,Audubon
+Colin Hartl,0.4,RB/LB,Audubon
 Colin Snyder,0.0,RB/LB,Dunkerton
-Collin Bower,0.0,TE/DB,CAM
+Collin Bower,21.4,TE/DB,CAM
 Collin Hoffman,0.0,QB/S,GTRA
 Collin Homan,0.0,OL/DL,Remsen St. Mary's
 Colton Cox,0.0,RB/DB,Melcher-Dallas
@@ -192,7 +192,7 @@ Conner Bowers,0.0,TE/CB,Griswold
 Conner Nally,0.0,QB/LB,Bedford
 Connor Rahn,0.0,,GMG
 Connor Snethen,0.0,WR/CB,Mormon Trail
-Cooper Petersen,0.0,DE/OG,Boyer Valley
+Cooper Petersen,0.1,DE/OG,Boyer Valley
 Cooper Smith,0.0,TE/LB,Mormon Trail
 Cooper Wierson,0.0,QB/LB,Collins-Maxwell
 Corbin Harris,0.0,WR/S,Rockford
@@ -253,7 +253,7 @@ Dreyson Morgan,0.0,WR/DB,Gladbrook-Reinbeck
 Dylan Marquart,0.0,QB/DB,Dunkerton
 Easton Hudnut,0.0,WR/DB,Montezuma
 Edde Gonzalez,0.0,RB/LB,West Central
-Edward Miller,0.0,TE/DE,Audubon
+Edward Miller,3.2,TE/DE,Audubon
 Eli Hanson,0.0,RB/DB,West Bend-Mallard
 Eli Miller,0.0,RB/LB,Winfield-Mt Union
 Eli Riedesel,0.0,OG/DE,Calamus-Wheatland
@@ -270,10 +270,10 @@ Ethan Bridgewater,0.0,RB/LB,BGM
 Ethan Marso,0.0,FB/LB,Bishop Garrigan
 Ethan Schaufenbuel,0.0,WR/CB,Tripoli
 Ethan Swisher,0.0,QB/DB,St. Edmond
-Evan Alt,0.0,RB/LB,Audubon
+Evan Alt,18.6,RB/LB,Audubon
 Evan Lorenzen,0.0,RB/DB,Northwood-Kensett
 Evan Ten Eyck,0.0,TE,Boyer Valley
-Ezekiel Konkler,0.0,WR/CB,Audubon
+Ezekiel Konkler,2.9,WR/CB,Audubon
 Fischer Buffington,0.0,RB/DE,East Union
 Gabe Funk,0.0,QB/DB,Lenox
 Gabe Johnson,0.0,QB/LB,Sidney
@@ -341,7 +341,7 @@ Jackson McDanel,0.0,RB/LB,Moravia
 Jackson Schulte,0.0,RB/LB,Kee
 Jackson Stansberry,0.0,WR/DB,Siouxland Christian
 Jacksyn Hogrefe,0.0,RB/DB,Newell-Fonda
-Jacob Berens,0.0,RB/LB,Boyer Valley
+Jacob Berens,17.4,RB/LB,Boyer Valley
 Jacob Martin,0.0,RB/LB,Stanton/Essex
 Jacob Morey,0.0,OL/DL,Tripoli
 Jacob Snyder,0.0,OL/DL,Dunkerton
@@ -415,8 +415,8 @@ Karter Thiessen,0.0,RB/DB,Iowa Valley
 Kase Coleman,0.0,TE/DL,Bedford
 Kasen Churchill,0.0,WR/CB,Bedford
 Kasey Hough,0.0,QB/S,GTRA
-Kason Calhoun,0.0,RB/DB,CAM
-Kayden Winther,0.0,RB/LB,CAM
+Kason Calhoun,0.4,RB/DB,CAM
+Kayden Winther,1.6,RB/LB,CAM
 Keagan Lee,0.0,QB/DB,Easton Valley
 Keaton Brammer,0.0,WR/CB,Murray
 Keaton Harpenau,0.0,SL/DB,Remsen St. Mary's
@@ -485,7 +485,7 @@ Lucas Dow,0.0,RB/LB,Rockford
 Lucas Frohwein,0.0,TE/DE,Colo-Nesco
 Lucas Madison,0.0,,Fremont-Mills
 Luke Brennan,0.0,QB/DB,Montezuma
-Luke Cripps,0.0,QB/S,Boyer Valley
+Luke Cripps,27.4,QB/S,Boyer Valley
 Luke Erselius,0.0,WR/DB,Montezuma
 Luke Lansing,0.0,RB/LB,Springville
 Luke Long,0.0,RB/DB,Moravia
@@ -493,7 +493,7 @@ Luke Rohling,0.0,FB/LB,Calamus-Wheatland
 MaKade Bloker,0.0,RB/LB,Clarksville
 Madden Miller,0.0,TE/DE,Bishop Garrigan
 Maddox Jondle,0.0,QB/LB,Lone Tree
-Makade Paulsen,0.0,QB/DB,CAM
+Makade Paulsen,6.7,QB/DB,CAM
 Marco Avila,0.0,FB,Riceville
 Mark Bower,0.0,RB/DB,Colo-Nesco
 Mark Lensch,0.0,TE/LB,Glidden-Ralston
@@ -548,7 +548,7 @@ Otto French,0.0,FB/LB,Dunkerton
 Owen Ary,0.0,TE/LB,Iowa Valley
 Owen Backer,0.0,RB/S,Clarksville
 Owen Bral,0.0,QB/LB,Iowa Valley
-Owen Garside,0.0,S/QB,Boyer Valley
+Owen Garside,43.42,S/QB,Boyer Valley
 Owen Hammersland,0.0,RB/LB,Central Elkader
 Owen Johnson,0.0,RB/DE,Griswold
 Owen Murphy,0.0,WR/S,Bishop Garrigan
@@ -580,10 +580,11 @@ Robert Brasel,0.0,LB/RB,Boyer Valley
 Rocky Johnson,0.0,RB/DB,Melcher-Dallas
 Rogellio Gonzalez,0.0,FB/DB,West Central
 Russell Nieman,0.0,OG,Turkey Valley
-Ryan Bower,0.0,WR/S,CAM
+Ryan Bower,8.3,WR/S,CAM
 Ryan Heaton,0.0,FB/DE,Melcher-Dallas
 Ryker Hoffman,0.0,WR/CB,Rockford
 Rylan Behrends,0.0,RB/LB,Sidney
+Rylan Oglesbee,2.8,OL/DL,CAM
 Sam DeMeulenaere,0.0,E/LB,Belle Plaine
 Sam Fettkether,0.0,OL/LB,Central Elkader
 Sam Hoodjer,0.0,WR/CB,Clarksville
@@ -642,7 +643,7 @@ Tucker Wright,0.0,RB/DB,BGM
 Tucker Youngblut,0.0,,Don Bosco
 Ty Alcott,0.0,RB/DB,Belle Plaine
 Ty Christensen,0.0,,Don Bosco
-Ty Flathers,0.0,RB/DB,CAM
+Ty Flathers,0.7,RB/DB,CAM
 Ty Lindquist,0.0,FB/LB,Dunkerton
 Ty Tauber,0.0,OT/LB,Newell-Fonda
 Tyler Ballard,0.0,TE/DE,HLV
