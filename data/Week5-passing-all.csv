@@ -2,29 +2,29 @@ Name,Points,YP,Number,School,YDS,TDS,INT
 Beau Burns,142.56,SO  QB/DB,#2,BGM,1614,21,6
 Perrin Sulzle,120.0,JR  QB/LB,#7,Baxter,1375,17,3
 Keagan Lee,134.16,SO  QB/DB,#17,Easton Valley,1354,22,8
+Brady Boulton,132.56,SO  QB/DB,#1,Montezuma,1064,23,2
 Mason McIntosh,85.36,SR  QB/LB,#16,West Harrison/Whiting,1084,12,6
 Slate Witte,88.12,SR  #7 GMG,,,1128,12,5
 Brodyn Pryor,115.48,SO  QB/DB,#8,Woodbine,1187,19,8
 Cooper Wierson,47.52,SO  QB/LB,#1,Collins-Maxwell,888,6,12
-Brady Boulton,115.2,SO  QB/DB,#1,Montezuma,930,20,2
 Blayne Smith,78.44,JR  QB/DB,#15,Ar-We-Va,911,12,6
+Dalton Mudderman,127.28,JR  QB/LB,#5,Kee,1232,21,6
 Grant Whitehead,105.84,JR  QB/DB,#15,Sidney,1146,16,4
 Shane Helmick,117.44,SR  QB/DE,#12,Moravia,1061,20,5
 Kasey Hough,87.48,JR  QB/S,#11,GTRA,1037,12,2
 JT Laufersweiler,117.76,SR  QB/DB,#11,St. Edmond,1319,18,7
 Kooper Julseth,40.96,JR  WR/LB,#1,Northwood-Kensett,549,6,5
-Dalton Mudderman,89.88,JR  QB/LB,#5,Kee,997,14,6
 Lucas Ahrenstorff,39.8,SR  QB/S,#1,Harris-Lake Park,570,6,7
 Caden Page,71.08,JR  QB/LB,#8,Murray,702,12,5
 Judah Bielenberg,37.16,JR  QB/LB,#10,Siouxland Christian,829,3,8
 Caleb Urban,45.28,JR  WR/CB,#3,East Mills,557,8,9
 Bode Wyman,41.4,JR  QB/CB,#8,Griswold,660,5,5
+Jake Edwards,104.88,JR  QB/S,#3,Winfield-Mt Union,972,17,2
 Chase Spieker,84.72,JR  QB/DB,#5,CAM,793,14,3
 Anthony Harrington,49.6,SO  QB/LB,#2,Midland,540,8,4
 Wyatt Oswald,44.96,JR  QB/LB,#10,Coon Rapids-Bayard,549,7,5
 Tate Foertsch,75.32,SO  QB/DB,#7,Bishop Garrigan,683,12,0
 Landon Waldschmitt,44.72,JR  QB/DB,#7,Remsen St. Mary's,493,7,3
-Jake Edwards,85.12,JR  QB/S,#3,Winfield-Mt Union,878,13,2
 Jack Adams,42.56,JR  QB,#7,Riceville,414,7,2
 Sawyer Forney,42.6,SO  #2 Fremont-Mills,,,515,7,6
 Clayton Miller,49.88,JR  QB/CB,#4,WACO,472,8,1
@@ -56,6 +56,7 @@ Seth Hudson,23.36,SR  QB/S,#7,East Union,284,4,4
 Zach Thornburg,21.08,SR  QB/CB,#9,East Mills,252,3,1
 Luke Cripps,29.56,SR  QB/S,#1,Boyer Valley,239,5,0
 Ethan Bockelman,35.76,SR  QB/DB,#22,Lone Tree,344,6,2
+Jayden Hanson,53.0,SR  QB/DB,#7,Central City,425,9,0
 Ty Alcott,33.32,JR  RB/DB,#24,Belle Plaine,308,6,3
 Colby Wallace,13.52,JR  QB/S,#11,Glidden-Ralston,238,2,4
 Reece Chiabotta,25.96,SO  QB/DB,#34,Melcher-Dallas,324,4,3
@@ -63,7 +64,6 @@ Christian Pierce,-1.88,SO  QB/S,#4,Rockford,153,0,8
 Ambrose Savage,18.24,JR  QB/LB,#12,Lamoni,331,2,3
 Dane Appleby,25.88,JR  QB/LB,#4,Janesville,197,5,2
 Luke Brennan,18.04,SO  QB/DB,#6,Montezuma,151,3,0
-Jayden Hanson,42.44,SR  QB/DB,#7,Central City,361,7,0
 Jed Tyler,7.44,SR  QB/DB,#7,West Central,211,1,5
 Bryer Jack,12.08,FR  QB/DB,#14,HLV,177,2,3
 Isaac Loan,6.16,SO  QB/DB,#12,Central Elkader,79,1,1
@@ -85,6 +85,7 @@ Keegan Chew,3.96,FR  QB/S,#7,Murray,99,0,0
 Dreyson Morgan,7.2,SO  WR/DB,#10,Gladbrook-Reinbeck,80,1,0
 Jack Angell,0.48,SO  QB/DB,#18,Colo-Nesco,12,0,0
 Nolan Birdsall,2.92,JR  RB/LB,#2,West Harrison/Whiting,98,0,1
+Tate Mount,4.64,SO  QB/DB,#2,Sidney,91,1,3
 Holden Roberts,3.8,SO  TE/DE,#13,Twin Cedars,45,1,2
 Eli Schmidt,8.96,SR  RB/S,#3,Clarksville,124,1,0
 Colby Eskildsen,1.0,JR  TE/DL,#12,Northwood-Kensett,25,0,0
@@ -104,7 +105,9 @@ Gunnar Smith,0.24,SO  QB,#6,Riceville,6,0,0
 Ethan Bridgewater,0.64,SO  RB/LB,#35,BGM,16,0,0
 Drew Muller,9.68,JR  QB/DE,#6,Bishop Garrigan,42,2,0
 Carson Wessel,-0.8,SO  QB/LB,#9,Audubon,5,0,1
+Hudson Welton,0.16,FR  QB/DB,#11,Central City,4,0,0
 Matthew Klostermann,6.08,JR  RB/LB,#22,Central City,52,1,0
+Cooper McLaughlin,5.48,SO  QB/S,#8,Central City,37,1,0
 Dane Ballou,-0.72,FR  QB/LB,#17,Midland,7,0,1
 Trey Cota,-0.76,FR  QB/LB,#10,Kee,6,0,1
 Carter Smith,5.04,JR  C/DT,#70,Baxter,26,1,0
@@ -130,3 +133,4 @@ Makade Paulsen,0.72,JR  QB/DB,#3,CAM,18,0,0
 Landon Lindgren,0.28,SO  RB/DB,#11,Lamoni,7,0,0
 Rider Kupka,1.64,SO  #21 GMG,,,41,0,0
 Jonas Buchanan,0.08,SO  #32 GMG,,,2,0,0
+Michael Hensley,0.84,JR  RB/LB,#6,Sidney,21,0,0
