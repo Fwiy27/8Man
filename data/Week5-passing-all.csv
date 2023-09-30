@@ -11,22 +11,23 @@ Blayne Smith,78.44,JR  QB/DB,#15,Ar-We-Va,911,12,6
 Dalton Mudderman,127.28,JR  QB/LB,#5,Kee,1232,21,6
 Shane Helmick,137.52,SR  QB/DE,#12,Moravia,1163,24,5
 Grant Whitehead,105.84,JR  QB/DB,#15,Sidney,1146,16,4
+Kooper Julseth,58.08,JR  WR/LB,#1,Northwood-Kensett,677,9,5
 Kasey Hough,87.48,JR  QB/S,#11,GTRA,1037,12,2
 JT Laufersweiler,117.76,SR  QB/DB,#11,St. Edmond,1319,18,7
-Kooper Julseth,40.96,JR  WR/LB,#1,Northwood-Kensett,549,6,5
 Lucas Ahrenstorff,39.8,SR  QB/S,#1,Harris-Lake Park,570,6,7
 Caden Page,71.08,JR  QB/LB,#8,Murray,702,12,5
 Judah Bielenberg,37.16,JR  QB/LB,#10,Siouxland Christian,829,3,8
 Caleb Urban,45.28,JR  WR/CB,#3,East Mills,557,8,9
+Wyatt Oswald,59.4,JR  QB/LB,#10,Coon Rapids-Bayard,635,10,6
 Bode Wyman,41.4,JR  QB/CB,#8,Griswold,660,5,5
-Jake Edwards,104.88,JR  QB/S,#3,Winfield-Mt Union,972,17,2
+Jake Edwards,104.92,JR  QB/S,#3,Winfield-Mt Union,973,17,2
 Christian Pierce,2.64,SO  QB/S,#4,Rockford,316,0,10
 Chase Spieker,84.72,JR  QB/DB,#5,CAM,793,14,3
 Anthony Harrington,49.6,SO  QB/LB,#2,Midland,540,8,4
-Wyatt Oswald,44.96,JR  QB/LB,#10,Coon Rapids-Bayard,549,7,5
+Jack Adams,48.8,JR  QB,#7,Riceville,470,8,2
 Tate Foertsch,75.32,SO  QB/DB,#7,Bishop Garrigan,683,12,0
 Landon Waldschmitt,44.72,JR  QB/DB,#7,Remsen St. Mary's,493,7,3
-Jack Adams,42.56,JR  QB,#7,Riceville,414,7,2
+Nolan Kriegel,59.84,FR  QB/DB,#2,Iowa Valley,696,9,4
 Sawyer Forney,42.6,SO  #2 Fremont-Mills,,,515,7,6
 Clayton Miller,49.88,JR  QB/CB,#4,WACO,472,8,1
 Degin Dixson,39.8,SR  QB/CB,#3,Mormon Trail,520,6,5
@@ -41,22 +42,21 @@ Jameson Kilworth,32.28,SR  QB/DB,#8,Exira-EHK,507,4,4
 Kale Doeppke,26.72,SR  WR/DB,#5,Central Elkader,343,4,3
 Drew Urbanek,18.04,FR  QB/CB,#10,Tripoli,276,3,5
 Dallas Smith,18.68,JR  QB/DB,#2,Twin Cedars,392,3,9
-Nolan Kriegel,52.84,FR  QB/DB,#2,Iowa Valley,596,8,3
+Brody Koch,30.72,SO  RB/LB,#5,Calamus-Wheatland,393,4,1
+Gabe Funk,64.64,JR  QB/DB,#17,Lenox,591,11,3
 Breckin Clatt,27.72,JR  QB/DB,#14,Colo-Nesco,293,5,4
 Gavin Menke-Bailey,42.2,JR  QB/LB,#5,New London,430,7,3
-Brody Koch,29.52,SO  RB/LB,#5,Calamus-Wheatland,363,4,1
+Logan Busta,54.88,SO  QB/DB,#1,Turkey Valley,397,10,1
 Landon Montag,29.52,SR  RB/LB,#24,West Bend-Mallard,438,4,4
-Gabe Funk,52.68,JR  QB/DB,#17,Lenox,492,9,3
 Owen Garside,18.8,JR  S/QB,#3,Boyer Valley,220,3,2
-Logan Busta,42.6,SO  QB/DB,#1,Turkey Valley,290,8,1
 Kaiden Knaack,19.68,SR  #10 Don Bosco,,,267,3,3
+Ethan Bockelman,41.48,SR  QB/DB,#22,Lone Tree,412,7,3
 Myles Grove,31.0,SR  QB/LB,#10,English Valleys,250,6,3
 Max Carlson,22.32,JR  QB/LB,#10,Newell-Fonda,258,4,4
 McKoy Nuss,17.36,SO  QB/LB,#13,Tripoli,234,3,4
 Seth Hudson,23.36,SR  QB/S,#7,East Union,284,4,4
 Zach Thornburg,21.08,SR  QB/CB,#9,East Mills,252,3,1
 Luke Cripps,29.56,SR  QB/S,#1,Boyer Valley,239,5,0
-Ethan Bockelman,35.76,SR  QB/DB,#22,Lone Tree,344,6,2
 Jayden Hanson,53.0,SR  QB/DB,#7,Central City,425,9,0
 Ty Alcott,33.32,JR  RB/DB,#24,Belle Plaine,308,6,3
 Colby Wallace,13.52,JR  QB/S,#11,Glidden-Ralston,238,2,4
@@ -83,26 +83,26 @@ Brayden Svejda,9.8,JR  QB/CB,#1,Calamus-Wheatland,95,2,2
 Aidan Timm,2.24,SO  QB/DB,#9,Belle Plaine,81,0,1
 Keegan Chew,3.96,FR  QB/S,#7,Murray,99,0,0
 Dreyson Morgan,7.2,SO  WR/DB,#10,Gladbrook-Reinbeck,80,1,0
+Alex Tiedemann,2.32,SO  QB/DB,#34,Northwood-Kensett,58,0,0
 Jack Angell,0.48,SO  QB/DB,#18,Colo-Nesco,12,0,0
 Nolan Birdsall,2.92,JR  RB/LB,#2,West Harrison/Whiting,98,0,1
 Tate Mount,4.64,SO  QB/DB,#2,Sidney,91,1,3
 Holden Roberts,3.8,SO  TE/DE,#13,Twin Cedars,45,1,2
 Eli Schmidt,8.96,SR  RB/S,#3,Clarksville,124,1,0
 Colby Eskildsen,1.0,JR  TE/DL,#12,Northwood-Kensett,25,0,0
+Oliver Schmitt,8.48,SR  FB,#22,Turkey Valley,112,1,0
 Cale Langreck,7.4,FR  QB/LB,#10,Turkey Valley,60,2,3
-Alex Tiedemann,1.8,SO  QB/DB,#34,Northwood-Kensett,45,0,0
+Gunnar Smith,0.36,SO  QB,#6,Riceville,9,0,0
 Brock Binkley,3.16,FR  QB/DB,#8,Lamoni,4,1,1
 Keenan Foland,0.0,FR  QB/S,#1,West Harrison/Whiting,25,0,1
 Logan French,0.48,SR  WR/DB,#1,Stanton/Essex,12,0,0
 Jacob Martin,1.52,JR  RB/LB,#3,Stanton/Essex,38,0,0
-Oliver Schmitt,2.32,SR  FB,#22,Turkey Valley,58,0,0
 MaKade Bloker,10.6,SR  RB/LB,#11,Clarksville,90,2,1
 Preston Kulper,0.48,SO  WR/DB,#81,Central Elkader,12,0,0
 Talan Jacobsen,0.44,FR  QB/LB,#10,North Iowa,11,0,0
 Leo Schrader,0.28,FR  QB/DB,#23,Melcher-Dallas,7,0,0
 Kale Moore,1.24,FR  QB/DB,#14,Moravia,31,0,0
 Hayden Shelman,0.4,FR  DB/RB,#15,WACO,10,0,0
-Gunnar Smith,0.24,SO  QB,#6,Riceville,6,0,0
 Ethan Bridgewater,0.64,SO  RB/LB,#35,BGM,16,0,0
 Drew Muller,9.68,JR  QB/DE,#6,Bishop Garrigan,42,2,0
 Carson Wessel,-0.8,SO  QB/LB,#9,Audubon,5,0,1
