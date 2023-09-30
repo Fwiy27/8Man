@@ -72,6 +72,8 @@ Brenden Connett,SR,RB/LB,#20,Twin Cedars,13,136,1
 Emmett Burke,SO,WR/DB,#10,Lone Tree,13,224,2
 Broox Stockman,SO,RB/LB,#20,Montezuma,13,119,2
 Aiden Klostermann,SR,RB/S,#10,Central City,12,227,5
+Cash Emgarten,SR,WR/DB,#10,Exira-EHK,12,182,2
+Alex Hansen,JR,RB/LB,#22,Exira-EHK,12,225,2
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,12,153,1
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,12,67,2
 Louden Huisenga,JR,RB/LB,#8,WACO,12,144,4
@@ -80,7 +82,6 @@ Harley Molina,SR,WR/LB,#24,Ar-We-Va,12,141,2
 Kelan Stevenson,SO,TE/LB,#62,Lamoni,12,159,1
 James Buhlman,FR,RB/LB,#27,Easton Valley,12,188,2
 Kael Cress,JR,WR/S,#7,Midland,11,219,4
-Alex Hansen,JR,RB/LB,#22,Exira-EHK,11,210,2
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,11,141,0
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,11,110,0
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,11,201,6
@@ -164,7 +165,6 @@ Austin Lack,SR,WR/DB,#3,East Union,6,110,1
 Wyatt Christiansen,SO,RB/LB,#10,Midland,6,37,0
 Tyler Ballard,SR,TE/DE,#22,HLV,6,112,0
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,6,46,0
-Cash Emgarten,SR,WR/DB,#10,Exira-EHK,6,79,0
 Nolan Gannon,FR,RB/LB,#34,Murray,6,97,2
 Cody Samson,SR,TE/LB,#36,Baxter,6,40,0
 Stadan Vansice,SO,WR/LB,#5,Baxter,6,75,0
@@ -223,6 +223,8 @@ Gavin Ford,JR,QB/LB,#12,Stanton/Essex,4,13,1
 Johnny Resh,SR,TE/DL,#20,Stanton/Essex,4,26,0
 Caleb Urban,JR,WR/CB,#3,East Mills,4,66,0
 Treyvon Herron,FR,WR/DB,#9,Gladbrook-Reinbeck,4,146,3
+Sam Hoodjer,JR,WR/CB,#80,Clarksville,4,137,2
+John Stauffer,JR,TE/LB,#82,Clarksville,4,73,1
 Logan Sharpe,JR,RB/LB,#28,Central Elkader,4,12,0
 Ledger Dalton,SO,WR/DB,#5,Dunkerton,4,50,2
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,4,69,1
@@ -257,7 +259,6 @@ Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,3,10,0
 Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,3,14,0
 Trey Rosenbeck,SR,TE/LB,#3,Coon Rapids-Bayard,3,42,0
 Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,3,33,0
-John Stauffer,JR,TE/LB,#82,Clarksville,3,63,1
 Preston Kulper,SO,WR/DB,#81,Central Elkader,3,25,0
 Maddox Jondle,JR,QB/LB,#11,Lone Tree,3,105,2
 Colin Snyder,SO,RB/LB,#24,Dunkerton,3,26,0
@@ -297,7 +298,6 @@ Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,2,32,0
 Cooper Smith,FR,TE/LB,#16,Mormon Trail,2,6,0
 Connor Snethen,FR,WR/CB,#10,Mormon Trail,2,11,0
 Kael Blohm,SO,WR/DB,#15,Gladbrook-Reinbeck,2,36,1
-Sam Hoodjer,JR,WR/CB,#80,Clarksville,2,101,1
 Sam Fettkether,SR,OL/LB,#47,Central Elkader,2,4,0
 Kyle Reinhart,JR,WR/DB,#40,Central Elkader,2,23,0
 Domonic Garcia,SO,WR/DB,#8,Lone Tree,2,28,1
@@ -367,6 +367,7 @@ Ben Lantz,SR,OG/DE,#85,Boyer Valley,1,8,0
 Cooper Petersen,JR,DE/OG,#33,Boyer Valley,1,1,0
 Wiatt Schulte,SO,DL/OL,#89,Boyer Valley,1,16,0
 Brody Koski,FR,QB/LB,#7,Boyer Valley,1,8,0
+MaKade Bloker,SR,RB/LB,#11,Clarksville,1,6,0
 Eli Schmidt,SR,RB/S,#3,Clarksville,1,50,1
 Kale Doeppke,SR,WR/DB,#5,Central Elkader,1,17,0
 Brody Magruder,JR,TE/DL,#26,Lone Tree,1,8,0

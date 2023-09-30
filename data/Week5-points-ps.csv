@@ -18,7 +18,7 @@ Aidyn Kling,0.0,,Fremont-Mills
 Aldo Esteban-Cabrera,0.0,RB/LB,Murray
 Alex Black,0.0,WR/DB,Montezuma
 Alex Daniel,0.0,RB/LB,Glidden-Ralston
-Alex Hansen,0.0,RB/LB,Exira-EHK
+Alex Hansen,2.7,RB/LB,Exira-EHK
 Alex Havaranek,0.0,QB/S,Rockford
 Alex Tiedemann,0.92,QB/DB,Northwood-Kensett
 Ambrose Savage,16.16,QB/LB,Lamoni
@@ -103,7 +103,7 @@ Brodyn Pryor,30.74,QB/DB,Woodbine
 Brogan Ewing,32.5,WR/CB,Southeast Warren
 Brogyn Greensky,0.0,QB/LB,North Iowa
 Broox Stockman,6.0,RB/LB,Montezuma
-Bryce Brabham,0.0,RB/DB,Exira-EHK
+Bryce Brabham,0.7,RB/DB,Exira-EHK
 Bryer Jack,0.0,QB/DB,HLV
 Burke Busta,17.3,FB,Turkey Valley
 CJ Smith,0.0,TE/DB,Melcher-Dallas
@@ -154,7 +154,7 @@ Carter Seitz,51.2,WR/DB,Kee
 Carter Sholtus,0.0,WR/CB,HLV
 Carter Smith,0.0,C/DT,Baxter
 Carter Waetzig,0.0,OG/DT,Lamoni
-Cash Emgarten,0.0,WR/DB,Exira-EHK
+Cash Emgarten,41.0,WR/DB,Exira-EHK
 Cash Weber,9.9,RB/DE,Central City
 Caybrin Schilling,0.0,QB/DB,Dunkerton
 Caysen Chodur,0.2,QB/LB,Northwood-Kensett
@@ -264,7 +264,7 @@ Edward Miller,3.2,TE/DE,Audubon
 Eli Hanson,0.2,RB/DB,West Bend-Mallard
 Eli Miller,12.5,RB/LB,Winfield-Mt Union
 Eli Riedesel,0.0,OG/DE,Calamus-Wheatland
-Eli Schmidt,0.0,RB/S,Clarksville
+Eli Schmidt,20.08,RB/S,Clarksville
 Eli Weimer,0.0,WR/DB,Waterloo Christian
 Elliott Ward,0.0,RB/LB,Sidney
 Emmett Burke,13.6,WR/DB,Lone Tree
@@ -361,7 +361,7 @@ Jake Schilling,0.0,OG,Edgewood-Colesburg
 Jakob Koopman,0.0,SL/LB,St. Edmond
 James Bell,0.0,WR/DB,Waterloo Christian
 James Buhlman,0.0,RB/LB,Easton Valley
-Jameson Kilworth,0.0,QB/DB,Exira-EHK
+Jameson Kilworth,30.12,QB/DB,Exira-EHK
 Jamison Ewing,46.3,WR/CB,Southeast Warren
 Jamison Martin,0.0,RB/DB,West Harrison/Whiting
 Jarit Tapia,-1.4,RB/DB,Winfield-Mt Union
@@ -385,7 +385,7 @@ Joe Freund,0.0,RB/LB,Woodbine
 Joe Koehler,0.0,FB/DE,Rockford
 John Deemer,0.0,RB/LB,Bedford
 John McLaughlin,0.0,WR/CB,WACO
-John Stauffer,0.0,TE/LB,Clarksville
+John Stauffer,2.0,TE/LB,Clarksville
 Johnathan Riesselman,0.0,WR/DB,Ar-We-Va
 Johnny Adams,0.0,WR,Riceville
 Johnny Cortez,0.0,RB/LB,Coon Rapids-Bayard
@@ -502,7 +502,7 @@ Luke Erselius,0.0,WR/DB,Montezuma
 Luke Lansing,0.0,RB/LB,Springville
 Luke Long,0.0,RB/DB,Moravia
 Luke Rohling,6.2,FB/LB,Calamus-Wheatland
-MaKade Bloker,0.0,RB/LB,Clarksville
+MaKade Bloker,39.1,RB/LB,Clarksville
 Madden Miller,0.0,TE/DE,Bishop Garrigan
 Maddox Jondle,34.7,QB/LB,Lone Tree
 Makade Paulsen,6.7,QB/DB,CAM
@@ -542,7 +542,7 @@ Myles Grove,0.0,QB/LB,English Valleys
 Nate Curry,2.2,RB/LB,Twin Cedars
 Nate Smith,0.0,RB/DB,Collins-Maxwell
 Nathan Findlay,0.0,RB/LB,BGM
-Nathan Moon,0.0,RB/LB,Clarksville
+Nathan Moon,16.6,RB/LB,Clarksville
 Nathaniel Rowe,0.0,WR/CB,Murray
 Nicholas Sparrow,-0.1,QB/DB,Winfield-Mt Union
 Nick Leerar,0.0,TE/DE,Bishop Garrigan
@@ -560,7 +560,7 @@ Oliver Longerbeam,0.0,QB/DB,Springville
 Oliver Schmitt,41.56,FB,Turkey Valley
 Otto French,0.0,FB/LB,Dunkerton
 Owen Ary,0.0,TE/LB,Iowa Valley
-Owen Backer,0.0,RB/S,Clarksville
+Owen Backer,23.7,RB/S,Clarksville
 Owen Bral,8.8,QB/LB,Iowa Valley
 Owen Garside,43.42,S/QB,Boyer Valley
 Owen Hammersland,0.0,RB/LB,Central Elkader
@@ -573,7 +573,7 @@ Parker Reicks,1.6,FB/LB,Turkey Valley
 Patrick Boyle,0.6,OG,Riceville
 Payton Malchow,5.5,WR/CB,Rockford
 Perrin Sulzle,0.0,QB/LB,Baxter
-Peter Kielman,0.0,TE/LB,Clarksville
+Peter Kielman,8.1,TE/LB,Clarksville
 Peyton Cook,0.0,QB/CB,Griswold
 Preston Kulper,0.0,WR/DB,Central Elkader
 Pryce Rochford,0.0,QB,Edgewood-Colesburg
@@ -603,7 +603,7 @@ Rylan Behrends,0.0,RB/LB,Sidney
 Rylan Oglesbee,2.8,OL/DL,CAM
 Sam DeMeulenaere,0.0,E/LB,Belle Plaine
 Sam Fettkether,0.0,OL/LB,Central Elkader
-Sam Hoodjer,0.0,WR/CB,Clarksville
+Sam Hoodjer,11.6,WR/CB,Clarksville
 Sam Myer,0.0,LB/RB,St. Edmond
 Sam Plathe,0.0,WR/CB,Bishop Garrigan
 Sam Schmillen,0.0,WR/LB,Remsen St. Mary's
