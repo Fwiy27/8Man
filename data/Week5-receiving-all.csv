@@ -24,6 +24,7 @@ Cainan Travis,JR,WR/LB,#20,Baxter,25,308,5
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,25,382,6
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,24,428,5
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,23,377,9
+Brogan Ewing,JR,WR/CB,#10,Southeast Warren,23,241,6
 Brayden Hepke,SR,WR/DB,#17,BGM,23,246,3
 Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,22,428,1
 Jackson McDanel,SR,RB/LB,#30,Moravia,21,409,7
@@ -49,7 +50,6 @@ Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,16,217,2
 Lane Oswalt,SR,WR/DB,#87,Collins-Maxwell,16,163,2
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,16,252,1
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,16,279,5
-Brogan Ewing,JR,WR/CB,#10,Southeast Warren,16,166,3
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,16,110,0
 Caleb Haack,JR,WR/DB,#7,Iowa Valley,16,359,4
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,16,156,2
@@ -110,6 +110,7 @@ Cody Dorscher,JR,WR/CB,#24,Griswold,9,119,1
 Oliver Schmitt,SR,FB,#22,Turkey Valley,9,64,3
 Charlie Schaefer,SR,QB/S,#6,North Iowa,9,255,3
 Luke Erselius,SO,WR/DB,#15,Montezuma,9,55,1
+Robert Beardsley,JR,WR/DB,#18,Southeast Warren,9,208,3
 Braden Simington,SR,S/WR,#2,GTRA,9,123,1
 Collin Homan,JR,OL/DL,#55,Remsen St. Mary's,9,149,3
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,9,192,3
@@ -172,7 +173,7 @@ Burke Busta,SR,FB,#9,Turkey Valley,6,80,1
 Caleb Kurtenbach,SR,QB,#5,Turkey Valley,6,99,3
 Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,6,55,1
 Carson Frerichs,SR,RB/LB,#28,North Iowa,6,75,0
-Robert Beardsley,JR,WR/DB,#18,Southeast Warren,6,117,3
+Trey Fisher,JR,RB/LB,#89,Southeast Warren,6,66,0
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,6,31,0
 Ian Smith,JR,TE/LB,#5,Iowa Valley,6,85,2
 Brodie Ludwig,JR,RB/LB,#21,Woodbine,6,35,0
@@ -203,7 +204,6 @@ Payton Malchow,JR,WR/CB,#28,Rockford,5,19,0
 Kolton Robinson,SO,RB/DB,#23,Northwood-Kensett,5,17,0
 Gage Samo,JR,WR/CB,#5,WACO,5,45,0
 Guyson Lyman,JR,TE/DE,#40,Newell-Fonda,5,59,0
-Trey Fisher,JR,RB/LB,#89,Southeast Warren,5,52,0
 Cal Peterman,JR,WR/LB,#15,Bedford,5,76,2
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,5,41,0
 Brody Paulsen,SR,RB/DB,#2,CAM,5,71,0
@@ -312,6 +312,7 @@ Blake Helmick,JR,OG/DE,#87,Moravia,2,13,1
 William Kok,SO,WR/DB,#22,Moravia,2,31,0
 Tyler Rogers,SO,LB/RB,#22,WACO,2,18,0
 Isaac Rich,JR,CB/WR,#10,WACO,2,58,1
+Jamison Ewing,SO,WR/CB,#8,Southeast Warren,2,63,1
 Brady Wurth,JR,LB/WR,#11,Remsen St. Mary's,2,4,0
 Sam Schmillen,JR,WR/LB,#10,Remsen St. Mary's,2,19,1
 Breckin Clatt,JR,QB/DB,#14,Colo-Nesco,2,4,0
@@ -387,7 +388,6 @@ Shane Helmick,SR,QB/DE,#12,Moravia,1,8,0
 Isaac Messamaker,JR,FB/LB,#25,Moravia,1,3,0
 Reece Oswald,SR,RB/CB,#27,WACO,1,31,1
 Niles Reichenbach,SO,RB/DB,#24,WACO,1,1,0
-Jamison Ewing,SO,WR/CB,#8,Southeast Warren,1,38,1
 Brenden Wheeler,JR,RB/LB,#17,Southeast Warren,1,10,0
 Ray Payberg,FR,WR/DB,#1,Southeast Warren,1,8,0
 Isaiah Malm,JR,S/WR,#24,GTRA,1,48,0

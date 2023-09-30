@@ -84,7 +84,7 @@ Breckin Clatt,0.0,QB/DB,Colo-Nesco
 Brekken Schlader,13.4,TE/LB,Rockford
 Brenden Connett,1.4,RB/LB,Twin Cedars
 Brenden Wagner,0.0,TE/LB,Woodbine
-Brenden Wheeler,0.0,RB/LB,Southeast Warren
+Brenden Wheeler,-0.3,RB/LB,Southeast Warren
 Brenner Sullivan,0.0,RB/LB,Woodbine
 Brett Plants,32.0,RB/LB,Montezuma
 Brigham Porter,0.0,SL/DB,New London
@@ -99,7 +99,7 @@ Brody Ludwig,0.0,RB/CB,Bishop Garrigan
 Brody Magruder,0.0,TE/DL,Lone Tree
 Brody Paulsen,8.6,RB/DB,CAM
 Brodyn Pryor,30.74,QB/DB,Woodbine
-Brogan Ewing,0.0,WR/CB,Southeast Warren
+Brogan Ewing,32.5,WR/CB,Southeast Warren
 Brogyn Greensky,0.0,QB/LB,North Iowa
 Broox Stockman,6.0,RB/LB,Montezuma
 Bryce Brabham,0.0,RB/DB,Exira-EHK
@@ -132,7 +132,7 @@ Caleb Urban,0.0,WR/CB,East Mills
 Callan Messerich,0.0,WR/DB,Easton Valley
 Cam Buffington,35.4,QB/LB,Winfield-Mt Union
 Camden Behrends,0.0,QB/LB,Clarksville
-Cameron Nicoletto,0.0,C/DT,Moravia
+Cameron Nicoletto,6.1,C/DT,Moravia
 Cannon Hansen,0.0,TE/DL,Exira-EHK
 Carson Frerichs,0.0,RB/LB,North Iowa
 Carson Hopkins,0.0,TE/LB,West Harrison/Whiting
@@ -322,7 +322,7 @@ Isaac Clark,-1.0,QB/LB,Gladbrook-Reinbeck
 Isaac Delange,0.0,WR/CB,Bishop Garrigan
 Isaac Hill,0.0,OL/DL,Springville
 Isaac Loan,0.0,QB/DB,Central Elkader
-Isaac Messamaker,0.0,FB/LB,Moravia
+Isaac Messamaker,1.6,FB/LB,Moravia
 Isaac Murphy,0.0,RB/S,GTRA
 Isaac Rich,0.0,CB/WR,WACO
 Isaiah Malm,0.0,S/WR,GTRA
@@ -358,7 +358,7 @@ Jakob Koopman,0.0,SL/LB,St. Edmond
 James Bell,0.0,WR/DB,Waterloo Christian
 James Buhlman,0.0,RB/LB,Easton Valley
 Jameson Kilworth,0.0,QB/DB,Exira-EHK
-Jamison Ewing,0.0,WR/CB,Southeast Warren
+Jamison Ewing,46.3,WR/CB,Southeast Warren
 Jamison Martin,0.0,RB/DB,West Harrison/Whiting
 Jarit Tapia,-1.4,RB/DB,Winfield-Mt Union
 Jarod Reams,11.6,RB/DB,Kee
@@ -367,6 +367,7 @@ Jaxon Larson,0.0,,Don Bosco
 Jaxson Schnell,0.0,LB/WR,GTRA
 Jayden Butler,0.0,TE/DE,Janesville
 Jayden Hanson,13.66,QB/DB,Central City
+Jayden Robinson,1.3,WR/LB,Moravia
 Jayden Smith,0.0,OG/DE,HLV
 Jed Bielenberg,0.0,DE/WR,Siouxland Christian
 Jed Tyler,0.0,QB/DB,West Central
@@ -374,7 +375,7 @@ Jeffery Gerber,0.0,RB/LB,North Iowa
 Jeremiah Lynam,0.0,DB/WR,Siouxland Christian
 Jeremiah Marquette,0.0,RB/LB,Waterloo Christian
 Jeremy Reineke,0.0,OL/LB,Belle Plaine
-Jesse Myhr,7.7,FB/DE,Moravia
+Jesse Myhr,7.8,FB/DE,Moravia
 Jiri Brodigan,0.0,WR/LB,East Mills
 Joe Freund,0.0,RB/LB,Woodbine
 Joe Koehler,0.0,FB/DE,Rockford
@@ -384,7 +385,7 @@ John Stauffer,0.0,TE/LB,Clarksville
 Johnathan Riesselman,0.0,WR/DB,Ar-We-Va
 Johnny Adams,0.0,WR,Riceville
 Johnny Cortez,0.0,RB/LB,Coon Rapids-Bayard
-Johnny Milburn,0.0,QB/DB,Southeast Warren
+Johnny Milburn,1.0,QB/DB,Southeast Warren
 Johnny Resh,0.0,TE/DL,Stanton/Essex
 Jonas Buchanan,0.0,,GMG
 Jonathan Ekpai,0.0,,Fremont-Mills
@@ -584,7 +585,7 @@ Rider Kupka,0.0,,GMG
 Riley Garrett,0.0,RB/DL,Dunkerton
 Riley Raines,0.0,RB/LB,New London
 Riley Simmons,0.0,E/DE,Belle Plaine
-Robert Beardsley,0.0,WR/DB,Southeast Warren
+Robert Beardsley,12.1,WR/DB,Southeast Warren
 Robert Brasel,0.0,LB/RB,Boyer Valley
 Rocky Johnson,0.0,RB/DB,Melcher-Dallas
 Rogellio Gonzalez,0.0,FB/DB,West Central
@@ -640,7 +641,7 @@ Trevor Kuster,0.0,RB/LB,Lamoni
 Trevor Tauber,0.0,QB/S,Newell-Fonda
 Trey Cota,0.0,QB/LB,Kee
 Trey Edeker,0.0,RB/DE,WACO
-Trey Fisher,0.0,RB/LB,Southeast Warren
+Trey Fisher,3.7,RB/LB,Southeast Warren
 Trey Rosenbeck,0.0,TE/LB,Coon Rapids-Bayard
 Treyton Franzen,0.0,FB/LB,Turkey Valley
 Treyton Travis,0.0,WR/CB,Baxter
@@ -679,7 +680,7 @@ Wyatt Patton,0.0,OG/LB,Murray
 Wyatt Ragaller,0.0,RB/DB,Ar-We-Va
 Wyatt Roberts,0.0,TE/DB,Stanton/Essex
 Wyatt Silk,0.0,WR/CB,Griswold
-Wyatt Throckmorton,19.5,WR/LB,Moravia
+Wyatt Throckmorton,21.6,WR/LB,Moravia
 Zach Goetzinger,0.0,RB/DB,Kee
 Zach Thornburg,0.0,QB/CB,East Mills
 Zane Johnson,0.0,RB/LB,Griswold

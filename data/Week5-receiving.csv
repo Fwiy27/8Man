@@ -24,6 +24,7 @@ Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0,0.0
 Cal Heydon,0.0,SO,QB/DB,#11,Coon Rapids-Bayard,0.0,0.0,0.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0,0.0
 Wyatt Throckmorton,19.5,SR,WR/LB,#23,Moravia,2.0,55.0,2.0
+Brogan Ewing,32.5,JR,WR/CB,#10,Southeast Warren,7.0,75.0,3.0
 Brayden Hepke,10.0,SR,WR/DB,#17,BGM,5.0,50.0,0.0
 Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0,0.0
 Jackson McDanel,11.0,SR,RB/LB,#30,Moravia,1.0,40.0,1.0
@@ -49,7 +50,6 @@ Chase Klatt,0.0,SO,TE/CB,#4,Calamus-Wheatland,0.0,0.0,0.0
 Lane Oswalt,28.8,SR,WR/DB,#87,Collins-Maxwell,8.0,88.0,2.0
 Reed Oswalt,6.6,SO,WR/DB,#24,Collins-Maxwell,3.0,36.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
-Brogan Ewing,0.0,JR,WR/CB,#10,Southeast Warren,0.0,0.0,0.0
 Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0,0.0
 Caleb Haack,0.0,JR,WR/DB,#7,Iowa Valley,0.0,0.0,0.0
 Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0,0.0
@@ -110,6 +110,7 @@ Cody Dorscher,0.0,JR,WR/CB,#24,Griswold,0.0,0.0,0.0
 Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0,0.0
 Luke Erselius,0.0,SO,WR/DB,#15,Montezuma,0.0,0.0,0.0
+Robert Beardsley,12.1,JR,WR/DB,#18,Southeast Warren,3.0,91.0,0.0
 Braden Simington,0.0,SR,S/WR,#2,GTRA,0.0,0.0,0.0
 Collin Homan,0.0,JR,OL/DL,#55,Remsen St. Mary's,0.0,0.0,0.0
 Carter Loyd,19.0,SR,RB/S,#2,Winfield-Mt Union,2.0,50.0,2.0
@@ -172,7 +173,7 @@ Burke Busta,0.0,SR,FB,#9,Turkey Valley,0.0,0.0,0.0
 Caleb Kurtenbach,0.0,SR,QB,#5,Turkey Valley,0.0,0.0,0.0
 Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0,0.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0,0.0
-Robert Beardsley,0.0,JR,WR/DB,#18,Southeast Warren,0.0,0.0,0.0
+Trey Fisher,2.4,JR,RB/LB,#89,Southeast Warren,1.0,14.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0,0.0
 Ian Smith,0.0,JR,TE/LB,#5,Iowa Valley,0.0,0.0,0.0
 Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0,0.0
@@ -203,7 +204,6 @@ Payton Malchow,5.5,JR,WR/CB,#28,Rockford,4.0,15.0,0.0
 Kolton Robinson,0.0,SO,RB/DB,#23,Northwood-Kensett,0.0,0.0,0.0
 Gage Samo,0.0,JR,WR/CB,#5,WACO,0.0,0.0,0.0
 Guyson Lyman,0.0,JR,TE/DE,#40,Newell-Fonda,0.0,0.0,0.0
-Trey Fisher,0.0,JR,RB/LB,#89,Southeast Warren,0.0,0.0,0.0
 Cal Peterman,0.0,JR,WR/LB,#15,Bedford,0.0,0.0,0.0
 Dawson Smith,0.0,SR,RB/LB,#20,Iowa Valley,0.0,0.0,0.0
 Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0,0.0
@@ -312,6 +312,7 @@ Blake Helmick,0.0,JR,OG/DE,#87,Moravia,0.0,0.0,0.0
 William Kok,1.4,SO,WR/DB,#22,Moravia,1.0,4.0,0.0
 Tyler Rogers,0.0,SO,LB/RB,#22,WACO,0.0,0.0,0.0
 Isaac Rich,0.0,JR,CB/WR,#10,WACO,0.0,0.0,0.0
+Jamison Ewing,3.5,SO,WR/CB,#8,Southeast Warren,1.0,25.0,0.0
 Brady Wurth,0.0,JR,LB/WR,#11,Remsen St. Mary's,0.0,0.0,0.0
 Sam Schmillen,0.0,JR,WR/LB,#10,Remsen St. Mary's,0.0,0.0,0.0
 Breckin Clatt,0.0,JR,QB/DB,#14,Colo-Nesco,0.0,0.0,0.0
@@ -387,7 +388,6 @@ Shane Helmick,0.0,SR,QB/DE,#12,Moravia,0.0,0.0,0.0
 Isaac Messamaker,0.0,JR,FB/LB,#25,Moravia,0.0,0.0,0.0
 Reece Oswald,0.0,SR,RB/CB,#27,WACO,0.0,0.0,0.0
 Niles Reichenbach,0.0,SO,RB/DB,#24,WACO,0.0,0.0,0.0
-Jamison Ewing,0.0,SO,WR/CB,#8,Southeast Warren,0.0,0.0,0.0
 Brenden Wheeler,0.0,JR,RB/LB,#17,Southeast Warren,0.0,0.0,0.0
 Ray Payberg,0.0,FR,WR/DB,#1,Southeast Warren,0.0,0.0,0.0
 Isaiah Malm,0.0,JR,S/WR,#24,GTRA,0.0,0.0,0.0
