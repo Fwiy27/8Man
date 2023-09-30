@@ -77,6 +77,7 @@ Ben Coffman,JR,RB/LB,#9,English Valleys,273,2
 Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,182,3
 Burke Busta,SR,FB,#9,Turkey Valley,314,4
 Caden Roethler,SR,FB/LB,#20,Bishop Garrigan,303,7
+Jackson McDanel,SR,RB/LB,#30,Moravia,309,4
 Kale Doeppke,SR,WR/DB,#5,Central Elkader,27,0
 Marshawn Taylor,SR,RB/CB,#12,Rockford,175,1
 Ty Christensen,SO,,#5,Don Bosco,465,6
@@ -85,7 +86,6 @@ Aiden Klostermann,SR,RB/S,#10,Central City,471,8
 Dalton Kitzman,SR,RB/LB,#4,Lenox,193,4
 Jordan Martin-England,JR,RB/LB,#18,Lenox,458,6
 Owen Backer,SO,RB/S,#22,Clarksville,767,14
-Jackson McDanel,SR,RB/LB,#30,Moravia,242,2
 Kasey Hough,JR,QB/S,#11,GTRA,267,7
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,257,3
 Nolan Grebin,SR,QB/S,#2,Stanton/Essex,135,2
@@ -204,6 +204,7 @@ Justin Weispfenning,JR,RB/DB,#3,Easton Valley,31,0
 Dane Ballou,FR,QB/LB,#17,Midland,111,1
 Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,80,2
 Rocky Johnson,FR,RB/DB,#15,Melcher-Dallas,26,0
+Lincoln Albertson,SO,RB/LB,#32,Moravia,163,2
 Jesse Myhr,JR,FB/DE,#8,Moravia,134,2
 Eli Miller,SR,RB/LB,#7,Winfield-Mt Union,169,3
 Marco Avila,JR,FB,#52,Riceville,95,1
@@ -245,7 +246,6 @@ Tanner Troendle,FR,RB/DB,#23,Kee,115,2
 Gavin Clark,SO,RB/LB,#25,Twin Cedars,40,0
 Jackson Embree,JR,SL/LB,#33,East Mills,36,1
 Zach Thornburg,SR,QB/CB,#9,East Mills,100,3
-Lincoln Albertson,SO,RB/LB,#32,Moravia,34,1
 Owen Bral,JR,QB/LB,#3,Iowa Valley,97,2
 Chance Hoyt,FR,RB/LB,#4,Iowa Valley,93,2
 Brayden Chester,JR,RB/LB,#34,CAM,63,2
@@ -311,6 +311,7 @@ Ethan Baxter,JR,RB/LB,#52,Griswold,64,1
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,54,0
 Cale Langreck,FR,QB/LB,#10,Turkey Valley,27,0
 Peter Kielman,JR,TE/LB,#21,Clarksville,15,0
+Blake Ewing,FR,FB/LB,#31,Moravia,17,0
 Trenton Beard,SR,OL/LB,#34,Colo-Nesco,18,2
 Jarit Tapia,SR,RB/DB,#14,Winfield-Mt Union,-4,0
 Spencer Munk,FR,RB/LB,#28,Woodbine,5,0
@@ -358,7 +359,6 @@ Hunter DeGard,FR,OG/DE,#24,Melcher-Dallas,8,0
 Leo Schrader,FR,QB/DB,#23,Melcher-Dallas,-4,0
 Kolton Robinson,SO,RB/DB,#23,Northwood-Kensett,10,0
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,21,1
-Blake Ewing,FR,FB/LB,#31,Moravia,10,0
 Lerik McCarty,JR,RB/LB,#2,WACO,-14,0
 Hayden Shelman,FR,DB/RB,#15,WACO,18,0
 Ashton Nally,SO,QB/CB,#1,Bedford,32,0
@@ -433,6 +433,7 @@ Carter Michalek,JR,WR/DB,#2,Montezuma,2,0
 Lars Taylor,JR,TE/LB,#43,Montezuma,17,0
 Dane Strong,FR,RB/LB,#33,Montezuma,52,1
 Luke Erselius,SO,WR/DB,#15,Montezuma,-1,1
+Matthew McDanel,SR,OG/DE,#44,Moravia,6,2
 Jacksyn Hogrefe,SO,RB/DB,#26,Newell-Fonda,1,0
 Caden Carruthers,JR,QB/DL,#20,Southeast Warren,7,0
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,4,0
@@ -506,7 +507,6 @@ Alex Black,SR,WR/DB,#30,Montezuma,0,0
 Ryker Hoffman,JR,WR/CB,#2,Rockford,1,0
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,3,0
 Landen Nelson,FR,WR/DB,#36,Northwood-Kensett,3,0
-Matthew McDanel,SR,OG/DE,#44,Moravia,5,1
 Cameron Nicoletto,SR,C/DT,#47,Moravia,20,1
 Kale Moore,FR,QB/DB,#14,Moravia,0,0
 Levi Halterman,JR,RB/LB,#11,Southeast Warren,4,0

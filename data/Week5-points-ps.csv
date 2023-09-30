@@ -53,7 +53,7 @@ Benjy Trainer,0.0,TE/LB,Bishop Garrigan
 Bennett Pfister,0.0,WR/DB,Siouxland Christian
 Bennett Steger,0.0,WR,Edgewood-Colesburg
 Biar Biar,0.0,OG/DL,Siouxland Christian
-Blake Ewing,0.0,FB/LB,Moravia
+Blake Ewing,0.7,FB/LB,Moravia
 Blake Helmick,0.0,OG/DE,Moravia
 Blake Micetich,-0.2,RB/DB,Twin Cedars
 Blayne Porter,0.0,QB/S,Janesville
@@ -342,7 +342,7 @@ Jack Hogan,0.0,,Don Bosco
 Jack Osborne,0.0,QB/DB,English Valleys
 Jack Scherf,0.0,WR/DB,Central Elkader
 Jackson Embree,0.0,SL/LB,East Mills
-Jackson McDanel,0.0,RB/LB,Moravia
+Jackson McDanel,29.7,RB/LB,Moravia
 Jackson Schulte,23.9,RB/LB,Kee
 Jackson Stansberry,0.0,WR/DB,Siouxland Christian
 Jacksyn Hogrefe,0.0,RB/DB,Newell-Fonda
@@ -374,7 +374,7 @@ Jeffery Gerber,0.0,RB/LB,North Iowa
 Jeremiah Lynam,0.0,DB/WR,Siouxland Christian
 Jeremiah Marquette,0.0,RB/LB,Waterloo Christian
 Jeremy Reineke,0.0,OL/LB,Belle Plaine
-Jesse Myhr,0.0,FB/DE,Moravia
+Jesse Myhr,7.7,FB/DE,Moravia
 Jiri Brodigan,0.0,WR/LB,East Mills
 Joe Freund,0.0,RB/LB,Woodbine
 Joe Koehler,0.0,FB/DE,Rockford
@@ -411,7 +411,7 @@ Kael Johnson,0.0,LB/OG,Winfield-Mt Union
 Kahl Shanahan,0.0,TE/LB,Springville
 Kaiden Knaack,0.0,,Don Bosco
 Kale Doeppke,0.0,WR/DB,Central Elkader
-Kale Moore,0.0,QB/DB,Moravia
+Kale Moore,0.16,QB/DB,Moravia
 Kaleb Drape,0.0,WR/LB,Kee
 Kaleb Gill,0.0,,GMG
 Kambridge Wainscott,0.0,QB/DB,Waterloo Christian
@@ -475,7 +475,7 @@ Levi Fitzgerald,0.0,WR/DB,Lenox
 Levi Halterman,0.0,RB/LB,Southeast Warren
 Levi Reineke,0.0,LB/RB,Boyer Valley
 Leydan Grimm,0.7,RB/LB,West Bend-Mallard
-Lincoln Albertson,0.0,RB/LB,Moravia
+Lincoln Albertson,18.9,RB/LB,Moravia
 Logan Boldt,0.0,WR/LB,Tripoli
 Logan Busta,0.0,QB/DB,Turkey Valley
 Logan Franklin,0.0,WR/DB,New London
@@ -517,7 +517,7 @@ Matt Cline,9.8,OL/DL,Woodbine
 Matt Ferguson,0.0,OL/DL,Boyer Valley
 Matt Sauer,0.0,TE/DE,Midland
 Matthew Klostermann,32.9,RB/LB,Central City
-Matthew McDanel,0.0,OG/DE,Moravia
+Matthew McDanel,6.1,OG/DE,Moravia
 Max Arthur,0.3,FB/LB,Central City
 Max Carlson,0.0,QB/LB,Newell-Fonda
 Max Edwards,8.0,TE/DB,Winfield-Mt Union
@@ -608,7 +608,7 @@ Seth Bell,0.0,QB/DB,Collins-Maxwell
 Seth Bixler,0.0,WR/S,Midland
 Seth Hudson,0.0,QB/S,East Union
 Seth McMurry,0.0,TE/LB,Murray
-Shane Helmick,0.0,QB/DE,Moravia
+Shane Helmick,20.08,QB/DE,Moravia
 Sheldon Vandenberg,0.0,OG/LB,East Mills
 Silas Walston,0.0,RB/DE,Bedford
 Simon Showalter,0.0,RB/LB,Stanton/Essex
@@ -669,7 +669,7 @@ Wesley Anderson,10.0,RB/LB,West Bend-Mallard
 Weston Toft,0.0,OL/DL,Ar-We-Va
 Wiatt Schulte,0.0,DL/OL,Boyer Valley
 Will Felper,0.0,SL,Riceville
-William Kok,0.0,WR/DB,Moravia
+William Kok,1.4,WR/DB,Moravia
 Wyatt Christiansen,0.0,RB/LB,Midland
 Wyatt Kelley,0.0,RB/LB,East Union
 Wyatt Leonard,0.0,RB/LB,Lenox
@@ -679,7 +679,7 @@ Wyatt Patton,0.0,OG/LB,Murray
 Wyatt Ragaller,0.0,RB/DB,Ar-We-Va
 Wyatt Roberts,0.0,TE/DB,Stanton/Essex
 Wyatt Silk,0.0,WR/CB,Griswold
-Wyatt Throckmorton,0.0,WR/LB,Moravia
+Wyatt Throckmorton,19.5,WR/LB,Moravia
 Zach Goetzinger,0.0,RB/DB,Kee
 Zach Thornburg,0.0,QB/CB,East Mills
 Zane Johnson,0.0,RB/LB,Griswold

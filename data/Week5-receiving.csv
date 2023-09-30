@@ -23,13 +23,13 @@ Aiden Eickert ,0.0,SO,WR/LB,#7,Easton Valley,0.0,0.0,0.0
 Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0,0.0
 Cal Heydon,0.0,SO,QB/DB,#11,Coon Rapids-Bayard,0.0,0.0,0.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0,0.0
+Wyatt Throckmorton,19.5,SR,WR/LB,#23,Moravia,2.0,55.0,2.0
 Brayden Hepke,10.0,SR,WR/DB,#17,BGM,5.0,50.0,0.0
 Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0,0.0
-Wyatt Throckmorton,0.0,SR,WR/LB,#23,Moravia,0.0,0.0,0.0
+Jackson McDanel,11.0,SR,RB/LB,#30,Moravia,1.0,40.0,1.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0,0.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
 Cruz DeJong,12.0,SR,TE/LB,#40,Montezuma,3.0,30.0,1.0
-Jackson McDanel,0.0,SR,RB/LB,#30,Moravia,0.0,0.0,0.0
 Collin Bower,21.4,SO,TE/DB,#25,CAM,4.0,54.0,2.0
 Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Lucas Frohwein,0.0,SR,TE/DE,#9,Colo-Nesco,0.0,0.0,0.0
@@ -230,6 +230,7 @@ Mark Lensch,0.0,SR,TE/LB,#33,Glidden-Ralston,0.0,0.0,0.0
 Ryker Hoffman,0.0,JR,WR/CB,#2,Rockford,0.0,0.0,0.0
 Carter Anderson,0.0,JR,QB/DB,#15,Northwood-Kensett,0.0,0.0,0.0
 Landen Nelson,0.0,FR,WR/DB,#36,Northwood-Kensett,0.0,0.0,0.0
+Jesse Myhr,7.7,JR,FB/DE,#8,Moravia,1.0,7.0,1.0
 Hunter Hughes,0.0,SR,CB/WR,#3,WACO,0.0,0.0,0.0
 Jacksyn Hogrefe,0.0,SO,RB/DB,#26,Newell-Fonda,0.0,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0,0.0
@@ -262,7 +263,6 @@ Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0,0.0
 Braydon Draeger,0.0,SR,TE/LB,#88,Melcher-Dallas,0.0,0.0,0.0
 Carter Michalek,0.0,JR,WR/DB,#2,Montezuma,0.0,0.0,0.0
 Dane Strong,0.0,FR,RB/LB,#33,Montezuma,0.0,0.0,0.0
-Jesse Myhr,0.0,JR,FB/DE,#8,Moravia,0.0,0.0,0.0
 Lucas Dirkx,0.0,SO,TE/DE,#40,Southeast Warren,0.0,0.0,0.0
 Lucas Daggett,0.0,JR,TE/LB,#35,Colo-Nesco,0.0,0.0,0.0
 Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0,0.0
@@ -309,6 +309,7 @@ Easton Hudnut,0.0,FR,WR/DB,#3,Montezuma,0.0,0.0,0.0
 Aden Bice,0.0,JR,WR/LB,#7,Northwood-Kensett,0.0,0.0,0.0
 Ben Yezek,0.0,SR,WR/DB,#21,Northwood-Kensett,0.0,0.0,0.0
 Blake Helmick,0.0,JR,OG/DE,#87,Moravia,0.0,0.0,0.0
+William Kok,1.4,SO,WR/DB,#22,Moravia,1.0,4.0,0.0
 Tyler Rogers,0.0,SO,LB/RB,#22,WACO,0.0,0.0,0.0
 Isaac Rich,0.0,JR,CB/WR,#10,WACO,0.0,0.0,0.0
 Brady Wurth,0.0,JR,LB/WR,#11,Remsen St. Mary's,0.0,0.0,0.0
@@ -383,7 +384,6 @@ Alex Havaranek,0.0,FR,QB/S,#10,Rockford,0.0,0.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0,0.0
 Corbin Harris,0.0,JR,WR/S,#23,Rockford,0.0,0.0,0.0
 Shane Helmick,0.0,SR,QB/DE,#12,Moravia,0.0,0.0,0.0
-William Kok,0.0,SO,WR/DB,#22,Moravia,0.0,0.0,0.0
 Isaac Messamaker,0.0,JR,FB/LB,#25,Moravia,0.0,0.0,0.0
 Reece Oswald,0.0,SR,RB/CB,#27,WACO,0.0,0.0,0.0
 Niles Reichenbach,0.0,SO,RB/DB,#24,WACO,0.0,0.0,0.0
