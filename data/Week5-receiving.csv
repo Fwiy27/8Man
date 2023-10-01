@@ -1,6 +1,6 @@
 Name,Points,Year,Position,Number,School,REC,YDS,TDS
 Treyton Travis,51.8,SR,WR/CB,#24,Baxter,8.0,198.0,4.0
-Kace Patton,0.0,SR,WR/CB,#10,Murray,0.0,0.0,0.0
+Kace Patton,1.2,SR,WR/CB,#10,Murray,1.0,2.0,0.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison/Whiting,0.0,0.0,0.0
 Devin Meyer,15.3,SR,TE/LB,#15,Harris-Lake Park,8.0,73.0,0.0
 Landon Blum,33.6,FR,WR/DB,#5,Woodbine,7.0,146.0,2.0
@@ -169,6 +169,7 @@ Aiden Stenzel,0.0,SO,RB/DB,#20,Sidney,0.0,0.0,0.0
 Tyler Ballard,0.0,SR,TE/DE,#22,HLV,0.0,0.0,0.0
 Logan Grimm,1.3,SR,RB/LB,#34,West Bend-Mallard,1.0,3.0,0.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0,0.0
+Ayden Lamb,1.1,FR,TE/LB,#18,Murray,1.0,1.0,0.0
 Stadan Vansice,0.0,SO,WR/LB,#5,Baxter,0.0,0.0,0.0
 Jordan Martin-England,11.2,JR,RB/LB,#18,Lenox,1.0,42.0,1.0
 Judson Beary,9.0,JR,RB/LB,#6,Twin Cedars,2.0,70.0,0.0
@@ -191,7 +192,6 @@ Carter Sholtus,0.0,SR,WR/CB,#2,HLV,0.0,0.0,0.0
 Cannon Hansen,0.0,JR,TE/DL,#33,Exira-EHK,0.0,0.0,0.0
 Kaleb Drape,0.0,SR,WR/LB,#6,Kee,0.0,0.0,0.0
 Andrew Kolsrud,0.0,SR,WR/CB,#16,Kee,0.0,0.0,0.0
-Ayden Lamb,0.0,FR,TE/LB,#18,Murray,0.0,0.0,0.0
 Coen Good,0.0,SR,WR/CB,#2,English Valleys,0.0,0.0,0.0
 Nate Curry,7.3,SR,RB/LB,#38,Twin Cedars,4.0,33.0,0.0
 Brock Micetich,18.7,FR,RB/LB,#36,Twin Cedars,5.0,77.0,1.0
@@ -223,6 +223,7 @@ Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0,0.0
 Riley Simmons,0.0,SR,E/DE,#85,Belle Plaine,0.0,0.0,0.0
 Cole Fehr,2.0,JR,RB/LB,#33,West Bend-Mallard,1.0,10.0,0.0
 Quintin White,0.0,SR,WR/DB,#3,Exira-EHK,0.0,0.0,0.0
+Kendrick Mastin,5.4,SR,RB/LB,#9,Murray,1.0,44.0,0.0
 Gavin Ford,0.0,JR,QB/LB,#12,Stanton/Essex,0.0,0.0,0.0
 Johnny Resh,0.0,SR,TE/DL,#20,Stanton/Essex,0.0,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0,0.0
@@ -254,7 +255,6 @@ Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0,0.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0,0.0
 Eric Wilson,0.0,SR,WR/DB,#15,Exira-EHK,0.0,0.0,0.0
 Tanner Troendle,0.0,FR,RB/DB,#23,Kee,0.0,0.0,0.0
-Kendrick Mastin,0.0,SR,RB/LB,#9,Murray,0.0,0.0,0.0
 Drake Axmear,0.0,JR,WR/CB,#4,English Valleys,0.0,0.0,0.0
 Holden Jensen,0.0,JR,WR/CB,#33,Griswold,0.0,0.0,0.0
 Wyatt Silk,0.0,SO,WR/CB,#15,Griswold,0.0,0.0,0.0
@@ -293,6 +293,7 @@ Matthew Klostermann,0.0,JR,RB/LB,#22,Central City,0.0,0.0,0.0
 Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0,0.0
 Carter Fehr,0.0,SR,TE/DL,#13,West Bend-Mallard,0.0,0.0,0.0
 Aidan Yoch,0.0,SR,TE/DB,#14,West Bend-Mallard,0.0,0.0,0.0
+Nathaniel Rowe,4.2,JR,WR/CB,#11,Murray,2.0,22.0,0.0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0,0.0
 Dalton Kitzman,0.0,SR,RB/LB,#4,Lenox,0.0,0.0,0.0
 Dallas Smith,2.6,JR,QB/DB,#2,Twin Cedars,1.0,16.0,0.0
@@ -342,6 +343,7 @@ Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0,0.0
 Jayden Smith,0.0,JR,OG/DE,#25,HLV,0.0,0.0,0.0
 Wesley Anderson,10.0,JR,RB/LB,#21,West Bend-Mallard,1.0,30.0,1.0
 Karsen Strong,0.0,JR,OL/DL,#77,Kee,0.0,0.0,0.0
+Keaton Brammer,1.9,FR,WR/CB,#14,Murray,1.0,9.0,0.0
 Keegan Chew,0.0,FR,QB/S,#7,Murray,0.0,0.0,0.0
 Wyatt Patton,0.0,FR,OG/LB,#40,Murray,0.0,0.0,0.0
 Seth McMurry,0.0,SO,TE/LB,#12,Murray,0.0,0.0,0.0
