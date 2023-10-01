@@ -2,6 +2,7 @@ Name,Points,Year,Position,Number,School,REC,YDS,TDS
 Treyton Travis,51.8,SR,WR/CB,#24,Baxter,8.0,198.0,4.0
 Kace Patton,1.2,SR,WR/CB,#10,Murray,1.0,2.0,0.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison/Whiting,0.0,0.0,0.0
+Wyatt Ragaller,7.0,SO,RB/DB,#8,Ar-We-Va,4.0,30.0,0.0
 Devin Meyer,15.3,SR,TE/LB,#15,Harris-Lake Park,8.0,73.0,0.0
 Landon Blum,33.6,FR,WR/DB,#5,Woodbine,7.0,146.0,2.0
 Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0,0.0
@@ -9,7 +10,6 @@ Grant Galles,30.1,SO,WR/DB,#6,St. Edmond,6.0,121.0,2.0
 Dominic Coleman,24.2,SR,WR/DE,#23,BGM,5.0,72.0,2.0
 Callan Messerich,17.6,SO,WR/DB,#6,Easton Valley,5.0,126.0,0.0
 Cade Robinson,10.0,JR,WR/CB,#12,Baxter,5.0,50.0,0.0
-Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0,0.0
 Josef Dvorak,15.0,JR,RB/DB,#25,Collins-Maxwell,8.0,70.0,0.0
 Jackson Embree,0.0,JR,SL/LB,#33,East Mills,0.0,0.0,0.0
 Jamison Martin,0.0,JR,RB/DB,#11,West Harrison/Whiting,0.0,0.0,0.0
@@ -28,6 +28,7 @@ Dalton Weepie,10.4,JR,TE/LB,#33,Dunkerton,5.0,54.0,0.0
 Caleb Hemphill,11.2,SR,RB/LB,#3,Harris-Lake Park,3.0,22.0,1.0
 Wyatt Throckmorton,19.5,SR,WR/LB,#23,Moravia,2.0,55.0,2.0
 Brogan Ewing,32.5,JR,WR/CB,#10,Southeast Warren,7.0,75.0,3.0
+Wade Ragaller,8.3,JR,RB/LB,#28,Ar-We-Va,7.0,13.0,0.0
 Brayden Hepke,10.0,SR,WR/DB,#17,BGM,5.0,50.0,0.0
 Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0,0.0
 Jaxson Schnell,23.6,SO,LB/WR,#4,GTRA,4.0,76.0,2.0
@@ -56,19 +57,20 @@ Reed Oswalt,6.6,SO,WR/DB,#24,Collins-Maxwell,3.0,36.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
 Colby Eskildsen,19.4,JR,TE/DL,#12,Northwood-Kensett,2.0,54.0,2.0
 Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0,0.0
-Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0,0.0
 Kaden Kobliska,9.4,SR,WR,#8,Riceville,1.0,24.0,1.0
 Kolt Payne,0.0,JR,SL/CB,#24,Sidney,0.0,0.0,0.0
 Matt Sauer,1.0,SR,TE/DE,#82,Midland,1.0,0.0,0.0
 Cael Weisskopf,24.2,FR,RB/LB,#5,HLV,7.0,52.0,2.0
 Kolby Culbertson,7.0,SR,TE/DB,#2,Coon Rapids-Bayard,3.0,40.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
+Devon Ehlers,7.4,SO,TE/LB,#88,Ar-We-Va,5.0,24.0,0.0
 Dylan Linkenhoker,16.7,SR,,#21,Fremont-Mills,5.0,57.0,1.0
 Brenden Connett,3.8,SR,RB/LB,#20,Twin Cedars,2.0,18.0,0.0
 Conner Bowers,0.0,JR,TE/CB,#21,Griswold,0.0,0.0,0.0
 Luke Cripps,14.9,SR,QB/S,#1,Boyer Valley,4.0,49.0,1.0
 Jeremiah Lynam,0.0,SR,DB/WR,#9,Siouxland Christian,0.0,0.0,0.0
 Colton Leichty,0.0,SR,TE/LB,#23,WACO,0.0,0.0,0.0
+Harley Molina,3.1,SR,WR/LB,#24,Ar-We-Va,2.0,11.0,0.0
 Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
 Austin Christensen,6.4,SO,WR/LB,#81,Audubon,2.0,44.0,0.0
 Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0,0.0
@@ -81,7 +83,6 @@ Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
 Alex Tiedemann,0.0,SO,QB/DB,#34,Northwood-Kensett,0.0,0.0,0.0
 Louden Huisenga,0.0,JR,RB/LB,#8,WACO,0.0,0.0,0.0
 Brenner Sullivan,0.0,SO,RB/LB,#22,Woodbine,0.0,0.0,0.0
-Harley Molina,0.0,SR,WR/LB,#24,Ar-We-Va,0.0,0.0,0.0
 Leo Ehn,13.1,SR,TE/LB,#80,St. Edmond,2.0,51.0,1.0
 Kelan Stevenson,2.0,SO,TE/LB,#62,Lamoni,1.0,10.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0,0.0
@@ -104,7 +105,6 @@ Nolan Cushion,3.1,SR,TE/DE,#22,West Central,2.0,11.0,0.0
 Anthony Eisele,0.0,SR,OL/DL,#55,North Iowa,0.0,0.0,0.0
 Abram Edwards,11.5,SR,TE/DE,#84,Winfield-Mt Union,2.0,35.0,1.0
 Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0,0.0
-Devon Ehlers,0.0,SO,TE/LB,#88,Ar-We-Va,0.0,0.0,0.0
 Andrew Beran,3.0,JR,RB,#2,Riceville,1.0,20.0,0.0
 Conlin Rouse,0.0,SO,RB/LB,#11,Springville,0.0,0.0,0.0
 Sam Plathe,0.0,SR,WR/CB,#24,Bishop Garrigan,0.0,0.0,0.0
