@@ -107,7 +107,7 @@ Brogan Ewing,32.5,WR/CB,Southeast Warren
 Brogyn Greensky,0.0,QB/LB,North Iowa
 Broox Stockman,6.0,RB/LB,Montezuma
 Bryce Brabham,0.7,RB/DB,Exira-EHK
-Bryer Jack,0.0,QB/DB,HLV
+Bryer Jack,8.92,QB/DB,HLV
 Burke Busta,17.3,FB,Turkey Valley
 CJ Smith,0.0,TE/DB,Melcher-Dallas
 Cade Robinson,30.5,WR/CB,Baxter
@@ -119,7 +119,7 @@ Caden Oswald,45.8,RB/DB,Coon Rapids-Bayard
 Caden Page,0.0,QB/LB,Murray
 Caden Roethler,0.0,FB/LB,Bishop Garrigan
 Cael Dop,0.0,OG/DT,Southeast Warren
-Cael Weisskopf,0.0,RB/LB,HLV
+Cael Weisskopf,32.1,RB/LB,HLV
 Cainan Travis,24.9,WR/LB,Baxter
 Cal Heydon,26.4,QB/DB,Coon Rapids-Bayard
 Cal Peterman,0.0,WR/LB,Bedford
@@ -154,7 +154,7 @@ Carter Michalek,0.0,WR/DB,Montezuma
 Carter Oberbroeckling,0.0,RB,Edgewood-Colesburg
 Carter Rycroft,0.0,,Fremont-Mills
 Carter Seitz,51.2,WR/DB,Kee
-Carter Sholtus,0.0,WR/CB,HLV
+Carter Sholtus,12.2,WR/CB,HLV
 Carter Smith,0.0,C/DT,Baxter
 Carter Waetzig,0.0,OG/DT,Lamoni
 Cash Emgarten,41.0,WR/DB,Exira-EHK
@@ -224,17 +224,17 @@ Dalton Martin,0.0,OL/DL,Collins-Maxwell
 Dalton Mudderman,46.4,QB/LB,Kee
 Dalton Weepie,15.2,TE/LB,Dunkerton
 Damon Thomsen,0.0,FB/LB,Ar-We-Va
-Dane Appleby,0.0,QB/LB,Janesville
+Dane Appleby,48.74,QB/LB,Janesville
 Dane Ballou,-1.46,QB/LB,Midland
 Dane Smith,0.0,RB/DB,Iowa Valley
 Dane Strong,0.0,RB/LB,Montezuma
-Daniel Britt,0.0,RB/S,Janesville
+Daniel Britt,1.1,RB/S,Janesville
 Daniel Meis,0.0,WR/DB,Bishop Garrigan
 Dashny Munyakazi,21.6,RB/S,Central City
 David Rose,0.0,WR/DB,Montezuma
 David Schmitz,0.0,,Don Bosco
 Dawson Evans,0.0,QB/DB,Lenox
-Dawson Graham,0.0,RB/LB,Janesville
+Dawson Graham,12.5,RB/LB,Janesville
 Dawson Konrad,0.0,RB/CB,Southeast Warren
 Dawson Smith,12.8,RB/LB,Iowa Valley
 Declan DeJong,0.0,TE/DE,Moravia
@@ -288,7 +288,7 @@ Ezekiel Konkler,2.9,WR/CB,Audubon
 Fischer Buffington,27.3,RB/DE,East Union
 Gabe Funk,18.96,QB/DB,Lenox
 Gabe Johnson,0.0,QB/LB,Sidney
-Gabe Meaney,0.0,TE/DE,Janesville
+Gabe Meaney,19.3,TE/DE,Janesville
 Gabe Reeves,0.0,RB/LB,Janesville
 Gabriel Roneus,0.0,RB/DE,Calamus-Wheatland
 Gage Samo,0.0,WR/CB,WACO
@@ -374,7 +374,7 @@ Jarod Reams,11.6,RB/DB,Kee
 Jaxon Darby,0.0,TE/CB,Murray
 Jaxon Larson,0.0,,Don Bosco
 Jaxson Schnell,23.6,LB/WR,GTRA
-Jayden Butler,0.0,TE/DE,Janesville
+Jayden Butler,0.9,TE/DE,Janesville
 Jayden Hanson,13.66,QB/DB,Central City
 Jayden Robinson,1.3,WR/LB,Moravia
 Jayden Smith,0.0,OG/DE,HLV
@@ -620,7 +620,7 @@ Sam Schmillen,0.0,WR/LB,Remsen St. Mary's
 Samuel Dascher,0.0,TE/CB,Calamus-Wheatland
 Sawyer Forney,7.68,,Fremont-Mills
 Sawyer House,2.9,WR/CB,Midland
-Sean McCulloch,0.0,QB/DB,HLV
+Sean McCulloch,9.0,QB/DB,HLV
 Seth Bell,0.0,QB/DB,Collins-Maxwell
 Seth Bixler,0.0,WR/S,Midland
 Seth Hudson,17.52,QB/S,East Union
@@ -634,7 +634,7 @@ Spencer Munk,0.5,RB/LB,Woodbine
 Stadan Vansice,0.0,WR/LB,Baxter
 Talan Driscoll,30.0,RB/LB,Easton Valley
 Talan Jacobsen,0.0,QB/LB,North Iowa
-Talan Pletz,0.0,RB/LB,Janesville
+Talan Pletz,9.7,RB/LB,Janesville
 Tanner Troendle,0.9,RB/DB,Kee
 Tate Foertsch,0.0,QB/DB,Bishop Garrigan
 Tate Martin,11.0,RB/LB,BGM
@@ -654,7 +654,7 @@ Trent Robertson,0.0,WR/LB,North Iowa
 Trenton Beard,0.2,OL/LB,Colo-Nesco
 Trenton Rodas,0.0,TE/DE,West Central
 Trenton Struss,0.0,RB/S,Newell-Fonda
-Trevor Forey,0.0,WR/S,Janesville
+Trevor Forey,14.1,WR/S,Janesville
 Trevor Kuster,0.0,RB/LB,Lamoni
 Trevor Tauber,0.0,QB/S,Newell-Fonda
 Trey Cota,0.0,QB/LB,Kee
@@ -675,7 +675,7 @@ Ty Christensen,0.0,,Don Bosco
 Ty Flathers,0.7,RB/DB,CAM
 Ty Lindquist,0.0,FB/LB,Dunkerton
 Ty Tauber,0.0,OT/LB,Newell-Fonda
-Tyler Ballard,0.0,TE/DE,HLV
+Tyler Ballard,9.9,TE/DE,HLV
 Tyler Bruns,0.0,OL/DL,Tripoli
 Tyler Hansen,0.1,QB/DB,West Bend-Mallard
 Tyler Rodgers,0.0,WR/CB,Mormon Trail
