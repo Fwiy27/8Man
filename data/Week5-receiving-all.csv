@@ -2,6 +2,7 @@ Name,Year,Position,Number,School,REC,YDS,TDS
 Treyton Travis,SR,WR/CB,#24,Baxter,66,976,16
 Kace Patton,SR,WR/CB,#10,Murray,41,569,7
 Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting,37,439,5
+Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,36,322,2
 Landon Blum,FR,WR/DB,#5,Woodbine,35,619,12
 Jabari Woodbury,SR,,#2,GMG,34,589,5
 Dominic Coleman,SR,WR/DE,#23,BGM,33,511,9
@@ -18,18 +19,17 @@ Mason Maschmann,SR,RB/LB,#11,BGM,29,325,1
 Cainan Travis,JR,WR/LB,#20,Baxter,28,388,6
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,28,428,9
 Dakota Heishman,JR,WR/DB,#8,BGM,28,320,3
-Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,28,249,2
 Callan Messerich,SO,WR/DB,#6,Easton Valley,28,578,9
 Grant Galles,SO,WR/DB,#6,St. Edmond,27,558,8
 Aiden Eickert ,SO,WR/LB,#7,Easton Valley,26,441,8
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,24,428,5
+Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,24,203,2
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,23,377,9
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,23,241,6
 Brayden Hepke,SR,WR/DB,#17,BGM,23,246,3
 Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,22,428,1
 Jackson McDanel,SR,RB/LB,#30,Moravia,21,409,7
 Isaac Murphy,SR,RB/S,#1,GTRA,21,295,4
-Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,21,181,1
 Cruz DeJong,SR,TE/LB,#40,Montezuma,20,210,4
 Collin Bower,SO,TE/DB,#25,CAM,20,248,6
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,19,325,4
@@ -124,6 +124,7 @@ Dawson Smith,SR,RB/LB,#20,Iowa Valley,9,69,0
 Ian Smith,JR,TE/LB,#5,Iowa Valley,9,97,3
 Bennett Steger,SR,WR,#14,Edgewood-Colesburg,9,151,1
 Landon Lindgren,SO,RB/DB,#11,Lamoni,9,89,1
+Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,9,186,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,8,137,2
 Bryce Brabham,SO,RB/DB,#9,Exira-EHK,8,146,2
 Donald Bashor,SR,RB/LB,#44,Lenox,8,253,6
@@ -159,7 +160,6 @@ Jacob Morey,SR,OL/DL,#11,Tripoli,7,174,3
 Johnathan Riesselman,SO,WR/DB,#7,Ar-We-Va,7,166,2
 Aidan Ebert,JR,WR,#3,Riceville,7,64,2
 Will Felper,SR,SL,#18,Riceville,7,98,1
-Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,7,140,3
 Jordan Boehde,FR,RB/DB,#13,Easton Valley,7,59,1
 Cole Bethune,JR,WR/S,#4,West Harrison/Whiting,7,109,0
 Clay Westphal,SO,SL/S,#8,West Harrison/Whiting,7,81,1
@@ -423,6 +423,7 @@ Nick Leerar,JR,TE/DE,#87,Bishop Garrigan,1,30,1
 Caden Roethler,SR,FB/LB,#20,Bishop Garrigan,1,9,0
 Madden Miller,FR,TE/DE,#46,Bishop Garrigan,1,2,0
 Daniel Meis,JR,WR/DB,#1,Bishop Garrigan,1,12,1
+Ashton Kracht,SR,WR/LB,#16,Harris-Lake Park,1,10,0
 Israel Lemley,FR,WR/DB,#25,New London,1,37,1
 Riley Raines,FR,RB/LB,#13,New London,1,3,0
 Corbin Jacobs-Jewell,JR,TE/DE,#10,New London,1,3,0

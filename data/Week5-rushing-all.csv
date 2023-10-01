@@ -49,6 +49,7 @@ Jack Adams,JR,QB,#7,Riceville,432,4
 Carson Ingles,SO,RB,#1,Edgewood-Colesburg,469,6
 Luke Cripps,SR,QB/S,#1,Boyer Valley,552,9
 Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,409,5
+Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,446,6
 Gabe Funk,JR,QB/DB,#17,Lenox,497,12
 Max Carlson,JR,QB/LB,#10,Newell-Fonda,512,5
 Fischer Buffington,JR,RB/DE,#12,East Union,349,2
@@ -67,10 +68,10 @@ Mason McIntosh,SR,QB/LB,#16,West Harrison/Whiting,235,3
 Slate Witte,SR,,#7,GMG,295,7
 Caden Page,JR,QB/LB,#8,Murray,184,6
 Brett Plants,JR,RB/LB,#22,Montezuma,461,8
+Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,337,8
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,463,6
 Caleb Urban,JR,WR/CB,#3,East Mills,202,4
 Silas Walston,SR,RB/DE,#33,Bedford,458,11
-Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,370,6
 Jordan Martin-England,JR,RB/LB,#18,Lenox,591,8
 Broox Stockman,SO,RB/LB,#20,Montezuma,232,2
 Isaac Murphy,SR,RB/S,#1,GTRA,279,7
@@ -113,7 +114,6 @@ Seth Bixler,SR,WR/S,#1,Midland,275,3
 Jacob Martin,JR,RB/LB,#3,Stanton/Essex,400,6
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,204,2
 Reece Chiabotta,SO,QB/DB,#34,Melcher-Dallas,100,0
-Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,224,5
 Sawyer Forney,SO,,#2,Fremont-Mills,166,1
 James Buhlman,FR,RB/LB,#27,Easton Valley,194,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,253,3
@@ -225,6 +225,7 @@ Dalton Weepie,JR,TE/LB,#33,Dunkerton,112,1
 Aiden Hellman,FR,,#18,Don Bosco,93,2
 Makade Paulsen,JR,QB/DB,#3,CAM,147,2
 Luke Lansing,SO,RB/LB,#44,Springville,92,2
+Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,48,0
 Riley Raines,FR,RB/LB,#13,New London,5,0
 Cale Westerbeck,SO,WR/DB,#4,New London,79,1
 Jeremy Reineke,SR,OL/LB,#45,Belle Plaine,27,3
@@ -269,7 +270,6 @@ Isaac Messamaker,JR,FB/LB,#25,Moravia,50,2
 Trevor Tauber,SO,QB/S,#12,Newell-Fonda,25,0
 Kenny Ness,SO,LB/WR,#6,GTRA,84,0
 Kaden Kobliska,SR,WR,#8,Riceville,66,1
-Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,47,0
 Keenan Foland,FR,QB/S,#1,West Harrison/Whiting,17,0
 Gabe Johnson,SR,QB/LB,#3,Sidney,18,1
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,0
@@ -542,5 +542,6 @@ Brock Binkley,FR,QB/DB,#8,Lamoni,-3,0
 Creyton Ogier,SR,TE/DE,#5,Lamoni,10,0
 Trevor Kuster,JR,RB/LB,#20,Lamoni,1,0
 Travis Luitjens,SR,OG/DT,#34,Harris-Lake Park,-5,0
+Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,1,0
 Anthony Waters,SR,,#10,GMG,0,1
 Charlie Rowenhorst,SR,K/RB,#3,Waterloo Christian,3,0
