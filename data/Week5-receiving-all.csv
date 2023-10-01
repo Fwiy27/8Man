@@ -60,6 +60,7 @@ Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,16,156,2
 Kaden Kobliska,SR,WR,#8,Riceville,16,195,4
 Kolt Payne,JR,SL/CB,#24,Sidney,16,351,4
 Matt Sauer,SR,TE/DE,#82,Midland,15,154,3
+Cael Weisskopf,FR,RB/LB,#5,HLV,15,189,4
 Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,15,151,1
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,15,107,0
 Dylan Linkenhoker,SR,,#21,Fremont-Mills,14,217,2
@@ -74,7 +75,6 @@ Seth Bixler,SR,WR/S,#1,Midland,13,130,1
 Emmett Burke,SO,WR/DB,#10,Lone Tree,13,224,2
 Broox Stockman,SO,RB/LB,#20,Montezuma,13,119,2
 Aiden Klostermann,SR,RB/S,#10,Central City,12,227,5
-Cael Weisskopf,FR,RB/LB,#5,HLV,12,160,3
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,12,182,2
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,12,225,2
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,12,153,1
@@ -87,6 +87,7 @@ Kelan Stevenson,SO,TE/LB,#62,Lamoni,12,159,1
 James Buhlman,FR,RB/LB,#27,Easton Valley,12,188,2
 Talan Driscoll,FR,RB/LB,#8,Easton Valley,12,32,2
 Kael Cress,JR,WR/S,#7,Midland,11,219,4
+Tyler Ballard,SR,TE/DE,#22,HLV,11,151,1
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,11,110,0
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,11,201,6
 Cristian Brown,SR,WR/DB,#47,Dunkerton,11,234,6
@@ -131,7 +132,6 @@ Bennett Steger,SR,WR,#14,Edgewood-Colesburg,9,151,1
 Landon Lindgren,SO,RB/DB,#11,Lamoni,9,89,1
 Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,9,186,3
 Justin Weispfenning,JR,RB/DB,#3,Easton Valley,9,75,1
-Tyler Ballard,SR,TE/DE,#22,HLV,8,131,1
 Bryce Brabham,SO,RB/DB,#9,Exira-EHK,8,146,2
 Donald Bashor,SR,RB/LB,#44,Lenox,8,253,6
 Zane Johnson,JR,RB/LB,#7,Griswold,8,85,2
@@ -150,6 +150,7 @@ Logan Franklin,SO,WR/DB,#7,New London,8,116,2
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,168,3
 Austin Lack,SR,WR/DB,#3,East Union,7,113,1
 Wyatt Christiansen,SO,RB/LB,#10,Midland,7,38,0
+Carter Sholtus,SR,WR/CB,#2,HLV,7,128,4
 Cody Samson,SR,TE/LB,#36,Baxter,7,47,1
 Braxton Blackburn,SR,,#10,Fremont-Mills,7,59,0
 Austin Boege,SO,RB/LB,#22,Collins-Maxwell,7,103,0
@@ -170,7 +171,6 @@ Jordan Boehde,FR,RB/DB,#13,Easton Valley,7,59,1
 Cole Bethune,JR,WR/S,#4,West Harrison/Whiting,7,109,0
 Clay Westphal,SO,SL/S,#8,West Harrison/Whiting,7,81,1
 Aiden Stenzel,SO,RB/DB,#20,Sidney,7,85,1
-Carter Sholtus,SR,WR/CB,#2,HLV,6,105,3
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,6,46,0
 Nolan Gannon,FR,RB/LB,#34,Murray,6,97,2
 Ayden Lamb,FR,TE/LB,#18,Murray,6,48,1
@@ -217,12 +217,14 @@ Cal Peterman,JR,WR/LB,#15,Bedford,5,76,2
 Brody Paulsen,SR,RB/DB,#2,CAM,5,71,0
 Kinnick Henning,SO,RB/LB,#22,St. Edmond,5,95,2
 Gabe Meaney,JR,TE/DE,#16,Janesville,5,97,1
+Caden Cole,SR,TE,#20,Edgewood-Colesburg,5,78,1
 Creyton Ogier,SR,TE/DE,#5,Lamoni,5,113,1
 Brigham Porter,SO,SL/DB,#23,New London,5,65,1
 Michael Raines,SR,TE/LB,#26,New London,5,34,1
 Andreas Buttry,JR,QB/CB,#5,Sidney,5,38,1
 Seth Hudson,SR,QB/S,#7,East Union,4,39,0
 Fischer Buffington,JR,RB/DE,#12,East Union,4,17,1
+Max Henstorf,SR,QB/LB,#7,HLV,4,25,0
 Sean McCulloch,FR,QB/DB,#24,HLV,4,38,0
 Ty Alcott,JR,RB/DB,#24,Belle Plaine,4,53,0
 Riley Simmons,SR,E/DE,#85,Belle Plaine,4,67,3
@@ -257,7 +259,6 @@ Tristan Freiberg,SR,WR/CB,#1,Tripoli,4,17,0
 Austin Williams,SR,RB/LB,#20,CAM,4,123,2
 Ezekiel Konkler,SR,WR/CB,#20,Audubon,4,10,0
 Gavin Benter,SO,TE/DL,#99,Waterloo Christian,4,27,0
-Max Henstorf,SR,QB/LB,#7,HLV,3,20,0
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,3,15,0
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,3,52,1
 Eric Wilson,SR,WR/DB,#15,Exira-EHK,3,36,0
@@ -334,7 +335,7 @@ Owen Bral,JR,QB/LB,#3,Iowa Valley,2,82,2
 Brayden Chester,JR,RB/LB,#34,CAM,2,23,0
 Dawson Graham,JR,RB/LB,#8,Janesville,2,47,1
 Braden Jordan,SO,QB/LB,#10,Springville,2,48,0
-Caden Cole,SR,TE,#20,Edgewood-Colesburg,2,18,0
+Carter Battin,SO,WR,#2,Edgewood-Colesburg,2,64,1
 Benjy Trainer,SR,TE/LB,#4,Bishop Garrigan,2,37,1
 Brody Becker,SO,,#13,GMG,2,11,0
 Anthony Waters,SR,,#10,GMG,2,41,1
@@ -420,7 +421,6 @@ Reagan Richardson,FR,RB,#22,Riceville,1,6,0
 Aaron Hindt,FR,RB/LB,#24,St. Edmond,1,35,0
 Talan Pletz,SO,RB/LB,#5,Janesville,1,8,0
 Kahl Shanahan,JR,TE/LB,#24,Springville,1,8,0
-Carter Battin,SO,WR,#2,Edgewood-Colesburg,1,27,1
 Carter Oberbroeckling,SR,RB,#34,Edgewood-Colesburg,1,3,0
 Nathan Findlay,SO,RB/LB,#10,BGM,1,3,0
 Beckett Rhoads,SO,WR/DB,#1,BGM,1,13,0
