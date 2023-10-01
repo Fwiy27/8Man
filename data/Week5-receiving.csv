@@ -32,11 +32,11 @@ Brayden Hepke,10.0,SR,WR/DB,#17,BGM,5.0,50.0,0.0
 Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0,0.0
 Jaxson Schnell,23.6,SO,LB/WR,#4,GTRA,4.0,76.0,2.0
 Jackson McDanel,11.0,SR,RB/LB,#30,Moravia,1.0,40.0,1.0
+Lucas Frohwein,4.5,SR,TE/DE,#9,Colo-Nesco,2.0,25.0,0.0
 Rason Grail,25.0,SR,WR/DB,#23,East Union,4.0,90.0,2.0
 Cruz DeJong,12.0,SR,TE/LB,#40,Montezuma,3.0,30.0,1.0
 Collin Bower,21.4,SO,TE/DB,#25,CAM,4.0,54.0,2.0
 Jack Gordon,14.3,SR,WR/DL,#18,East Mills,1.0,73.0,1.0
-Lucas Frohwein,0.0,SR,TE/DE,#9,Colo-Nesco,0.0,0.0,0.0
 Tate Martin,11.0,JR,RB/LB,#33,BGM,6.0,50.0,0.0
 Kaleb Gill,0.0,SR,,#1,GMG,0.0,0.0,0.0
 Rider Kupka,0.0,SO,,#21,GMG,0.0,0.0,0.0
@@ -46,6 +46,7 @@ Marshawn Taylor,19.2,SR,RB/CB,#12,Rockford,12.0,72.0,0.0
 Declan DeJong,0.0,SO,TE/DE,#41,Moravia,0.0,0.0,0.0
 Caleb Haack,8.0,JR,WR/DB,#7,Iowa Valley,2.0,60.0,0.0
 Chase Klatt,2.9,SO,TE/CB,#4,Calamus-Wheatland,1.0,19.0,0.0
+Owen Hammersland,10.0,FR,RB/LB,#24,Central Elkader,6.0,40.0,0.0
 Cam Buffington,1.5,SR,QB/LB,#33,Winfield-Mt Union,1.0,5.0,0.0
 Micah Moores,20.9,FR,RB/LB,#9,Woodbine,2.0,69.0,2.0
 Holden Roberts,29.4,SO,TE/DE,#13,Twin Cedars,7.0,104.0,2.0
@@ -87,11 +88,11 @@ Talan Driscoll,10.7,FR,RB/LB,#8,Easton Valley,4.0,7.0,1.0
 Kael Cress,0.0,JR,WR/S,#7,Midland,0.0,0.0,0.0
 Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0,0.0
 Drew Eilers,0.0,JR,WR/DL,#2,Gladbrook-Reinbeck,0.0,0.0,0.0
-Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0,0.0
 Cristian Brown,19.4,SR,WR/DB,#47,Dunkerton,3.0,44.0,2.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0,0.0
 Jack Follmann,0.0,SR,TE/LB,#40,CAM,0.0,0.0,0.0
+Mason Hoy,17.6,SO,RB/CB,#9,Springville,6.0,56.0,1.0
 Evan Alt,2.8,SR,RB/LB,#4,Audubon,2.0,8.0,0.0
 Braedon Godfread,17.8,JR,TE/S,#10,Sidney,3.0,88.0,1.0
 Mitch Stevens,10.0,SR,TE/LB,#37,West Bend-Mallard,1.0,30.0,1.0
@@ -209,10 +210,10 @@ Payton Malchow,5.5,JR,WR/CB,#28,Rockford,4.0,15.0,0.0
 Landen Nelson,1.2,FR,WR/DB,#36,Northwood-Kensett,1.0,2.0,0.0
 Gage Samo,0.0,JR,WR/CB,#5,WACO,0.0,0.0,0.0
 Guyson Lyman,0.0,JR,TE/DE,#40,Newell-Fonda,0.0,0.0,0.0
+Landon Gjerde,7.1,SO,RB/LB,#1,Colo-Nesco,1.0,1.0,1.0
 Cal Peterman,0.0,JR,WR/LB,#15,Bedford,0.0,0.0,0.0
 Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0,0.0
-Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0,0.0
 Creyton Ogier,0.0,SR,TE/DE,#5,Lamoni,0.0,0.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
 Michael Raines,3.6,SR,TE/LB,#26,New London,2.0,16.0,0.0
@@ -230,7 +231,9 @@ Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0,0.0
 Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0,0.0
 Sam Hoodjer,11.6,JR,WR/CB,#80,Clarksville,2.0,36.0,1.0
 John Stauffer,2.0,JR,TE/LB,#82,Clarksville,1.0,10.0,0.0
+Preston Kulper,2.0,SO,WR/DB,#81,Central Elkader,1.0,10.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
+Braden Taylor,4.3,SO,OL/DL,#60,Central Elkader,4.0,3.0,0.0
 Ledger Dalton,0.0,SO,WR/DB,#5,Dunkerton,0.0,0.0,0.0
 Grant Finck,2.3,JR,RB/LB,#10,Dunkerton,2.0,3.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0,0.0
@@ -245,7 +248,7 @@ Jacksyn Hogrefe,0.0,SO,RB/DB,#26,Newell-Fonda,0.0,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0,0.0
 Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0,0.0
 Landen Dietrich,0.0,FR,RB/LB,#27,GTRA,0.0,0.0,0.0
-Landon Gjerde,0.0,SO,RB/LB,#1,Colo-Nesco,0.0,0.0,0.0
+Lucas Daggett,2.7,JR,TE/LB,#35,Colo-Nesco,1.0,17.0,0.0
 Tristan Freiberg,0.0,SR,WR/CB,#1,Tripoli,0.0,0.0,0.0
 Austin Williams,11.5,SR,RB/LB,#20,CAM,1.0,45.0,1.0
 Ezekiel Konkler,2.9,SR,WR/CB,#20,Audubon,2.0,9.0,0.0
@@ -264,7 +267,7 @@ Luke Rohling,2.7,SR,FB/LB,#16,Calamus-Wheatland,2.0,7.0,0.0
 Kellen Whitman,0.0,FR,FB/LB,#32,Calamus-Wheatland,0.0,0.0,0.0
 Trey Rosenbeck,0.0,SR,TE/LB,#3,Coon Rapids-Bayard,0.0,0.0,0.0
 Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0,0.0
-Preston Kulper,0.0,SO,WR/DB,#81,Central Elkader,0.0,0.0,0.0
+Kyle Reinhart,2.0,JR,WR/DB,#40,Central Elkader,1.0,10.0,0.0
 Maddox Jondle,2.2,JR,QB/LB,#11,Lone Tree,1.0,12.0,0.0
 Waylon Hein,0.0,JR,TE/LB,#23,Glidden-Ralston,0.0,0.0,0.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0,0.0
@@ -272,7 +275,6 @@ Braydon Draeger,0.0,SR,TE/LB,#88,Melcher-Dallas,0.0,0.0,0.0
 Carter Michalek,0.0,JR,WR/DB,#2,Montezuma,0.0,0.0,0.0
 Dane Strong,0.0,FR,RB/LB,#33,Montezuma,0.0,0.0,0.0
 Lucas Dirkx,0.0,SO,TE/DE,#40,Southeast Warren,0.0,0.0,0.0
-Lucas Daggett,0.0,JR,TE/LB,#35,Colo-Nesco,0.0,0.0,0.0
 Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0,0.0
 Garrison Motsinger,0.0,JR,RB/S,#4,Bedford,0.0,0.0,0.0
 Silas Walston,0.0,SR,RB/DE,#33,Bedford,0.0,0.0,0.0
@@ -281,6 +283,8 @@ Ryan Bower,8.3,SR,WR/S,#8,CAM,1.0,13.0,1.0
 Johnny Adams,0.0,JR,WR,#10,Riceville,0.0,0.0,0.0
 Jakob Koopman,0.0,SO,SL/LB,#8,St. Edmond,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
+Jordan Goad,2.2,JR,QB/CB,#1,Springville,1.0,12.0,0.0
+Jace March,1.4,FR,RB/CB,#3,Springville,1.0,4.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison/Whiting,0.0,0.0,0.0
 Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison/Whiting,0.0,0.0,0.0
@@ -302,7 +306,6 @@ Cooper Smith,0.0,FR,TE/LB,#16,Mormon Trail,0.0,0.0,0.0
 Connor Snethen,0.0,FR,WR/CB,#10,Mormon Trail,0.0,0.0,0.0
 Kael Blohm,0.0,SO,WR/DB,#15,Gladbrook-Reinbeck,0.0,0.0,0.0
 Sam Fettkether,0.0,SR,OL/LB,#47,Central Elkader,0.0,0.0,0.0
-Kyle Reinhart,0.0,JR,WR/DB,#40,Central Elkader,0.0,0.0,0.0
 Domonic Garcia,0.0,SO,WR/DB,#8,Lone Tree,0.0,0.0,0.0
 Dominic Graap,0.0,SR,WR/DB,#19,Lone Tree,0.0,0.0,0.0
 Wyatt Nelson,5.6,JR,RB/DB,#9,West Central,2.0,36.0,0.0
@@ -327,9 +330,7 @@ Brody King,0.0,JR,TE/LB,#2,Bedford,0.0,0.0,0.0
 David Schmitz,0.0,JR,,#4,Don Bosco,0.0,0.0,0.0
 Owen Bral,0.0,JR,QB/LB,#3,Iowa Valley,0.0,0.0,0.0
 Brayden Chester,2.4,JR,RB/LB,#34,CAM,1.0,14.0,0.0
-Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0,0.0
 Braden Jordan,0.0,SO,QB/LB,#10,Springville,0.0,0.0,0.0
-Jace March,0.0,FR,RB/CB,#3,Springville,0.0,0.0,0.0
 Caden Cole,0.0,SR,TE,#20,Edgewood-Colesburg,0.0,0.0,0.0
 Benjy Trainer,0.0,SR,TE/LB,#4,Bishop Garrigan,0.0,0.0,0.0
 Brody Becker,0.0,SO,,#13,GMG,0.0,0.0,0.0
