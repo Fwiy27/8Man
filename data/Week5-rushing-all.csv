@@ -45,7 +45,9 @@ Cael Weisskopf,FR,RB/LB,#5,HLV,497,6
 Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,531,11
 Fischer Buffington,JR,RB/DE,#12,East Union,417,4
 Anthony Harrington,SO,QB/LB,#2,Midland,516,10
+Trenton Struss,SR,RB/S,#21,Newell-Fonda,531,10
 Jamison Ewing,SO,WR/CB,#8,Southeast Warren,601,12
+Mason McIntosh,SR,QB/LB,#16,West Harrison/Whiting,260,3
 Brodie Ludwig,JR,RB/LB,#21,Woodbine,342,9
 Pryce Rochford,JR,QB,#22,Edgewood-Colesburg,833,18
 Perrin Sulzle,JR,QB/LB,#7,Baxter,258,3
@@ -63,12 +65,10 @@ Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,217,3
 Josef Dvorak,JR,RB/DB,#25,Collins-Maxwell,445,6
 Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,864,11
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,442,9
-Trenton Struss,SR,RB/S,#21,Newell-Fonda,410,7
+Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting,245,4
 Owen Johnson,FR,RB/DE,#26,Griswold,288,3
 Burke Busta,SR,FB,#9,Turkey Valley,367,6
 Chase Spieker,JR,QB/DB,#5,CAM,463,13
-Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting,243,4
-Mason McIntosh,SR,QB/LB,#16,West Harrison/Whiting,235,3
 Slate Witte,SR,,#7,GMG,295,7
 Caden Page,JR,QB/LB,#8,Murray,184,6
 Brett Plants,JR,RB/LB,#22,Montezuma,461,8
@@ -135,6 +135,7 @@ Isaac Clark,SR,QB/LB,#12,Gladbrook-Reinbeck,237,6
 Brody Paulsen,SR,RB/DB,#2,CAM,160,5
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,168,5
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,78,1
+Ty Tauber,SR,OT/LB,#25,Newell-Fonda,308,7
 Graham Godsey,JR,RB/LB,#35,Bedford,152,1
 Kyler Knaack,JR,,#20,Don Bosco,385,4
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,290,7
@@ -143,7 +144,6 @@ Austin Williams,SR,RB/LB,#20,CAM,267,3
 Owen Murphy,JR,WR/S,#10,Bishop Garrigan,143,0
 Seth Hudson,SR,QB/S,#7,East Union,70,3
 Nate Curry,SR,RB/LB,#38,Twin Cedars,47,0
-Ty Tauber,SR,OT/LB,#25,Newell-Fonda,302,7
 Jayden Hanson,SR,QB/DB,#7,Central City,226,3
 Deshon Anderson,SO,RB/LB,#32,English Valleys,182,3
 Logan French,SR,WR/DB,#1,Stanton/Essex,106,3
@@ -222,6 +222,7 @@ Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,80,2
 Lucas Christian,JR,WR/S,#18,Glidden-Ralston,40,0
 Rocky Johnson,FR,RB/DB,#15,Melcher-Dallas,26,0
 Lincoln Albertson,SO,RB/LB,#32,Moravia,163,2
+Trevor Tauber,SO,QB/S,#12,Newell-Fonda,62,0
 Jack Angell,SO,QB/DB,#18,Colo-Nesco,98,2
 Logan Heim,SO,WR/CB,#7,Tripoli,102,2
 Eli Miller,SR,RB/LB,#7,Winfield-Mt Union,169,3
@@ -247,6 +248,7 @@ Kayden Winther,FR,RB/LB,#13,CAM,106,3
 Mason Maschmann,SR,RB/LB,#11,BGM,63,4
 Ethan Marso,SO,FB/LB,#11,Bishop Garrigan,66,3
 Travis Noel,FR,DE/RB,#32,Lamoni,36,1
+Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting,69,1
 Devon Weisskopf,JR,RB/LB,#32,HLV,26,0
 Aidan Timm,SO,QB/DB,#9,Belle Plaine,65,2
 Gio Cruz,SR,RB/DB,#5,Lenox,47,1
@@ -269,7 +271,7 @@ Hayden Shelman,FR,DB/RB,#15,WACO,31,1
 Braxston Bucknell,FR,OL/DL,#99,Tripoli,57,0
 Brayden Chester,JR,RB/LB,#34,CAM,63,2
 Colin Hartl,JR,RB/LB,#38,Audubon,79,1
-Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting,54,1
+Keenan Foland,FR,QB/S,#1,West Harrison/Whiting,22,0
 Chris Hanson,FR,FB/LB,#32,Central City,34,1
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,126,2
 Gavin Ford,JR,QB/LB,#12,Stanton/Essex,18,0
@@ -280,10 +282,8 @@ Cale Langreck,FR,QB/LB,#10,Turkey Valley,46,0
 Charlie Schaefer,SR,QB/S,#6,North Iowa,18,0
 Luke Brennan,SO,QB/DB,#6,Montezuma,4,0
 Isaac Messamaker,JR,FB/LB,#25,Moravia,50,2
-Trevor Tauber,SO,QB/S,#12,Newell-Fonda,25,0
 Kenny Ness,SO,LB/WR,#6,GTRA,84,0
 Kaden Kobliska,SR,WR,#8,Riceville,66,1
-Keenan Foland,FR,QB/S,#1,West Harrison/Whiting,17,0
 Gabe Johnson,SR,QB/LB,#3,Sidney,18,1
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,0
 Chaz Cornelison,JR,RB/DB,#31,East Union,34,1
@@ -529,6 +529,7 @@ Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,3,0
 Caysen Chodur,FR,QB/LB,#42,Northwood-Kensett,2,0
 Kale Moore,FR,QB/DB,#14,Moravia,0,0
 Nick West,SO,QB/DB,#11,WACO,0,0
+Jackson Bellcock,FR,FB/LB,#20,Newell-Fonda,-1,0
 Levi Halterman,JR,RB/LB,#11,Southeast Warren,4,0
 Dawson Konrad,JR,RB/CB,#21,Southeast Warren,2,0
 Kinnick Mohning,FR,RB/CB,#23,Remsen St. Mary's,0,0
@@ -556,5 +557,6 @@ Creyton Ogier,SR,TE/DE,#5,Lamoni,10,0
 Trevor Kuster,JR,RB/LB,#20,Lamoni,1,0
 Travis Luitjens,SR,OG/DT,#34,Harris-Lake Park,-5,0
 Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,1,0
+Cole Bethune,JR,WR/S,#4,West Harrison/Whiting,5,0
 Anthony Waters,SR,,#10,GMG,0,1
 Charlie Rowenhorst,SR,K/RB,#3,Waterloo Christian,3,0
