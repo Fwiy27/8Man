@@ -44,6 +44,7 @@ Max Henstorf,25.5,SR,QB/LB,#7,HLV,135.0,2.0
 Cael Weisskopf,42.4,FR,RB/LB,#5,HLV,244.0,3.0
 Landon Waldschmitt,0.0,JR,QB/DB,#7,Remsen St. Mary's,0.0,0.0
 Fischer Buffington,18.8,JR,RB/DE,#12,East Union,68.0,2.0
+Slate Witte,13.0,SR,,#7,GMG,130.0,0.0
 Anthony Harrington,0.0,SO,QB/LB,#2,Midland,0.0,0.0
 Trenton Struss,30.1,SR,RB/S,#21,Newell-Fonda,121.0,3.0
 Jamison Ewing,23.6,SO,WR/CB,#8,Southeast Warren,116.0,2.0
@@ -69,7 +70,6 @@ Nolan Birdsall,0.2,JR,RB/LB,#2,West Harrison/Whiting,2.0,0.0
 Owen Johnson,0.0,FR,RB/DE,#26,Griswold,0.0,0.0
 Burke Busta,17.3,SR,FB,#9,Turkey Valley,53.0,2.0
 Chase Spieker,7.2,JR,QB/DB,#5,CAM,12.0,1.0
-Slate Witte,0.0,SR,,#7,GMG,0.0,0.0
 Caden Page,0.0,JR,QB/LB,#8,Murray,0.0,0.0
 Brett Plants,20.7,JR,RB/LB,#22,Montezuma,87.0,2.0
 Isaac Murphy,1.1,SR,RB/S,#1,GTRA,11.0,0.0
@@ -163,6 +163,7 @@ Lucas Madison,1.6,SR,,#5,Fremont-Mills,16.0,0.0
 Brady Koenck,0.0,JR,RB/LB,#26,Remsen St. Mary's,0.0,0.0
 Logan Busta,1.4,SO,QB/DB,#1,Turkey Valley,14.0,0.0
 Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0
+Jabari Woodbury,0.8,SR,,#2,GMG,8.0,0.0
 Evan Lorenzen,11.4,JR,RB/DB,#22,Northwood-Kensett,54.0,1.0
 Landon Gjerde,14.3,SO,RB/LB,#1,Colo-Nesco,83.0,1.0
 Isaac Hill,0.0,SO,OL/DL,#60,Springville,0.0,0.0
@@ -180,7 +181,6 @@ Treyton Franzen,9.2,FR,FB/LB,#21,Turkey Valley,32.0,1.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0
 Reece Oswald,8.5,SR,RB/CB,#27,WACO,25.0,1.0
-Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0
 Sean McCulloch,5.3,FR,QB/DB,#24,HLV,53.0,0.0
 Zane Johnson,0.0,JR,RB/LB,#7,Griswold,0.0,0.0
 Hunter Hardin,0.0,JR,RB/LB,#36,Colo-Nesco,0.0,0.0
@@ -249,6 +249,7 @@ Mason Maschmann,0.1,SR,RB/LB,#11,BGM,1.0,0.0
 Ethan Marso,10.7,SO,FB/LB,#11,Bishop Garrigan,47.0,1.0
 Travis Noel,0.0,FR,DE/RB,#32,Lamoni,0.0,0.0
 Jamison Martin,1.5,JR,RB/DB,#11,West Harrison/Whiting,15.0,0.0
+Rider Kupka,-0.3,SO,,#21,GMG,-3.0,0.0
 Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0
 Aidan Timm,0.0,SO,QB/DB,#9,Belle Plaine,0.0,0.0
 Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0
@@ -261,7 +262,6 @@ Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0
 Trace Kingsbury,9.1,SO,WR/CB,#6,Tripoli,31.0,1.0
 Drew Urbanek,9.5,FR,QB/CB,#10,Tripoli,35.0,1.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0
-Rider Kupka,0.0,SO,,#21,GMG,0.0,0.0
 Elliott Ward,0.0,SR,RB/LB,#1,Sidney,0.0,0.0
 Tanner Troendle,0.9,FR,RB/DB,#23,Kee,9.0,0.0
 Wyatt Leonard,0.2,SO,RB/LB,#21,Lenox,2.0,0.0
@@ -361,6 +361,7 @@ Gunnar Smith,21.5,SO,QB,#6,Riceville,95.0,2.0
 Gabe Reeves,0.0,FR,RB/LB,#9,Janesville,0.0,0.0
 Ethan Bridgewater,0.0,SO,RB/LB,#35,BGM,0.0,0.0
 Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison/Whiting,0.0,0.0
+Connor Rahn,0.1,JR,,#12,GMG,1.0,0.0
 Andreas Buttry,0.0,JR,QB/CB,#5,Sidney,0.0,0.0
 Wyatt Christiansen,0.1,SO,RB/LB,#10,Midland,1.0,0.0
 Sam DeMeulenaere,0.0,JR,E/LB,#12,Belle Plaine,0.0,0.0
@@ -421,7 +422,6 @@ Brody Ludwig,0.0,SR,RB/CB,#22,Bishop Garrigan,0.0,0.0
 Matt Besch,0.0,FR,OG/LB,#44,Bishop Garrigan,0.0,0.0
 Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0
 Mason Ahrenstorff,0.0,SO,WR/S,#11,Harris-Lake Park,0.0,0.0
-Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0
 Jeremiah Marquette,0.0,SR,RB/LB,#25,Waterloo Christian,0.0,0.0
 Morgan Cooley,0.0,SO,OL/DL,#42,East Union,0.0,0.0
 Max Arthur,0.3,JR,FB/LB,#31,Central City,3.0,0.0
@@ -478,6 +478,7 @@ Chase Forey,0.0,JR,WR/LB,#17,Janesville,0.0,0.0
 Landon Campbell,0.0,SO,RB,#12,Edgewood-Colesburg,0.0,0.0
 Justin Mendenhall,0.0,SO,DL,#40,Lamoni,0.0,0.0
 Austin Christensen,0.0,SO,WR/LB,#81,Audubon,0.0,0.0
+Anthony Waters,6.0,SR,,#10,GMG,0.0,1.0
 Aiden Stenzel,0.0,SO,RB/DB,#20,Sidney,0.0,0.0
 Quintin Albrechtsen,0.6,FR,TE/LB,#52,East Union,6.0,0.0
 Hudson Welton,0.5,FR,QB/DB,#11,Central City,5.0,0.0
@@ -558,5 +559,5 @@ Trevor Kuster,0.0,JR,RB/LB,#20,Lamoni,0.0,0.0
 Travis Luitjens,0.0,SR,OG/DT,#34,Harris-Lake Park,0.0,0.0
 Landon Wittrock,0.1,JR,SL/LB,#9,Harris-Lake Park,1.0,0.0
 Cole Bethune,0.5,JR,WR/S,#4,West Harrison/Whiting,5.0,0.0
-Anthony Waters,0.0,SR,,#10,GMG,0.0,0.0
+Ethan Klemesrud,0.6,FR,,#28,GMG,6.0,0.0
 Charlie Rowenhorst,0.0,SR,K/RB,#3,Waterloo Christian,0.0,0.0

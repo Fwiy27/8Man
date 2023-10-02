@@ -44,6 +44,7 @@ Max Henstorf,SR,QB/LB,#7,HLV,236,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,497,6
 Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,531,11
 Fischer Buffington,JR,RB/DE,#12,East Union,417,4
+Slate Witte,SR,,#7,GMG,425,7
 Anthony Harrington,SO,QB/LB,#2,Midland,516,10
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,531,10
 Jamison Ewing,SO,WR/CB,#8,Southeast Warren,601,12
@@ -69,7 +70,6 @@ Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting,245,4
 Owen Johnson,FR,RB/DE,#26,Griswold,288,3
 Burke Busta,SR,FB,#9,Turkey Valley,367,6
 Chase Spieker,JR,QB/DB,#5,CAM,463,13
-Slate Witte,SR,,#7,GMG,295,7
 Caden Page,JR,QB/LB,#8,Murray,184,6
 Brett Plants,JR,RB/LB,#22,Montezuma,461,8
 Isaac Murphy,SR,RB/S,#1,GTRA,290,7
@@ -163,6 +163,7 @@ Lucas Madison,SR,,#5,Fremont-Mills,195,3
 Brady Koenck,JR,RB/LB,#26,Remsen St. Mary's,102,3
 Logan Busta,SO,QB/DB,#1,Turkey Valley,122,3
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,44,1
+Jabari Woodbury,SR,,#2,GMG,365,6
 Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,108,1
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,216,5
 Isaac Hill,SO,OL/DL,#60,Springville,78,1
@@ -180,7 +181,6 @@ Treyton Franzen,FR,FB/LB,#21,Turkey Valley,108,3
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,348,5
 Joe Koehler,SR,FB/DE,#24,Rockford,62,0
 Reece Oswald,SR,RB/CB,#27,WACO,140,5
-Jabari Woodbury,SR,,#2,GMG,357,6
 Sean McCulloch,FR,QB/DB,#24,HLV,61,0
 Zane Johnson,JR,RB/LB,#7,Griswold,86,0
 Hunter Hardin,JR,RB/LB,#36,Colo-Nesco,90,0
@@ -249,6 +249,7 @@ Mason Maschmann,SR,RB/LB,#11,BGM,63,4
 Ethan Marso,SO,FB/LB,#11,Bishop Garrigan,66,3
 Travis Noel,FR,DE/RB,#32,Lamoni,36,1
 Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting,69,1
+Rider Kupka,SO,,#21,GMG,93,1
 Devon Weisskopf,JR,RB/LB,#32,HLV,26,0
 Aidan Timm,SO,QB/DB,#9,Belle Plaine,65,2
 Gio Cruz,SR,RB/DB,#5,Lenox,47,1
@@ -261,7 +262,6 @@ Caleb Swedin,SO,RB/LB,#7,GTRA,53,2
 Trace Kingsbury,SO,WR/CB,#6,Tripoli,31,1
 Drew Urbanek,FR,QB/CB,#10,Tripoli,-13,1
 Brigham Porter,SO,SL/DB,#23,New London,60,1
-Rider Kupka,SO,,#21,GMG,96,1
 Elliott Ward,SR,RB/LB,#1,Sidney,66,1
 Tanner Troendle,FR,RB/DB,#23,Kee,115,2
 Wyatt Leonard,SO,RB/LB,#21,Lenox,40,1
@@ -361,6 +361,7 @@ Gunnar Smith,SO,QB,#6,Riceville,85,2
 Gabe Reeves,FR,RB/LB,#9,Janesville,18,1
 Ethan Bridgewater,SO,RB/LB,#35,BGM,47,1
 Carson Hopkins,FR,TE/LB,#45,West Harrison/Whiting,18,0
+Connor Rahn,JR,,#12,GMG,5,1
 Andreas Buttry,JR,QB/CB,#5,Sidney,-1,0
 Wyatt Christiansen,SO,RB/LB,#10,Midland,-4,0
 Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,48,1
@@ -421,7 +422,6 @@ Brody Ludwig,SR,RB/CB,#22,Bishop Garrigan,25,1
 Matt Besch,FR,OG/LB,#44,Bishop Garrigan,18,0
 Kelan Stevenson,SO,TE/LB,#62,Lamoni,9,0
 Mason Ahrenstorff,SO,WR/S,#11,Harris-Lake Park,11,0
-Connor Rahn,JR,,#12,GMG,4,1
 Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,6,1
 Morgan Cooley,SO,OL/DL,#42,East Union,11,0
 Max Arthur,JR,FB/LB,#31,Central City,8,0
@@ -478,6 +478,7 @@ Chase Forey,JR,WR/LB,#17,Janesville,-1,0
 Landon Campbell,SO,RB,#12,Edgewood-Colesburg,3,0
 Justin Mendenhall,SO,DL,#40,Lamoni,25,0
 Austin Christensen,SO,WR/LB,#81,Audubon,11,0
+Anthony Waters,SR,,#10,GMG,0,2
 Aiden Stenzel,SO,RB/DB,#20,Sidney,2,0
 Quintin Albrechtsen,FR,TE/LB,#52,East Union,6,0
 Hudson Welton,FR,QB/DB,#11,Central City,5,0
@@ -558,5 +559,5 @@ Trevor Kuster,JR,RB/LB,#20,Lamoni,1,0
 Travis Luitjens,SR,OG/DT,#34,Harris-Lake Park,-5,0
 Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,1,0
 Cole Bethune,JR,WR/S,#4,West Harrison/Whiting,5,0
-Anthony Waters,SR,,#10,GMG,0,1
+Ethan Klemesrud,FR,,#28,GMG,6,0
 Charlie Rowenhorst,SR,K/RB,#3,Waterloo Christian,3,0
