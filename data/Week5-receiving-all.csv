@@ -51,6 +51,7 @@ Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,17,236,2
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,17,169,3
 Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,17,516,10
 Micah Moores,FR,RB/LB,#9,Woodbine,17,407,8
+Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,17,177,4
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,16,214,2
 Lane Oswalt,SR,WR/DB,#87,Collins-Maxwell,16,163,2
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,16,252,1
@@ -71,7 +72,6 @@ Luke Cripps,SR,QB/S,#1,Boyer Valley,14,156,2
 Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,14,175,1
 Colton Leichty,SR,TE/LB,#23,WACO,14,149,1
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,14,152,2
-Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,14,130,2
 Austin Christensen,SO,WR/LB,#81,Audubon,14,116,0
 Seth Bixler,SR,WR/S,#1,Midland,13,130,1
 Emmett Burke,SO,WR/DB,#10,Lone Tree,13,224,2
@@ -96,6 +96,7 @@ Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,11,209,3
 McKoy Nuss,SO,QB/LB,#13,Tripoli,11,115,2
 Jack Follmann,SR,TE/LB,#40,CAM,11,259,4
 Mason Hoy,SO,RB/CB,#9,Springville,11,89,1
+Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,11,258,6
 Evan Alt,SR,RB/LB,#4,Audubon,11,52,0
 Braedon Godfread,JR,TE/S,#10,Sidney,11,212,4
 Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,10,314,3
@@ -107,7 +108,7 @@ Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,10,145,2
 Ty Christensen,SO,,#5,Don Bosco,10,90,1
 Andrew Beran,JR,RB,#2,Riceville,10,86,1
 Conlin Rouse,SO,RB/LB,#11,Springville,10,189,3
-Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,10,211,5
+Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,10,200,2
 Cale Westerbeck,SO,WR/DB,#4,New London,10,173,2
 Edward Miller,SR,TE/DE,#31,Audubon,10,158,1
 Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,10,99,0
@@ -145,7 +146,6 @@ Cole Milks,SR,RB/S,#11,Winfield-Mt Union,8,106,1
 Dillon Reed,SO,WR/DB,#11,Woodbine,8,139,3
 Klay Baker,JR,RB/LB,#17,St. Edmond,8,188,3
 Christopher Lange,SO,WR,#10,Edgewood-Colesburg,8,127,0
-Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,8,182,2
 Logan Franklin,SO,WR/DB,#7,New London,8,116,2
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,168,3
 Austin Lack,SR,WR/DB,#3,East Union,7,113,1
@@ -258,6 +258,7 @@ Lucas Daggett,JR,TE/LB,#35,Colo-Nesco,4,45,1
 Tristan Freiberg,SR,WR/CB,#1,Tripoli,4,17,0
 Kyler Knaack,JR,,#20,Don Bosco,4,50,1
 Austin Williams,SR,RB/LB,#20,CAM,4,123,2
+Benjy Trainer,SR,TE/LB,#4,Bishop Garrigan,4,96,1
 Ezekiel Konkler,SR,WR/CB,#20,Audubon,4,10,0
 Gavin Benter,SO,TE/DL,#99,Waterloo Christian,4,27,0
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,3,15,0
@@ -336,7 +337,7 @@ Brayden Chester,JR,RB/LB,#34,CAM,2,23,0
 Dawson Graham,JR,RB/LB,#8,Janesville,2,47,1
 Braden Jordan,SO,QB/LB,#10,Springville,2,48,0
 Carter Battin,SO,WR,#2,Edgewood-Colesburg,2,64,1
-Benjy Trainer,SR,TE/LB,#4,Bishop Garrigan,2,37,1
+Daniel Meis,JR,WR/DB,#1,Bishop Garrigan,2,21,2
 Brody Becker,SO,,#13,GMG,2,11,0
 Anthony Waters,SR,,#10,GMG,2,41,1
 Connor Rahn,JR,,#12,GMG,2,5,0
@@ -428,7 +429,6 @@ Tucker Wright,JR,RB/DB,#6,BGM,1,0,0
 Nick Leerar,JR,TE/DE,#87,Bishop Garrigan,1,30,1
 Caden Roethler,SR,FB/LB,#20,Bishop Garrigan,1,9,0
 Madden Miller,FR,TE/DE,#46,Bishop Garrigan,1,2,0
-Daniel Meis,JR,WR/DB,#1,Bishop Garrigan,1,12,1
 Ashton Kracht,SR,WR/LB,#16,Harris-Lake Park,1,10,0
 Israel Lemley,FR,WR/DB,#25,New London,1,37,1
 Riley Raines,FR,RB/LB,#13,New London,1,3,0
