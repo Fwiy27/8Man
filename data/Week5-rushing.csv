@@ -22,6 +22,7 @@ Ethan Bockelman,21.0,SR,QB/DB,#22,Lone Tree,90.0,2.0
 Gavin Menke-Bailey,-0.3,JR,QB/LB,#5,New London,-3.0,0.0
 Nolan Gannon,15.9,FR,RB/LB,#34,Murray,99.0,1.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0
+Brogyn Greensky,2.9,SR,QB/LB,#4,North Iowa,29.0,0.0
 Beau Burns,5.1,SO,QB/DB,#2,BGM,51.0,0.0
 Braxton Blackburn,15.8,SR,,#10,Fremont-Mills,98.0,1.0
 Brody Koch,2.4,SO,RB/LB,#5,Calamus-Wheatland,24.0,0.0
@@ -38,7 +39,6 @@ Louden Huisenga,19.8,JR,RB/LB,#8,WACO,78.0,2.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
 Michael Hensley,1.8,JR,RB/LB,#6,Sidney,18.0,0.0
 Dalton Mudderman,9.0,JR,QB/LB,#5,Kee,90.0,0.0
-Brogyn Greensky,0.0,SR,QB/LB,#4,North Iowa,0.0,0.0
 Brady Boulton,35.5,SO,QB/DB,#1,Montezuma,175.0,3.0
 Max Henstorf,25.5,SR,QB/LB,#7,HLV,135.0,2.0
 Cael Weisskopf,42.4,FR,RB/LB,#5,HLV,244.0,3.0
@@ -71,6 +71,7 @@ Owen Johnson,0.0,FR,RB/DE,#26,Griswold,0.0,0.0
 Burke Busta,17.3,SR,FB,#9,Turkey Valley,53.0,2.0
 Chase Spieker,7.2,JR,QB/DB,#5,CAM,12.0,1.0
 Caden Page,0.0,JR,QB/LB,#8,Murray,0.0,0.0
+Carson Frerichs,0.8,SR,RB/LB,#28,North Iowa,8.0,0.0
 Brett Plants,20.7,JR,RB/LB,#22,Montezuma,87.0,2.0
 Isaac Murphy,1.1,SR,RB/S,#1,GTRA,11.0,0.0
 Caden Roethler,20.1,SR,FB/LB,#20,Bishop Garrigan,81.0,2.0
@@ -105,7 +106,6 @@ Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0
 Conlin Rouse,0.4,SO,RB/LB,#11,Springville,4.0,0.0
 Kendrick Mastin,1.2,SR,RB/LB,#9,Murray,12.0,0.0
 Nolan Grebin,0.0,SR,QB/S,#2,Stanton/Essex,0.0,0.0
-Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0
 Clayton Miller,2.6,JR,QB/CB,#4,WACO,26.0,0.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
 Christian Pierce,1.6,SO,QB/S,#4,Rockford,16.0,0.0
@@ -256,6 +256,7 @@ Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0
 Kolben Robinson,6.5,SO,TE/LB,#25,Lenox,5.0,1.0
 Lawson Kling,1.0,SR,,#7,Fremont-Mills,10.0,0.0
 Sam Fettkether,0.0,SR,OL/LB,#47,Central Elkader,0.0,0.0
+Trent Robertson,2.6,SR,WR/LB,#5,North Iowa,26.0,0.0
 Ryan Heaton,0.0,JR,FB/DE,#43,Melcher-Dallas,0.0,0.0
 David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0
 Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0
@@ -378,6 +379,7 @@ Nick Maurer,0.8,SO,WR/CB,#21,East Mills,8.0,0.0
 Brody Koski,0.0,FR,QB/LB,#7,Boyer Valley,0.0,0.0
 Isaac Loan,0.0,SO,QB/DB,#12,Central Elkader,0.0,0.0
 Braden Taylor,0.2,SO,OL/DL,#60,Central Elkader,2.0,0.0
+Anthony Eisele,0.1,SR,OL/DL,#55,North Iowa,1.0,0.0
 Hunter DeGard,0.0,FR,OG/DE,#24,Melcher-Dallas,0.0,0.0
 Leo Schrader,0.0,FR,QB/DB,#23,Melcher-Dallas,0.0,0.0
 Kolton Robinson,0.0,SO,RB/DB,#23,Northwood-Kensett,0.0,0.0
@@ -404,8 +406,6 @@ Johnny Cortez,0.0,SO,RB/LB,#23,Coon Rapids-Bayard,0.0,0.0
 Cooper Petersen,0.1,JR,DE/OG,#33,Boyer Valley,1.0,0.0
 Hayden Hicks,0.0,FR,TE/LB,#66,Boyer Valley,0.0,0.0
 Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0
-Anthony Eisele,0.0,SR,OL/DL,#55,North Iowa,0.0,0.0
-Trent Robertson,0.0,SR,WR/LB,#5,North Iowa,0.0,0.0
 Talan Jacobsen,0.0,FR,QB/LB,#10,North Iowa,0.0,0.0
 Luke Long,0.0,SO,RB/DB,#9,Moravia,0.0,0.0
 Jayden Robinson,1.3,FR,WR/LB,#84,Moravia,13.0,0.0

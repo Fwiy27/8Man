@@ -22,6 +22,7 @@ Ethan Bockelman,SR,QB/DB,#22,Lone Tree,910,16
 Gavin Menke-Bailey,JR,QB/LB,#5,New London,389,3
 Nolan Gannon,FR,RB/LB,#34,Murray,525,9
 Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,243,5
+Brogyn Greensky,SR,QB/LB,#4,North Iowa,457,3
 Beau Burns,SO,QB/DB,#2,BGM,882,13
 Braxton Blackburn,SR,,#10,Fremont-Mills,812,15
 Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,404,5
@@ -38,7 +39,6 @@ Louden Huisenga,JR,RB/LB,#8,WACO,567,9
 McKoy Nuss,SO,QB/LB,#13,Tripoli,380,6
 Michael Hensley,JR,RB/LB,#6,Sidney,396,6
 Dalton Mudderman,JR,QB/LB,#5,Kee,497,10
-Brogyn Greensky,SR,QB/LB,#4,North Iowa,428,3
 Brady Boulton,SO,QB/DB,#1,Montezuma,579,12
 Max Henstorf,SR,QB/LB,#7,HLV,236,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,497,6
@@ -71,6 +71,7 @@ Owen Johnson,FR,RB/DE,#26,Griswold,288,3
 Burke Busta,SR,FB,#9,Turkey Valley,367,6
 Chase Spieker,JR,QB/DB,#5,CAM,463,13
 Caden Page,JR,QB/LB,#8,Murray,184,6
+Carson Frerichs,SR,RB/LB,#28,North Iowa,157,1
 Brett Plants,JR,RB/LB,#22,Montezuma,461,8
 Isaac Murphy,SR,RB/S,#1,GTRA,290,7
 Caden Roethler,SR,FB/LB,#20,Bishop Garrigan,384,9
@@ -105,7 +106,6 @@ Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,257,3
 Conlin Rouse,SO,RB/LB,#11,Springville,189,4
 Kendrick Mastin,SR,RB/LB,#9,Murray,183,3
 Nolan Grebin,SR,QB/S,#2,Stanton/Essex,135,2
-Carson Frerichs,SR,RB/LB,#28,North Iowa,149,1
 Clayton Miller,JR,QB/CB,#4,WACO,214,4
 Grant Whitehead,JR,QB/DB,#15,Sidney,200,2
 Christian Pierce,SO,QB/S,#4,Rockford,117,0
@@ -256,6 +256,7 @@ Gio Cruz,SR,RB/DB,#5,Lenox,47,1
 Kolben Robinson,SO,TE/LB,#25,Lenox,38,1
 Lawson Kling,SR,,#7,Fremont-Mills,103,2
 Sam Fettkether,SR,OL/LB,#47,Central Elkader,-11,0
+Trent Robertson,SR,WR/LB,#5,North Iowa,49,0
 Ryan Heaton,JR,FB/DE,#43,Melcher-Dallas,28,0
 David Rose,JR,WR/DB,#5,Montezuma,42,0
 Caleb Swedin,SO,RB/LB,#7,GTRA,53,2
@@ -378,6 +379,7 @@ Nick Maurer,SO,WR/CB,#21,East Mills,33,0
 Brody Koski,FR,QB/LB,#7,Boyer Valley,69,0
 Isaac Loan,SO,QB/DB,#12,Central Elkader,20,0
 Braden Taylor,SO,OL/DL,#60,Central Elkader,2,0
+Anthony Eisele,SR,OL/DL,#55,North Iowa,6,0
 Hunter DeGard,FR,OG/DE,#24,Melcher-Dallas,8,0
 Leo Schrader,FR,QB/DB,#23,Melcher-Dallas,-4,0
 Kolton Robinson,SO,RB/DB,#23,Northwood-Kensett,10,0
@@ -404,8 +406,6 @@ Johnny Cortez,SO,RB/LB,#23,Coon Rapids-Bayard,2,0
 Cooper Petersen,JR,DE/OG,#33,Boyer Valley,8,1
 Hayden Hicks,FR,TE/LB,#66,Boyer Valley,13,0
 Emmett Burke,SO,WR/DB,#10,Lone Tree,29,0
-Anthony Eisele,SR,OL/DL,#55,North Iowa,5,0
-Trent Robertson,SR,WR/LB,#5,North Iowa,23,0
 Talan Jacobsen,FR,QB/LB,#10,North Iowa,15,0
 Luke Long,SO,RB/DB,#9,Moravia,5,0
 Jayden Robinson,FR,WR/LB,#84,Moravia,13,0
