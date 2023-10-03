@@ -7,8 +7,8 @@ Ambrose Savage,16.4,JR,QB/LB,#12,Lamoni,104.0,1.0
 Andrew Beran,29.7,JR,RB,#2,Riceville,117.0,3.0
 Oliver Schmitt,24.7,SR,FB,#22,Turkey Valley,127.0,2.0
 Landon Montag,33.5,SR,RB/LB,#24,West Bend-Mallard,155.0,3.0
+Judah Bielenberg,0.3,JR,QB/LB,#10,Siouxland Christian,3.0,0.0
 Jameson Kilworth,17.4,SR,QB/DB,#8,Exira-EHK,114.0,1.0
-Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
 MaKade Bloker,37.5,SR,RB/LB,#11,Clarksville,135.0,4.0
 Adam Scott,3.1,SR,RB/LB,#26,West Central,31.0,0.0
@@ -189,6 +189,7 @@ London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0
 Derek Bartlett,0.0,SR,LB/RB,#4,Stanton/Essex,0.0,0.0
 Drew Stanek,0.0,JR,RB/LB,#16,Gladbrook-Reinbeck,0.0,0.0
+Jed Bielenberg,1.5,SR,DE/WR,#15,Siouxland Christian,15.0,0.0
 Bryer Jack,-3.9,FR,QB/DB,#14,HLV,-39.0,0.0
 Ethan Bauer,1.7,SO,RB/DB,#4,Coon Rapids-Bayard,17.0,0.0
 Riley Garrett,0.0,JR,RB/DL,#11,Dunkerton,0.0,0.0
@@ -218,7 +219,6 @@ Owen Bral,8.8,JR,QB/LB,#3,Iowa Valley,28.0,1.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0
 Wyatt Kelley,4.2,FR,RB/LB,#19,East Union,42.0,0.0
 Dalton Weepie,4.8,JR,TE/LB,#33,Dunkerton,48.0,0.0
-Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0
 Lucas Christian,0.5,JR,WR/S,#18,Glidden-Ralston,5.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
 Lincoln Albertson,18.9,SO,RB/LB,#32,Moravia,129.0,1.0
@@ -235,13 +235,13 @@ Adyson Stark,0.0,JR,RB/DB,#6,Belle Plaine,0.0,0.0
 Andrew Kolsrud,0.0,SR,WR/CB,#16,Kee,0.0,0.0
 Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0
 Kaden Schmidt,0.0,FR,RB/LB,#18,Turkey Valley,0.0,0.0
+Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0
 Makade Paulsen,6.7,JR,QB/DB,#3,CAM,7.0,1.0
 Devin Meyer,0.1,SR,TE/LB,#15,Harris-Lake Park,1.0,0.0
 Riley Raines,0.0,FR,RB/LB,#13,New London,0.0,0.0
 Cale Westerbeck,2.6,SO,WR/DB,#4,New London,26.0,0.0
 Jeremy Reineke,0.0,SR,OL/LB,#45,Belle Plaine,0.0,0.0
 Caden Kaufman,1.0,FR,RB/LB,#15,Lenox,10.0,0.0
-Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0
 John Deemer,0.0,FR,RB/LB,#28,Bedford,0.0,0.0
 Jack Follmann,0.0,SR,TE/LB,#40,CAM,0.0,0.0
 Kayden Winther,1.6,FR,RB/LB,#13,CAM,16.0,0.0
@@ -333,6 +333,7 @@ Jack Anderson,0.0,JR,RB/DL,#2,Baxter,0.0,0.0
 Ethan Baxter,0.0,JR,RB/LB,#52,Griswold,0.0,0.0
 Cal Heydon,0.8,SO,QB/DB,#11,Coon Rapids-Bayard,8.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0
+Jeremiah Lynam,0.3,SR,DB/WR,#9,Siouxland Christian,3.0,0.0
 Blake Ewing,0.7,FR,FB/LB,#31,Moravia,7.0,0.0
 Jarit Tapia,-1.4,SR,RB/DB,#14,Winfield-Mt Union,-14.0,0.0
 Carter Hassebroek,1.1,JR,WR/DB,#8,Iowa Valley,11.0,0.0
@@ -443,7 +444,6 @@ Dreyson Morgan,0.0,SO,WR/DB,#10,Gladbrook-Reinbeck,0.0,0.0
 Preston Kulper,0.0,SO,WR/DB,#81,Central Elkader,0.0,0.0
 Domonic Garcia,0.0,SO,WR/DB,#8,Lone Tree,0.0,0.0
 Dominic Graap,0.0,SR,WR/DB,#19,Lone Tree,0.0,0.0
-Jeremiah Lynam,0.0,SR,DB/WR,#9,Siouxland Christian,0.0,0.0
 Carson Peters,0.0,SO,TE/S,#16,Glidden-Ralston,0.0,0.0
 Hayden Fay,0.0,FR,QB/DB,#4,Glidden-Ralston,0.0,0.0
 CJ Smith,0.0,SO,TE/DB,#44,Melcher-Dallas,0.0,0.0

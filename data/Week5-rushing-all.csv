@@ -7,8 +7,8 @@ Ambrose Savage,JR,QB/LB,#12,Lamoni,1017,20
 Andrew Beran,JR,RB,#2,Riceville,698,13
 Oliver Schmitt,SR,FB,#22,Turkey Valley,817,15
 Landon Montag,SR,RB/LB,#24,West Bend-Mallard,782,12
+Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,304,7
 Jameson Kilworth,SR,QB/DB,#8,Exira-EHK,651,10
-Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,301,7
 Myles Grove,SR,QB/LB,#10,English Valleys,595,8
 MaKade Bloker,SR,RB/LB,#11,Clarksville,1138,20
 Adam Scott,SR,RB/LB,#26,West Central,492,2
@@ -189,6 +189,7 @@ London Franklin,SO,RB/DE,#6,New London,60,0
 Corbin Jacobs-Jewell,JR,TE/DE,#10,New London,11,0
 Derek Bartlett,SR,LB/RB,#4,Stanton/Essex,121,3
 Drew Stanek,JR,RB/LB,#16,Gladbrook-Reinbeck,85,0
+Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,95,2
 Bryer Jack,FR,QB/DB,#14,HLV,-61,0
 Ethan Bauer,SO,RB/DB,#4,Coon Rapids-Bayard,72,0
 Riley Garrett,JR,RB/DL,#11,Dunkerton,37,0
@@ -218,7 +219,6 @@ Owen Bral,JR,QB/LB,#3,Iowa Valley,125,3
 Justin Weispfenning,JR,RB/DB,#3,Easton Valley,31,0
 Wyatt Kelley,FR,RB/LB,#19,East Union,66,1
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,160,1
-Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,80,2
 Lucas Christian,JR,WR/S,#18,Glidden-Ralston,40,0
 Rocky Johnson,FR,RB/DB,#15,Melcher-Dallas,26,0
 Lincoln Albertson,SO,RB/LB,#32,Moravia,163,2
@@ -235,13 +235,13 @@ Adyson Stark,JR,RB/DB,#6,Belle Plaine,166,3
 Andrew Kolsrud,SR,WR/CB,#16,Kee,50,1
 Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,16,0
 Kaden Schmidt,FR,RB/LB,#18,Turkey Valley,92,2
+Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,12,0
 Makade Paulsen,JR,QB/DB,#3,CAM,147,2
 Devin Meyer,SR,TE/LB,#15,Harris-Lake Park,48,0
 Riley Raines,FR,RB/LB,#13,New London,5,0
 Cale Westerbeck,SO,WR/DB,#4,New London,79,1
 Jeremy Reineke,SR,OL/LB,#45,Belle Plaine,27,3
 Caden Kaufman,FR,RB/LB,#15,Lenox,70,1
-Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,12,0
 John Deemer,FR,RB/LB,#28,Bedford,89,3
 Jack Follmann,SR,TE/LB,#40,CAM,53,0
 Kayden Winther,FR,RB/LB,#13,CAM,106,3
@@ -333,6 +333,7 @@ Jack Anderson,JR,RB/DL,#2,Baxter,21,0
 Ethan Baxter,JR,RB/LB,#52,Griswold,64,1
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,9,0
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,54,0
+Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,9,0
 Blake Ewing,FR,FB/LB,#31,Moravia,17,0
 Jarit Tapia,SR,RB/DB,#14,Winfield-Mt Union,-4,0
 Carter Hassebroek,JR,WR/DB,#8,Iowa Valley,42,1
@@ -443,7 +444,6 @@ Dreyson Morgan,SO,WR/DB,#10,Gladbrook-Reinbeck,8,1
 Preston Kulper,SO,WR/DB,#81,Central Elkader,0,0
 Domonic Garcia,SO,WR/DB,#8,Lone Tree,10,0
 Dominic Graap,SR,WR/DB,#19,Lone Tree,3,0
-Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,6,0
 Carson Peters,SO,TE/S,#16,Glidden-Ralston,4,0
 Hayden Fay,FR,QB/DB,#4,Glidden-Ralston,-6,0
 CJ Smith,SO,TE/DB,#44,Melcher-Dallas,51,1
