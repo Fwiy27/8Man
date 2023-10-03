@@ -42,6 +42,7 @@ Jack Gordon,14.3,SR,WR/DL,#18,East Mills,1.0,73.0,1.0
 Tate Martin,11.0,JR,RB/LB,#33,BGM,6.0,50.0,0.0
 Kaleb Gill,0.0,SR,,#1,GMG,0.0,0.0,0.0
 Jackson Schulte,23.4,SR,RB/LB,#21,Kee,4.0,74.0,2.0
+Hudson Clark,6.2,SO,WR/DB,#3,Gladbrook-Reinbeck,2.0,42.0,0.0
 Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0,0.0
 Marshawn Taylor,19.2,SR,RB/CB,#12,Rockford,12.0,72.0,0.0
 Declan DeJong,0.0,SO,TE/DE,#41,Moravia,0.0,0.0,0.0
@@ -56,13 +57,13 @@ Drew Lappe,19.7,SR,WR/CB,#5,Bishop Garrigan,3.0,47.0,2.0
 Holden Roberts,29.4,SO,TE/DE,#13,Twin Cedars,7.0,104.0,2.0
 Lane Oswalt,28.8,SR,WR/DB,#87,Collins-Maxwell,8.0,88.0,2.0
 Reed Oswalt,6.6,SO,WR/DB,#24,Collins-Maxwell,3.0,36.0,0.0
-Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
 Colby Eskildsen,19.4,JR,TE/DL,#12,Northwood-Kensett,2.0,54.0,2.0
 Kaden Kobliska,9.4,SR,WR,#8,Riceville,1.0,24.0,1.0
 Kolt Payne,0.0,JR,SL/CB,#24,Sidney,0.0,0.0,0.0
 Matt Sauer,1.0,SR,TE/DE,#82,Midland,1.0,0.0,0.0
 Cael Weisskopf,24.2,FR,RB/LB,#5,HLV,7.0,52.0,2.0
 Kolby Culbertson,7.0,SR,TE/DB,#2,Coon Rapids-Bayard,3.0,40.0,0.0
+Drew Eilers,16.0,JR,WR/DL,#2,Gladbrook-Reinbeck,4.0,60.0,1.0
 Jeremiah Lynam,7.8,SR,DB/WR,#9,Siouxland Christian,1.0,8.0,1.0
 Anthony Eisele,15.7,SR,OL/DL,#55,North Iowa,5.0,47.0,1.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
@@ -91,7 +92,6 @@ Talan Driscoll,10.7,FR,RB/LB,#8,Easton Valley,4.0,7.0,1.0
 Kael Cress,0.0,JR,WR/S,#7,Midland,0.0,0.0,0.0
 Tyler Ballard,14.9,SR,TE/DE,#22,HLV,5.0,39.0,1.0
 Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0,0.0
-Drew Eilers,0.0,JR,WR/DL,#2,Gladbrook-Reinbeck,0.0,0.0,0.0
 Cristian Brown,19.4,SR,WR/DB,#47,Dunkerton,3.0,44.0,2.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0,0.0
@@ -204,6 +204,7 @@ Brock Micetich,18.7,FR,RB/LB,#36,Twin Cedars,5.0,77.0,1.0
 Peyton Cook,0.0,JR,QB/CB,#2,Griswold,0.0,0.0,0.0
 Tyler Rodgers,3.1,JR,WR/CB,#17,Mormon Trail,2.0,11.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0,0.0
+Treyvon Herron,9.2,FR,WR/DB,#9,Gladbrook-Reinbeck,1.0,22.0,1.0
 Jacob Berens,4.4,SR,RB/LB,#34,Boyer Valley,3.0,14.0,0.0
 Jack Scherf,0.0,JR,WR/DB,#23,Central Elkader,0.0,0.0,0.0
 Jackson Stansberry,0.0,SO,WR/DB,#22,Siouxland Christian,0.0,0.0,0.0
@@ -238,7 +239,6 @@ Kendrick Mastin,5.4,SR,RB/LB,#9,Murray,1.0,44.0,0.0
 Gavin Ford,0.0,JR,QB/LB,#12,Stanton/Essex,0.0,0.0,0.0
 Johnny Resh,0.0,SR,TE/DL,#20,Stanton/Essex,0.0,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0,0.0
-Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0,0.0
 Sam Hoodjer,11.6,JR,WR/CB,#80,Clarksville,2.0,36.0,1.0
 John Stauffer,2.0,JR,TE/LB,#82,Clarksville,1.0,10.0,0.0
 Preston Kulper,2.0,SO,WR/DB,#81,Central Elkader,1.0,10.0,0.0
@@ -276,6 +276,7 @@ Cole Green,1.4,FR,TE/DE,#34,Calamus-Wheatland,1.0,4.0,0.0
 Luke Rohling,2.7,SR,FB/LB,#16,Calamus-Wheatland,2.0,7.0,0.0
 Kellen Whitman,0.0,FR,FB/LB,#32,Calamus-Wheatland,0.0,0.0,0.0
 Trey Rosenbeck,0.0,SR,TE/LB,#3,Coon Rapids-Bayard,0.0,0.0,0.0
+Austin Vaverka,8.0,SR,RB/LB,#5,Gladbrook-Reinbeck,2.0,60.0,0.0
 Kyle Reinhart,2.0,JR,WR/DB,#40,Central Elkader,1.0,10.0,0.0
 Maddox Jondle,2.2,JR,QB/LB,#11,Lone Tree,1.0,12.0,0.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0,0.0
@@ -311,6 +312,7 @@ Brayden Svejda,0.0,JR,QB/CB,#1,Calamus-Wheatland,0.0,0.0,0.0
 Cooper Smith,0.0,FR,TE/LB,#16,Mormon Trail,0.0,0.0,0.0
 Connor Snethen,0.0,FR,WR/CB,#10,Mormon Trail,0.0,0.0,0.0
 Kael Blohm,0.0,SO,WR/DB,#15,Gladbrook-Reinbeck,0.0,0.0,0.0
+Austin Gehring,2.2,SR,WR/DB,#4,Gladbrook-Reinbeck,1.0,12.0,0.0
 Sam Fettkether,0.0,SR,OL/LB,#47,Central Elkader,0.0,0.0,0.0
 Domonic Garcia,0.0,SO,WR/DB,#8,Lone Tree,0.0,0.0,0.0
 Dominic Graap,0.0,SR,WR/DB,#19,Lone Tree,0.0,0.0,0.0
@@ -368,9 +370,7 @@ Parker Hays,0.0,JR,RB/DB,#9,Coon Rapids-Bayard,0.0,0.0,0.0
 Wyatt Oswald,0.0,JR,QB/LB,#10,Coon Rapids-Bayard,0.0,0.0,0.0
 Caden Oswald,0.0,FR,RB/DB,#6,Coon Rapids-Bayard,0.0,0.0,0.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0,0.0
-Austin Gehring,0.0,SR,WR/DB,#4,Gladbrook-Reinbeck,0.0,0.0,0.0
 Trypp Roszell,0.0,JR,WR/DB,#18,Gladbrook-Reinbeck,0.0,0.0,0.0
-Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0,0.0
 Anthony Knaack,0.0,FR,WR/LB,#47,Gladbrook-Reinbeck,0.0,0.0,0.0
 Brayden Utter,0.0,FR,WR/LB,#17,Gladbrook-Reinbeck,0.0,0.0,0.0
 Ben Lantz,0.0,SR,OG/DE,#85,Boyer Valley,0.0,0.0,0.0
