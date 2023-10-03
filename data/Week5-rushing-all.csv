@@ -7,9 +7,9 @@ Ambrose Savage,JR,QB/LB,#12,Lamoni,1017,20
 Andrew Beran,JR,RB,#2,Riceville,698,13
 Oliver Schmitt,SR,FB,#22,Turkey Valley,817,15
 Landon Montag,SR,RB/LB,#24,West Bend-Mallard,782,12
+Myles Grove,SR,QB/LB,#10,English Valleys,661,8
 Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,304,7
 Jameson Kilworth,SR,QB/DB,#8,Exira-EHK,651,10
-Myles Grove,SR,QB/LB,#10,English Valleys,595,8
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,287,4
 MaKade Bloker,SR,RB/LB,#11,Clarksville,1138,20
 Adam Scott,SR,RB/LB,#26,West Central,492,2
@@ -67,6 +67,7 @@ Josef Dvorak,JR,RB/DB,#25,Collins-Maxwell,445,6
 Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,864,11
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,442,9
 Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting,245,4
+Ben Coffman,JR,RB/LB,#9,English Valleys,308,2
 Owen Johnson,FR,RB/DE,#26,Griswold,288,3
 Burke Busta,SR,FB,#9,Turkey Valley,367,6
 Chase Spieker,JR,QB/DB,#5,CAM,463,13
@@ -85,7 +86,6 @@ Broox Stockman,SO,RB/LB,#20,Montezuma,232,2
 Ty Christensen,SO,,#5,Don Bosco,554,9
 Talan Pletz,SO,RB/LB,#5,Janesville,278,3
 Braden Jordan,SO,QB/LB,#10,Springville,221,1
-Ben Coffman,JR,RB/LB,#9,English Valleys,273,2
 Edde Gonzalez,SR,RB/LB,#1,West Central,211,5
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,405,9
 Cade Robinson,JR,WR/CB,#12,Baxter,286,2
@@ -132,6 +132,7 @@ Cainan Travis,JR,WR/LB,#20,Baxter,198,2
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,99,2
 Grant Finck,JR,RB/LB,#10,Dunkerton,148,2
 Conner Nally,SR,QB/LB,#5,Bedford,292,8
+Deshon Anderson,SO,RB/LB,#32,English Valleys,184,3
 Brody Paulsen,SR,RB/DB,#2,CAM,160,5
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,168,5
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,78,1
@@ -146,7 +147,6 @@ Owen Murphy,JR,WR/S,#10,Bishop Garrigan,143,0
 Seth Hudson,SR,QB/S,#7,East Union,70,3
 Nate Curry,SR,RB/LB,#38,Twin Cedars,47,0
 Jayden Hanson,SR,QB/DB,#7,Central City,226,3
-Deshon Anderson,SO,RB/LB,#32,English Valleys,182,3
 Logan French,SR,WR/DB,#1,Stanton/Essex,106,3
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,154,1
 Keagan Lee,SO,QB/DB,#17,Easton Valley,-46,0
@@ -276,6 +276,7 @@ Colin Hartl,JR,RB/LB,#38,Audubon,79,1
 Keenan Foland,FR,QB/S,#1,West Harrison/Whiting,22,0
 Chris Hanson,FR,FB/LB,#32,Central City,34,1
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,126,2
+Jack Osborne,FR,QB/DB,#18,English Valleys,23,0
 Gavin Ford,JR,QB/LB,#12,Stanton/Essex,18,0
 Levi Evans,SO,TE/DE,#20,Mormon Trail,15,1
 Jack Gordon,SR,WR/DL,#18,East Mills,117,2
@@ -348,6 +349,7 @@ Josh Lindsey,SO,WR/S,#36,Central City,61,1
 Drew Fehr,SR,RB/DB,#7,West Bend-Mallard,17,1
 Quintin White,SR,WR/DB,#3,Exira-EHK,17,1
 Keaton Brammer,FR,WR/CB,#14,Murray,8,2
+Corey Breese,SR,TE/LB,#70,English Valleys,11,0
 Blake Micetich,SR,RB/DB,#3,Twin Cedars,4,0
 Seth Bell,FR,QB/DB,#26,Collins-Maxwell,9,0
 Cristian Brown,SR,WR/DB,#47,Dunkerton,-1,0
@@ -367,7 +369,6 @@ Connor Rahn,JR,,#12,GMG,5,1
 Andreas Buttry,JR,QB/CB,#5,Sidney,-1,0
 Wyatt Christiansen,SO,RB/LB,#10,Midland,-4,0
 Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,48,1
-Jack Osborne,FR,QB/DB,#18,English Valleys,15,0
 Jonathan Ekpai,SO,,#24,Fremont-Mills,35,0
 Braxton Davis,JR,WR/DB,#9,Twin Cedars,17,0
 Cody Dorscher,JR,WR/CB,#24,Griswold,6,0
@@ -396,7 +397,6 @@ Rylan Behrends,FR,RB/LB,#22,Sidney,10,0
 Parker Fister,SO,RB/DB,#20,Exira-EHK,6,0
 Nathaniel Rowe,JR,WR/CB,#11,Murray,7,0
 Treyton Travis,SR,WR/CB,#24,Baxter,-12,0
-Corey Breese,SR,TE/LB,#70,English Valleys,14,0
 Levi Fitzgerald,FR,WR/DB,#7,Lenox,14,0
 Corbyn Sheley,FR,RB/LB,#32,Lenox,26,0
 Mathew Lamkins,SR,,#32,Fremont-Mills,4,0
