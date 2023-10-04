@@ -20,9 +20,9 @@ Nolan Kriegel,3.7,FR,QB/DB,#2,Iowa Valley,37.0,0.0
 Evan Alt,15.8,SR,RB/LB,#4,Audubon,98.0,1.0
 Cole Fehr,15.9,JR,RB/LB,#33,West Bend-Mallard,39.0,2.0
 Ethan Bockelman,21.0,SR,QB/DB,#22,Lone Tree,90.0,2.0
+Kael Caikoski,-0.3,SR,RB/LB,#22,Melcher-Dallas,-3.0,0.0
 Gavin Menke-Bailey,-0.3,JR,QB/LB,#5,New London,-3.0,0.0
 Nolan Gannon,15.9,FR,RB/LB,#34,Murray,99.0,1.0
-Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0
 Brogyn Greensky,2.9,SR,QB/LB,#4,North Iowa,29.0,0.0
 Beau Burns,5.1,SO,QB/DB,#2,BGM,51.0,0.0
 Braxton Blackburn,15.8,SR,,#10,Fremont-Mills,98.0,1.0
@@ -109,6 +109,7 @@ Kendrick Mastin,1.2,SR,RB/LB,#9,Murray,12.0,0.0
 Nolan Grebin,0.0,SR,QB/S,#2,Stanton/Essex,0.0,0.0
 Clayton Miller,2.6,JR,QB/CB,#4,WACO,26.0,0.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
+Reece Chiabotta,-1.2,SO,QB/DB,#34,Melcher-Dallas,-12.0,0.0
 Christian Pierce,1.6,SO,QB/S,#4,Rockford,16.0,0.0
 Jackson Schulte,0.5,SR,RB/LB,#21,Kee,5.0,0.0
 Dallas Smith,23.1,JR,QB/DB,#2,Twin Cedars,111.0,2.0
@@ -121,7 +122,6 @@ Cole Milks,27.0,SR,RB/S,#11,Winfield-Mt Union,90.0,3.0
 Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0
 Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0
 Jacob Berens,13.0,SR,RB/LB,#34,Boyer Valley,70.0,1.0
-Reece Chiabotta,0.0,SO,QB/DB,#34,Melcher-Dallas,0.0,0.0
 Austin Lack,2.0,SR,WR/DB,#3,East Union,20.0,0.0
 Sawyer Forney,5.2,SO,,#2,Fremont-Mills,52.0,0.0
 Jordan Goad,0.4,JR,QB/CB,#1,Springville,4.0,0.0
@@ -193,6 +193,7 @@ Jed Bielenberg,1.5,SR,DE/WR,#15,Siouxland Christian,15.0,0.0
 Bryer Jack,-3.9,FR,QB/DB,#14,HLV,-39.0,0.0
 Ethan Bauer,1.7,SO,RB/DB,#4,Coon Rapids-Bayard,17.0,0.0
 Riley Garrett,0.0,JR,RB/DL,#11,Dunkerton,0.0,0.0
+Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
 John McLaughlin,17.3,SR,WR/CB,#6,WACO,53.0,2.0
 Jake Edwards,0.0,JR,QB/S,#3,Winfield-Mt Union,0.0,0.0
 Daniel Britt,1.1,JR,RB/S,#3,Janesville,11.0,0.0
@@ -222,7 +223,6 @@ Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0
 Wyatt Kelley,4.2,FR,RB/LB,#19,East Union,42.0,0.0
 Dalton Weepie,4.8,JR,TE/LB,#33,Dunkerton,48.0,0.0
 Lucas Christian,0.5,JR,WR/S,#18,Glidden-Ralston,5.0,0.0
-Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
 Lincoln Albertson,18.9,SO,RB/LB,#32,Moravia,129.0,1.0
 Trevor Tauber,3.7,SO,QB/S,#12,Newell-Fonda,37.0,0.0
 Jack Angell,19.8,SO,QB/DB,#18,Colo-Nesco,78.0,2.0
@@ -314,6 +314,7 @@ Bode Wyman,0.0,JR,QB/CB,#8,Griswold,0.0,0.0
 Kellen Whitman,0.0,FR,FB/LB,#32,Calamus-Wheatland,0.0,0.0
 Landon Gibbs,10.9,FR,RB/CB,#24,East Mills,49.0,1.0
 Parker Reicks,1.6,SO,FB/LB,#42,Turkey Valley,16.0,0.0
+Gavyn Thordarson,0.2,SO,RB/DE,#8,Melcher-Dallas,2.0,0.0
 Cruz DeJong,0.4,SR,TE/LB,#40,Montezuma,4.0,0.0
 Alex Tiedemann,0.4,SO,QB/DB,#34,Northwood-Kensett,4.0,0.0
 Lerik McCarty,1.6,JR,RB/LB,#2,WACO,16.0,0.0
@@ -336,6 +337,7 @@ Jack Anderson,0.0,JR,RB/DL,#2,Baxter,0.0,0.0
 Ethan Baxter,0.0,JR,RB/LB,#52,Griswold,0.0,0.0
 Cal Heydon,0.8,SO,QB/DB,#11,Coon Rapids-Bayard,8.0,0.0
 Jeremiah Lynam,0.3,SR,DB/WR,#9,Siouxland Christian,3.0,0.0
+Leo Schrader,-0.9,FR,QB/DB,#23,Melcher-Dallas,-9.0,0.0
 Blake Ewing,0.7,FR,FB/LB,#31,Moravia,7.0,0.0
 Jarit Tapia,-1.4,SR,RB/DB,#14,Winfield-Mt Union,-14.0,0.0
 Carter Hassebroek,1.1,JR,WR/DB,#8,Iowa Valley,11.0,0.0
@@ -356,7 +358,6 @@ Cristian Brown,-0.4,SR,WR/DB,#47,Dunkerton,-4.0,0.0
 Caybrin Schilling,0.0,SO,QB/DB,#7,Dunkerton,0.0,0.0
 Milton Cushion,0.1,FR,RB/DB,#11,West Central,1.0,0.0
 Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0.0,0.0
-Gavyn Thordarson,0.0,SO,RB/DE,#8,Melcher-Dallas,0.0,0.0
 Lucas Dow,0.0,JR,RB/LB,#26,Rockford,0.0,0.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0
 Abram Edwards,0.0,SR,TE/DE,#84,Winfield-Mt Union,0.0,0.0
@@ -382,7 +383,6 @@ Isaac Loan,0.0,SO,QB/DB,#12,Central Elkader,0.0,0.0
 Braden Taylor,0.2,SO,OL/DL,#60,Central Elkader,2.0,0.0
 Anthony Eisele,0.1,SR,OL/DL,#55,North Iowa,1.0,0.0
 Hunter DeGard,0.0,FR,OG/DE,#24,Melcher-Dallas,0.0,0.0
-Leo Schrader,0.0,FR,QB/DB,#23,Melcher-Dallas,0.0,0.0
 Kolton Robinson,0.0,SO,RB/DB,#23,Northwood-Kensett,0.0,0.0
 Ashton Nally,0.0,SO,QB/CB,#1,Bedford,0.0,0.0
 Nicholas Sparrow,-0.1,SO,QB/DB,#1,Winfield-Mt Union,-1.0,0.0
