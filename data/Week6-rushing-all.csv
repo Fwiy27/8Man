@@ -21,6 +21,7 @@ Evan Alt,SR,RB/LB,#4,Audubon,834,14
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,536,11
 Ethan Bockelman,SR,QB/DB,#22,Lone Tree,910,16
 Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,240,5
+Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,639,14
 Gavin Menke-Bailey,JR,QB/LB,#5,New London,389,3
 Nolan Gannon,FR,RB/LB,#34,Murray,525,9
 Brogyn Greensky,SR,QB/LB,#4,North Iowa,457,3
@@ -42,7 +43,6 @@ Dalton Mudderman,JR,QB/LB,#5,Kee,497,10
 Brady Boulton,SO,QB/DB,#1,Montezuma,579,12
 Max Henstorf,SR,QB/LB,#7,HLV,236,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,497,6
-Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,531,11
 Mason Hoy,SO,RB/CB,#9,Springville,635,11
 Fischer Buffington,JR,RB/DE,#12,East Union,417,4
 Slate Witte,SR,,#7,GMG,425,7
@@ -124,6 +124,7 @@ Jacob Martin,JR,RB/LB,#3,Stanton/Essex,400,6
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,204,2
 Austin Lack,SR,WR/DB,#3,East Union,165,2
 Sawyer Forney,SO,,#2,Fremont-Mills,166,1
+Brady Koenck,JR,RB/LB,#26,Remsen St. Mary's,143,3
 Jordan Goad,JR,QB/CB,#1,Springville,86,1
 James Buhlman,FR,RB/LB,#27,Easton Valley,194,3
 Caden Oswald,FR,RB/DB,#6,Coon Rapids-Bayard,340,8
@@ -161,7 +162,6 @@ Dylan Marquart,JR,QB/DB,#3,Dunkerton,-2,3
 Colin Snyder,SO,RB/LB,#24,Dunkerton,147,1
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,142,2
 Lucas Madison,SR,,#5,Fremont-Mills,195,3
-Brady Koenck,JR,RB/LB,#26,Remsen St. Mary's,102,3
 Logan Busta,SO,QB/DB,#1,Turkey Valley,122,3
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,44,1
 Jabari Woodbury,SR,,#2,GMG,365,6
@@ -459,6 +459,7 @@ Caden Carruthers,JR,QB/DL,#20,Southeast Warren,7,0
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,4,0
 Cael Dop,FR,OG/DT,#58,Southeast Warren,5,0
 Teagan Hanson,SO,QB/S,#10,GTRA,29,1
+Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,9,0
 Jack Seyller,SO,QB/DB,#30,Colo-Nesco,3,0
 Logan Boldt,SO,WR/LB,#3,Tripoli,1,0
 Ethan Schaufenbuel,SO,WR/CB,#20,Tripoli,-11,0
