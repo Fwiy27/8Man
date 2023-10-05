@@ -61,6 +61,7 @@ Luke Cripps,SR,QB/S,#1,Boyer Valley,552,9
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,502,6
 Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,446,6
 Gabe Funk,JR,QB/DB,#17,Lenox,497,12
+Owen Johnson,FR,RB/DE,#26,Griswold,334,3
 Max Carlson,JR,QB/LB,#10,Newell-Fonda,512,5
 Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,217,3
 Josef Dvorak,JR,RB/DB,#25,Collins-Maxwell,445,6
@@ -68,7 +69,6 @@ Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,864,11
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,442,9
 Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting,245,4
 Ben Coffman,JR,RB/LB,#9,English Valleys,308,2
-Owen Johnson,FR,RB/DE,#26,Griswold,288,3
 Burke Busta,SR,FB,#9,Turkey Valley,367,6
 Chase Spieker,JR,QB/DB,#5,CAM,463,13
 Caden Page,JR,QB/LB,#8,Murray,184,6
@@ -117,6 +117,7 @@ Owen Garside,JR,S/QB,#3,Boyer Valley,381,11
 Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,181,1
 Garrison Motsinger,JR,RB/S,#4,Bedford,399,8
 Blayne Smith,JR,QB/DB,#15,Ar-We-Va,106,6
+Mason Steinhoff,SO,RB/LB,#11,Griswold,191,2
 Eli Schmidt,SR,RB/S,#3,Clarksville,285,7
 Cole Milks,SR,RB/S,#11,Winfield-Mt Union,371,12
 Seth Bixler,SR,WR/S,#1,Midland,275,3
@@ -134,6 +135,7 @@ Cainan Travis,JR,WR/LB,#20,Baxter,198,2
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,99,2
 Grant Finck,JR,RB/LB,#10,Dunkerton,148,2
 Conner Nally,SR,QB/LB,#5,Bedford,292,8
+Zane Johnson,JR,RB/LB,#7,Griswold,156,1
 Deshon Anderson,SO,RB/LB,#32,English Valleys,184,3
 Brody Paulsen,SR,RB/DB,#2,CAM,160,5
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,168,5
@@ -152,7 +154,6 @@ Jayden Hanson,SR,QB/DB,#7,Central City,226,3
 Logan French,SR,WR/DB,#1,Stanton/Essex,106,3
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,154,1
 Keagan Lee,SO,QB/DB,#17,Easton Valley,-46,0
-Mason Steinhoff,SO,RB/LB,#11,Griswold,108,1
 Jed Tyler,SR,QB/DB,#7,West Central,14,1
 Trey Edeker,SO,RB/DE,#20,WACO,81,1
 Kinnick Henning,SO,RB/LB,#22,St. Edmond,166,1
@@ -182,7 +183,6 @@ Ty Lindquist,JR,FB/LB,#18,Dunkerton,348,5
 Joe Koehler,SR,FB/DE,#24,Rockford,62,0
 Reece Oswald,SR,RB/CB,#27,WACO,140,5
 Sean McCulloch,FR,QB/DB,#24,HLV,61,0
-Zane Johnson,JR,RB/LB,#7,Griswold,86,0
 Hunter Hardin,JR,RB/LB,#36,Colo-Nesco,90,0
 Aiden Hellman,FR,,#18,Don Bosco,101,2
 London Franklin,SO,RB/DE,#6,New London,60,0
@@ -294,6 +294,7 @@ Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,0
 Chaz Cornelison,JR,RB/DB,#31,East Union,34,1
 Cash Weber,SO,RB/DE,#2,Central City,60,1
 Landyn Ankrum,SO,RB/LB,#36,HLV,-1,0
+Bode Wyman,JR,QB/CB,#8,Griswold,25,1
 Jader Sanchez,SR,RB/DB,#4,Lone Tree,49,1
 Trent Hoback,SR,LB/RB,#3,Lone Tree,41,2
 Cade Tentinger,JR,RB/DB,#5,Remsen St. Mary's,27,0
@@ -310,7 +311,6 @@ Jarod Reams,JR,RB/DB,#8,Kee,65,1
 Carter Rycroft,SO,,#4,Fremont-Mills,11,0
 Brock Micetich,FR,RB/LB,#36,Twin Cedars,38,0
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,32,0
-Bode Wyman,JR,QB/CB,#8,Griswold,15,1
 Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,15,0
 Landon Gibbs,FR,RB/CB,#24,East Mills,73,1
 Parker Reicks,SO,FB/LB,#42,Turkey Valley,41,0

@@ -61,6 +61,7 @@ Luke Cripps,0.0,SR,QB/S,#1,Boyer Valley,0.0,0.0
 Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0
 Lucas Ahrenstorff,0.0,SR,QB/S,#1,Harris-Lake Park,0.0,0.0
 Gabe Funk,0.0,JR,QB/DB,#17,Lenox,0.0,0.0
+Owen Johnson,4.6,FR,RB/DE,#26,Griswold,46.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Luke Rohling,0.0,SR,FB/LB,#16,Calamus-Wheatland,0.0,0.0
 Josef Dvorak,0.0,JR,RB/DB,#25,Collins-Maxwell,0.0,0.0
@@ -68,7 +69,6 @@ Cam Buffington,0.0,SR,QB/LB,#33,Winfield-Mt Union,0.0,0.0
 Dawson Smith,0.0,SR,RB/LB,#20,Iowa Valley,0.0,0.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison/Whiting,0.0,0.0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
-Owen Johnson,0.0,FR,RB/DE,#26,Griswold,0.0,0.0
 Burke Busta,0.0,SR,FB,#9,Turkey Valley,0.0,0.0
 Chase Spieker,0.0,JR,QB/DB,#5,CAM,0.0,0.0
 Caden Page,0.0,JR,QB/LB,#8,Murray,0.0,0.0
@@ -117,6 +117,7 @@ Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0
 Alex Daniel,0.0,SO,RB/LB,#27,Glidden-Ralston,0.0,0.0
 Garrison Motsinger,0.0,JR,RB/S,#4,Bedford,0.0,0.0
 Blayne Smith,0.0,JR,QB/DB,#15,Ar-We-Va,0.0,0.0
+Mason Steinhoff,14.3,SO,RB/LB,#11,Griswold,83.0,1.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0
 Cole Milks,0.0,SR,RB/S,#11,Winfield-Mt Union,0.0,0.0
 Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0
@@ -134,6 +135,7 @@ Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0
 Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0
 Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0
 Conner Nally,0.0,SR,QB/LB,#5,Bedford,0.0,0.0
+Zane Johnson,13.0,JR,RB/LB,#7,Griswold,70.0,1.0
 Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Brody Paulsen,0.0,SR,RB/DB,#2,CAM,0.0,0.0
 Logan Grimm,0.0,SR,RB/LB,#34,West Bend-Mallard,0.0,0.0
@@ -152,7 +154,6 @@ Jayden Hanson,0.0,SR,QB/DB,#7,Central City,0.0,0.0
 Logan French,0.0,SR,WR/DB,#1,Stanton/Essex,0.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0
 Keagan Lee,0.0,SO,QB/DB,#17,Easton Valley,0.0,0.0
-Mason Steinhoff,0.0,SO,RB/LB,#11,Griswold,0.0,0.0
 Jed Tyler,0.0,SR,QB/DB,#7,West Central,0.0,0.0
 Trey Edeker,0.0,SO,RB/DE,#20,WACO,0.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0
@@ -182,7 +183,6 @@ Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0
 Joe Koehler,0.0,SR,FB/DE,#24,Rockford,0.0,0.0
 Reece Oswald,0.0,SR,RB/CB,#27,WACO,0.0,0.0
 Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0
-Zane Johnson,0.0,JR,RB/LB,#7,Griswold,0.0,0.0
 Hunter Hardin,0.0,JR,RB/LB,#36,Colo-Nesco,0.0,0.0
 Aiden Hellman,0.0,FR,,#18,Don Bosco,0.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
@@ -294,6 +294,7 @@ Gavin DeFord,0.0,JR,RB/LB,#44,Waterloo Christian,0.0,0.0
 Chaz Cornelison,0.0,JR,RB/DB,#31,East Union,0.0,0.0
 Cash Weber,0.0,SO,RB/DE,#2,Central City,0.0,0.0
 Landyn Ankrum,0.0,SO,RB/LB,#36,HLV,0.0,0.0
+Bode Wyman,1.0,JR,QB/CB,#8,Griswold,10.0,0.0
 Jader Sanchez,0.0,SR,RB/DB,#4,Lone Tree,0.0,0.0
 Trent Hoback,0.0,SR,LB/RB,#3,Lone Tree,0.0,0.0
 Cade Tentinger,0.0,JR,RB/DB,#5,Remsen St. Mary's,0.0,0.0
@@ -310,7 +311,6 @@ Jarod Reams,0.0,JR,RB/DB,#8,Kee,0.0,0.0
 Carter Rycroft,0.0,SO,,#4,Fremont-Mills,0.0,0.0
 Brock Micetich,0.0,FR,RB/LB,#36,Twin Cedars,0.0,0.0
 Holden Roberts,0.0,SO,TE/DE,#13,Twin Cedars,0.0,0.0
-Bode Wyman,0.0,JR,QB/CB,#8,Griswold,0.0,0.0
 Kellen Whitman,0.0,FR,FB/LB,#32,Calamus-Wheatland,0.0,0.0
 Landon Gibbs,0.0,FR,RB/CB,#24,East Mills,0.0,0.0
 Parker Reicks,0.0,SO,FB/LB,#42,Turkey Valley,0.0,0.0
