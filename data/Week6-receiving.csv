@@ -58,11 +58,11 @@ Colby Eskildsen,1.6,JR,TE/DL,#12,Northwood-Kensett,1.0,6.0,0.0
 Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0,0.0
 Cam Buffington,0.0,SR,QB/LB,#33,Winfield-Mt Union,0.0,0.0,0.0
 Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
+Matt Sauer,1.9,SR,TE/DE,#82,Midland,1.0,9.0,0.0
 Holden Roberts,0.0,SO,TE/DE,#13,Twin Cedars,0.0,0.0,0.0
 Reed Oswalt,0.0,SO,WR/DB,#24,Collins-Maxwell,0.0,0.0,0.0
 Colton Leichty,16.1,SR,TE/LB,#23,WACO,2.0,21.0,2.0
 Kolt Payne,0.0,JR,SL/CB,#24,Sidney,0.0,0.0,0.0
-Matt Sauer,0.0,SR,TE/DE,#82,Midland,0.0,0.0,0.0
 Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0,0.0
 Cash Emgarten,12.5,SR,WR/DB,#10,Exira-EHK,3.0,35.0,1.0
 Conner Bowers,1.3,JR,TE/CB,#21,Griswold,1.0,3.0,0.0
@@ -143,6 +143,7 @@ Ian Smith,0.0,JR,TE/LB,#5,Iowa Valley,0.0,0.0,0.0
 Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
+Wyatt Christiansen,1.0,SO,RB/LB,#10,Midland,1.0,0.0,0.0
 Bryce Brabham,0.0,SO,RB/DB,#9,Exira-EHK,0.0,0.0,0.0
 Samuel Dascher,0.0,SO,TE/CB,#31,Calamus-Wheatland,0.0,0.0,0.0
 Levi Reineke,4.9,SO,LB/RB,#29,Boyer Valley,2.0,29.0,0.0
@@ -164,7 +165,6 @@ Cole Bethune,0.0,JR,WR/S,#4,West Harrison/Whiting,0.0,0.0,0.0
 Clay Westphal,0.0,SO,SL/S,#8,West Harrison/Whiting,0.0,0.0,0.0
 Gavin DeFord,0.0,JR,RB/LB,#44,Waterloo Christian,0.0,0.0,0.0
 Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0,0.0
-Wyatt Christiansen,0.0,SO,RB/LB,#10,Midland,0.0,0.0,0.0
 Carter Sholtus,0.0,SR,WR/CB,#2,HLV,0.0,0.0,0.0
 Kaleb Drape,14.0,SR,WR/LB,#6,Kee,2.0,60.0,1.0
 Cody Samson,0.0,SR,TE/LB,#36,Baxter,0.0,0.0,0.0
@@ -313,6 +313,7 @@ Eli Weimer,0.0,JR,WR/DB,#18,Waterloo Christian,0.0,0.0,0.0
 Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0,0.0
 Chris Hanson,0.0,FR,FB/LB,#32,Central City,0.0,0.0,0.0
 Matthew Klostermann,0.0,JR,RB/LB,#22,Central City,0.0,0.0,0.0
+Sawyer House,1.4,SR,WR/CB,#4,Midland,1.0,4.0,0.0
 Carter Fehr,0.0,SR,TE/DL,#13,West Bend-Mallard,0.0,0.0,0.0
 Aidan Yoch,0.0,SR,TE/DB,#14,West Bend-Mallard,0.0,0.0,0.0
 Nathaniel Rowe,0.0,JR,WR/CB,#11,Murray,0.0,0.0,0.0
@@ -354,7 +355,6 @@ Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0,0.0
 Jayden Hanson,0.0,SR,QB/DB,#7,Central City,0.0,0.0,0.0
 Kinnick Weis,0.0,SO,TE/DE,#81,Central City,0.0,0.0,0.0
 Christopher Greif,0.0,SR,LB/FB,#44,Central City,0.0,0.0,0.0
-Sawyer House,0.0,SR,WR/CB,#4,Midland,0.0,0.0,0.0
 Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0,0.0
 Jayden Smith,0.0,JR,OG/DE,#25,HLV,0.0,0.0,0.0
 Wesley Anderson,0.0,JR,RB/LB,#21,West Bend-Mallard,0.0,0.0,0.0

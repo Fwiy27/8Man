@@ -93,11 +93,13 @@ Ty Christensen,SO,,#5,Don Bosco,554,9
 Talan Pletz,SO,RB/LB,#5,Janesville,278,3
 Aiden Klostermann,SR,RB/S,#10,Central City,509,9
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,299,4
+Dane Ballou,FR,QB/LB,#17,Midland,303,5
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,405,9
 Cade Robinson,JR,WR/CB,#12,Baxter,286,2
 Isaac Clark,SR,QB/LB,#12,Gladbrook-Reinbeck,354,9
 Owen Backer,SO,RB/S,#22,Clarksville,884,16
 Parker Hays,JR,RB/DB,#9,Coon Rapids-Bayard,142,1
+Seth Bixler,SR,WR/S,#1,Midland,340,4
 Jackson Schulte,SR,RB/LB,#21,Kee,354,5
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,360,6
 Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,198,1
@@ -125,7 +127,6 @@ Austin Williams,SR,RB/LB,#20,CAM,320,4
 Mason Steinhoff,SO,RB/LB,#11,Griswold,191,2
 Eli Schmidt,SR,RB/S,#3,Clarksville,285,7
 Cole Milks,SR,RB/S,#11,Winfield-Mt Union,371,12
-Seth Bixler,SR,WR/S,#1,Midland,275,3
 Jacob Martin,JR,RB/LB,#3,Stanton/Essex,400,6
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,408,8
 Conner Nally,SR,QB/LB,#5,Bedford,298,9
@@ -172,6 +173,7 @@ Dylan Marquart,JR,QB/DB,#3,Dunkerton,-2,3
 Colin Snyder,SO,RB/LB,#24,Dunkerton,147,1
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,142,2
 Christopher Greif,SR,LB/FB,#44,Central City,187,6
+Sawyer House,SR,WR/CB,#4,Midland,96,0
 Carson Wessel,SO,QB/LB,#9,Audubon,196,5
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,44,1
 Jabari Woodbury,SR,,#2,GMG,365,6
@@ -182,8 +184,6 @@ Treyton Franzen,FR,FB/LB,#21,Turkey Valley,110,3
 Adam Swaney,SO,RB/LB,#44,Bedford,89,1
 Aldo Esteban-Cabrera,JR,RB/LB,#22,Murray,129,3
 John McLaughlin,SR,WR/CB,#6,WACO,108,6
-Dane Ballou,FR,QB/LB,#17,Midland,106,1
-Sawyer House,SR,WR/CB,#4,Midland,82,0
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,115,2
 Sheldon Vandenberg,JR,OG/LB,#12,East Mills,154,1
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,348,5
@@ -343,6 +343,7 @@ Callan Messerich,SO,WR/DB,#6,Easton Valley,95,1
 Kaleb Gill,SR,,#1,GMG,44,0
 Rason Grail,SR,WR/DB,#23,East Union,26,0
 Dashny Munyakazi,SO,RB/S,#3,Central City,136,3
+Wyatt Christiansen,SO,RB/LB,#10,Midland,0,0
 Austin Schmidt,JR,QB/DB,#2,West Bend-Mallard,77,1
 Jack Anderson,JR,RB/DL,#2,Baxter,21,0
 Ethan Baxter,JR,RB/LB,#52,Griswold,64,1
@@ -375,7 +376,6 @@ Gabe Reeves,FR,RB/LB,#9,Janesville,18,1
 Carson Hopkins,FR,TE/LB,#45,West Harrison/Whiting,18,0
 Connor Rahn,JR,,#12,GMG,5,1
 Andreas Buttry,JR,QB/CB,#5,Sidney,-1,0
-Wyatt Christiansen,SO,RB/LB,#10,Midland,-4,0
 Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,48,1
 Leydan Grimm,SO,RB/LB,#31,West Bend-Mallard,11,0
 Parker Fister,SO,RB/DB,#20,Exira-EHK,7,0

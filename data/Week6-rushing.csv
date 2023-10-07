@@ -93,11 +93,13 @@ Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0
 Talan Pletz,0.0,SO,RB/LB,#5,Janesville,0.0,0.0
 Aiden Klostermann,9.8,SR,RB/S,#10,Central City,38.0,1.0
 Jacob Berens,21.5,SR,RB/LB,#34,Boyer Valley,95.0,2.0
+Dane Ballou,43.7,FR,QB/LB,#17,Midland,197.0,4.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0
 Cade Robinson,0.0,JR,WR/CB,#12,Baxter,0.0,0.0
 Isaac Clark,0.0,SR,QB/LB,#12,Gladbrook-Reinbeck,0.0,0.0
 Owen Backer,0.0,SO,RB/S,#22,Clarksville,0.0,0.0
 Parker Hays,0.0,JR,RB/DB,#9,Coon Rapids-Bayard,0.0,0.0
+Seth Bixler,12.5,SR,WR/S,#1,Midland,65.0,1.0
 Jackson Schulte,21.0,SR,RB/LB,#21,Kee,90.0,2.0
 Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0
 Alex Daniel,1.7,SO,RB/LB,#27,Glidden-Ralston,17.0,0.0
@@ -125,7 +127,6 @@ Austin Williams,11.3,SR,RB/LB,#20,CAM,53.0,1.0
 Mason Steinhoff,14.3,SO,RB/LB,#11,Griswold,83.0,1.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0
 Cole Milks,0.0,SR,RB/S,#11,Winfield-Mt Union,0.0,0.0
-Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0
 Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0
 Brayden Svejda,21.5,JR,QB/CB,#1,Calamus-Wheatland,95.0,2.0
 Conner Nally,6.6,SR,QB/LB,#5,Bedford,6.0,1.0
@@ -172,6 +173,7 @@ Dylan Marquart,0.0,JR,QB/DB,#3,Dunkerton,0.0,0.0
 Colin Snyder,0.0,SO,RB/LB,#24,Dunkerton,0.0,0.0
 Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0
 Christopher Greif,24.3,SR,LB/FB,#44,Central City,63.0,3.0
+Sawyer House,1.4,SR,WR/CB,#4,Midland,14.0,0.0
 Carson Wessel,37.3,SO,QB/LB,#9,Audubon,133.0,4.0
 Braxton Bormann,0.0,SO,RB/LB,#21,Central Elkader,0.0,0.0
 Jabari Woodbury,0.0,SR,,#2,GMG,0.0,0.0
@@ -182,8 +184,6 @@ Treyton Franzen,0.2,FR,FB/LB,#21,Turkey Valley,2.0,0.0
 Adam Swaney,2.1,SO,RB/LB,#44,Bedford,21.0,0.0
 Aldo Esteban-Cabrera,0.0,JR,RB/LB,#22,Murray,0.0,0.0
 John McLaughlin,7.4,SR,WR/CB,#6,WACO,14.0,1.0
-Dane Ballou,0.0,FR,QB/LB,#17,Midland,0.0,0.0
-Sawyer House,0.0,SR,WR/CB,#4,Midland,0.0,0.0
 Cannon Hansen,8.7,JR,TE/DL,#33,Exira-EHK,27.0,1.0
 Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0
@@ -343,6 +343,7 @@ Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0
 Kaleb Gill,0.0,SR,,#1,GMG,0.0,0.0
 Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0
 Dashny Munyakazi,0.0,SO,RB/S,#3,Central City,0.0,0.0
+Wyatt Christiansen,0.4,SO,RB/LB,#10,Midland,4.0,0.0
 Austin Schmidt,0.0,JR,QB/DB,#2,West Bend-Mallard,0.0,0.0
 Jack Anderson,0.0,JR,RB/DL,#2,Baxter,0.0,0.0
 Ethan Baxter,0.0,JR,RB/LB,#52,Griswold,0.0,0.0
@@ -375,7 +376,6 @@ Gabe Reeves,0.0,FR,RB/LB,#9,Janesville,0.0,0.0
 Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison/Whiting,0.0,0.0
 Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0
 Andreas Buttry,0.0,JR,QB/CB,#5,Sidney,0.0,0.0
-Wyatt Christiansen,0.0,SO,RB/LB,#10,Midland,0.0,0.0
 Sam DeMeulenaere,0.0,JR,E/LB,#12,Belle Plaine,0.0,0.0
 Leydan Grimm,0.4,SO,RB/LB,#31,West Bend-Mallard,4.0,0.0
 Parker Fister,0.1,SO,RB/DB,#20,Exira-EHK,1.0,0.0
