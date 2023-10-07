@@ -60,6 +60,7 @@ Micah Moores,FR,RB/LB,#9,Woodbine,17,407,8
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,17,177,4
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,16,214,2
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,16,252,1
+Colton Leichty,SR,TE/LB,#23,WACO,16,170,3
 Kolt Payne,JR,SL/CB,#24,Sidney,16,351,4
 Matt Sauer,SR,TE/DE,#82,Midland,15,154,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,15,189,4
@@ -71,13 +72,12 @@ Anthony Eisele,SR,OL/DL,#55,North Iowa,15,195,6
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,15,82,2
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,15,107,0
 Devon Ehlers,SO,TE/LB,#88,Ar-We-Va,15,115,1
+Austin Christensen,SO,WR/LB,#81,Audubon,15,119,0
 Braedon Godfread,JR,TE/S,#10,Sidney,15,267,4
 Dylan Linkenhoker,SR,,#21,Fremont-Mills,14,217,2
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,14,145,1
 Luke Cripps,SR,QB/S,#1,Boyer Valley,14,156,2
-Colton Leichty,SR,TE/LB,#23,WACO,14,149,1
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,14,152,2
-Austin Christensen,SO,WR/LB,#81,Audubon,14,116,0
 Aiden Klostermann,SR,RB/S,#10,Central City,13,247,5
 Seth Bixler,SR,WR/S,#1,Midland,13,130,1
 Emmett Burke,SO,WR/DB,#10,Lone Tree,13,224,2
@@ -106,6 +106,7 @@ Andrew Beran,JR,RB,#2,Riceville,11,102,1
 Mason Hoy,SO,RB/CB,#9,Springville,11,89,1
 Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,11,258,6
 Evan Alt,SR,RB/LB,#4,Audubon,11,52,0
+Edward Miller,SR,TE/DE,#31,Audubon,11,223,2
 Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,10,216,2
 Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,10,314,3
 Jordan Cota,JR,TE/DE,#81,Kee,10,157,3
@@ -120,7 +121,6 @@ Ty Christensen,SO,,#5,Don Bosco,10,90,1
 Conlin Rouse,SO,RB/LB,#11,Springville,10,189,3
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,10,200,2
 Cale Westerbeck,SO,WR/DB,#4,New London,10,173,2
-Edward Miller,SR,TE/DE,#31,Audubon,10,158,1
 Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,10,99,0
 Gio Cruz,SR,RB/DB,#5,Lenox,9,115,2
 JW Linkenhoker,SO,,#11,Fremont-Mills,9,134,4
@@ -170,6 +170,7 @@ Owen Garside,JR,S/QB,#3,Boyer Valley,7,90,1
 Evan Ten Eyck,SR,TE,#2,Boyer Valley,7,112,4
 Caleb Kurtenbach,SR,QB,#5,Turkey Valley,7,123,3
 Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,7,105,2
+Gage Samo,JR,WR/CB,#5,WACO,7,113,1
 Johnathan Riesselman,SO,WR/DB,#7,Ar-We-Va,7,166,2
 Brody Paulsen,SR,RB/DB,#2,CAM,7,91,1
 Aidan Ebert,JR,WR,#3,Riceville,7,64,2
@@ -191,6 +192,7 @@ Burke Busta,SR,FB,#9,Turkey Valley,6,80,1
 Mark Lensch,SR,TE/LB,#33,Glidden-Ralston,6,58,0
 Carson Frerichs,SR,RB/LB,#28,North Iowa,6,75,0
 Gavyn Thordarson,SO,RB/DE,#8,Melcher-Dallas,6,112,2
+Isaac Rich,JR,CB/WR,#10,WACO,6,102,4
 Jacksyn Hogrefe,SO,RB/DB,#26,Newell-Fonda,6,101,2
 Guyson Lyman,JR,TE/DE,#40,Newell-Fonda,6,84,1
 Tyler Bruns,JR,OL/DL,#43,Tripoli,6,56,2
@@ -218,8 +220,7 @@ Brett Plants,JR,RB/LB,#22,Montezuma,5,62,1
 Payton Malchow,JR,WR/CB,#28,Rockford,5,19,0
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,5,133,0
 Landen Nelson,FR,WR/DB,#36,Northwood-Kensett,5,43,0
-Gage Samo,JR,WR/CB,#5,WACO,5,45,0
-Isaac Rich,JR,CB/WR,#10,WACO,5,94,4
+Hunter Hughes,SR,CB/WR,#3,WACO,5,77,2
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,5,29,2
 Tristan Freiberg,SR,WR/CB,#1,Tripoli,5,52,1
 Ryan Bower,SR,WR/S,#8,CAM,5,85,2
@@ -258,7 +259,6 @@ Waylon Hein,JR,TE/LB,#23,Glidden-Ralston,4,97,0
 Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,4,70,0
 Ryker Hoffman,JR,WR/CB,#2,Rockford,4,54,0
 Jesse Myhr,JR,FB/DE,#8,Moravia,4,30,1
-Hunter Hughes,SR,CB/WR,#3,WACO,4,45,1
 Ty Tauber,SR,OT/LB,#25,Newell-Fonda,4,39,1
 Caleb Swedin,SO,RB/LB,#7,GTRA,4,71,0
 Landen Dietrich,FR,RB/LB,#27,GTRA,4,88,2

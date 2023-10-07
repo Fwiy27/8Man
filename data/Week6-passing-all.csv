@@ -23,6 +23,7 @@ Caleb Urban,45.28,JR  WR/CB,#3,East Mills,557,8,9
 Tate Foertsch,94.16,SO  QB/DB,#7,Bishop Garrigan,854,15,0
 Christian Pierce,-0.88,SO  QB/S,#4,Rockford,328,0,14
 Wyatt Oswald,59.4,JR  QB/LB,#10,Coon Rapids-Bayard,635,10,6
+Clayton Miller,79.64,JR  QB/CB,#4,WACO,616,14,1
 Dallas Smith,40.84,JR  QB/DB,#2,Twin Cedars,646,6,9
 Jake Edwards,104.92,JR  QB/S,#3,Winfield-Mt Union,973,17,2
 Jack Adams,60.28,JR  QB,#7,Riceville,557,10,2
@@ -33,12 +34,11 @@ Nolan Kriegel,72.4,FR  QB/DB,#2,Iowa Valley,810,11,4
 Isaac Clark,96.32,SR  QB/LB,#12,Gladbrook-Reinbeck,833,16,1
 Dylan Marquart,70.44,JR  QB/DB,#3,Dunkerton,636,12,3
 Brogyn Greensky,75.56,SR  QB/LB,#4,North Iowa,764,12,3
-Clayton Miller,63.76,JR  QB/CB,#4,WACO,519,11,1
 Drew Urbanek,33.52,FR  QB/CB,#10,Tripoli,363,6,5
+Aaron Olsen,19.96,JR  QB/S,#3,Audubon,399,2,4
 Jameson Kilworth,45.0,SR  QB/DB,#8,Exira-EHK,625,6,4
 Sawyer Forney,42.6,SO  #2 Fremont-Mills,,,515,7,6
 Degin Dixson,40.0,SR  QB/CB,#3,Mormon Trail,525,6,5
-Aaron Olsen,13.24,JR  QB/S,#3,Audubon,331,1,4
 Nolan Grebin,41.32,SR  QB/S,#2,Stanton/Essex,533,6,4
 Kale Doeppke,27.64,SR  WR/DB,#5,Central Elkader,366,4,3
 Gavin Menke-Bailey,48.76,JR  QB/LB,#5,New London,519,8,4
@@ -112,6 +112,7 @@ Jackson Embree,7.16,JR  SL/LB,#33,East Mills,79,1,0
 MaKade Bloker,10.6,SR  RB/LB,#11,Clarksville,90,2,1
 Talan Jacobsen,0.44,FR  QB/LB,#10,North Iowa,11,0,0
 Leo Schrader,0.28,FR  QB/DB,#23,Melcher-Dallas,7,0,0
+Reece Oswald,4.64,SR  RB/CB,#27,WACO,41,1,1
 Wyatt Ragaller,0.48,SO  RB/DB,#8,Ar-We-Va,12,0,0
 Carson Wessel,-0.8,SO  QB/LB,#9,Audubon,5,0,1
 Michael Hensley,-0.16,JR  RB/LB,#6,Sidney,21,0,1
@@ -139,7 +140,6 @@ Marshawn Taylor,1.44,SR  RB/CB,#12,Rockford,36,0,0
 Carter Anderson,-0.12,JR  QB/DB,#15,Northwood-Kensett,-3,0,0
 Evan Lorenzen,5.2,JR  RB/DB,#22,Northwood-Kensett,30,1,0
 Jackson McDanel,0.32,SR  RB/LB,#30,Moravia,8,0,0
-Reece Oswald,-0.64,SR  RB/CB,#27,WACO,9,0,1
 Teagan Hanson,0.08,SO  QB/S,#10,GTRA,2,0,0
 Mark Bower,0.6,JR  RB/DB,#25,Colo-Nesco,15,0,0
 Brody King,4.44,JR  TE/LB,#2,Bedford,11,1,0
