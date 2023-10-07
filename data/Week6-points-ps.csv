@@ -109,7 +109,7 @@ Brogyn Greensky,0.0,QB/LB,North Iowa
 Broox Stockman,20.0,RB/LB,Montezuma
 Bryce Brabham,0.0,RB/DB,Exira-EHK
 Bryer Jack,0.0,QB/DB,HLV
-Burke Busta,0.0,FB,Turkey Valley
+Burke Busta,2.4,FB,Turkey Valley
 CJ Smith,0.0,TE/DB,Melcher-Dallas
 Cade Robinson,0.0,WR/CB,Baxter
 Cade Tentinger,0.0,RB/DB,Remsen St. Mary's
@@ -126,12 +126,12 @@ Cal Heydon,0.0,QB/DB,Coon Rapids-Bayard
 Cal Peterman,8.2,WR/LB,Bedford
 Cal Pryor,0.0,QB/DB,Woodbine
 Cale Haley,0.0,OG,Stanton/Essex
-Cale Langreck,0.0,QB/LB,Turkey Valley
+Cale Langreck,0.96,QB/LB,Turkey Valley
 Cale Westerbeck,0.0,WR/DB,New London
 Caleb Coffelt,0.0,WR/DB,Collins-Maxwell
 Caleb Haack,15.2,WR/DB,Iowa Valley
 Caleb Hemphill,0.0,RB/LB,Harris-Lake Park
-Caleb Kurtenbach,0.0,QB,Turkey Valley
+Caleb Kurtenbach,1.5,QB,Turkey Valley
 Caleb Swedin,0.0,RB/LB,GTRA
 Caleb Urban,0.0,WR/CB,East Mills
 Callan Messerich,0.0,WR/DB,Easton Valley
@@ -187,7 +187,7 @@ Coen Good,0.0,WR/CB,English Valleys
 Colby Eskildsen,6.28,TE/DL,Northwood-Kensett
 Colby Wallace,0.0,QB/S,Glidden-Ralston
 Cole Bethune,0.0,WR/S,West Harrison/Whiting
-Cole Fehr,0.0,RB/LB,West Bend-Mallard
+Cole Fehr,19.4,RB/LB,West Bend-Mallard
 Cole Green,0.0,TE/DE,Calamus-Wheatland
 Cole Milks,0.0,RB/S,Winfield-Mt Union
 Colin Hartl,0.0,RB/LB,Audubon
@@ -255,7 +255,7 @@ Donald Bashor,7.8,RB/LB,Lenox
 Drake Axmear,0.0,WR/CB,English Valleys
 Drake Puls,0.0,WR/DB,West Central
 Drew Eilers,0.0,WR/DL,Gladbrook-Reinbeck
-Drew Fehr,0.0,RB/DB,West Bend-Mallard
+Drew Fehr,2.5,RB/DB,West Bend-Mallard
 Drew Lappe,0.0,WR/CB,Bishop Garrigan
 Drew Muller,0.0,QB/DE,Bishop Garrigan
 Drew Stanek,0.0,RB/LB,Gladbrook-Reinbeck
@@ -339,7 +339,7 @@ Isaac Rich,1.8,CB/WR,WACO
 Isaiah Malm,0.0,S/WR,GTRA
 Israel Lemley,0.0,WR/DB,New London
 Israel Valenzuela,0.0,OG/DT,Bedford
-J.D. Kruse,0.0,RB/DE,Turkey Valley
+J.D. Kruse,2.2,RB/DE,Turkey Valley
 JT Laufersweiler,0.0,QB/DB,St. Edmond
 JW Linkenhoker,1.6,,Fremont-Mills
 Jabari Woodbury,0.0,,GMG
@@ -471,7 +471,7 @@ Landon Campbell,0.0,RB,Edgewood-Colesburg
 Landon Gibbs,0.0,RB/CB,East Mills
 Landon Gjerde,0.0,RB/LB,Colo-Nesco
 Landon Lindgren,0.2,RB/DB,Lamoni
-Landon Montag,0.0,RB/LB,West Bend-Mallard
+Landon Montag,58.3,RB/LB,West Bend-Mallard
 Landon Waldschmitt,42.96,QB/DB,Remsen St. Mary's
 Landon Wittrock,0.0,SL/LB,Harris-Lake Park
 Landyn Ankrum,0.0,RB/LB,HLV
@@ -489,13 +489,13 @@ Levi Evans,0.0,TE/DE,Mormon Trail
 Levi Fitzgerald,0.0,WR/DB,Lenox
 Levi Halterman,0.0,RB/LB,Southeast Warren
 Levi Reineke,11.3,LB/RB,Boyer Valley
-Leydan Grimm,0.0,RB/LB,West Bend-Mallard
+Leydan Grimm,0.4,RB/LB,West Bend-Mallard
 Lincoln Albertson,11.3,RB/LB,Moravia
 Logan Boldt,0.0,WR/LB,Tripoli
-Logan Busta,0.0,QB/DB,Turkey Valley
+Logan Busta,6.52,QB/DB,Turkey Valley
 Logan Franklin,0.0,WR/DB,New London
 Logan French,0.0,WR/DB,Stanton/Essex
-Logan Grimm,0.0,RB/LB,West Bend-Mallard
+Logan Grimm,7.5,RB/LB,West Bend-Mallard
 Logan Heim,0.0,WR/CB,Tripoli
 Logan Sharpe,0.0,RB/LB,Central Elkader
 Loghan Nelson,1.5,OL/LB,Northwood-Kensett
@@ -550,6 +550,7 @@ Michael Joyce,0.0,QB/S,Bishop Garrigan
 Michael Raines,0.0,TE/LB,New London
 Milton Cushion,8.6,RB/DB,West Central
 Mitch Stevens,0.0,TE/LB,West Bend-Mallard
+Mitchell Kriener,2.9,TE/DE,Turkey Valley
 Morgan Cooley,0.0,OL/DL,East Union
 Myles Grove,0.0,QB/LB,English Valleys
 Nate Curry,0.0,RB/LB,Twin Cedars
@@ -572,7 +573,7 @@ Nolan Gannon,0.0,RB/LB,Murray
 Nolan Grebin,0.0,QB/S,Stanton/Essex
 Nolan Kriegel,35.56,QB/DB,Iowa Valley
 Oliver Longerbeam,0.0,QB/DB,Springville
-Oliver Schmitt,0.0,FB,Turkey Valley
+Oliver Schmitt,27.78,FB,Turkey Valley
 Otto French,0.0,FB/LB,Dunkerton
 Owen Ary,0.0,TE/LB,Iowa Valley
 Owen Backer,0.0,RB/S,Clarksville
@@ -672,7 +673,7 @@ Trey Cota,1.7,QB/LB,Kee
 Trey Edeker,0.3,RB/DE,WACO
 Trey Fisher,11.9,RB/LB,Southeast Warren
 Trey Rosenbeck,0.0,TE/LB,Coon Rapids-Bayard
-Treyton Franzen,0.0,FB/LB,Turkey Valley
+Treyton Franzen,0.2,FB/LB,Turkey Valley
 Treyton Travis,0.0,WR/CB,Baxter
 Treyvon Herron,0.0,WR/DB,Gladbrook-Reinbeck
 Tristan Freiberg,0.0,WR/CB,Tripoli

@@ -85,6 +85,7 @@ Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0,0.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
 Cash Emgarten,0.0,SR,WR/DB,#10,Exira-EHK,0.0,0.0,0.0
 Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0,0.0
+Oliver Schmitt,14.3,SR,FB,#22,Turkey Valley,2.0,63.0,1.0
 Nolan Cushion,7.4,SR,TE/DE,#22,West Central,2.0,54.0,0.0
 Louden Huisenga,0.0,JR,RB/LB,#8,WACO,0.0,0.0,0.0
 Robert Beardsley,14.3,JR,WR/DB,#18,Southeast Warren,3.0,53.0,1.0
@@ -116,7 +117,7 @@ JW Linkenhoker,1.6,SO,,#11,Fremont-Mills,1.0,6.0,0.0
 Lucas Madison,2.5,SR,,#5,Fremont-Mills,1.0,15.0,0.0
 Zane Johnson,3.3,JR,RB/LB,#7,Griswold,2.0,13.0,0.0
 Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0,0.0
-Oliver Schmitt,0.0,SR,FB,#22,Turkey Valley,0.0,0.0,0.0
+J.D. Kruse,2.2,SO,RB/DE,#2,Turkey Valley,1.0,12.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0,0.0
 Brekken Schlader,3.5,SO,TE/LB,#14,Rockford,2.0,15.0,0.0
 Abram Edwards,0.0,SR,TE/DE,#84,Winfield-Mt Union,0.0,0.0,0.0
@@ -129,7 +130,6 @@ Donald Bashor,7.8,SR,RB/LB,#44,Lenox,1.0,8.0,1.0
 Braxton Blackburn,2.4,SR,,#10,Fremont-Mills,2.0,4.0,0.0
 Cody Dorscher,0.0,JR,WR/CB,#24,Griswold,0.0,0.0,0.0
 Mason Steinhoff,10.2,SO,RB/LB,#11,Griswold,3.0,72.0,0.0
-J.D. Kruse,0.0,SO,RB/DE,#2,Turkey Valley,0.0,0.0,0.0
 Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0,0.0
 Luke Erselius,0.0,SO,WR/DB,#15,Montezuma,0.0,0.0,0.0
 Christian Reinke,0.9,JR,TE/LB,#25,Rockford,1.0,-1.0,0.0
@@ -146,6 +146,7 @@ Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
 Bryce Brabham,0.0,SO,RB/DB,#9,Exira-EHK,0.0,0.0,0.0
 Samuel Dascher,0.0,SO,TE/CB,#31,Calamus-Wheatland,0.0,0.0,0.0
 Levi Reineke,4.9,SO,LB/RB,#29,Boyer Valley,2.0,29.0,0.0
+Caleb Kurtenbach,1.5,SR,QB,#5,Turkey Valley,1.0,5.0,0.0
 Maddox Jondle,8.1,JR,QB/LB,#11,Lone Tree,5.0,31.0,0.0
 Trent Robertson,0.0,SR,WR/LB,#5,North Iowa,0.0,0.0,0.0
 Brett Plants,7.8,JR,RB/LB,#22,Montezuma,3.0,48.0,0.0
@@ -170,7 +171,7 @@ Layne Mastin,0.0,SR,OG/DE,#11,East Mills,0.0,0.0,0.0
 Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0,0.0
 Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
-Caleb Kurtenbach,0.0,SR,QB,#5,Turkey Valley,0.0,0.0,0.0
+Burke Busta,1.5,SR,FB,#9,Turkey Valley,1.0,5.0,0.0
 Alex Daniel,0.0,SO,RB/LB,#27,Glidden-Ralston,0.0,0.0,0.0
 Gage Samo,14.8,JR,WR/CB,#5,WACO,2.0,68.0,1.0
 Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
@@ -190,7 +191,6 @@ Auden Wilson,0.0,JR,WR/CB,#10,Griswold,0.0,0.0,0.0
 Logan French,0.0,SR,WR/DB,#1,Stanton/Essex,0.0,0.0,0.0
 Levi Evans,0.0,SO,TE/DE,#20,Mormon Trail,0.0,0.0,0.0
 Jacob Berens,1.9,SR,RB/LB,#34,Boyer Valley,1.0,9.0,0.0
-Burke Busta,0.0,SR,FB,#9,Turkey Valley,0.0,0.0,0.0
 Mark Lensch,0.0,SR,TE/LB,#33,Glidden-Ralston,0.0,0.0,0.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0,0.0
 Gavyn Thordarson,0.0,SO,RB/DE,#8,Melcher-Dallas,0.0,0.0,0.0
@@ -384,6 +384,7 @@ Brayden Utter,0.0,FR,WR/LB,#17,Gladbrook-Reinbeck,0.0,0.0,0.0
 Ben Lantz,0.0,SR,OG/DE,#85,Boyer Valley,0.0,0.0,0.0
 Wiatt Schulte,0.0,SO,DL/OL,#89,Boyer Valley,0.0,0.0,0.0
 Brody Koski,0.0,FR,QB/LB,#7,Boyer Valley,0.0,0.0,0.0
+Mitchell Kriener,2.9,FR,TE/DE,#24,Turkey Valley,1.0,19.0,0.0
 MaKade Bloker,0.0,SR,RB/LB,#11,Clarksville,0.0,0.0,0.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0,0.0
 Kale Doeppke,0.0,SR,WR/DB,#5,Central Elkader,0.0,0.0,0.0
