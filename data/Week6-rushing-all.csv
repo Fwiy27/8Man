@@ -55,6 +55,7 @@ Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,251,3
 Slate Witte,SR,,#7,GMG,425,7
 Anthony Harrington,SO,QB/LB,#2,Midland,516,10
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,531,10
+Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,513,7
 Mason McIntosh,SR,QB/LB,#16,West Harrison/Whiting,260,3
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,530,11
 Chase Spieker,JR,QB/DB,#5,CAM,539,15
@@ -66,7 +67,7 @@ Kasey Hough,JR,QB/S,#11,GTRA,385,7
 Luke Cripps,SR,QB/S,#1,Boyer Valley,552,9
 Edde Gonzalez,SR,RB/LB,#1,West Central,281,6
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,502,6
-Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,446,6
+Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,409,9
 Owen Johnson,FR,RB/DE,#26,Griswold,334,3
 Max Carlson,JR,QB/LB,#10,Newell-Fonda,512,5
 Burke Busta,SR,FB,#9,Turkey Valley,376,6
@@ -83,7 +84,6 @@ Carson Frerichs,SR,RB/LB,#28,North Iowa,157,1
 Broox Stockman,SO,RB/LB,#20,Montezuma,251,2
 Isaac Murphy,SR,RB/S,#1,GTRA,290,7
 Caden Roethler,SR,FB/LB,#20,Bishop Garrigan,384,9
-Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,337,8
 Mark Bower,JR,RB/DB,#25,Colo-Nesco,429,4
 Degin Dixson,SR,QB/CB,#3,Mormon Trail,62,2
 Caleb Urban,JR,WR/CB,#3,East Mills,202,4
@@ -300,6 +300,7 @@ Johnny Milburn,JR,QB/DB,#13,Southeast Warren,9,0
 Kenny Ness,SO,LB/WR,#6,GTRA,84,0
 Reagan Richardson,FR,RB,#22,Riceville,60,1
 Ethan Bridgewater,SO,RB/LB,#35,BGM,110,2
+Adam Bensley,SO,SL/LB,#12,Harris-Lake Park,57,1
 Gabe Johnson,SR,QB/LB,#3,Sidney,18,1
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,8,0
 Chaz Cornelison,JR,RB/DB,#31,East Union,34,1
@@ -315,7 +316,6 @@ David Schmitz,JR,,#4,Don Bosco,26,1
 Kason Calhoun,FR,RB/DB,#32,CAM,15,0
 Ty Flathers,SR,RB/DB,#15,CAM,13,0
 Drew Muller,JR,QB/DE,#6,Bishop Garrigan,-5,1
-Adam Bensley,SO,SL/LB,#12,Harris-Lake Park,57,1
 Ezekiel Konkler,SR,WR/CB,#20,Audubon,20,0
 Tate Mount,SO,QB/DB,#2,Sidney,-24,0
 Terrian Islas,JR,TE/DE,#5,East Union,20,1
@@ -484,6 +484,7 @@ Chase Forey,JR,WR/LB,#17,Janesville,-1,0
 Landon Campbell,SO,RB,#12,Edgewood-Colesburg,3,0
 Hunter Hodina,FR,WR/DB,#4,BGM,9,0
 Justin Mendenhall,SO,DL,#40,Lamoni,25,0
+Travis Luitjens,SR,OG/DT,#34,Harris-Lake Park,-10,0
 Austin Christensen,SO,WR/LB,#81,Audubon,11,0
 Anthony Waters,SR,,#10,GMG,0,2
 Aiden Stenzel,SO,RB/DB,#20,Sidney,2,0
@@ -566,7 +567,7 @@ Brock Binkley,FR,QB/DB,#8,Lamoni,-3,0
 Creyton Ogier,SR,TE/DE,#5,Lamoni,10,0
 Trevor Kuster,JR,RB/LB,#20,Lamoni,1,0
 Aaden Updike,FR,CB/RB,#14,Lamoni,0,0
-Travis Luitjens,SR,OG/DT,#34,Harris-Lake Park,-5,0
+Brayden Bannor,SR,OL/DE,#10,Harris-Lake Park,-2,0
 Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,1,0
 Cole Bethune,JR,WR/S,#4,West Harrison/Whiting,5,0
 Ethan Klemesrud,FR,,#28,GMG,6,0
