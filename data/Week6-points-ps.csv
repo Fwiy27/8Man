@@ -62,7 +62,7 @@ Blake Ewing,0.0,FB/LB,Moravia
 Blake Helmick,0.0,OG/DE,Moravia
 Blake Micetich,0.0,RB/DB,Twin Cedars
 Blayne Porter,0.0,QB/S,Janesville
-Blayne Smith,0.0,QB/DB,Ar-We-Va
+Blayne Smith,26.42,QB/DB,Ar-We-Va
 Bode Wyman,7.4,QB/CB,Griswold
 Boston Roorda,0.0,TE/DB,HLV
 Braden Jordan,32.26,QB/LB,Springville
@@ -113,7 +113,7 @@ Bryce Brabham,10.2,RB/DB,Exira-EHK
 Bryer Jack,0.0,QB/DB,HLV
 Burke Busta,2.4,FB,Turkey Valley
 CJ Smith,0.0,TE/DB,Melcher-Dallas
-Cade Robinson,0.0,WR/CB,Baxter
+Cade Robinson,16.7,WR/CB,Baxter
 Cade Tentinger,8.6,RB/DB,Remsen St. Mary's
 Caden Carruthers,2.4,QB/DL,Southeast Warren
 Caden Cole,0.0,TE,Edgewood-Colesburg
@@ -123,7 +123,7 @@ Caden Page,6.4,QB/LB,Murray
 Caden Roethler,0.0,FB/LB,Bishop Garrigan
 Cael Dop,0.0,OG/DT,Southeast Warren
 Cael Weisskopf,0.0,RB/LB,HLV
-Cainan Travis,0.0,WR/LB,Baxter
+Cainan Travis,8.4,WR/LB,Baxter
 Cal Heydon,0.0,QB/DB,Coon Rapids-Bayard
 Cal Peterman,8.2,WR/LB,Bedford
 Cal Pryor,4.8,QB/DB,Woodbine
@@ -246,7 +246,7 @@ Derek Bartlett,0.0,LB/RB,Stanton/Essex
 Derek Kressley,0.0,RB/LB,Belle Plaine
 Deshon Anderson,0.0,RB/LB,English Valleys
 Devin Meyer,31.9,TE/LB,Harris-Lake Park
-Devon Ehlers,0.0,TE/LB,Ar-We-Va
+Devon Ehlers,3.1,TE/LB,Ar-We-Va
 Devon Weisskopf,0.0,RB/LB,HLV
 Dillon Reed,0.0,WR/DB,Woodbine
 Dominic Coleman,14.5,WR/DE,BGM
@@ -315,7 +315,7 @@ Grant Whitehead,0.0,QB/DB,Sidney
 Greg Lewis,0.0,RB/LB,East Mills
 Gunnar Smith,0.0,QB,Riceville
 Guyson Lyman,0.0,TE/DE,Newell-Fonda
-Harley Molina,0.0,WR/LB,Ar-We-Va
+Harley Molina,3.3,WR/LB,Ar-We-Va
 Hayden Fay,0.0,QB/DB,Glidden-Ralston
 Hayden Gilmore,1.4,LB/RB,GTRA
 Hayden Hicks,0.0,TE/LB,Boyer Valley
@@ -350,7 +350,7 @@ JW Linkenhoker,1.6,,Fremont-Mills
 Jabari Woodbury,0.0,,GMG
 Jace March,21.2,RB/CB,Springville
 Jack Adams,32.98,QB,Riceville
-Jack Anderson,0.0,RB/DL,Baxter
+Jack Anderson,0.1,RB/DL,Baxter
 Jack Angell,0.0,QB/DB,Colo-Nesco
 Jack Follmann,18.7,TE/LB,CAM
 Jack Gordon,9.9,WR/DL,East Mills
@@ -402,7 +402,7 @@ Joe Koehler,5.5,FB/DE,Rockford
 John Deemer,2.9,RB/LB,Bedford
 John McLaughlin,7.4,WR/CB,WACO
 John Stauffer,0.0,TE/LB,Clarksville
-Johnathan Riesselman,0.0,WR/DB,Ar-We-Va
+Johnathan Riesselman,15.16,WR/DB,Ar-We-Va
 Johnny Adams,0.0,WR,Riceville
 Johnny Cortez,0.0,RB/LB,Coon Rapids-Bayard
 Johnny Milburn,10.84,QB/DB,Southeast Warren
@@ -595,7 +595,7 @@ Parker Opperman,0.0,RB/DT,Janesville
 Parker Reicks,0.0,FB/LB,Turkey Valley
 Patrick Boyle,0.0,OG,Riceville
 Payton Malchow,0.0,WR/CB,Rockford
-Perrin Sulzle,0.0,QB/LB,Baxter
+Perrin Sulzle,62.46,QB/LB,Baxter
 Peter Kielman,0.0,TE/LB,Clarksville
 Peyton Cook,1.8,QB/CB,Griswold
 Preston Kulper,1.6,WR/DB,Central Elkader
@@ -648,7 +648,7 @@ Silas Walston,32.8,RB/DE,Bedford
 Simon Showalter,0.0,RB/LB,Stanton/Essex
 Slate Witte,0.0,,GMG
 Spencer Munk,0.0,RB/LB,Woodbine
-Stadan Vansice,0.0,WR/LB,Baxter
+Stadan Vansice,3.8,WR/LB,Baxter
 Talan Driscoll,0.0,RB/LB,Easton Valley
 Talan Jacobsen,0.0,QB/LB,North Iowa
 Talan Pletz,0.0,RB/LB,Janesville
@@ -681,7 +681,7 @@ Trey Edeker,0.3,RB/DE,WACO
 Trey Fisher,11.9,RB/LB,Southeast Warren
 Trey Rosenbeck,0.0,TE/LB,Coon Rapids-Bayard
 Treyton Franzen,0.2,FB/LB,Turkey Valley
-Treyton Travis,0.0,WR/CB,Baxter
+Treyton Travis,62.6,WR/CB,Baxter
 Treyvon Herron,0.0,WR/DB,Gladbrook-Reinbeck
 Tristan Freiberg,0.0,WR/CB,Tripoli
 Tristen Burkhart,0.0,RB/LB,Boyer Valley
@@ -701,7 +701,7 @@ Tyler Rodgers,0.0,WR/CB,Mormon Trail
 Tyler Rogers,0.0,LB/RB,WACO
 Tyler Sprung,0.0,OG,Riceville
 Urijah Courter,0.9,RB/DB,Collins-Maxwell
-Wade Ragaller,0.0,RB/LB,Ar-We-Va
+Wade Ragaller,31.2,RB/LB,Ar-We-Va
 Wade Sankot,26.2,RB/LB,Belle Plaine
 Waylon Hein,-0.2,TE/LB,Glidden-Ralston
 Wesley Anderson,0.0,RB/LB,West Bend-Mallard
@@ -715,7 +715,7 @@ Wyatt Leonard,0.0,RB/LB,Lenox
 Wyatt Nelson,-0.6,RB/DB,West Central
 Wyatt Oswald,0.0,QB/LB,Coon Rapids-Bayard
 Wyatt Patton,0.0,OG/LB,Murray
-Wyatt Ragaller,0.0,RB/DB,Ar-We-Va
+Wyatt Ragaller,39.4,RB/DB,Ar-We-Va
 Wyatt Roberts,0.0,TE/DB,Stanton/Essex
 Wyatt Silk,0.0,WR/CB,Griswold
 Wyatt Throckmorton,30.9,WR/LB,Moravia
