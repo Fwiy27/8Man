@@ -23,13 +23,13 @@ Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,30,252,3
 Isaac Murphy,SR,RB/S,#1,GTRA,29,353,5
 Cainan Travis,JR,WR/LB,#20,Baxter,28,388,6
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,28,428,9
+Dalton Weepie,JR,TE/LB,#33,Dunkerton,28,535,7
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,26,446,11
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,26,260,7
 Micah Moores,FR,RB/LB,#9,Woodbine,26,497,9
 Aiden Eickert ,SO,WR/LB,#7,Easton Valley,26,441,8
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,25,433,5
 Collin Bower,SO,TE/DB,#25,CAM,25,284,6
-Dalton Weepie,JR,TE/LB,#33,Dunkerton,24,379,4
 Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,24,478,1
 Lucas Frohwein,SR,TE/DE,#9,Colo-Nesco,24,316,5
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,23,169,2
@@ -88,6 +88,7 @@ Mason Hoy,SO,RB/CB,#9,Springville,14,104,1
 Aiden Klostermann,SR,RB/S,#10,Central City,13,247,5
 Seth Bixler,SR,WR/S,#1,Midland,13,130,1
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,13,263,3
+Cristian Brown,SR,WR/DB,#47,Dunkerton,13,273,7
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,13,156,1
 Oliver Schmitt,SR,FB,#22,Turkey Valley,12,164,5
 Nolan Cushion,SR,TE/DE,#22,West Central,12,161,0
@@ -101,7 +102,6 @@ Kael Cress,JR,WR/S,#7,Midland,11,219,4
 Tyler Ballard,SR,TE/DE,#22,HLV,11,151,1
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,11,110,0
 Austin Boege,SO,RB/LB,#22,Collins-Maxwell,11,159,0
-Cristian Brown,SR,WR/DB,#47,Dunkerton,11,234,6
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,11,100,0
 Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,11,209,3
 McKoy Nuss,SO,QB/LB,#13,Tripoli,11,115,2
@@ -218,6 +218,7 @@ Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,5,44,0
 Jiri Brodigan,SO,WR/LB,#32,East Mills,5,52,1
 Treyvon Herron,FR,WR/DB,#9,Gladbrook-Reinbeck,5,168,4
 Jack Scherf,JR,WR/DB,#23,Central Elkader,5,85,1
+Ledger Dalton,SO,WR/DB,#5,Dunkerton,5,66,2
 Jackson Stansberry,SO,WR/DB,#22,Siouxland Christian,5,75,0
 Ryan Heaton,JR,FB/DE,#43,Melcher-Dallas,5,77,0
 Alex Black,SR,WR/DB,#30,Montezuma,5,58,3
@@ -258,7 +259,6 @@ Preston Kulper,SO,WR/DB,#81,Central Elkader,4,35,0
 Logan Sharpe,JR,RB/LB,#28,Central Elkader,4,12,0
 Braden Taylor,SO,OL/DL,#60,Central Elkader,4,3,0
 Jader Sanchez,SR,RB/DB,#4,Lone Tree,4,79,1
-Ledger Dalton,SO,WR/DB,#5,Dunkerton,4,50,2
 Grant Finck,JR,RB/LB,#10,Dunkerton,4,15,0
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,4,69,1
 Colin Snyder,SO,RB/LB,#24,Dunkerton,4,30,0
@@ -290,6 +290,7 @@ Trey Rosenbeck,SR,TE/LB,#3,Coon Rapids-Bayard,3,42,0
 Austin Vaverka,SR,RB/LB,#5,Gladbrook-Reinbeck,3,72,0
 Cooper Petersen,JR,DE/OG,#33,Boyer Valley,3,27,1
 Kyle Reinhart,JR,WR/DB,#40,Central Elkader,3,33,0
+Noah Fuelling,JR,WR/DB,#12,Dunkerton,3,40,0
 Trenton Rodas,JR,TE/DE,#14,West Central,3,65,1
 Braydon Draeger,SR,TE/LB,#88,Melcher-Dallas,3,28,0
 CJ Smith,SO,TE/DB,#44,Melcher-Dallas,3,97,2
@@ -327,6 +328,7 @@ Sam Fettkether,SR,OL/LB,#47,Central Elkader,2,4,0
 Domonic Garcia,SO,WR/DB,#8,Lone Tree,2,28,1
 Dominic Graap,SR,WR/DB,#19,Lone Tree,2,24,2
 Brody Magruder,JR,TE/DL,#26,Lone Tree,2,21,0
+Jacob Snyder,SR,OL/DL,#52,Dunkerton,2,64,2
 Wyatt Nelson,JR,RB/DB,#9,West Central,2,36,0
 Drake Puls,SO,WR/DB,#21,West Central,2,17,0
 Jeffery Gerber,SR,RB/LB,#20,North Iowa,2,22,0
@@ -389,8 +391,6 @@ Mitchell Kriener,FR,TE/DE,#24,Turkey Valley,1,19,0
 MaKade Bloker,SR,RB/LB,#11,Clarksville,1,6,0
 Eli Schmidt,SR,RB/S,#3,Clarksville,1,50,1
 Kale Doeppke,SR,WR/DB,#5,Central Elkader,1,17,0
-Jacob Snyder,SR,OL/DL,#52,Dunkerton,1,4,1
-Noah Fuelling,JR,WR/DB,#12,Dunkerton,1,14,0
 Biar Biar,JR,OG/DL,#65,Siouxland Christian,1,5,0
 Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,1,7,0
 Raymond Nelson,JR,LB/RB,#81,Siouxland Christian,1,8,0

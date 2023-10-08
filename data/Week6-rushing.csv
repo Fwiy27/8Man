@@ -128,6 +128,7 @@ Brody Paulsen,2.3,SR,RB/DB,#2,CAM,23.0,0.0
 Austin Williams,11.3,SR,RB/LB,#20,CAM,53.0,1.0
 Mason Steinhoff,14.3,SO,RB/LB,#11,Griswold,83.0,1.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0
+Grant Finck,9.9,JR,RB/LB,#10,Dunkerton,39.0,1.0
 Cole Milks,0.0,SR,RB/S,#11,Winfield-Mt Union,0.0,0.0
 Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0
 Brayden Svejda,21.5,JR,QB/CB,#1,Calamus-Wheatland,95.0,2.0
@@ -148,12 +149,12 @@ Logan Grimm,7.5,SR,RB/LB,#34,West Bend-Mallard,15.0,1.0
 Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0
 Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0
 Levi Reineke,6.4,SO,LB/RB,#29,Boyer Valley,64.0,0.0
-Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0
 Alex Hansen,25.0,JR,RB/LB,#22,Exira-EHK,130.0,2.0
 Zane Johnson,13.0,JR,RB/LB,#7,Griswold,70.0,1.0
 Evan Lorenzen,5.5,JR,RB/DB,#22,Northwood-Kensett,55.0,0.0
 Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
+Colin Snyder,2.8,SO,RB/LB,#24,Dunkerton,28.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0
 Bryce Brabham,10.2,SO,RB/DB,#9,Exira-EHK,42.0,1.0
 Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
@@ -167,10 +168,9 @@ Reece Oswald,2.4,SR,RB/CB,#27,WACO,24.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0
 Keagan Lee,0.0,SO,QB/DB,#17,Easton Valley,0.0,0.0
 Chase Klatt,0.1,SO,TE/CB,#4,Calamus-Wheatland,1.0,0.0
+Dylan Marquart,-0.6,JR,QB/DB,#3,Dunkerton,-6.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0
 Logan Busta,0.6,SO,QB/DB,#1,Turkey Valley,6.0,0.0
-Dylan Marquart,0.0,JR,QB/DB,#3,Dunkerton,0.0,0.0
-Colin Snyder,0.0,SO,RB/LB,#24,Dunkerton,0.0,0.0
 Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0
 Christopher Greif,24.3,SR,LB/FB,#44,Central City,63.0,3.0
 Sawyer House,1.4,SR,WR/CB,#4,Midland,14.0,0.0
@@ -214,6 +214,7 @@ Isaac Delange,0.0,JR,WR/CB,#25,Bishop Garrigan,0.0,0.0
 Aidan Timm,3.4,SO,QB/DB,#9,Belle Plaine,34.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0
 Carter Seitz,0.0,JR,WR/DB,#7,Kee,0.0,0.0
+Dalton Weepie,7.0,JR,TE/LB,#33,Dunkerton,10.0,1.0
 Lucas Christian,2.0,JR,WR/S,#18,Glidden-Ralston,20.0,0.0
 Chance Hoyt,4.1,FR,RB/LB,#4,Iowa Valley,41.0,0.0
 Trayton Cink,0.0,JR,RB/LB,#26,Bishop Garrigan,0.0,0.0
@@ -232,7 +233,6 @@ Wyatt Kelley,0.0,FR,RB/LB,#19,East Union,0.0,0.0
 Andrew Kolsrud,6.3,SR,WR/CB,#16,Kee,3.0,1.0
 Jarod Reams,10.0,JR,RB/DB,#8,Kee,40.0,1.0
 Gio Cruz,7.2,SR,RB/DB,#5,Lenox,12.0,1.0
-Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0
 Trevor Tauber,0.0,SO,QB/S,#12,Newell-Fonda,0.0,0.0
 Jack Angell,0.0,SO,QB/DB,#18,Colo-Nesco,0.0,0.0
 Logan Heim,0.0,SO,WR/CB,#7,Tripoli,0.0,0.0
@@ -454,6 +454,8 @@ Dreyson Morgan,0.0,SO,WR/DB,#10,Gladbrook-Reinbeck,0.0,0.0
 Preston Kulper,0.0,SO,WR/DB,#81,Central Elkader,0.0,0.0
 Domonic Garcia,0.0,SO,WR/DB,#8,Lone Tree,0.0,0.0
 Dominic Graap,0.0,SR,WR/DB,#19,Lone Tree,0.0,0.0
+Otto French,0.2,FR,FB/LB,#16,Dunkerton,2.0,0.0
+Noah Fuelling,6.8,JR,WR/DB,#12,Dunkerton,8.0,1.0
 Waylon Hein,-0.2,JR,TE/LB,#23,Glidden-Ralston,-2.0,0.0
 Carson Peters,0.0,SO,TE/S,#16,Glidden-Ralston,0.0,0.0
 Hayden Fay,0.0,FR,QB/DB,#4,Glidden-Ralston,0.0,0.0
@@ -525,9 +527,7 @@ Hugo Busta,0.0,FR,RB/CB,#3,Turkey Valley,0.0,0.0
 Camden Behrends,0.0,SO,QB/LB,#32,Clarksville,0.0,0.0
 Max Fettkether,0.0,SO,RB/LB,#20,Central Elkader,0.0,0.0
 Mayson Hemsted,0.0,SO,WR/DB,#2,Lone Tree,0.0,0.0
-Otto French,0.0,FR,FB/LB,#16,Dunkerton,0.0,0.0
 Aidan Hesse,0.0,SO,OL/DL,#50,Dunkerton,0.0,0.0
-Noah Fuelling,0.0,JR,WR/DB,#12,Dunkerton,0.0,0.0
 Drake Puls,0.0,SO,WR/DB,#21,West Central,0.0,0.0
 Henry Sturm,0.0,FR,OL/LB,#30,Glidden-Ralston,0.0,0.0
 Jeffery Gerber,0.0,SR,RB/LB,#20,North Iowa,0.0,0.0

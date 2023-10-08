@@ -23,13 +23,13 @@ Caleb Hemphill,16.9,SR,RB/LB,#3,Harris-Lake Park,6.0,49.0,1.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0,0.0
 Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0,0.0
 Cal Heydon,0.0,SO,QB/DB,#11,Coon Rapids-Bayard,0.0,0.0,0.0
+Dalton Weepie,37.6,JR,TE/LB,#33,Dunkerton,4.0,156.0,3.0
 Wyatt Throckmorton,21.9,SR,WR/LB,#23,Moravia,3.0,69.0,2.0
 Brogan Ewing,10.9,JR,WR/CB,#10,Southeast Warren,3.0,19.0,1.0
 Micah Moores,24.0,FR,RB/LB,#9,Woodbine,9.0,90.0,1.0
 Aiden Eickert ,0.0,SO,WR/LB,#7,Easton Valley,0.0,0.0,0.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0,0.0
 Collin Bower,8.6,SO,TE/DB,#25,CAM,5.0,36.0,0.0
-Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0,0.0
 Lucas Frohwein,21.7,SR,TE/DE,#9,Colo-Nesco,3.0,67.0,2.0
 Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0,0.0
@@ -88,6 +88,7 @@ Mason Hoy,4.5,SO,RB/CB,#9,Springville,3.0,15.0,0.0
 Aiden Klostermann,3.0,SR,RB/S,#10,Central City,1.0,20.0,0.0
 Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0,0.0
 Alex Hansen,10.8,JR,RB/LB,#22,Exira-EHK,1.0,38.0,1.0
+Cristian Brown,11.9,SR,WR/DB,#47,Dunkerton,2.0,39.0,1.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
 Oliver Schmitt,14.3,SR,FB,#22,Turkey Valley,2.0,63.0,1.0
 Nolan Cushion,7.4,SR,TE/DE,#22,West Central,2.0,54.0,0.0
@@ -101,7 +102,6 @@ Kael Cress,0.0,JR,WR/S,#7,Midland,0.0,0.0,0.0
 Tyler Ballard,0.0,SR,TE/DE,#22,HLV,0.0,0.0,0.0
 Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0,0.0
 Austin Boege,9.6,SO,RB/LB,#22,Collins-Maxwell,4.0,56.0,0.0
-Cristian Brown,0.0,SR,WR/DB,#47,Dunkerton,0.0,0.0,0.0
 Trey Fisher,8.4,JR,RB/LB,#89,Southeast Warren,5.0,34.0,0.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0,0.0
@@ -218,6 +218,7 @@ Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0,0.0
 Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0,0.0
 Jack Scherf,0.0,JR,WR/DB,#23,Central Elkader,0.0,0.0,0.0
+Ledger Dalton,2.6,SO,WR/DB,#5,Dunkerton,1.0,16.0,0.0
 Jackson Stansberry,0.0,SO,WR/DB,#22,Siouxland Christian,0.0,0.0,0.0
 Ryan Heaton,0.0,JR,FB/DE,#43,Melcher-Dallas,0.0,0.0,0.0
 Alex Black,0.0,SR,WR/DB,#30,Montezuma,0.0,0.0,0.0
@@ -258,7 +259,6 @@ Preston Kulper,0.0,SO,WR/DB,#81,Central Elkader,0.0,0.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
 Braden Taylor,0.0,SO,OL/DL,#60,Central Elkader,0.0,0.0,0.0
 Jader Sanchez,14.6,SR,RB/DB,#4,Lone Tree,3.0,56.0,1.0
-Ledger Dalton,0.0,SO,WR/DB,#5,Dunkerton,0.0,0.0,0.0
 Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0,0.0
 Colin Snyder,0.0,SO,RB/LB,#24,Dunkerton,0.0,0.0,0.0
@@ -290,6 +290,7 @@ Trey Rosenbeck,0.0,SR,TE/LB,#3,Coon Rapids-Bayard,0.0,0.0,0.0
 Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0,0.0
 Cooper Petersen,10.6,JR,DE/OG,#33,Boyer Valley,2.0,26.0,1.0
 Kyle Reinhart,0.0,JR,WR/DB,#40,Central Elkader,0.0,0.0,0.0
+Noah Fuelling,4.6,JR,WR/DB,#12,Dunkerton,2.0,26.0,0.0
 Trenton Rodas,10.2,JR,TE/DE,#14,West Central,2.0,22.0,1.0
 Braydon Draeger,0.0,SR,TE/LB,#88,Melcher-Dallas,0.0,0.0,0.0
 CJ Smith,0.0,SO,TE/DB,#44,Melcher-Dallas,0.0,0.0,0.0
@@ -327,6 +328,7 @@ Sam Fettkether,0.0,SR,OL/LB,#47,Central Elkader,0.0,0.0,0.0
 Domonic Garcia,0.0,SO,WR/DB,#8,Lone Tree,0.0,0.0,0.0
 Dominic Graap,0.0,SR,WR/DB,#19,Lone Tree,0.0,0.0,0.0
 Brody Magruder,2.3,JR,TE/DL,#26,Lone Tree,1.0,13.0,0.0
+Jacob Snyder,13.0,SR,OL/DL,#52,Dunkerton,1.0,60.0,1.0
 Wyatt Nelson,0.0,JR,RB/DB,#9,West Central,0.0,0.0,0.0
 Drake Puls,0.0,SO,WR/DB,#21,West Central,0.0,0.0,0.0
 Jeffery Gerber,0.0,SR,RB/LB,#20,North Iowa,0.0,0.0,0.0
@@ -389,8 +391,6 @@ Mitchell Kriener,2.9,FR,TE/DE,#24,Turkey Valley,1.0,19.0,0.0
 MaKade Bloker,0.0,SR,RB/LB,#11,Clarksville,0.0,0.0,0.0
 Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0,0.0
 Kale Doeppke,0.0,SR,WR/DB,#5,Central Elkader,0.0,0.0,0.0
-Jacob Snyder,0.0,SR,OL/DL,#52,Dunkerton,0.0,0.0,0.0
-Noah Fuelling,0.0,JR,WR/DB,#12,Dunkerton,0.0,0.0,0.0
 Biar Biar,0.0,JR,OG/DL,#65,Siouxland Christian,0.0,0.0,0.0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0,0.0
 Raymond Nelson,0.0,JR,LB/RB,#81,Siouxland Christian,0.0,0.0,0.0
