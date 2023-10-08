@@ -14,6 +14,7 @@ Breckin Clatt,6.8,JR,QB/DB,#14,Colo-Nesco,68.0,0.0
 Ethan Bockelman,8.1,SR,QB/DB,#22,Lone Tree,21.0,1.0
 Braxton Blackburn,25.7,SR,,#10,Fremont-Mills,137.0,2.0
 Kooper Julseth,-1.0,JR,WR/LB,#1,Northwood-Kensett,-10.0,0.0
+Landon Waldschmitt,74.7,JR,QB/DB,#7,Remsen St. Mary's,327.0,7.0
 Nolan Kriegel,23.0,FR,QB/DB,#2,Iowa Valley,110.0,2.0
 Evan Alt,10.3,SR,RB/LB,#4,Audubon,43.0,1.0
 Cole Fehr,19.4,JR,RB/LB,#33,West Bend-Mallard,134.0,1.0
@@ -23,7 +24,6 @@ Adam Scott,0.0,SR,RB/LB,#26,West Central,0.0,0.0
 Emmett Snyder,14.4,SR,RB/S,#29,Glidden-Ralston,84.0,1.0
 Brody Koch,13.5,SO,RB/LB,#5,Calamus-Wheatland,75.0,1.0
 Kaiden Knaack,0.0,SR,,#10,Don Bosco,0.0,0.0
-Landon Waldschmitt,35.6,JR,QB/DB,#7,Remsen St. Mary's,116.0,4.0
 Beau Burns,38.3,SO,QB/DB,#2,BGM,203.0,3.0
 Michael Hensley,2.9,JR,RB/LB,#6,Sidney,29.0,0.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0
@@ -107,16 +107,17 @@ Talan Driscoll,0.0,FR,RB/LB,#8,Easton Valley,0.0,0.0
 Lucas Madison,12.2,SR,,#5,Fremont-Mills,62.0,1.0
 Nathan Moon,0.0,FR,RB/LB,#6,Clarksville,0.0,0.0
 Kale Doeppke,0.0,SR,WR/DB,#5,Central Elkader,0.0,0.0
+Keaton Harpenau,0.6,JR,SL/DB,#2,Remsen St. Mary's,6.0,0.0
 Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0
 Conlin Rouse,0.1,SO,RB/LB,#11,Springville,1.0,0.0
 Tate Foertsch,0.0,SO,QB/DB,#7,Bishop Garrigan,0.0,0.0
 Clayton Miller,2.2,JR,QB/CB,#4,WACO,22.0,0.0
-Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0
 Kendrick Mastin,0.0,SR,RB/LB,#9,Murray,0.0,0.0
 Sawyer Forney,3.4,SO,,#2,Fremont-Mills,34.0,0.0
 Nolan Grebin,0.0,SR,QB/S,#2,Stanton/Essex,0.0,0.0
 Christian Pierce,-0.3,SO,QB/S,#4,Rockford,-3.0,0.0
+Brady Koenck,21.8,JR,RB/LB,#26,Remsen St. Mary's,158.0,1.0
 Garrison Motsinger,8.5,JR,RB/S,#4,Bedford,25.0,1.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
 Reece Chiabotta,0.0,SO,QB/DB,#34,Melcher-Dallas,0.0,0.0
@@ -135,7 +136,6 @@ Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0
 Jayden Hanson,9.2,SR,QB/DB,#7,Central City,92.0,0.0
 Wade Sankot,10.2,SO,RB/LB,#3,Belle Plaine,42.0,1.0
 Jed Tyler,-0.7,SR,QB/DB,#7,West Central,-7.0,0.0
-Brady Koenck,4.1,JR,RB/LB,#26,Remsen St. Mary's,41.0,0.0
 Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0
 James Buhlman,0.0,FR,RB/LB,#27,Easton Valley,0.0,0.0
 Caden Oswald,0.0,FR,RB/DB,#6,Coon Rapids-Bayard,0.0,0.0
@@ -268,6 +268,7 @@ Ryan Heaton,0.0,JR,FB/DE,#43,Melcher-Dallas,0.0,0.0
 David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0
 Lerik McCarty,8.2,JR,RB/LB,#2,WACO,22.0,1.0
 Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0
+Cade Tentinger,8.6,JR,RB/DB,#5,Remsen St. Mary's,26.0,1.0
 Trace Kingsbury,0.0,SO,WR/CB,#6,Tripoli,0.0,0.0
 Drew Urbanek,0.0,FR,QB/CB,#10,Tripoli,0.0,0.0
 Brayden Chester,1.0,JR,RB/LB,#34,CAM,10.0,0.0
@@ -311,7 +312,6 @@ Bode Wyman,1.0,JR,QB/CB,#8,Griswold,10.0,0.0
 Austin Boege,0.2,SO,RB/LB,#22,Collins-Maxwell,2.0,0.0
 Trent Hoback,0.0,SR,LB/RB,#3,Lone Tree,0.0,0.0
 Alex Tiedemann,0.2,SO,QB/DB,#34,Northwood-Kensett,2.0,0.0
-Cade Tentinger,0.0,JR,RB/DB,#5,Remsen St. Mary's,0.0,0.0
 Trenton Beard,6.1,SR,OL/LB,#34,Colo-Nesco,1.0,1.0
 Gannon Short,0.0,JR,RB/DB,#11,Colo-Nesco,0.0,0.0
 David Schmitz,0.0,JR,,#4,Don Bosco,0.0,0.0
@@ -370,6 +370,7 @@ Caybrin Schilling,0.0,SO,QB/DB,#7,Dunkerton,0.0,0.0
 Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0.0,0.0
 Lucas Dow,0.0,JR,RB/LB,#26,Rockford,0.0,0.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0
+Braxton Kniep,1.9,JR,WR/DE,#18,Remsen St. Mary's,19.0,0.0
 Abram Edwards,0.0,SR,TE/DE,#84,Winfield-Mt Union,0.0,0.0
 Gunnar Smith,0.0,SO,QB,#6,Riceville,0.0,0.0
 Gabe Reeves,0.0,FR,RB/LB,#9,Janesville,0.0,0.0
@@ -469,7 +470,6 @@ Jacksyn Hogrefe,0.0,SO,RB/DB,#26,Newell-Fonda,0.0,0.0
 Caden Carruthers,0.0,JR,QB/DL,#20,Southeast Warren,0.0,0.0
 Cael Dop,0.0,FR,OG/DT,#58,Southeast Warren,0.0,0.0
 Teagan Hanson,0.0,SO,QB/S,#10,GTRA,0.0,0.0
-Braxton Kniep,0.9,JR,WR/DE,#18,Remsen St. Mary's,9.0,0.0
 Jack Seyller,0.0,SO,QB/DB,#30,Colo-Nesco,0.0,0.0
 Logan Boldt,0.0,SO,WR/LB,#3,Tripoli,0.0,0.0
 Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0
