@@ -105,6 +105,7 @@ Cristian Brown,SR,WR/DB,#47,Dunkerton,11,234,6
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,11,100,0
 Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,11,209,3
 McKoy Nuss,SO,QB/LB,#13,Tripoli,11,115,2
+Ty Christensen,SO,,#5,Don Bosco,11,96,1
 Andrew Beran,JR,RB,#2,Riceville,11,102,1
 Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,11,258,6
 Evan Alt,SR,RB/LB,#4,Audubon,11,52,0
@@ -122,7 +123,7 @@ J.D. Kruse,SO,RB/DE,#2,Turkey Valley,10,277,5
 Charlie Schaefer,SR,QB/S,#6,North Iowa,10,310,4
 Brekken Schlader,SO,TE/LB,#14,Rockford,10,69,0
 Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,10,145,2
-Ty Christensen,SO,,#5,Don Bosco,10,90,1
+Ben Belew,JR,,#3,Don Bosco,10,197,3
 Conlin Rouse,SO,RB/LB,#11,Springville,10,189,3
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,10,200,2
 Cale Westerbeck,SO,WR/DB,#4,New London,10,173,2
@@ -137,7 +138,6 @@ Christian Reinke,JR,TE/LB,#25,Rockford,9,64,0
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,9,130,1
 Braden Simington,SR,S/WR,#2,GTRA,9,123,1
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,9,191,3
-Ben Belew,JR,,#3,Don Bosco,9,181,2
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,9,69,0
 Ian Smith,JR,TE/LB,#5,Iowa Valley,9,97,3
 Bennett Steger,SR,WR,#14,Edgewood-Colesburg,9,151,1
@@ -226,6 +226,7 @@ Hunter Hughes,SR,CB/WR,#3,WACO,5,77,2
 Lucas Daggett,JR,TE/LB,#35,Colo-Nesco,5,50,1
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,5,29,2
 Tristan Freiberg,SR,WR/CB,#1,Tripoli,5,52,1
+Kyler Knaack,JR,,#20,Don Bosco,5,61,1
 Ryan Bower,SR,WR/S,#8,CAM,5,85,2
 Austin Williams,SR,RB/LB,#20,CAM,5,139,2
 Kinnick Henning,SO,RB/LB,#22,St. Edmond,5,95,2
@@ -268,7 +269,6 @@ Jesse Myhr,JR,FB/DE,#8,Moravia,4,30,1
 Ty Tauber,SR,OT/LB,#25,Newell-Fonda,4,39,1
 Caleb Swedin,SO,RB/LB,#7,GTRA,4,71,0
 Landen Dietrich,FR,RB/LB,#27,GTRA,4,88,2
-Kyler Knaack,JR,,#20,Don Bosco,4,50,1
 Braden Jordan,SO,QB/LB,#10,Springville,4,95,0
 Benjy Trainer,SR,TE/LB,#4,Bishop Garrigan,4,96,1
 Ezekiel Konkler,SR,WR/CB,#20,Audubon,4,10,0
@@ -352,9 +352,9 @@ Ashton Kracht,SR,WR/LB,#16,Harris-Lake Park,2,17,0
 Brody Becker,SO,,#13,GMG,2,11,0
 Anthony Waters,SR,,#10,GMG,2,41,1
 Connor Rahn,JR,,#12,GMG,2,5,0
-Jayden Hanson,SR,QB/DB,#7,Central City,1,52,1
 Kinnick Weis,SO,TE/DE,#81,Central City,1,37,1
 Christopher Greif,SR,LB/FB,#44,Central City,1,21,1
+Jayden Hanson,SR,QB/DB,#7,Central City,1,52,1
 Devon Weisskopf,JR,RB/LB,#32,HLV,1,4,0
 Jayden Smith,JR,OG/DE,#25,HLV,1,0,0
 Wesley Anderson,JR,RB/LB,#21,West Bend-Mallard,1,30,1

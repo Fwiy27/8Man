@@ -10,6 +10,7 @@ Landon Montag,58.3,SR,RB/LB,#24,West Bend-Mallard,223.0,6.0
 Jameson Kilworth,20.0,SR,QB/DB,#8,Exira-EHK,140.0,1.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
+Kaiden Knaack,43.8,SR,,#10,Don Bosco,198.0,4.0
 Breckin Clatt,6.8,JR,QB/DB,#14,Colo-Nesco,68.0,0.0
 Ethan Bockelman,8.1,SR,QB/DB,#22,Lone Tree,21.0,1.0
 Braxton Blackburn,25.7,SR,,#10,Fremont-Mills,137.0,2.0
@@ -23,7 +24,6 @@ MaKade Bloker,0.0,SR,RB/LB,#11,Clarksville,0.0,0.0
 Adam Scott,0.0,SR,RB/LB,#26,West Central,0.0,0.0
 Emmett Snyder,14.4,SR,RB/S,#29,Glidden-Ralston,84.0,1.0
 Brody Koch,13.5,SO,RB/LB,#5,Calamus-Wheatland,75.0,1.0
-Kaiden Knaack,0.0,SR,,#10,Don Bosco,0.0,0.0
 Beau Burns,38.3,SO,QB/DB,#2,BGM,203.0,3.0
 Michael Hensley,2.9,JR,RB/LB,#6,Sidney,29.0,0.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0
@@ -74,6 +74,7 @@ Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
 Burke Busta,0.9,SR,FB,#9,Turkey Valley,9.0,0.0
 Silas Walston,32.8,SR,RB/DE,#33,Bedford,88.0,4.0
 Cam Buffington,0.0,SR,QB/LB,#33,Winfield-Mt Union,0.0,0.0
+Ty Christensen,23.6,SO,,#5,Don Bosco,116.0,2.0
 Jordan Martin-England,19.3,JR,RB/LB,#18,Lenox,133.0,1.0
 Braden Jordan,14.2,SO,QB/LB,#10,Springville,82.0,1.0
 Dalton Kitzman,13.4,SR,RB/LB,#4,Lenox,74.0,1.0
@@ -89,7 +90,6 @@ Caden Roethler,0.0,SR,FB/LB,#20,Bishop Garrigan,0.0,0.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0
 Jackson McDanel,22.3,SR,RB/LB,#30,Moravia,103.0,2.0
-Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0
 Talan Pletz,0.0,SO,RB/LB,#5,Janesville,0.0,0.0
 Aiden Klostermann,9.8,SR,RB/S,#10,Central City,38.0,1.0
 Jacob Berens,21.5,SR,RB/LB,#34,Boyer Valley,95.0,2.0
@@ -121,6 +121,7 @@ Brady Koenck,21.8,JR,RB/LB,#26,Remsen St. Mary's,158.0,1.0
 Garrison Motsinger,8.5,JR,RB/S,#4,Bedford,25.0,1.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
 Reece Chiabotta,0.0,SO,QB/DB,#34,Melcher-Dallas,0.0,0.0
+Kyler Knaack,14.7,JR,,#20,Don Bosco,87.0,1.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0
 Blayne Smith,0.0,JR,QB/DB,#15,Ar-We-Va,0.0,0.0
 Brody Paulsen,2.3,SR,RB/DB,#2,CAM,23.0,0.0
@@ -154,7 +155,6 @@ Evan Lorenzen,5.5,JR,RB/DB,#22,Northwood-Kensett,55.0,0.0
 Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0
-Kyler Knaack,0.0,JR,,#20,Don Bosco,0.0,0.0
 Bryce Brabham,10.2,SO,RB/DB,#9,Exira-EHK,42.0,1.0
 Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
 Landon Gjerde,4.8,SO,RB/LB,#1,Colo-Nesco,48.0,0.0
@@ -182,6 +182,7 @@ Isaac Hill,0.0,SO,OL/DL,#60,Springville,0.0,0.0
 Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
 Treyton Franzen,0.2,FR,FB/LB,#21,Turkey Valley,2.0,0.0
 Adam Swaney,2.1,SO,RB/LB,#44,Bedford,21.0,0.0
+Aiden Hellman,1.2,FR,,#18,Don Bosco,12.0,0.0
 Aldo Esteban-Cabrera,0.0,JR,RB/LB,#22,Murray,0.0,0.0
 John McLaughlin,7.4,SR,WR/CB,#6,WACO,14.0,1.0
 Cannon Hansen,8.7,JR,TE/DL,#33,Exira-EHK,27.0,1.0
@@ -193,7 +194,6 @@ Luke Lansing,8.0,SO,RB/LB,#44,Springville,20.0,1.0
 Braedon Godfread,53.4,JR,TE/S,#10,Sidney,234.0,5.0
 Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0
 Hunter Hardin,0.0,JR,RB/LB,#36,Colo-Nesco,0.0,0.0
-Aiden Hellman,0.0,FR,,#18,Don Bosco,0.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0
 Derek Bartlett,0.0,SR,LB/RB,#4,Stanton/Essex,0.0,0.0

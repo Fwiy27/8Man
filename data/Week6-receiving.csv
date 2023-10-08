@@ -105,6 +105,7 @@ Cristian Brown,0.0,SR,WR/DB,#47,Dunkerton,0.0,0.0,0.0
 Trey Fisher,8.4,JR,RB/LB,#89,Southeast Warren,5.0,34.0,0.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0,0.0
+Ty Christensen,1.6,SO,,#5,Don Bosco,1.0,6.0,0.0
 Andrew Beran,2.6,JR,RB,#2,Riceville,1.0,16.0,0.0
 Sam Plathe,0.0,SR,WR/CB,#24,Bishop Garrigan,0.0,0.0,0.0
 Evan Alt,0.0,SR,RB/LB,#4,Audubon,0.0,0.0,0.0
@@ -122,7 +123,7 @@ J.D. Kruse,2.2,SO,RB/DE,#2,Turkey Valley,1.0,12.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0,0.0
 Brekken Schlader,3.5,SO,TE/LB,#14,Rockford,2.0,15.0,0.0
 Abram Edwards,0.0,SR,TE/DE,#84,Winfield-Mt Union,0.0,0.0,0.0
-Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0,0.0
+Ben Belew,8.6,JR,,#3,Don Bosco,1.0,16.0,1.0
 Conlin Rouse,0.0,SO,RB/LB,#11,Springville,0.0,0.0,0.0
 Justin Bauer,0.0,SR,WR/CB,#12,Bishop Garrigan,0.0,0.0,0.0
 Cale Westerbeck,0.0,SO,WR/DB,#4,New London,0.0,0.0,0.0
@@ -137,7 +138,6 @@ Christian Reinke,0.9,JR,TE/LB,#25,Rockford,1.0,-1.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0,0.0
 Braden Simington,0.0,SR,S/WR,#2,GTRA,0.0,0.0,0.0
 Carter Loyd,0.0,SR,RB/S,#2,Winfield-Mt Union,0.0,0.0,0.0
-Ben Belew,0.0,JR,,#3,Don Bosco,0.0,0.0,0.0
 Dawson Smith,0.0,SR,RB/LB,#20,Iowa Valley,0.0,0.0,0.0
 Ian Smith,0.0,JR,TE/LB,#5,Iowa Valley,0.0,0.0,0.0
 Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
@@ -226,6 +226,7 @@ Hunter Hughes,10.2,SR,CB/WR,#3,WACO,1.0,32.0,1.0
 Lucas Daggett,1.5,JR,TE/LB,#35,Colo-Nesco,1.0,5.0,0.0
 Landon Gjerde,0.0,SO,RB/LB,#1,Colo-Nesco,0.0,0.0,0.0
 Tristan Freiberg,0.0,SR,WR/CB,#1,Tripoli,0.0,0.0,0.0
+Kyler Knaack,2.1,JR,,#20,Don Bosco,1.0,11.0,0.0
 Ryan Bower,3.6,SR,WR/S,#8,CAM,2.0,16.0,0.0
 Austin Williams,2.6,SR,RB/LB,#20,CAM,1.0,16.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0,0.0
@@ -268,7 +269,6 @@ Jesse Myhr,0.0,JR,FB/DE,#8,Moravia,0.0,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0,0.0
 Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0,0.0
 Landen Dietrich,0.0,FR,RB/LB,#27,GTRA,0.0,0.0,0.0
-Kyler Knaack,0.0,JR,,#20,Don Bosco,0.0,0.0,0.0
 Braden Jordan,6.7,SO,QB/LB,#10,Springville,2.0,47.0,0.0
 Benjy Trainer,0.0,SR,TE/LB,#4,Bishop Garrigan,0.0,0.0,0.0
 Ezekiel Konkler,0.0,SR,WR/CB,#20,Audubon,0.0,0.0,0.0
@@ -352,9 +352,9 @@ Ashton Kracht,1.7,SR,WR/LB,#16,Harris-Lake Park,1.0,7.0,0.0
 Brody Becker,0.0,SO,,#13,GMG,0.0,0.0,0.0
 Anthony Waters,0.0,SR,,#10,GMG,0.0,0.0,0.0
 Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0,0.0
-Jayden Hanson,0.0,SR,QB/DB,#7,Central City,0.0,0.0,0.0
 Kinnick Weis,0.0,SO,TE/DE,#81,Central City,0.0,0.0,0.0
 Christopher Greif,0.0,SR,LB/FB,#44,Central City,0.0,0.0,0.0
+Jayden Hanson,0.0,SR,QB/DB,#7,Central City,0.0,0.0,0.0
 Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0,0.0
 Jayden Smith,0.0,JR,OG/DE,#25,HLV,0.0,0.0,0.0
 Wesley Anderson,0.0,JR,RB/LB,#21,West Bend-Mallard,0.0,0.0,0.0
