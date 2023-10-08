@@ -148,6 +148,7 @@ Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
 Wyatt Christiansen,1.0,SO,RB/LB,#10,Midland,1.0,0.0,0.0
 Bryce Brabham,0.0,SO,RB/DB,#9,Exira-EHK,0.0,0.0,0.0
 Samuel Dascher,0.0,SO,TE/CB,#31,Calamus-Wheatland,0.0,0.0,0.0
+Layne Mastin,2.4,SR,OG/DE,#11,East Mills,1.0,14.0,0.0
 Levi Reineke,4.9,SO,LB/RB,#29,Boyer Valley,2.0,29.0,0.0
 Caleb Kurtenbach,1.5,SR,QB,#5,Turkey Valley,1.0,5.0,0.0
 Maddox Jondle,8.1,JR,QB/LB,#11,Lone Tree,5.0,31.0,0.0
@@ -170,7 +171,6 @@ Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0,0.0
 Carter Sholtus,0.0,SR,WR/CB,#2,HLV,0.0,0.0,0.0
 Kaleb Drape,14.0,SR,WR/LB,#6,Kee,2.0,60.0,1.0
 Cody Samson,0.0,SR,TE/LB,#36,Baxter,0.0,0.0,0.0
-Layne Mastin,0.0,SR,OG/DE,#11,East Mills,0.0,0.0,0.0
 Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0,0.0
 Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
@@ -204,8 +204,8 @@ Tyler Bruns,0.0,JR,OL/DL,#43,Tripoli,0.0,0.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0,0.0
 Cal Peterman,8.2,JR,WR/LB,#15,Bedford,1.0,12.0,1.0
 Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0,0.0
-Kinnick Henning,8.5,SO,RB/LB,#22,St. Edmond,1.0,15.0,1.0
 Dominic McClain,0.0,JR,WR/DB,#7,St. Edmond,0.0,0.0,0.0
+Kinnick Henning,8.5,SO,RB/LB,#22,St. Edmond,1.0,15.0,1.0
 Owen Murphy,0.0,JR,WR/S,#10,Bishop Garrigan,0.0,0.0,0.0
 Creyton Ogier,1.2,SR,TE/DE,#5,Lamoni,1.0,2.0,0.0
 James Bell,0.0,SR,WR/DB,#21,Waterloo Christian,0.0,0.0,0.0
@@ -322,6 +322,7 @@ Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0,0.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0,0.0
 Cooper Smith,0.0,FR,TE/LB,#16,Mormon Trail,0.0,0.0,0.0
 Connor Snethen,0.0,FR,WR/CB,#10,Mormon Trail,0.0,0.0,0.0
+Nick Maurer,2.4,SO,WR/CB,#21,East Mills,2.0,4.0,0.0
 Kael Blohm,0.0,SO,WR/DB,#15,Gladbrook-Reinbeck,0.0,0.0,0.0
 Austin Gehring,0.0,SR,WR/DB,#4,Gladbrook-Reinbeck,0.0,0.0,0.0
 Sam Fettkether,0.0,SR,OL/LB,#47,Central Elkader,0.0,0.0,0.0
