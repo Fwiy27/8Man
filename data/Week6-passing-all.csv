@@ -29,6 +29,7 @@ Clayton Miller,79.64,JR  QB/CB,#4,WACO,616,14,1
 Dallas Smith,40.84,JR  QB/DB,#2,Twin Cedars,646,6,9
 Jake Edwards,104.92,JR  QB/S,#3,Winfield-Mt Union,973,17,2
 Jack Adams,60.28,JR  QB,#7,Riceville,557,10,2
+Kale Doeppke,29.04,SR  WR/DB,#5,Central Elkader,451,4,5
 Anthony Harrington,49.6,SO  QB/LB,#2,Midland,540,8,4
 Jamison Ewing,48.84,SO  WR/CB,#8,Southeast Warren,496,8,3
 Nolan Kriegel,72.4,FR  QB/DB,#2,Iowa Valley,810,11,4
@@ -40,7 +41,6 @@ Drew Urbanek,33.52,FR  QB/CB,#10,Tripoli,363,6,5
 Aaron Olsen,19.96,JR  QB/S,#3,Audubon,399,2,4
 Degin Dixson,40.0,SR  QB/CB,#3,Mormon Trail,525,6,5
 Nolan Grebin,41.32,SR  QB/S,#2,Stanton/Essex,533,6,4
-Kale Doeppke,27.64,SR  WR/DB,#5,Central Elkader,366,4,3
 Brody Koch,31.84,SO  RB/LB,#5,Calamus-Wheatland,446,4,2
 Gavin Menke-Bailey,48.76,JR  QB/LB,#5,New London,519,8,4
 Ethan Bockelman,48.76,SR  QB/DB,#22,Lone Tree,519,8,4
@@ -132,7 +132,7 @@ Seth Bell,-0.04,FR  QB/DB,#26,Collins-Maxwell,-1,0,0
 Cal Heydon,0.96,SO  QB/DB,#11,Coon Rapids-Bayard,24,0,0
 Drew Eilers,0.2,JR  WR/DL,#2,Gladbrook-Reinbeck,5,0,0
 Brody Koski,0.64,FR  QB/LB,#7,Boyer Valley,16,0,0
-Owen Hammersland,0.4,FR  RB/LB,#24,Central Elkader,10,0,0
+Owen Hammersland,-0.6,FR  RB/LB,#24,Central Elkader,10,0,1
 Jed Bielenberg,-0.4,SR  DE/WR,#15,Siouxland Christian,-10,0,0
 Brody Wolff,0.12,FR  QB/DB,#3,West Central,3,0,0
 Gavyn Thordarson,0.04,SO  RB/DE,#8,Melcher-Dallas,1,0,0

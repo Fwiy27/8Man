@@ -88,6 +88,7 @@ Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0
 Broox Stockman,1.9,SO,RB/LB,#20,Montezuma,19.0,0.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0
 Caden Roethler,0.0,SR,FB/LB,#20,Bishop Garrigan,0.0,0.0
+Owen Hammersland,0.1,FR,RB/LB,#24,Central Elkader,1.0,0.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0
 Jackson McDanel,22.3,SR,RB/LB,#30,Moravia,103.0,2.0
@@ -100,14 +101,13 @@ Cade Robinson,0.0,JR,WR/CB,#12,Baxter,0.0,0.0
 Isaac Clark,0.0,SR,QB/LB,#12,Gladbrook-Reinbeck,0.0,0.0
 Owen Backer,0.0,SO,RB/S,#22,Clarksville,0.0,0.0
 Parker Hays,0.0,JR,RB/DB,#9,Coon Rapids-Bayard,0.0,0.0
+Kale Doeppke,-0.7,SR,WR/DB,#5,Central Elkader,-7.0,0.0
 Seth Bixler,12.5,SR,WR/S,#1,Midland,65.0,1.0
 Jackson Schulte,21.0,SR,RB/LB,#21,Kee,90.0,2.0
-Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0
 Alex Daniel,1.7,SO,RB/LB,#27,Glidden-Ralston,17.0,0.0
 Talan Driscoll,0.0,FR,RB/LB,#8,Easton Valley,0.0,0.0
 Lucas Madison,12.2,SR,,#5,Fremont-Mills,62.0,1.0
 Nathan Moon,0.0,FR,RB/LB,#6,Clarksville,0.0,0.0
-Kale Doeppke,0.0,SR,WR/DB,#5,Central Elkader,0.0,0.0
 Keaton Harpenau,0.6,JR,SL/DB,#2,Remsen St. Mary's,6.0,0.0
 Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0
 Conlin Rouse,0.1,SO,RB/LB,#11,Springville,1.0,0.0
@@ -204,6 +204,7 @@ John Deemer,2.9,FR,RB/LB,#28,Bedford,29.0,0.0
 Bryer Jack,0.0,FR,QB/DB,#14,HLV,0.0,0.0
 Tanner Troendle,20.6,FR,RB/DB,#23,Kee,86.0,2.0
 Ethan Bauer,0.0,SO,RB/DB,#4,Coon Rapids-Bayard,0.0,0.0
+Logan Sharpe,-0.2,JR,RB/LB,#28,Central Elkader,-2.0,0.0
 Riley Garrett,0.0,JR,RB/DL,#11,Dunkerton,0.0,0.0
 Rocky Johnson,0.0,FR,RB/DB,#15,Melcher-Dallas,0.0,0.0
 Jesse Myhr,6.7,JR,FB/DE,#8,Moravia,67.0,0.0
@@ -212,7 +213,6 @@ Marco Avila,7.1,JR,FB,#52,Riceville,11.0,1.0
 Daniel Britt,0.0,JR,RB/S,#3,Janesville,0.0,0.0
 Isaac Delange,0.0,JR,WR/CB,#25,Bishop Garrigan,0.0,0.0
 Aidan Timm,3.4,SO,QB/DB,#9,Belle Plaine,34.0,0.0
-Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0
 Carter Seitz,0.0,JR,WR/DB,#7,Kee,0.0,0.0
 Dalton Weepie,7.0,JR,TE/LB,#33,Dunkerton,10.0,1.0
 Lucas Christian,2.0,JR,WR/S,#18,Glidden-Ralston,20.0,0.0
@@ -365,6 +365,8 @@ Josh Lindsey,0.0,SO,WR/S,#36,Central City,0.0,0.0
 Keaton Brammer,0.0,FR,WR/CB,#14,Murray,0.0,0.0
 Corey Breese,0.0,SR,TE/LB,#70,English Valleys,0.0,0.0
 Blake Micetich,0.0,SR,RB/DB,#3,Twin Cedars,0.0,0.0
+Preston Kulper,1.6,SO,WR/DB,#81,Central Elkader,16.0,0.0
+Braden Taylor,0.2,SO,OL/DL,#60,Central Elkader,2.0,0.0
 Cristian Brown,0.0,SR,WR/DB,#47,Dunkerton,0.0,0.0
 Caybrin Schilling,0.0,SO,QB/DB,#7,Dunkerton,0.0,0.0
 Colton Cox,0.0,FR,RB/DB,#33,Melcher-Dallas,0.0,0.0
@@ -393,7 +395,6 @@ Nick Maurer,0.0,SO,WR/CB,#21,East Mills,0.0,0.0
 Cooper Petersen,0.2,JR,DE/OG,#33,Boyer Valley,2.0,0.0
 Brody Koski,0.0,FR,QB/LB,#7,Boyer Valley,0.0,0.0
 Isaac Loan,0.0,SO,QB/DB,#12,Central Elkader,0.0,0.0
-Braden Taylor,0.0,SO,OL/DL,#60,Central Elkader,0.0,0.0
 Anthony Eisele,0.0,SR,OL/DL,#55,North Iowa,0.0,0.0
 Hunter DeGard,0.0,FR,OG/DE,#24,Melcher-Dallas,0.0,0.0
 Kolton Robinson,0.0,SO,RB/DB,#23,Northwood-Kensett,0.0,0.0
@@ -451,7 +452,7 @@ Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0
 Bennett Heidercheit,0.0,FR,RB/LB,#8,Coon Rapids-Bayard,0.0,0.0
 Austin Gehring,0.0,SR,WR/DB,#4,Gladbrook-Reinbeck,0.0,0.0
 Dreyson Morgan,0.0,SO,WR/DB,#10,Gladbrook-Reinbeck,0.0,0.0
-Preston Kulper,0.0,SO,WR/DB,#81,Central Elkader,0.0,0.0
+Kyle Reinhart,1.2,JR,WR/DB,#40,Central Elkader,12.0,0.0
 Domonic Garcia,0.0,SO,WR/DB,#8,Lone Tree,0.0,0.0
 Dominic Graap,0.0,SR,WR/DB,#19,Lone Tree,0.0,0.0
 Otto French,0.2,FR,FB/LB,#16,Dunkerton,2.0,0.0
