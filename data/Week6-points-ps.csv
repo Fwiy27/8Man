@@ -23,6 +23,7 @@ Alex Black,0.0,WR/DB,Montezuma
 Alex Daniel,1.7,RB/LB,Glidden-Ralston
 Alex Hansen,35.8,RB/LB,Exira-EHK
 Alex Havaranek,0.0,QB/S,Rockford
+Alex Rasmussen,2.7,RB/LB,Griswold
 Alex Tiedemann,4.7,QB/DB,Northwood-Kensett
 Ambrose Savage,-1.62,QB/LB,Lamoni
 Andreas Buttry,0.0,QB/CB,Sidney
@@ -56,14 +57,14 @@ Ben Yezek,0.0,WR/DB,Northwood-Kensett
 Benjy Trainer,0.0,TE/LB,Bishop Garrigan
 Bennett Heidercheit,0.0,RB/LB,Coon Rapids-Bayard
 Bennett Pfister,0.0,WR/DB,Siouxland Christian
-Bennett Steger,0.0,WR,Edgewood-Colesburg
+Bennett Steger,21.6,WR,Edgewood-Colesburg
 Biar Biar,0.0,OG/DL,Siouxland Christian
 Blake Ewing,0.0,FB/LB,Moravia
 Blake Helmick,0.0,OG/DE,Moravia
 Blake Micetich,0.0,RB/DB,Twin Cedars
 Blayne Porter,0.0,QB/S,Janesville
 Blayne Smith,26.42,QB/DB,Ar-We-Va
-Bode Wyman,7.4,QB/CB,Griswold
+Bode Wyman,45.92,QB/CB,Griswold
 Boston Roorda,0.0,TE/DB,HLV
 Braden Jordan,32.26,QB/LB,Springville
 Braden Simington,7.3,S/WR,GTRA
@@ -116,7 +117,7 @@ CJ Smith,0.0,TE/DB,Melcher-Dallas
 Cade Robinson,16.7,WR/CB,Baxter
 Cade Tentinger,8.6,RB/DB,Remsen St. Mary's
 Caden Carruthers,2.4,QB/DL,Southeast Warren
-Caden Cole,0.0,TE,Edgewood-Colesburg
+Caden Cole,9.0,TE,Edgewood-Colesburg
 Caden Kaufman,0.0,RB/LB,Lenox
 Caden Oswald,0.0,RB/DB,Coon Rapids-Bayard
 Caden Page,6.4,QB/LB,Murray
@@ -143,7 +144,7 @@ Cameron Nicoletto,0.0,C/DT,Moravia
 Cannon Hansen,8.7,TE/DL,Exira-EHK
 Carson Frerichs,0.0,RB/LB,North Iowa
 Carson Hopkins,0.0,TE/LB,West Harrison/Whiting
-Carson Ingles,0.0,RB,Edgewood-Colesburg
+Carson Ingles,37.32,RB,Edgewood-Colesburg
 Carson Peters,0.0,TE/S,Glidden-Ralston
 Carson Schnieder,0.0,QB/DB,West Bend-Mallard
 Carson Wessel,37.3,QB/LB,Audubon
@@ -154,7 +155,7 @@ Carter Hassebroek,1.4,WR/DB,Iowa Valley
 Carter Loyd,0.0,RB/S,Winfield-Mt Union
 Carter McGregor,0.0,RB/LB,Bishop Garrigan
 Carter Michalek,0.0,WR/DB,Montezuma
-Carter Oberbroeckling,0.0,RB,Edgewood-Colesburg
+Carter Oberbroeckling,19.6,RB,Edgewood-Colesburg
 Carter Rycroft,0.0,,Fremont-Mills
 Carter Seitz,10.0,WR/DB,Kee
 Carter Sholtus,0.0,WR/CB,HLV
@@ -201,7 +202,7 @@ Colten Brown,0.0,C/DT,Central City
 Colton Cox,0.0,RB/DB,Melcher-Dallas
 Colton Leichty,16.1,TE/LB,WACO
 Conlin Rouse,0.1,RB/LB,Springville
-Conner Bowers,1.3,TE/CB,Griswold
+Conner Bowers,9.0,TE/CB,Griswold
 Conner Nally,11.08,QB/LB,Bedford
 Connor Rahn,0.0,,GMG
 Connor Snethen,0.0,WR/CB,Mormon Trail
@@ -323,7 +324,7 @@ Hayden Jones,0.0,TE/LB,Griswold
 Hayden Loftsgard,0.0,WR/CB,Tripoli
 Hayden Shelman,0.0,DB/RB,WACO
 Henry Sturm,0.0,OL/LB,Glidden-Ralston
-Holden Jensen,10.9,WR/CB,Griswold
+Holden Jensen,12.6,WR/CB,Griswold
 Holden Roberts,0.0,TE/DE,Twin Cedars
 Hudson Clark,0.0,WR/DB,Gladbrook-Reinbeck
 Hudson Welton,0.0,QB/DB,Central City
@@ -535,7 +536,7 @@ Mason Hoy,26.88,RB/CB,Springville
 Mason Maschmann,13.6,RB/LB,BGM
 Mason McIntosh,25.5,QB/LB,West Harrison/Whiting
 Mason McKinney,0.0,OL/DE,Colo-Nesco
-Mason Steinhoff,24.5,RB/LB,Griswold
+Mason Steinhoff,28.1,RB/LB,Griswold
 Mathew Lamkins,0.0,,Fremont-Mills
 Matt Besch,0.0,OG/LB,Bishop Garrigan
 Matt Cline,0.0,OL/DL,Woodbine
@@ -597,7 +598,7 @@ Patrick Boyle,0.0,OG,Riceville
 Payton Malchow,0.0,WR/CB,Rockford
 Perrin Sulzle,62.46,QB/LB,Baxter
 Peter Kielman,0.0,TE/LB,Clarksville
-Peyton Cook,1.8,QB/CB,Griswold
+Peyton Cook,21.7,QB/CB,Griswold
 Preston Kulper,1.6,WR/DB,Central Elkader
 Pryce Rochford,0.0,QB,Edgewood-Colesburg
 Quentin Dalton,7.1,QB/LB,Bedford
@@ -717,8 +718,8 @@ Wyatt Oswald,0.0,QB/LB,Coon Rapids-Bayard
 Wyatt Patton,0.0,OG/LB,Murray
 Wyatt Ragaller,39.4,RB/DB,Ar-We-Va
 Wyatt Roberts,0.0,TE/DB,Stanton/Essex
-Wyatt Silk,0.0,WR/CB,Griswold
+Wyatt Silk,1.3,WR/CB,Griswold
 Wyatt Throckmorton,30.9,WR/LB,Moravia
 Zach Goetzinger,0.0,RB/DB,Kee
 Zach Thornburg,0.0,QB/CB,East Mills
-Zane Johnson,16.3,RB/LB,Griswold
+Zane Johnson,70.9,RB/LB,Griswold
