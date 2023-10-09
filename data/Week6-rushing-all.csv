@@ -29,6 +29,7 @@ Adam Scott,SR,RB/LB,#26,West Central,492,2
 Perrin Sulzle,JR,QB/LB,#7,Baxter,425,5
 Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,544,6
 Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,479,6
+Wyatt Oswald,JR,QB/LB,#10,Coon Rapids-Bayard,447,3
 Beau Burns,SO,QB/DB,#2,BGM,1085,16
 Michael Hensley,JR,RB/LB,#6,Sidney,425,6
 Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,240,5
@@ -40,7 +41,6 @@ Josef Dvorak,JR,RB/DB,#25,Collins-Maxwell,522,7
 Brogyn Greensky,SR,QB/LB,#4,North Iowa,457,3
 Brady Boulton,SO,QB/DB,#1,Montezuma,652,15
 Mason Hoy,SO,RB/CB,#9,Springville,730,13
-Wyatt Oswald,JR,QB/LB,#10,Coon Rapids-Bayard,427,3
 Mason McIntosh,SR,QB/LB,#16,West Harrison/Whiting,355,3
 Fischer Buffington,JR,RB/DE,#12,East Union,439,4
 Shane Helmick,SR,QB/DE,#12,Moravia,529,9
@@ -102,11 +102,11 @@ Caleb Urban,JR,WR/CB,#3,East Mills,202,4
 Jackson McDanel,SR,RB/LB,#30,Moravia,412,6
 Kambridge Wainscott,SR,QB/DB,#15,Waterloo Christian,129,3
 Aiden Klostermann,SR,RB/S,#10,Central City,509,9
+Parker Hays,JR,RB/DB,#9,Coon Rapids-Bayard,152,1
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,299,4
 Dane Ballou,FR,QB/LB,#17,Midland,303,5
 Zane Johnson,JR,RB/LB,#7,Griswold,292,5
 Isaac Clark,SR,QB/LB,#12,Gladbrook-Reinbeck,354,9
-Parker Hays,JR,RB/DB,#9,Coon Rapids-Bayard,142,1
 Kale Doeppke,SR,WR/DB,#5,Central Elkader,20,0
 Seth Bixler,SR,WR/S,#1,Midland,340,4
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,342,8
@@ -128,6 +128,7 @@ Brady Koenck,JR,RB/LB,#26,Remsen St. Mary's,260,4
 Garrison Motsinger,JR,RB/S,#4,Bedford,424,9
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,270,1
 Grant Whitehead,JR,QB/DB,#15,Sidney,200,2
+Caden Oswald,FR,RB/DB,#6,Coon Rapids-Bayard,363,9
 Reece Chiabotta,SO,QB/DB,#34,Melcher-Dallas,88,0
 Kyler Knaack,JR,,#20,Don Bosco,472,5
 Dallas Smith,JR,QB/DB,#2,Twin Cedars,141,2
@@ -146,7 +147,6 @@ Cainan Travis,JR,WR/LB,#20,Baxter,211,2
 Jed Tyler,SR,QB/DB,#7,West Central,7,1
 Jordan Goad,JR,QB/CB,#1,Springville,86,1
 James Buhlman,FR,RB/LB,#27,Easton Valley,194,3
-Caden Oswald,FR,RB/DB,#6,Coon Rapids-Bayard,340,8
 Joe Koehler,SR,FB/DE,#24,Rockford,117,0
 Graham Godsey,JR,RB/LB,#35,Bedford,198,1
 Matthew Klostermann,JR,RB/LB,#22,Central City,490,8
@@ -330,6 +330,7 @@ Carter Rycroft,SO,,#4,Fremont-Mills,11,0
 Brock Micetich,FR,RB/LB,#36,Twin Cedars,38,0
 Holden Roberts,SO,TE/DE,#13,Twin Cedars,32,0
 Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,15,0
+Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,21,0
 Landon Gibbs,FR,RB/CB,#24,East Mills,73,1
 Parker Reicks,SO,FB/LB,#42,Turkey Valley,41,0
 Milton Cushion,FR,RB/DB,#11,West Central,33,0
@@ -351,7 +352,6 @@ Wyatt Christiansen,SO,RB/LB,#10,Midland,0,0
 Austin Schmidt,JR,QB/DB,#2,West Bend-Mallard,77,1
 Ethan Baxter,JR,RB/LB,#52,Griswold,64,1
 Wyatt Silk,SO,WR/CB,#15,Griswold,20,0
-Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,9,0
 Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,9,0
 Leo Schrader,FR,QB/DB,#23,Melcher-Dallas,-13,0
 Blake Ewing,FR,FB/LB,#31,Moravia,17,0
