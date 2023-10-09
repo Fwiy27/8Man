@@ -112,6 +112,7 @@ Austin Lack,12.6,SR,WR/DB,#3,East Union,4.0,26.0,1.0
 Kael Cress,0.0,JR,WR/S,#7,Midland,0.0,0.0,0.0
 Tyler Ballard,0.0,SR,TE/DE,#22,HLV,0.0,0.0,0.0
 Sam DeMeulenaere,11.4,JR,E/LB,#12,Belle Plaine,2.0,34.0,1.0
+Jacob Martin,5.4,JR,RB/LB,#3,Stanton/Essex,1.0,44.0,0.0
 Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0,0.0
 Austin Boege,9.6,SO,RB/LB,#22,Collins-Maxwell,4.0,56.0,0.0
 Trey Fisher,8.4,JR,RB/LB,#89,Southeast Warren,5.0,34.0,0.0
@@ -128,7 +129,6 @@ Gio Cruz,4.0,SR,RB/DB,#5,Lenox,1.0,30.0,0.0
 JW Linkenhoker,1.6,SO,,#11,Fremont-Mills,1.0,6.0,0.0
 Lucas Madison,2.5,SR,,#5,Fremont-Mills,1.0,15.0,0.0
 Mason Steinhoff,11.5,SO,RB/LB,#11,Griswold,4.0,75.0,0.0
-Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0,0.0
 J.D. Kruse,2.2,SO,RB/DE,#2,Turkey Valley,1.0,12.0,0.0
 Jack Scherf,9.1,JR,WR/DB,#23,Central Elkader,5.0,41.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0,0.0
@@ -144,6 +144,7 @@ Logan Franklin,3.7,SO,WR/DB,#7,New London,2.0,17.0,0.0
 Donald Bashor,7.8,SR,RB/LB,#44,Lenox,1.0,8.0,1.0
 Braxton Blackburn,2.4,SR,,#10,Fremont-Mills,2.0,4.0,0.0
 Cody Dorscher,0.0,JR,WR/CB,#24,Griswold,0.0,0.0,0.0
+Logan French,18.5,SR,WR/DB,#1,Stanton/Essex,3.0,35.0,2.0
 Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0,0.0
 Luke Erselius,0.0,SO,WR/DB,#15,Montezuma,0.0,0.0,0.0
 Christian Reinke,0.9,JR,TE/LB,#25,Rockford,1.0,-1.0,0.0
@@ -200,7 +201,6 @@ Ayden Lamb,0.0,FR,TE/LB,#18,Murray,0.0,0.0,0.0
 Jordan Martin-England,0.0,JR,RB/LB,#18,Lenox,0.0,0.0,0.0
 Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0,0.0
 Auden Wilson,0.0,JR,WR/CB,#10,Griswold,0.0,0.0,0.0
-Logan French,0.0,SR,WR/DB,#1,Stanton/Essex,0.0,0.0,0.0
 Levi Evans,0.0,SO,TE/DE,#20,Mormon Trail,0.0,0.0,0.0
 Jacob Berens,1.9,SR,RB/LB,#34,Boyer Valley,1.0,9.0,0.0
 Jackson Stansberry,4.9,SO,WR/DB,#22,Siouxland Christian,1.0,39.0,0.0
@@ -225,6 +225,7 @@ Kendrick Mastin,4.0,SR,RB/LB,#9,Murray,1.0,30.0,0.0
 Coen Good,0.0,SR,WR/CB,#2,English Valleys,0.0,0.0,0.0
 Nate Curry,0.0,SR,RB/LB,#38,Twin Cedars,0.0,0.0,0.0
 Brock Micetich,0.0,FR,RB/LB,#36,Twin Cedars,0.0,0.0,0.0
+Gavin Ford,2.0,JR,QB/LB,#12,Stanton/Essex,1.0,10.0,0.0
 Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0,0.0
 Jiri Brodigan,0.0,SO,WR/LB,#32,East Mills,0.0,0.0,0.0
 Treyvon Herron,0.0,FR,WR/DB,#9,Gladbrook-Reinbeck,0.0,0.0,0.0
@@ -255,7 +256,6 @@ Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0,0.0
 Cole Fehr,0.0,JR,RB/LB,#33,West Bend-Mallard,0.0,0.0,0.0
 Quintin White,0.0,SR,WR/DB,#3,Exira-EHK,0.0,0.0,0.0
 Holden Jensen,10.9,JR,WR/CB,#33,Griswold,1.0,39.0,1.0
-Gavin Ford,0.0,JR,QB/LB,#12,Stanton/Essex,0.0,0.0,0.0
 Johnny Resh,0.0,SR,TE/DL,#20,Stanton/Essex,0.0,0.0,0.0
 Luke Rohling,1.4,SR,FB/LB,#16,Calamus-Wheatland,1.0,4.0,0.0
 Brayden Svejda,3.9,JR,QB/CB,#1,Calamus-Wheatland,2.0,19.0,0.0
