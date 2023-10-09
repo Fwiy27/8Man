@@ -4,14 +4,15 @@ Dane Appleby,16.0,JR,QB/LB,#4,Janesville,100.0,1.0
 Aaron Olsen,24.5,JR,QB/S,#3,Audubon,125.0,2.0
 Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0
 Ambrose Savage,2.3,JR,QB/LB,#12,Lamoni,23.0,0.0
+Judah Bielenberg,13.4,JR,QB/LB,#10,Siouxland Christian,74.0,1.0
 Oliver Schmitt,13.0,SR,FB,#22,Turkey Valley,70.0,1.0
 Andrew Beran,26.4,JR,RB,#2,Riceville,84.0,3.0
 Landon Montag,58.3,SR,RB/LB,#24,West Bend-Mallard,223.0,6.0
+MaKade Bloker,29.6,SR,RB/LB,#11,Clarksville,116.0,3.0
 Jameson Kilworth,20.0,SR,QB/DB,#8,Exira-EHK,140.0,1.0
 Nolan Gannon,25.1,FR,RB/LB,#34,Murray,191.0,1.0
 Gavin Menke-Bailey,7.7,JR,QB/LB,#5,New London,17.0,1.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
-Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
 Carson Ingles,33.4,SO,RB,#1,Edgewood-Colesburg,214.0,2.0
 Kaiden Knaack,43.8,SR,,#10,Don Bosco,198.0,4.0
 Breckin Clatt,6.8,JR,QB/DB,#14,Colo-Nesco,68.0,0.0
@@ -24,7 +25,6 @@ JT Laufersweiler,29.3,SR,QB/DB,#11,St. Edmond,113.0,3.0
 Evan Alt,10.3,SR,RB/LB,#4,Audubon,43.0,1.0
 Cole Fehr,19.4,JR,RB/LB,#33,West Bend-Mallard,134.0,1.0
 Triton Gwinn,0.0,SR,RB/LB,#22,Mormon Trail,0.0,0.0
-MaKade Bloker,0.0,SR,RB/LB,#11,Clarksville,0.0,0.0
 Adam Scott,0.0,SR,RB/LB,#26,West Central,0.0,0.0
 Perrin Sulzle,28.7,JR,QB/LB,#7,Baxter,167.0,2.0
 Emmett Snyder,14.4,SR,RB/S,#29,Glidden-Ralston,84.0,1.0
@@ -49,6 +49,7 @@ Louden Huisenga,9.2,JR,RB/LB,#8,WACO,32.0,1.0
 Dalton Mudderman,3.0,JR,QB/LB,#5,Kee,30.0,0.0
 Carter Oberbroeckling,19.6,SR,RB,#34,Edgewood-Colesburg,76.0,2.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
+Owen Backer,11.5,SO,RB/S,#22,Clarksville,115.0,0.0
 Trey Fisher,3.5,JR,RB/LB,#89,Southeast Warren,35.0,0.0
 Wyatt Ragaller,24.9,SO,RB/DB,#8,Ar-We-Va,69.0,3.0
 Jack Adams,21.5,JR,QB,#7,Riceville,155.0,1.0
@@ -87,6 +88,7 @@ Caden Page,5.8,JR,QB/LB,#8,Murray,-2.0,1.0
 Owen Garside,28.9,JR,S/QB,#3,Boyer Valley,109.0,3.0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
 Lane Vokoun,30.7,JR,RB/DB,#35,Belle Plaine,127.0,3.0
+Eli Schmidt,14.9,SR,RB/S,#3,Clarksville,89.0,1.0
 Marshawn Taylor,26.3,SR,RB/CB,#12,Rockford,143.0,2.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0
 Broox Stockman,1.9,SO,RB/LB,#20,Montezuma,19.0,0.0
@@ -104,7 +106,6 @@ Jacob Berens,21.5,SR,RB/LB,#34,Boyer Valley,95.0,2.0
 Dane Ballou,43.7,FR,QB/LB,#17,Midland,197.0,4.0
 Zane Johnson,50.6,JR,RB/LB,#7,Griswold,206.0,5.0
 Isaac Clark,0.0,SR,QB/LB,#12,Gladbrook-Reinbeck,0.0,0.0
-Owen Backer,0.0,SO,RB/S,#22,Clarksville,0.0,0.0
 Parker Hays,0.0,JR,RB/DB,#9,Coon Rapids-Bayard,0.0,0.0
 Kale Doeppke,-0.7,SR,WR/DB,#5,Central Elkader,-7.0,0.0
 Seth Bixler,12.5,SR,WR/S,#1,Midland,65.0,1.0
@@ -133,7 +134,6 @@ Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0
 Mason Steinhoff,16.6,SO,RB/LB,#11,Griswold,106.0,1.0
 Brody Paulsen,2.3,SR,RB/DB,#2,CAM,23.0,0.0
 Austin Williams,11.3,SR,RB/LB,#20,CAM,53.0,1.0
-Eli Schmidt,0.0,SR,RB/S,#3,Clarksville,0.0,0.0
 Grant Finck,9.9,JR,RB/LB,#10,Dunkerton,39.0,1.0
 Cole Milks,0.0,SR,RB/S,#11,Winfield-Mt Union,0.0,0.0
 Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0
@@ -199,11 +199,12 @@ Luke Lansing,8.0,SO,RB/LB,#44,Springville,20.0,1.0
 Corbin Jacobs-Jewell,0.3,JR,TE/DE,#10,New London,3.0,0.0
 Braedon Godfread,53.4,JR,TE/S,#10,Sidney,234.0,5.0
 Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0
+Jed Bielenberg,1.5,SR,DE/WR,#15,Siouxland Christian,15.0,0.0
+Bram Bielenberg,0.1,FR,RB/LB,#35,Siouxland Christian,1.0,0.0
 Hunter Hardin,0.0,JR,RB/LB,#36,Colo-Nesco,0.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
 Derek Bartlett,0.0,SR,LB/RB,#4,Stanton/Essex,0.0,0.0
 Drew Stanek,0.0,JR,RB/LB,#16,Gladbrook-Reinbeck,0.0,0.0
-Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0
 Wyatt Throckmorton,9.0,SR,WR/LB,#23,Moravia,30.0,1.0
 John Deemer,2.9,FR,RB/LB,#28,Bedford,29.0,0.0
 Bryer Jack,0.0,FR,QB/DB,#14,HLV,0.0,0.0
@@ -250,7 +251,6 @@ Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0
 Travis Noel,0.0,FR,DE/RB,#32,Lamoni,0.0,0.0
 Seth Bell,1.4,FR,QB/DB,#26,Collins-Maxwell,14.0,0.0
 Kaden Schmidt,0.0,FR,RB/LB,#18,Turkey Valley,0.0,0.0
-Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0
 Isaac Messamaker,0.1,JR,FB/LB,#25,Moravia,1.0,0.0
 Makade Paulsen,0.0,JR,QB/DB,#3,CAM,0.0,0.0
 Blayne Porter,4.9,SO,QB/S,#1,Janesville,49.0,0.0

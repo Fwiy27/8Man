@@ -4,14 +4,15 @@ Dane Appleby,JR,QB/LB,#4,Janesville,1006,9
 Aaron Olsen,JR,QB/S,#3,Audubon,832,13
 Ty Alcott,JR,RB/DB,#24,Belle Plaine,756,9
 Ambrose Savage,JR,QB/LB,#12,Lamoni,1040,20
+Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,378,8
 Oliver Schmitt,SR,FB,#22,Turkey Valley,887,16
 Andrew Beran,JR,RB,#2,Riceville,782,16
 Landon Montag,SR,RB/LB,#24,West Bend-Mallard,1005,18
+MaKade Bloker,SR,RB/LB,#11,Clarksville,1254,23
 Jameson Kilworth,SR,QB/DB,#8,Exira-EHK,791,11
 Nolan Gannon,FR,RB/LB,#34,Murray,716,10
 Gavin Menke-Bailey,JR,QB/LB,#5,New London,406,4
 Myles Grove,SR,QB/LB,#10,English Valleys,661,8
-Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,304,7
 Carson Ingles,SO,RB,#1,Edgewood-Colesburg,759,9
 Kaiden Knaack,SR,,#10,Don Bosco,1148,26
 Breckin Clatt,JR,QB/DB,#14,Colo-Nesco,835,15
@@ -24,7 +25,6 @@ JT Laufersweiler,SR,QB/DB,#11,St. Edmond,558,10
 Evan Alt,SR,RB/LB,#4,Audubon,877,15
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,670,12
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,287,4
-MaKade Bloker,SR,RB/LB,#11,Clarksville,1138,20
 Adam Scott,SR,RB/LB,#26,West Central,492,2
 Perrin Sulzle,JR,QB/LB,#7,Baxter,425,5
 Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,544,6
@@ -49,6 +49,7 @@ Louden Huisenga,JR,RB/LB,#8,WACO,599,10
 Dalton Mudderman,JR,QB/LB,#5,Kee,527,10
 Carter Oberbroeckling,SR,RB,#34,Edgewood-Colesburg,641,9
 McKoy Nuss,SO,QB/LB,#13,Tripoli,380,6
+Owen Backer,SO,RB/S,#22,Clarksville,999,16
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,502,9
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,571,9
 Jack Adams,JR,QB,#7,Riceville,587,5
@@ -87,6 +88,7 @@ Caden Page,JR,QB/LB,#8,Murray,182,7
 Owen Garside,JR,S/QB,#3,Boyer Valley,490,14
 Ben Coffman,JR,RB/LB,#9,English Valleys,308,2
 Lane Vokoun,JR,RB/DB,#35,Belle Plaine,532,12
+Eli Schmidt,SR,RB/S,#3,Clarksville,374,8
 Marshawn Taylor,SR,RB/CB,#12,Rockford,318,3
 Carson Frerichs,SR,RB/LB,#28,North Iowa,157,1
 Broox Stockman,SO,RB/LB,#20,Montezuma,251,2
@@ -104,7 +106,6 @@ Jacob Berens,SR,RB/LB,#34,Boyer Valley,299,4
 Dane Ballou,FR,QB/LB,#17,Midland,303,5
 Zane Johnson,JR,RB/LB,#7,Griswold,292,5
 Isaac Clark,SR,QB/LB,#12,Gladbrook-Reinbeck,354,9
-Owen Backer,SO,RB/S,#22,Clarksville,884,16
 Parker Hays,JR,RB/DB,#9,Coon Rapids-Bayard,142,1
 Kale Doeppke,SR,WR/DB,#5,Central Elkader,20,0
 Seth Bixler,SR,WR/S,#1,Midland,340,4
@@ -133,7 +134,6 @@ Dallas Smith,JR,QB/DB,#2,Twin Cedars,141,2
 Mason Steinhoff,SO,RB/LB,#11,Griswold,214,2
 Brody Paulsen,SR,RB/DB,#2,CAM,183,5
 Austin Williams,SR,RB/LB,#20,CAM,320,4
-Eli Schmidt,SR,RB/S,#3,Clarksville,285,7
 Grant Finck,JR,RB/LB,#10,Dunkerton,187,3
 Cole Milks,SR,RB/S,#11,Winfield-Mt Union,371,12
 Jacob Martin,JR,RB/LB,#3,Stanton/Essex,400,6
@@ -199,11 +199,12 @@ Luke Lansing,SO,RB/LB,#44,Springville,152,4
 Corbin Jacobs-Jewell,JR,TE/DE,#10,New London,14,0
 Braedon Godfread,JR,TE/S,#10,Sidney,268,6
 Sean McCulloch,FR,QB/DB,#24,HLV,61,0
+Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,110,2
+Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,13,0
 Hunter Hardin,JR,RB/LB,#36,Colo-Nesco,90,0
 London Franklin,SO,RB/DE,#6,New London,60,0
 Derek Bartlett,SR,LB/RB,#4,Stanton/Essex,121,3
 Drew Stanek,JR,RB/LB,#16,Gladbrook-Reinbeck,85,0
-Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,95,2
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,189,4
 John Deemer,FR,RB/LB,#28,Bedford,118,3
 Bryer Jack,FR,QB/DB,#14,HLV,-61,0
@@ -250,7 +251,6 @@ Johnathan Riesselman,SO,WR/DB,#7,Ar-We-Va,61,0
 Travis Noel,FR,DE/RB,#32,Lamoni,36,1
 Seth Bell,FR,QB/DB,#26,Collins-Maxwell,23,0
 Kaden Schmidt,FR,RB/LB,#18,Turkey Valley,92,2
-Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,12,0
 Isaac Messamaker,JR,FB/LB,#25,Moravia,51,2
 Makade Paulsen,JR,QB/DB,#3,CAM,147,2
 Blayne Porter,SO,QB/S,#1,Janesville,97,0
