@@ -92,11 +92,13 @@ Carson Frerichs,SR,RB/LB,#28,North Iowa,157,1
 Broox Stockman,SO,RB/LB,#20,Montezuma,251,2
 Isaac Murphy,SR,RB/S,#1,GTRA,290,7
 Tate Foertsch,SO,QB/DB,#7,Bishop Garrigan,218,5
+Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,146,1
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,361,6
 Kendrick Mastin,SR,RB/LB,#9,Murray,214,4
 Degin Dixson,SR,QB/CB,#3,Mormon Trail,62,2
 Caleb Urban,JR,WR/CB,#3,East Mills,202,4
 Jackson McDanel,SR,RB/LB,#30,Moravia,412,6
+Kambridge Wainscott,SR,QB/DB,#15,Waterloo Christian,129,3
 Aiden Klostermann,SR,RB/S,#10,Central City,509,9
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,299,4
 Dane Ballou,FR,QB/LB,#17,Midland,303,5
@@ -138,7 +140,6 @@ Jacob Martin,JR,RB/LB,#3,Stanton/Essex,400,6
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,408,8
 Conner Nally,SR,QB/LB,#5,Bedford,298,9
 Brodyn Pryor,SO,QB/DB,#8,Woodbine,256,2
-Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,98,1
 Seth Hudson,SR,QB/S,#7,East Union,58,3
 Jayden Hanson,SR,QB/DB,#7,Central City,318,3
 Cainan Travis,JR,WR/LB,#20,Baxter,211,2
@@ -154,7 +155,6 @@ Simon Showalter,JR,RB/LB,#6,Stanton/Essex,99,2
 Levi Reineke,SO,LB/RB,#29,Boyer Valley,186,1
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,420,9
 Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,163,1
-Kambridge Wainscott,SR,QB/DB,#15,Waterloo Christian,71,1
 Deshon Anderson,SO,RB/LB,#32,English Valleys,184,3
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,78,1
 Colin Snyder,SO,RB/LB,#24,Dunkerton,175,1
@@ -187,6 +187,7 @@ Judson Beary,JR,RB/LB,#6,Twin Cedars,66,0
 Treyton Franzen,FR,FB/LB,#21,Turkey Valley,110,3
 Adam Swaney,SO,RB/LB,#44,Bedford,89,1
 Aiden Hellman,FR,,#18,Don Bosco,113,2
+Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,42,0
 Aldo Esteban-Cabrera,JR,RB/LB,#22,Murray,129,3
 Jackson Embree,JR,SL/LB,#33,East Mills,64,3
 John McLaughlin,SR,WR/CB,#6,WACO,108,6
@@ -205,7 +206,6 @@ Drew Stanek,JR,RB/LB,#16,Gladbrook-Reinbeck,85,0
 Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,95,2
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,189,4
 John Deemer,FR,RB/LB,#28,Bedford,118,3
-Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,37,0
 Bryer Jack,FR,QB/DB,#14,HLV,-61,0
 Tanner Troendle,FR,RB/DB,#23,Kee,201,4
 Ethan Bauer,SO,RB/DB,#4,Coon Rapids-Bayard,72,0
@@ -438,6 +438,8 @@ Brody Ludwig,SR,RB/CB,#22,Bishop Garrigan,25,1
 Matt Besch,FR,OG/LB,#44,Bishop Garrigan,18,0
 Kelan Stevenson,SO,TE/LB,#62,Lamoni,9,0
 Mason Ahrenstorff,SO,WR/S,#11,Harris-Lake Park,11,0
+Gabe Miller,FR,K/QB,#8,Waterloo Christian,-12,0
+Charlie Rowenhorst,SR,K/RB,#3,Waterloo Christian,28,0
 Morgan Cooley,SO,OL/DL,#42,East Union,11,0
 Max Arthur,JR,FB/LB,#31,Central City,8,0
 Carson Schnieder,SO,QB/DB,#12,West Bend-Mallard,18,0
@@ -500,8 +502,7 @@ Clay Westphal,SO,SL/S,#8,West Harrison/Whiting,2,0
 Anthony Waters,SR,,#10,GMG,0,2
 Aiden Stenzel,SO,RB/DB,#20,Sidney,2,0
 Jared Aronson,SR,QB/DB,#32,Waterloo Christian,4,0
-Gabe Miller,FR,K/QB,#8,Waterloo Christian,3,0
-Charlie Rowenhorst,SR,K/RB,#3,Waterloo Christian,4,0
+Andrew James,FR,RB/LB,#33,Waterloo Christian,2,0
 Quintin Albrechtsen,FR,TE/LB,#52,East Union,6,0
 Hudson Welton,FR,QB/DB,#11,Central City,5,0
 Colten Brown,JR,C/DT,#53,Central City,8,0

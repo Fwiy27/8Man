@@ -92,11 +92,13 @@ Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0
 Broox Stockman,1.9,SO,RB/LB,#20,Montezuma,19.0,0.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0
 Tate Foertsch,17.2,SO,QB/DB,#7,Bishop Garrigan,52.0,2.0
+Jeremiah Marquette,14.0,SR,RB/LB,#25,Waterloo Christian,140.0,0.0
 Owen Hammersland,0.1,FR,RB/LB,#24,Central Elkader,1.0,0.0
 Kendrick Mastin,9.1,SR,RB/LB,#9,Murray,31.0,1.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0
 Jackson McDanel,22.3,SR,RB/LB,#30,Moravia,103.0,2.0
+Kambridge Wainscott,32.6,SR,QB/DB,#15,Waterloo Christian,146.0,3.0
 Aiden Klostermann,9.8,SR,RB/S,#10,Central City,38.0,1.0
 Jacob Berens,21.5,SR,RB/LB,#34,Boyer Valley,95.0,2.0
 Dane Ballou,43.7,FR,QB/LB,#17,Midland,197.0,4.0
@@ -138,7 +140,6 @@ Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0
 Brayden Svejda,21.5,JR,QB/CB,#1,Calamus-Wheatland,95.0,2.0
 Conner Nally,6.6,SR,QB/LB,#5,Bedford,6.0,1.0
 Brodyn Pryor,2.7,SO,QB/DB,#8,Woodbine,27.0,0.0
-Jeremiah Marquette,9.2,SR,RB/LB,#25,Waterloo Christian,92.0,0.0
 Seth Hudson,-1.2,SR,QB/S,#7,East Union,-12.0,0.0
 Jayden Hanson,9.2,SR,QB/DB,#7,Central City,92.0,0.0
 Cainan Travis,1.3,JR,WR/LB,#20,Baxter,13.0,0.0
@@ -154,7 +155,6 @@ Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0
 Levi Reineke,6.4,SO,LB/RB,#29,Boyer Valley,64.0,0.0
 Alex Hansen,25.0,JR,RB/LB,#22,Exira-EHK,130.0,2.0
 Evan Lorenzen,5.5,JR,RB/DB,#22,Northwood-Kensett,55.0,0.0
-Kambridge Wainscott,14.8,SR,QB/DB,#15,Waterloo Christian,88.0,1.0
 Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
 Colin Snyder,2.8,SO,RB/LB,#24,Dunkerton,28.0,0.0
@@ -187,6 +187,7 @@ Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0
 Treyton Franzen,0.2,FR,FB/LB,#21,Turkey Valley,2.0,0.0
 Adam Swaney,2.1,SO,RB/LB,#44,Bedford,21.0,0.0
 Aiden Hellman,1.2,FR,,#18,Don Bosco,12.0,0.0
+Gavin DeFord,3.4,JR,RB/LB,#44,Waterloo Christian,34.0,0.0
 Aldo Esteban-Cabrera,0.0,JR,RB/LB,#22,Murray,0.0,0.0
 Jackson Embree,1.7,JR,SL/LB,#33,East Mills,17.0,0.0
 John McLaughlin,7.4,SR,WR/CB,#6,WACO,14.0,1.0
@@ -205,7 +206,6 @@ Drew Stanek,0.0,JR,RB/LB,#16,Gladbrook-Reinbeck,0.0,0.0
 Jed Bielenberg,0.0,SR,DE/WR,#15,Siouxland Christian,0.0,0.0
 Wyatt Throckmorton,9.0,SR,WR/LB,#23,Moravia,30.0,1.0
 John Deemer,2.9,FR,RB/LB,#28,Bedford,29.0,0.0
-Gavin DeFord,2.9,JR,RB/LB,#44,Waterloo Christian,29.0,0.0
 Bryer Jack,0.0,FR,QB/DB,#14,HLV,0.0,0.0
 Tanner Troendle,20.6,FR,RB/DB,#23,Kee,86.0,2.0
 Ethan Bauer,0.0,SO,RB/DB,#4,Coon Rapids-Bayard,0.0,0.0
@@ -438,6 +438,8 @@ Brody Ludwig,0.0,SR,RB/CB,#22,Bishop Garrigan,0.0,0.0
 Matt Besch,0.0,FR,OG/LB,#44,Bishop Garrigan,0.0,0.0
 Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0
 Mason Ahrenstorff,0.0,SO,WR/S,#11,Harris-Lake Park,0.0,0.0
+Gabe Miller,-1.2,FR,K/QB,#8,Waterloo Christian,-12.0,0.0
+Charlie Rowenhorst,2.5,SR,K/RB,#3,Waterloo Christian,25.0,0.0
 Morgan Cooley,0.0,SO,OL/DL,#42,East Union,0.0,0.0
 Max Arthur,0.0,JR,FB/LB,#31,Central City,0.0,0.0
 Carson Schnieder,0.0,SO,QB/DB,#12,West Bend-Mallard,0.0,0.0
@@ -500,8 +502,7 @@ Clay Westphal,0.2,SO,SL/S,#8,West Harrison/Whiting,2.0,0.0
 Anthony Waters,0.0,SR,,#10,GMG,0.0,0.0
 Aiden Stenzel,0.0,SO,RB/DB,#20,Sidney,0.0,0.0
 Jared Aronson,0.4,SR,QB/DB,#32,Waterloo Christian,4.0,0.0
-Gabe Miller,0.3,FR,K/QB,#8,Waterloo Christian,3.0,0.0
-Charlie Rowenhorst,0.1,SR,K/RB,#3,Waterloo Christian,1.0,0.0
+Andrew James,0.2,FR,RB/LB,#33,Waterloo Christian,2.0,0.0
 Quintin Albrechtsen,0.0,FR,TE/LB,#52,East Union,0.0,0.0
 Hudson Welton,0.0,FR,QB/DB,#11,Central City,0.0,0.0
 Colten Brown,0.0,JR,C/DT,#53,Central City,0.0,0.0
