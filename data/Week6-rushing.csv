@@ -33,6 +33,7 @@ Brody Koch,13.5,SO,RB/LB,#5,Calamus-Wheatland,75.0,1.0
 Wyatt Oswald,2.0,JR,QB/LB,#10,Coon Rapids-Bayard,20.0,0.0
 Beau Burns,38.3,SO,QB/DB,#2,BGM,203.0,3.0
 Michael Hensley,2.9,JR,RB/LB,#6,Sidney,29.0,0.0
+McKoy Nuss,8.4,SO,QB/LB,#13,Tripoli,24.0,1.0
 Jamison Ewing,7.8,SO,WR/CB,#8,Southeast Warren,78.0,0.0
 Cooper Wierson,-1.8,SO,QB/LB,#1,Collins-Maxwell,-18.0,0.0
 Maddox Jondle,3.4,JR,QB/LB,#11,Lone Tree,34.0,0.0
@@ -44,11 +45,11 @@ Mason Hoy,21.5,SO,RB/CB,#9,Springville,95.0,2.0
 Mason McIntosh,9.5,SR,QB/LB,#16,West Harrison/Whiting,95.0,0.0
 Fischer Buffington,2.2,JR,RB/DE,#12,East Union,22.0,0.0
 Shane Helmick,19.2,SR,QB/DE,#12,Moravia,72.0,2.0
+Trenton Struss,7.6,SR,RB/S,#21,Newell-Fonda,16.0,1.0
 Landon Lindgren,0.2,SO,RB/DB,#11,Lamoni,2.0,0.0
 Louden Huisenga,9.2,JR,RB/LB,#8,WACO,32.0,1.0
 Dalton Mudderman,3.0,JR,QB/LB,#5,Kee,30.0,0.0
 Carter Oberbroeckling,19.6,SR,RB,#34,Edgewood-Colesburg,76.0,2.0
-McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
 Owen Backer,11.5,SO,RB/S,#22,Clarksville,115.0,0.0
 Trey Fisher,3.5,JR,RB/LB,#89,Southeast Warren,35.0,0.0
 Wyatt Ragaller,24.9,SO,RB/DB,#8,Ar-We-Va,69.0,3.0
@@ -62,7 +63,6 @@ Luke Rohling,3.4,SR,FB/LB,#16,Calamus-Wheatland,34.0,0.0
 Mark Bower,32.0,JR,RB/DB,#25,Colo-Nesco,140.0,3.0
 Slate Witte,0.0,SR,,#7,GMG,0.0,0.0
 Anthony Harrington,0.0,SO,QB/LB,#2,Midland,0.0,0.0
-Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0
 Lucas Ahrenstorff,12.7,SR,QB/S,#1,Harris-Lake Park,67.0,1.0
 Dawson Smith,20.8,SR,RB/LB,#20,Iowa Valley,88.0,2.0
 Chase Spieker,19.6,JR,QB/DB,#5,CAM,76.0,2.0
@@ -165,6 +165,7 @@ Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
 Landon Gjerde,4.8,SO,RB/LB,#1,Colo-Nesco,48.0,0.0
 Nate Curry,0.0,SR,RB/LB,#38,Twin Cedars,0.0,0.0
 Trey Edeker,0.3,SO,RB/DE,#20,WACO,3.0,0.0
+Hayden Loftsgard,2.6,JR,WR/CB,#2,Tripoli,26.0,0.0
 Logan French,0.0,SR,WR/DB,#1,Stanton/Essex,0.0,0.0
 Reece Oswald,2.4,SR,RB/CB,#27,WACO,24.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0
@@ -174,7 +175,6 @@ Sheldon Vandenberg,-0.4,JR,OG/LB,#12,East Mills,-4.0,0.0
 Dylan Marquart,-0.6,JR,QB/DB,#3,Dunkerton,-6.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0
 Logan Busta,0.6,SO,QB/DB,#1,Turkey Valley,6.0,0.0
-Hayden Loftsgard,0.0,JR,WR/CB,#2,Tripoli,0.0,0.0
 Christopher Greif,24.3,SR,LB/FB,#44,Central City,63.0,3.0
 Sawyer House,1.4,SR,WR/CB,#4,Midland,14.0,0.0
 Carson Wessel,37.3,SO,QB/LB,#9,Audubon,133.0,4.0
@@ -195,6 +195,7 @@ John McLaughlin,7.4,SR,WR/CB,#6,WACO,14.0,1.0
 Cannon Hansen,8.7,JR,TE/DL,#33,Exira-EHK,27.0,1.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0
 Rogellio Gonzalez,0.4,SO,FB/DB,#10,West Central,4.0,0.0
+Trevor Tauber,8.2,SO,QB/S,#12,Newell-Fonda,82.0,0.0
 Owen Bral,4.2,JR,QB/LB,#3,Iowa Valley,42.0,0.0
 Luke Lansing,8.0,SO,RB/LB,#44,Springville,20.0,1.0
 Corbin Jacobs-Jewell,0.3,JR,TE/DE,#10,New London,3.0,0.0
@@ -223,6 +224,8 @@ Cale Westerbeck,0.4,SO,WR/DB,#4,New London,4.0,0.0
 Carter Seitz,0.0,JR,WR/DB,#7,Kee,0.0,0.0
 Dalton Weepie,7.0,JR,TE/LB,#33,Dunkerton,10.0,1.0
 Lucas Christian,2.0,JR,WR/S,#18,Glidden-Ralston,20.0,0.0
+Logan Heim,0.8,SO,WR/CB,#7,Tripoli,8.0,0.0
+Braxston Bucknell,2.6,FR,OL/DL,#99,Tripoli,26.0,0.0
 Chance Hoyt,4.1,FR,RB/LB,#4,Iowa Valley,41.0,0.0
 Trayton Cink,0.0,JR,RB/LB,#26,Bishop Garrigan,0.0,0.0
 Ethan Marso,7.9,SO,FB/LB,#11,Bishop Garrigan,19.0,1.0
@@ -243,9 +246,8 @@ Wyatt Kelley,0.0,FR,RB/LB,#19,East Union,0.0,0.0
 Andrew Kolsrud,6.3,SR,WR/CB,#16,Kee,3.0,1.0
 Jarod Reams,10.0,JR,RB/DB,#8,Kee,40.0,1.0
 Gio Cruz,7.2,SR,RB/DB,#5,Lenox,12.0,1.0
-Trevor Tauber,0.0,SO,QB/S,#12,Newell-Fonda,0.0,0.0
 Jack Angell,0.0,SO,QB/DB,#18,Colo-Nesco,0.0,0.0
-Logan Heim,0.0,SO,WR/CB,#7,Tripoli,0.0,0.0
+Drew Urbanek,-1.1,FR,QB/CB,#10,Tripoli,-11.0,0.0
 Eli Miller,0.0,SR,RB/LB,#7,Winfield-Mt Union,0.0,0.0
 Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0
 Travis Noel,0.0,FR,DE/RB,#32,Lamoni,0.0,0.0
@@ -276,7 +278,6 @@ Lerik McCarty,8.2,JR,RB/LB,#2,WACO,22.0,1.0
 Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0
 Cade Tentinger,8.6,JR,RB/DB,#5,Remsen St. Mary's,26.0,1.0
 Trace Kingsbury,0.0,SO,WR/CB,#6,Tripoli,0.0,0.0
-Drew Urbanek,0.0,FR,QB/CB,#10,Tripoli,0.0,0.0
 Brayden Chester,1.0,JR,RB/LB,#34,CAM,10.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0
 Elliott Ward,0.0,SR,RB/LB,#1,Sidney,0.0,0.0
@@ -286,7 +287,6 @@ Gavin Clark,0.0,SO,RB/LB,#25,Twin Cedars,0.0,0.0
 Zach Thornburg,0.0,SR,QB/CB,#9,East Mills,0.0,0.0
 Jader Sanchez,0.4,SR,RB/DB,#4,Lone Tree,4.0,0.0
 Hayden Shelman,0.0,FR,DB/RB,#15,WACO,0.0,0.0
-Braxston Bucknell,0.0,FR,OL/DL,#99,Tripoli,0.0,0.0
 Kaden Kobliska,10.1,SR,WR,#8,Riceville,41.0,1.0
 Tayler Kibbee,10.3,SO,RB/LB,#11,Janesville,43.0,1.0
 Colin Hartl,0.0,JR,RB/LB,#38,Audubon,0.0,0.0
@@ -377,6 +377,8 @@ Braden Taylor,0.2,SO,OL/DL,#60,Central Elkader,2.0,0.0
 Cristian Brown,0.0,SR,WR/DB,#47,Dunkerton,0.0,0.0
 Caybrin Schilling,0.0,SO,QB/DB,#7,Dunkerton,0.0,0.0
 Lucas Dow,0.0,JR,RB/LB,#26,Rockford,0.0,0.0
+Brady Babel,0.5,FR,RB/CB,#9,Newell-Fonda,5.0,0.0
+Jackson Bellcock,3.7,FR,FB/LB,#20,Newell-Fonda,37.0,0.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0
 Braxton Kniep,1.9,JR,WR/DE,#18,Remsen St. Mary's,19.0,0.0
 Abram Edwards,0.0,SR,TE/DE,#84,Winfield-Mt Union,0.0,0.0
@@ -424,7 +426,6 @@ Hayden Hicks,0.0,FR,TE/LB,#66,Boyer Valley,0.0,0.0
 Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0
 Talan Jacobsen,0.0,FR,QB/LB,#10,North Iowa,0.0,0.0
 Tyler Rogers,0.0,SO,LB/RB,#22,WACO,0.0,0.0
-Brady Babel,0.0,FR,RB/CB,#9,Newell-Fonda,0.0,0.0
 Brogan Ewing,2.1,JR,WR/CB,#10,Southeast Warren,21.0,0.0
 Kase Coleman,0.0,SO,TE/DL,#37,Bedford,0.0,0.0
 Braydon Hensley,0.0,JR,QB/CB,#13,Bedford,0.0,0.0
@@ -550,7 +551,6 @@ Caysen Chodur,0.0,FR,QB/LB,#42,Northwood-Kensett,0.0,0.0
 Kale Moore,0.0,FR,QB/DB,#14,Moravia,0.0,0.0
 Chase Waterhouse,-0.6,SR,OG/LB,#34,WACO,-6.0,0.0
 Nick West,0.0,SO,QB/DB,#11,WACO,0.0,0.0
-Jackson Bellcock,0.0,FR,FB/LB,#20,Newell-Fonda,0.0,0.0
 Levi Halterman,0.0,JR,RB/LB,#11,Southeast Warren,0.0,0.0
 Dawson Konrad,0.0,JR,RB/CB,#21,Southeast Warren,0.0,0.0
 Braden Simington,0.4,SR,S/WR,#2,GTRA,4.0,0.0

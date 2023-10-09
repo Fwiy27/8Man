@@ -70,14 +70,14 @@ Boston Roorda,0.0,TE/DB,HLV
 Braden Jordan,32.26,QB/LB,Springville
 Braden Simington,7.3,S/WR,GTRA
 Braden Taylor,0.2,OL/DL,Central Elkader
-Brady Babel,0.0,RB/CB,Newell-Fonda
+Brady Babel,0.5,RB/CB,Newell-Fonda
 Brady Boulton,49.34,QB/DB,Montezuma
 Brady Koenck,21.8,RB/LB,Remsen St. Mary's
 Brady Lewis,3.9,WR/S,West Harrison/Whiting
 Brady Wurth,8.5,LB/WR,Remsen St. Mary's
 Braedon Godfread,62.9,TE/S,Sidney
 Bram Bielenberg,3.6,RB/LB,Siouxland Christian
-Braxston Bucknell,0.0,OL/DL,Tripoli
+Braxston Bucknell,5.0,OL/DL,Tripoli
 Braxton Blackburn,28.1,,Fremont-Mills
 Braxton Bormann,0.0,RB/LB,Central Elkader
 Braxton Davis,0.0,WR/DB,Twin Cedars
@@ -264,7 +264,7 @@ Drew Fehr,2.5,RB/DB,West Bend-Mallard
 Drew Lappe,4.4,WR/CB,Bishop Garrigan
 Drew Muller,0.0,QB/DE,Bishop Garrigan
 Drew Stanek,0.0,RB/LB,Gladbrook-Reinbeck
-Drew Urbanek,0.0,QB/CB,Tripoli
+Drew Urbanek,-0.1,QB/CB,Tripoli
 Drew Wagner,29.8,TE/DL,Waterloo Christian
 Dreyson Morgan,0.0,WR/DB,Gladbrook-Reinbeck
 Dylan Marquart,29.64,QB/DB,Dunkerton
@@ -324,7 +324,7 @@ Hayden Fay,0.0,QB/DB,Glidden-Ralston
 Hayden Gilmore,1.4,LB/RB,GTRA
 Hayden Hicks,0.0,TE/LB,Boyer Valley
 Hayden Jones,0.0,TE/LB,Griswold
-Hayden Loftsgard,0.0,WR/CB,Tripoli
+Hayden Loftsgard,6.3,WR/CB,Tripoli
 Hayden Shelman,0.0,DB/RB,WACO
 Henry Sturm,0.0,OL/LB,Glidden-Ralston
 Holden Jensen,12.6,WR/CB,Griswold
@@ -362,13 +362,13 @@ Jack Hogan,0.0,,Don Bosco
 Jack Osborne,0.0,QB/DB,English Valleys
 Jack Scherf,9.1,WR/DB,Central Elkader
 Jack Seyller,0.0,QB/DB,Colo-Nesco
-Jackson Bellcock,0.0,FB/LB,Newell-Fonda
+Jackson Bellcock,7.2,FB/LB,Newell-Fonda
 Jackson Embree,1.26,SL/LB,East Mills
 Jackson McDanel,35.6,RB/LB,Moravia
 Jackson Schulte,21.0,RB/LB,Kee
 Jackson Stansberry,4.9,WR/DB,Siouxland Christian
 Jacksyn Bullers,6.8,RB/LB,BGM
-Jacksyn Hogrefe,0.0,RB/DB,Newell-Fonda
+Jacksyn Hogrefe,2.6,RB/DB,Newell-Fonda
 Jacob Berens,23.4,RB/LB,Boyer Valley
 Jacob Martin,0.0,RB/LB,Stanton/Essex
 Jacob Morey,0.0,OL/DL,Tripoli
@@ -507,7 +507,7 @@ Logan Busta,6.52,QB/DB,Turkey Valley
 Logan Franklin,3.7,WR/DB,New London
 Logan French,0.0,WR/DB,Stanton/Essex
 Logan Grimm,7.5,RB/LB,West Bend-Mallard
-Logan Heim,0.0,WR/CB,Tripoli
+Logan Heim,2.3,WR/CB,Tripoli
 Logan Sharpe,-0.2,RB/LB,Central Elkader
 Loghan Nelson,1.5,OL/LB,Northwood-Kensett
 London Franklin,0.0,RB/DE,New London
@@ -554,7 +554,7 @@ Max Edwards,0.0,TE/DB,Winfield-Mt Union
 Max Fettkether,0.0,RB/LB,Central Elkader
 Max Henstorf,0.0,QB/LB,HLV
 Mayson Hemsted,0.0,WR/DB,Lone Tree
-McKoy Nuss,0.0,QB/LB,Tripoli
+McKoy Nuss,11.08,QB/LB,Tripoli
 Mekhi Benton,4.2,TE/DE,Central City
 Micah Moores,24.5,RB/LB,Woodbine
 Michael Hensley,12.1,RB/LB,Sidney
@@ -678,10 +678,10 @@ Trent Morey,0.0,RB/DB,West Bend-Mallard
 Trent Robertson,0.0,WR/LB,North Iowa
 Trenton Beard,6.1,OL/LB,Colo-Nesco
 Trenton Rodas,10.2,TE/DE,West Central
-Trenton Struss,0.0,RB/S,Newell-Fonda
+Trenton Struss,8.8,RB/S,Newell-Fonda
 Trevor Forey,14.8,WR/S,Janesville
 Trevor Kuster,0.0,RB/LB,Lamoni
-Trevor Tauber,0.0,QB/S,Newell-Fonda
+Trevor Tauber,9.52,QB/S,Newell-Fonda
 Trey Cota,1.7,QB/LB,Kee
 Trey Edeker,0.3,RB/DE,WACO
 Trey Fisher,11.9,RB/LB,Southeast Warren
@@ -701,7 +701,7 @@ Ty Flathers,0.0,RB/DB,CAM
 Ty Lindquist,0.0,FB/LB,Dunkerton
 Ty Tauber,0.0,OT/LB,Newell-Fonda
 Tyler Ballard,0.0,TE/DE,HLV
-Tyler Bruns,0.0,OL/DL,Tripoli
+Tyler Bruns,1.7,OL/DL,Tripoli
 Tyler Hansen,0.0,QB/DB,West Bend-Mallard
 Tyler Rodgers,0.0,WR/CB,Mormon Trail
 Tyler Rogers,0.0,LB/RB,WACO
