@@ -7,12 +7,12 @@ Ambrose Savage,2.3,JR,QB/LB,#12,Lamoni,23.0,0.0
 Judah Bielenberg,13.4,JR,QB/LB,#10,Siouxland Christian,74.0,1.0
 Oliver Schmitt,13.0,SR,FB,#22,Turkey Valley,70.0,1.0
 Andrew Beran,26.4,JR,RB,#2,Riceville,84.0,3.0
+Myles Grove,11.2,SR,QB/LB,#10,English Valleys,52.0,1.0
 Landon Montag,58.3,SR,RB/LB,#24,West Bend-Mallard,223.0,6.0
 MaKade Bloker,29.6,SR,RB/LB,#11,Clarksville,116.0,3.0
 Jameson Kilworth,20.0,SR,QB/DB,#8,Exira-EHK,140.0,1.0
 Nolan Gannon,25.1,FR,RB/LB,#34,Murray,191.0,1.0
 Gavin Menke-Bailey,7.7,JR,QB/LB,#5,New London,17.0,1.0
-Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
 Carson Ingles,33.4,SO,RB,#1,Edgewood-Colesburg,214.0,2.0
 Kaiden Knaack,43.8,SR,,#10,Don Bosco,198.0,4.0
 Breckin Clatt,6.8,JR,QB/DB,#14,Colo-Nesco,68.0,0.0
@@ -69,6 +69,7 @@ Chase Spieker,19.6,JR,QB/DB,#5,CAM,76.0,2.0
 Pryce Rochford,0.0,JR,QB,#22,Edgewood-Colesburg,0.0,0.0
 Brett Plants,6.4,JR,RB/LB,#22,Montezuma,64.0,0.0
 Sam Myer,19.8,JR,LB/RB,#33,St. Edmond,198.0,0.0
+Ben Coffman,0.8,JR,RB/LB,#9,English Valleys,8.0,0.0
 Luke Cripps,0.0,SR,QB/S,#1,Boyer Valley,0.0,0.0
 Edde Gonzalez,13.0,SR,RB/LB,#1,West Central,70.0,1.0
 Caleb Hemphill,13.2,SR,RB/LB,#3,Harris-Lake Park,72.0,1.0
@@ -90,7 +91,6 @@ Talan Driscoll,12.1,FR,RB/LB,#8,Easton Valley,61.0,1.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison/Whiting,0.0,0.0
 Caden Page,5.8,JR,QB/LB,#8,Murray,-2.0,1.0
 Owen Garside,28.9,JR,S/QB,#3,Boyer Valley,109.0,3.0
-Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
 Lane Vokoun,30.7,JR,RB/DB,#35,Belle Plaine,127.0,3.0
 Eli Schmidt,14.9,SR,RB/S,#3,Clarksville,89.0,1.0
 Marshawn Taylor,26.3,SR,RB/CB,#12,Rockford,143.0,2.0
@@ -155,8 +155,8 @@ Logan Grimm,7.5,SR,RB/LB,#34,West Bend-Mallard,15.0,1.0
 Logan French,3.0,SR,WR/DB,#1,Stanton/Essex,30.0,0.0
 Levi Reineke,6.4,SO,LB/RB,#29,Boyer Valley,64.0,0.0
 Alex Hansen,25.0,JR,RB/LB,#22,Exira-EHK,130.0,2.0
+Deshon Anderson,-0.4,SO,RB/LB,#32,English Valleys,-4.0,0.0
 Evan Lorenzen,5.5,JR,RB/DB,#22,Northwood-Kensett,55.0,0.0
-Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0
 Colin Snyder,2.8,SO,RB/LB,#24,Dunkerton,28.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0
