@@ -86,6 +86,7 @@ Braden Jordan,SO,QB/LB,#10,Springville,303,2
 Dalton Kitzman,SR,RB/LB,#4,Lenox,326,6
 Nolan Grebin,SR,QB/S,#2,Stanton/Essex,197,5
 Talan Pletz,SO,RB/LB,#5,Janesville,391,5
+Talan Driscoll,FR,RB/LB,#8,Easton Valley,239,6
 Nolan Birdsall,JR,RB/LB,#2,West Harrison/Whiting,245,4
 Caden Page,JR,QB/LB,#8,Murray,182,7
 Owen Garside,JR,S/QB,#3,Boyer Valley,490,14
@@ -115,7 +116,6 @@ Wade Sankot,SO,RB/LB,#3,Belle Plaine,342,8
 Jackson Schulte,SR,RB/LB,#21,Kee,354,5
 Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,198,1
 Reece Chiabotta,SO,QB/DB,#34,Melcher-Dallas,94,0
-Talan Driscoll,FR,RB/LB,#8,Easton Valley,178,5
 Lucas Madison,SR,,#5,Fremont-Mills,257,4
 Nathan Moon,FR,RB/LB,#6,Clarksville,301,1
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,263,3
@@ -138,6 +138,7 @@ Brody Paulsen,SR,RB/DB,#2,CAM,183,5
 Austin Williams,SR,RB/LB,#20,CAM,320,4
 Grant Finck,JR,RB/LB,#10,Dunkerton,187,3
 Cole Milks,SR,RB/S,#11,Winfield-Mt Union,371,12
+James Buhlman,FR,RB/LB,#27,Easton Valley,195,3
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,103,2
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,408,8
 Conner Nally,SR,QB/LB,#5,Bedford,298,9
@@ -147,7 +148,6 @@ Jayden Hanson,SR,QB/DB,#7,Central City,324,3
 Cainan Travis,JR,WR/LB,#20,Baxter,211,2
 Jed Tyler,SR,QB/DB,#7,West Central,7,1
 Jordan Goad,JR,QB/CB,#1,Springville,86,1
-James Buhlman,FR,RB/LB,#27,Easton Valley,194,3
 Joe Koehler,SR,FB/DE,#24,Rockford,117,0
 Graham Godsey,JR,RB/LB,#35,Bedford,198,1
 Matthew Klostermann,JR,RB/LB,#22,Central City,490,8
@@ -266,6 +266,7 @@ Gavyn Thordarson,SO,RB/DE,#8,Melcher-Dallas,32,0
 Jack Follmann,SR,TE/LB,#40,CAM,53,0
 Kayden Winther,FR,RB/LB,#13,CAM,106,3
 Mason Maschmann,SR,RB/LB,#11,BGM,63,4
+Callan Messerich,SO,WR/DB,#6,Easton Valley,126,1
 Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting,69,1
 Devon Weisskopf,JR,RB/LB,#32,HLV,26,0
 Kolben Robinson,SO,TE/LB,#25,Lenox,38,1
@@ -345,7 +346,6 @@ Ian Smith,JR,TE/LB,#5,Iowa Valley,50,1
 Chance Christensen,SO,RB,#15,Riceville,86,0
 Nathan Findlay,SO,RB/LB,#10,BGM,86,2
 Dakota Heishman,JR,WR/DB,#8,BGM,56,0
-Callan Messerich,SO,WR/DB,#6,Easton Valley,95,1
 Kaleb Gill,SR,,#1,GMG,44,0
 Rason Grail,SR,WR/DB,#23,East Union,26,0
 Dashny Munyakazi,SO,RB/S,#3,Central City,136,3
@@ -424,6 +424,7 @@ Johnny Cortez,SO,RB/LB,#23,Coon Rapids-Bayard,2,0
 Jiri Brodigan,SO,WR/LB,#32,East Mills,5,0
 Hayden Hicks,FR,TE/LB,#66,Boyer Valley,13,0
 Emmett Burke,SO,WR/DB,#10,Lone Tree,29,0
+Domonic Garcia,SO,WR/DB,#8,Lone Tree,14,0
 Talan Jacobsen,FR,QB/LB,#10,North Iowa,15,0
 Tyler Rogers,SO,LB/RB,#22,WACO,15,0
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,25,0
@@ -460,7 +461,6 @@ Bennett Heidercheit,FR,RB/LB,#8,Coon Rapids-Bayard,-6,0
 Austin Gehring,SR,WR/DB,#4,Gladbrook-Reinbeck,-1,1
 Dreyson Morgan,SO,WR/DB,#10,Gladbrook-Reinbeck,8,1
 Kyle Reinhart,JR,WR/DB,#40,Central Elkader,12,0
-Domonic Garcia,SO,WR/DB,#8,Lone Tree,10,0
 Dominic Graap,SR,WR/DB,#19,Lone Tree,3,0
 Otto French,FR,FB/LB,#16,Dunkerton,31,0
 Noah Fuelling,JR,WR/DB,#12,Dunkerton,15,1
@@ -538,7 +538,6 @@ Russell Nieman,SR,OG,#20,Turkey Valley,8,0
 Hugo Busta,FR,RB/CB,#3,Turkey Valley,15,0
 Camden Behrends,SO,QB/LB,#32,Clarksville,-2,0
 Max Fettkether,SO,RB/LB,#20,Central Elkader,3,0
-Mayson Hemsted,SO,WR/DB,#2,Lone Tree,4,0
 Aidan Hesse,SO,OL/DL,#50,Dunkerton,-7,0
 Drake Puls,SO,WR/DB,#21,West Central,0,0
 Henry Sturm,FR,OL/LB,#30,Glidden-Ralston,1,0
