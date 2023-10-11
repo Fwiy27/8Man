@@ -86,6 +86,7 @@ Jacob Martin,36.9,JR,RB/LB,#3,Stanton/Essex,249.0,2.0
 Braden Jordan,14.2,SO,QB/LB,#10,Springville,82.0,1.0
 Dalton Kitzman,13.4,SR,RB/LB,#4,Lenox,74.0,1.0
 Nolan Grebin,24.2,SR,QB/S,#2,Stanton/Essex,62.0,3.0
+Isaac Clark,14.5,SR,QB/LB,#12,Gladbrook-Reinbeck,25.0,2.0
 Talan Pletz,23.3,SO,RB/LB,#5,Janesville,113.0,2.0
 Talan Driscoll,12.1,FR,RB/LB,#8,Easton Valley,61.0,1.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison/Whiting,0.0,0.0
@@ -109,7 +110,6 @@ Parker Hays,1.0,JR,RB/DB,#9,Coon Rapids-Bayard,10.0,0.0
 Jacob Berens,21.5,SR,RB/LB,#34,Boyer Valley,95.0,2.0
 Dane Ballou,43.7,FR,QB/LB,#17,Midland,197.0,4.0
 Zane Johnson,50.6,JR,RB/LB,#7,Griswold,206.0,5.0
-Isaac Clark,0.0,SR,QB/LB,#12,Gladbrook-Reinbeck,0.0,0.0
 Kale Doeppke,-0.7,SR,WR/DB,#5,Central Elkader,-7.0,0.0
 Seth Bixler,12.5,SR,WR/S,#1,Midland,65.0,1.0
 Wade Sankot,24.0,SO,RB/LB,#3,Belle Plaine,120.0,2.0
@@ -136,6 +136,7 @@ Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0
 Mason Steinhoff,16.6,SO,RB/LB,#11,Griswold,106.0,1.0
 Brody Paulsen,2.3,SR,RB/DB,#2,CAM,23.0,0.0
 Austin Williams,11.3,SR,RB/LB,#20,CAM,53.0,1.0
+Austin Vaverka,14.1,SR,RB/LB,#5,Gladbrook-Reinbeck,81.0,1.0
 Grant Finck,9.9,JR,RB/LB,#10,Dunkerton,39.0,1.0
 Cole Milks,0.0,SR,RB/S,#11,Winfield-Mt Union,0.0,0.0
 James Buhlman,0.1,FR,RB/LB,#27,Easton Valley,1.0,0.0
@@ -162,7 +163,6 @@ Colin Snyder,2.8,SO,RB/LB,#24,Dunkerton,28.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0
 Owen Murphy,0.5,JR,WR/S,#10,Bishop Garrigan,5.0,0.0
 Bryce Brabham,10.2,SO,RB/DB,#9,Exira-EHK,42.0,1.0
-Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
 Landon Gjerde,4.8,SO,RB/LB,#1,Colo-Nesco,48.0,0.0
 Nate Curry,0.0,SR,RB/LB,#38,Twin Cedars,0.0,0.0
 Trey Edeker,0.3,SO,RB/DE,#20,WACO,3.0,0.0
@@ -286,6 +286,7 @@ Drew Fehr,2.5,SR,RB/DB,#7,West Bend-Mallard,25.0,0.0
 Wyatt Leonard,0.0,SO,RB/LB,#21,Lenox,0.0,0.0
 Gavin Clark,0.0,SO,RB/LB,#25,Twin Cedars,0.0,0.0
 Zach Thornburg,0.0,SR,QB/CB,#9,East Mills,0.0,0.0
+Hudson Clark,-0.6,SO,WR/DB,#3,Gladbrook-Reinbeck,-6.0,0.0
 Jader Sanchez,0.4,SR,RB/DB,#4,Lone Tree,4.0,0.0
 Hayden Shelman,0.0,FR,DB/RB,#15,WACO,0.0,0.0
 Kaden Kobliska,10.1,SR,WR,#8,Riceville,41.0,1.0
@@ -299,7 +300,6 @@ Jack Osborne,0.0,FR,QB/DB,#18,English Valleys,0.0,0.0
 Gavin Ford,0.0,JR,QB/LB,#12,Stanton/Essex,0.0,0.0
 Levi Evans,0.0,SO,TE/DE,#20,Mormon Trail,0.0,0.0
 Greg Lewis,0.0,FR,RB/LB,#10,East Mills,0.0,0.0
-Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0
 Tristen Burkhart,0.0,FR,RB/LB,#24,Boyer Valley,0.0,0.0
 Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0
 Leo Schrader,-0.9,FR,QB/DB,#23,Melcher-Dallas,-9.0,0.0

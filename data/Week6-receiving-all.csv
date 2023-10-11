@@ -40,7 +40,9 @@ Rider Kupka,SO,,#21,GMG,23,283,5
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,22,213,3
 Jackson McDanel,SR,RB/LB,#30,Moravia,22,472,8
 Tate Martin,JR,RB/LB,#33,BGM,22,239,7
+Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,21,364,6
 Caleb Haack,JR,WR/DB,#7,Iowa Valley,21,481,5
+Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,20,373,7
 Cruz DeJong,SR,TE/LB,#40,Montezuma,20,210,4
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,20,191,4
 Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,19,197,1
@@ -54,7 +56,6 @@ Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,19,217,1
 Jackson Schulte,SR,RB/LB,#21,Kee,18,389,4
 Conner Bowers,JR,TE/CB,#21,Griswold,18,250,1
 Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,18,266,2
-Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,18,321,5
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,18,139,1
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,18,142,0
 Jack Follmann,SR,TE/LB,#40,CAM,18,316,5
@@ -73,7 +74,6 @@ Harley Molina,SR,WR/LB,#24,Ar-We-Va,16,165,2
 Kolt Payne,JR,SL/CB,#24,Sidney,16,351,4
 Cael Weisskopf,FR,RB/LB,#5,HLV,15,189,4
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,15,217,3
-Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,15,261,7
 Emmett Burke,SO,WR/DB,#10,Lone Tree,15,231,2
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,15,171,1
 Anthony Eisele,SR,OL/DL,#55,North Iowa,15,195,6
@@ -228,6 +228,7 @@ Brock Micetich,FR,RB/LB,#36,Twin Cedars,5,77,1
 Gavin Ford,JR,QB/LB,#12,Stanton/Essex,5,23,1
 Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,5,44,0
 Jiri Brodigan,SO,WR/LB,#32,East Mills,5,52,1
+Austin Vaverka,SR,RB/LB,#5,Gladbrook-Reinbeck,5,113,0
 Treyvon Herron,FR,WR/DB,#9,Gladbrook-Reinbeck,5,168,4
 Sam Hoodjer,JR,WR/CB,#80,Clarksville,5,166,3
 Ledger Dalton,SO,WR/DB,#5,Dunkerton,5,66,2
@@ -292,7 +293,7 @@ Derek Bartlett,SR,LB/RB,#4,Stanton/Essex,3,40,0
 Cole Green,FR,TE/DE,#34,Calamus-Wheatland,3,75,1
 Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,3,14,0
 Trey Rosenbeck,SR,TE/LB,#3,Coon Rapids-Bayard,3,42,0
-Austin Vaverka,SR,RB/LB,#5,Gladbrook-Reinbeck,3,72,0
+Austin Gehring,SR,WR/DB,#4,Gladbrook-Reinbeck,3,25,0
 Cooper Petersen,JR,DE/OG,#33,Boyer Valley,3,27,1
 Kyle Reinhart,JR,WR/DB,#40,Central Elkader,3,33,0
 Noah Fuelling,JR,WR/DB,#12,Dunkerton,3,40,0
@@ -329,7 +330,6 @@ Cooper Smith,FR,TE/LB,#16,Mormon Trail,2,6,0
 Connor Snethen,FR,WR/CB,#10,Mormon Trail,2,11,0
 Nick Maurer,SO,WR/CB,#21,East Mills,2,4,0
 Kael Blohm,SO,WR/DB,#15,Gladbrook-Reinbeck,2,36,1
-Austin Gehring,SR,WR/DB,#4,Gladbrook-Reinbeck,2,16,0
 Sam Fettkether,SR,OL/LB,#47,Central Elkader,2,4,0
 Domonic Garcia,SO,WR/DB,#8,Lone Tree,2,28,1
 Dominic Graap,SR,WR/DB,#19,Lone Tree,2,24,2
