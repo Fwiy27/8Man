@@ -26,11 +26,12 @@ Jed Bielenberg,12.5,SR,DE/WR,#15,Siouxland Christian,3.0,35.0,1.0
 Evan Lorenzen,1.2,JR,RB/DB,#22,Northwood-Kensett,1.0,2.0,0.0
 Wade Ragaller,28.9,JR,RB/LB,#28,Ar-We-Va,6.0,109.0,2.0
 Jackson Embree,0.0,JR,SL/LB,#33,East Mills,0.0,0.0,0.0
+Wyatt Throckmorton,20.2,SR,WR/LB,#23,Moravia,4.0,102.0,1.0
 Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Micah Moores,2.4,FR,RB/LB,#9,Woodbine,1.0,14.0,0.0
 Cash Emgarten,48.5,SR,WR/DB,#10,Exira-EHK,11.0,195.0,3.0
 Owen Hammersland,6.8,FR,RB/LB,#24,Central Elkader,4.0,28.0,0.0
-Wyatt Throckmorton,0.0,SR,WR/LB,#23,Moravia,0.0,0.0,0.0
+Jackson McDanel,13.0,SR,RB/LB,#30,Moravia,4.0,30.0,1.0
 Brogan Ewing,0.0,JR,WR/CB,#10,Southeast Warren,0.0,0.0,0.0
 Lucas Frohwein,2.9,SR,TE/DE,#9,Colo-Nesco,2.0,9.0,0.0
 Aiden Eickert ,0.0,SO,WR/LB,#7,Easton Valley,0.0,0.0,0.0
@@ -44,7 +45,7 @@ Tate Martin,4.9,JR,RB/LB,#33,BGM,2.0,29.0,0.0
 Conner Bowers,18.2,JR,TE/CB,#21,Griswold,5.0,72.0,1.0
 Hudson Clark,13.2,SO,WR/DB,#3,Gladbrook-Reinbeck,2.0,52.0,1.0
 Cruz DeJong,7.9,SR,TE/LB,#40,Montezuma,3.0,49.0,0.0
-Jackson McDanel,0.0,SR,RB/LB,#30,Moravia,0.0,0.0,0.0
+Declan DeJong,6.7,SO,TE/DE,#41,Moravia,3.0,37.0,0.0
 Caleb Haack,2.6,JR,WR/DB,#7,Iowa Valley,1.0,16.0,0.0
 Drew Lappe,2.3,SR,WR/CB,#5,Bishop Garrigan,1.0,13.0,0.0
 Drew Eilers,0.0,JR,WR/DL,#2,Gladbrook-Reinbeck,0.0,0.0,0.0
@@ -56,7 +57,6 @@ Kolby Culbertson,0.0,SR,TE/DB,#2,Coon Rapids-Bayard,0.0,0.0,0.0
 Jack Gordon,0.0,SR,WR/DL,#18,East Mills,0.0,0.0,0.0
 Marshawn Taylor,0.0,SR,RB/CB,#12,Rockford,0.0,0.0,0.0
 Alex Tiedemann,12.6,SO,QB/DB,#34,Northwood-Kensett,4.0,86.0,0.0
-Declan DeJong,0.0,SO,TE/DE,#41,Moravia,0.0,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
 Jack Follmann,9.3,SR,TE/LB,#40,CAM,1.0,23.0,1.0
 Trevor Forey,0.0,SR,WR/S,#6,Janesville,0.0,0.0,0.0
@@ -245,6 +245,7 @@ Ledger Dalton,0.0,SO,WR/DB,#5,Dunkerton,0.0,0.0,0.0
 Ryan Heaton,0.0,JR,FB/DE,#43,Melcher-Dallas,0.0,0.0,0.0
 Payton Malchow,0.0,JR,WR/CB,#28,Rockford,0.0,0.0,0.0
 Landen Nelson,0.0,FR,WR/DB,#36,Northwood-Kensett,0.0,0.0,0.0
+Jesse Myhr,3.6,JR,FB/DE,#8,Moravia,1.0,26.0,0.0
 Hunter Hughes,0.0,SR,CB/WR,#3,WACO,0.0,0.0,0.0
 Lucas Dirkx,2.4,SO,TE/DE,#40,Southeast Warren,2.0,4.0,0.0
 Lucas Daggett,0.0,JR,TE/LB,#35,Colo-Nesco,0.0,0.0,0.0
@@ -282,7 +283,6 @@ Adam Scott,0.0,SR,RB/LB,#26,West Central,0.0,0.0,0.0
 Waylon Hein,0.0,JR,TE/LB,#23,Glidden-Ralston,0.0,0.0,0.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0,0.0
 Ryker Hoffman,0.0,JR,WR/CB,#2,Rockford,0.0,0.0,0.0
-Jesse Myhr,0.0,JR,FB/DE,#8,Moravia,0.0,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
 Braden Jordan,0.0,SO,QB/LB,#10,Springville,0.0,0.0,0.0

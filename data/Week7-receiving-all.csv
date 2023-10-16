@@ -26,11 +26,12 @@ Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,33,570,4
 Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,33,326,2
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,33,358,6
 Jackson Embree,JR,SL/LB,#33,East Mills,31,339,3
+Wyatt Throckmorton,SR,WR/LB,#23,Moravia,30,548,12
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,28,535,7
 Micah Moores,FR,RB/LB,#9,Woodbine,27,516,9
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,26,412,6
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,26,241,3
-Wyatt Throckmorton,SR,WR/LB,#23,Moravia,26,446,11
+Jackson McDanel,SR,RB/LB,#30,Moravia,26,502,9
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,26,260,7
 Lucas Frohwein,SR,TE/DE,#9,Colo-Nesco,26,325,5
 Aiden Eickert ,SO,WR/LB,#7,Easton Valley,26,441,8
@@ -44,7 +45,7 @@ Tate Martin,JR,RB/LB,#33,BGM,24,268,7
 Conner Bowers,JR,TE/CB,#21,Griswold,23,322,2
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,23,416,7
 Cruz DeJong,SR,TE/LB,#40,Montezuma,23,259,4
-Jackson McDanel,SR,RB/LB,#30,Moravia,22,472,8
+Declan DeJong,SO,TE/DE,#41,Moravia,22,399,6
 Caleb Haack,JR,WR/DB,#7,Iowa Valley,22,497,5
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,21,204,4
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,20,373,7
@@ -56,7 +57,6 @@ Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,19,197,1
 Jack Gordon,SR,WR/DL,#18,East Mills,19,316,6
 Marshawn Taylor,SR,RB/CB,#12,Rockford,19,141,0
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,19,168,2
-Declan DeJong,SO,TE/DE,#41,Moravia,19,362,6
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,19,166,2
 Jack Follmann,SR,TE/LB,#40,CAM,19,339,6
 Trevor Forey,SR,WR/S,#6,Janesville,19,244,7
@@ -245,6 +245,7 @@ Ledger Dalton,SO,WR/DB,#5,Dunkerton,5,66,2
 Ryan Heaton,JR,FB/DE,#43,Melcher-Dallas,5,77,0
 Payton Malchow,JR,WR/CB,#28,Rockford,5,19,0
 Landen Nelson,FR,WR/DB,#36,Northwood-Kensett,5,43,0
+Jesse Myhr,JR,FB/DE,#8,Moravia,5,56,1
 Hunter Hughes,SR,CB/WR,#3,WACO,5,77,2
 Lucas Dirkx,SO,TE/DE,#40,Southeast Warren,5,33,0
 Lucas Daggett,JR,TE/LB,#35,Colo-Nesco,5,50,1
@@ -282,7 +283,6 @@ Adam Scott,SR,RB/LB,#26,West Central,4,56,1
 Waylon Hein,JR,TE/LB,#23,Glidden-Ralston,4,97,0
 Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,4,70,0
 Ryker Hoffman,JR,WR/CB,#2,Rockford,4,54,0
-Jesse Myhr,JR,FB/DE,#8,Moravia,4,30,1
 Ty Tauber,SR,OT/LB,#25,Newell-Fonda,4,39,1
 Sam Myer,JR,LB/RB,#33,St. Edmond,4,70,1
 Braden Jordan,SO,QB/LB,#10,Springville,4,95,0
