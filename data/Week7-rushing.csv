@@ -31,6 +31,7 @@ Beau Burns,22.6,SO,QB/DB,#2,BGM,106.0,2.0
 Brody Koch,21.9,SO,RB/LB,#5,Calamus-Wheatland,99.0,2.0
 Max Henstorf,8.7,SR,QB/LB,#7,HLV,27.0,1.0
 Emmett Snyder,10.0,SR,RB/S,#29,Glidden-Ralston,100.0,0.0
+Kasey Hough,13.2,JR,QB/S,#11,GTRA,72.0,1.0
 Cooper Wierson,26.5,SO,QB/LB,#1,Collins-Maxwell,145.0,2.0
 Slate Witte,15.3,SR,,#7,GMG,93.0,1.0
 Perrin Sulzle,4.1,JR,QB/LB,#7,Baxter,41.0,0.0
@@ -52,7 +53,6 @@ Dalton Mudderman,27.6,JR,QB/LB,#5,Kee,96.0,3.0
 Landon Lindgren,2.6,SO,RB/DB,#11,Lamoni,26.0,0.0
 McKoy Nuss,0.0,SO,QB/LB,#13,Tripoli,0.0,0.0
 Brady Boulton,12.9,SO,QB/DB,#1,Montezuma,69.0,1.0
-Kasey Hough,0.0,JR,QB/S,#11,GTRA,0.0,0.0
 Wyatt Ragaller,3.6,SO,RB/DB,#8,Ar-We-Va,36.0,0.0
 Ben Coffman,52.3,JR,RB/LB,#9,English Valleys,283.0,4.0
 Brodie Ludwig,13.3,JR,RB/LB,#21,Woodbine,73.0,1.0
@@ -102,6 +102,7 @@ Talan Pletz,8.9,SO,RB/LB,#5,Janesville,29.0,1.0
 Caden Oswald,28.5,FR,RB/DB,#6,Coon Rapids-Bayard,165.0,2.0
 Eli Schmidt,-0.1,SR,RB/S,#3,Clarksville,-1.0,0.0
 Broox Stockman,9.9,SO,RB/LB,#20,Montezuma,39.0,1.0
+Isaac Murphy,10.1,SR,RB/S,#1,GTRA,41.0,1.0
 Talan Driscoll,0.0,FR,RB/LB,#8,Easton Valley,0.0,0.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison/Whiting,0.0,0.0
 Jeremiah Marquette,0.9,SR,RB/LB,#25,Waterloo Christian,9.0,0.0
@@ -111,7 +112,6 @@ Aiden Klostermann,18.0,SR,RB/S,#10,Central City,60.0,2.0
 Austin Lack,5.6,SR,WR/DB,#3,East Union,56.0,0.0
 Wade Sankot,2.5,SO,RB/LB,#3,Belle Plaine,25.0,0.0
 Jackson Schulte,1.6,SR,RB/LB,#21,Kee,16.0,0.0
-Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0
 Kendrick Mastin,6.1,SR,RB/LB,#9,Murray,1.0,1.0
 Lucas Madison,9.6,SR,,#5,Fremont-Mills,36.0,1.0
 Nathan Moon,20.9,FR,RB/LB,#6,Clarksville,89.0,2.0
@@ -280,6 +280,7 @@ Caden Kaufman,0.0,FR,RB/LB,#15,Lenox,0.0,0.0
 Hudson Clark,11.0,SO,WR/DB,#3,Gladbrook-Reinbeck,50.0,1.0
 Jader Sanchez,0.5,SR,RB/DB,#4,Lone Tree,5.0,0.0
 Gavyn Thordarson,0.0,SO,RB/DE,#8,Melcher-Dallas,0.0,0.0
+Caleb Swedin,0.7,SO,RB/LB,#7,GTRA,7.0,0.0
 Brayden Chester,0.1,JR,RB/LB,#34,CAM,1.0,0.0
 Jack Follmann,0.0,SR,TE/LB,#40,CAM,0.0,0.0
 Kayden Winther,0.0,FR,RB/LB,#13,CAM,0.0,0.0
@@ -292,7 +293,6 @@ Charlie Schaefer,0.0,SR,QB/S,#6,North Iowa,0.0,0.0
 Ryan Heaton,0.0,JR,FB/DE,#43,Melcher-Dallas,0.0,0.0
 David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0
 Lerik McCarty,0.0,JR,RB/LB,#2,WACO,0.0,0.0
-Caleb Swedin,0.0,SO,RB/LB,#7,GTRA,0.0,0.0
 Cade Tentinger,0.0,JR,RB/DB,#5,Remsen St. Mary's,0.0,0.0
 Trenton Beard,9.2,SR,OL/LB,#34,Colo-Nesco,32.0,1.0
 Trace Kingsbury,0.0,SO,WR/CB,#6,Tripoli,0.0,0.0
