@@ -26,8 +26,8 @@ Jed Bielenberg,12.5,SR,DE/WR,#15,Siouxland Christian,3.0,35.0,1.0
 Evan Lorenzen,1.2,JR,RB/DB,#22,Northwood-Kensett,1.0,2.0,0.0
 Wade Ragaller,28.9,JR,RB/LB,#28,Ar-We-Va,6.0,109.0,2.0
 Jackson Embree,0.0,JR,SL/LB,#33,East Mills,0.0,0.0,0.0
+Dalton Weepie,4.7,JR,TE/LB,#33,Dunkerton,3.0,17.0,0.0
 Wyatt Throckmorton,20.2,SR,WR/LB,#23,Moravia,4.0,102.0,1.0
-Dalton Weepie,0.0,JR,TE/LB,#33,Dunkerton,0.0,0.0,0.0
 Micah Moores,2.4,FR,RB/LB,#9,Woodbine,1.0,14.0,0.0
 Cash Emgarten,48.5,SR,WR/DB,#10,Exira-EHK,11.0,195.0,3.0
 Owen Hammersland,6.8,FR,RB/LB,#24,Central Elkader,4.0,28.0,0.0
@@ -86,6 +86,7 @@ Landon Wittrock,15.7,JR,SL/LB,#9,Harris-Lake Park,4.0,57.0,1.0
 Braedon Godfread,2.6,JR,TE/S,#10,Sidney,1.0,16.0,0.0
 Austin Lack,8.8,SR,WR/DB,#3,East Union,4.0,48.0,0.0
 Emmett Burke,0.0,SO,WR/DB,#10,Lone Tree,0.0,0.0,0.0
+Cristian Brown,10.0,SR,WR/DB,#47,Dunkerton,2.0,20.0,1.0
 Nolan Cushion,9.6,SR,TE/DE,#22,West Central,3.0,66.0,0.0
 Broox Stockman,0.0,SO,RB/LB,#20,Montezuma,0.0,0.0,0.0
 Andrew Beran,11.8,JR,RB,#2,Riceville,4.0,78.0,0.0
@@ -108,7 +109,6 @@ Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0,0.0
 Stadan Vansice,18.0,SO,WR/LB,#5,Baxter,5.0,70.0,1.0
 Jacob Martin,2.8,JR,RB/LB,#3,Stanton/Essex,2.0,8.0,0.0
 Oliver Schmitt,1.0,SR,FB,#22,Turkey Valley,1.0,0.0,0.0
-Cristian Brown,0.0,SR,WR/DB,#47,Dunkerton,0.0,0.0,0.0
 Braden Simington,0.0,SR,S/WR,#2,GTRA,0.0,0.0,0.0
 Johnathan Riesselman,5.4,SO,WR/DB,#7,Ar-We-Va,3.0,24.0,0.0
 Justin Bauer,1.9,SR,WR/CB,#12,Bishop Garrigan,1.0,9.0,0.0
@@ -218,6 +218,7 @@ Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0,0.0
 Auden Wilson,0.0,JR,WR/CB,#10,Griswold,0.0,0.0,0.0
 Levi Evans,0.0,SO,TE/DE,#20,Mormon Trail,0.0,0.0,0.0
 Jacob Berens,0.0,SR,RB/LB,#34,Boyer Valley,0.0,0.0,0.0
+Grant Finck,4.2,JR,RB/LB,#10,Dunkerton,2.0,22.0,0.0
 Jackson Stansberry,0.0,SO,WR/DB,#22,Siouxland Christian,0.0,0.0,0.0
 Alex Black,4.0,SR,WR/DB,#30,Montezuma,1.0,30.0,0.0
 Isaac Rich,0.0,JR,CB/WR,#10,WACO,0.0,0.0,0.0
@@ -277,7 +278,6 @@ John Stauffer,0.0,JR,TE/LB,#82,Clarksville,0.0,0.0,0.0
 Preston Kulper,0.0,SO,WR/DB,#2,Central Elkader,0.0,0.0,0.0
 Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
 Braden Taylor,0.0,SO,OL/DL,#60,Central Elkader,0.0,0.0,0.0
-Grant Finck,0.0,JR,RB/LB,#10,Dunkerton,0.0,0.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0,0.0
 Colin Snyder,0.0,SO,RB/LB,#24,Dunkerton,0.0,0.0,0.0
 Adam Scott,0.0,SR,RB/LB,#26,West Central,0.0,0.0,0.0

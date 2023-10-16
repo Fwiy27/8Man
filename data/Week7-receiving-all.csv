@@ -26,8 +26,8 @@ Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,33,570,4
 Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,33,326,2
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,33,358,6
 Jackson Embree,JR,SL/LB,#33,East Mills,31,339,3
+Dalton Weepie,JR,TE/LB,#33,Dunkerton,31,552,7
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,30,548,12
-Dalton Weepie,JR,TE/LB,#33,Dunkerton,28,535,7
 Micah Moores,FR,RB/LB,#9,Woodbine,27,516,9
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,26,412,6
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,26,241,3
@@ -86,6 +86,7 @@ Landon Wittrock,JR,SL/LB,#9,Harris-Lake Park,16,304,5
 Braedon Godfread,JR,TE/S,#10,Sidney,16,283,4
 Austin Lack,SR,WR/DB,#3,East Union,15,187,2
 Emmett Burke,SO,WR/DB,#10,Lone Tree,15,231,2
+Cristian Brown,SR,WR/DB,#47,Dunkerton,15,293,8
 Nolan Cushion,SR,TE/DE,#22,West Central,15,227,0
 Broox Stockman,SO,RB/LB,#20,Montezuma,15,160,4
 Andrew Beran,JR,RB,#2,Riceville,15,180,1
@@ -108,7 +109,6 @@ Alex Hansen,JR,RB/LB,#22,Exira-EHK,13,263,3
 Stadan Vansice,SO,WR/LB,#5,Baxter,13,163,1
 Jacob Martin,JR,RB/LB,#3,Stanton/Essex,13,318,4
 Oliver Schmitt,SR,FB,#22,Turkey Valley,13,164,5
-Cristian Brown,SR,WR/DB,#47,Dunkerton,13,273,7
 Braden Simington,SR,S/WR,#2,GTRA,13,152,1
 Johnathan Riesselman,SO,WR/DB,#7,Ar-We-Va,13,250,3
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,13,233,2
@@ -218,6 +218,7 @@ Judson Beary,JR,RB/LB,#6,Twin Cedars,6,173,2
 Auden Wilson,JR,WR/CB,#10,Griswold,6,75,0
 Levi Evans,SO,TE/DE,#20,Mormon Trail,6,42,1
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,6,59,1
+Grant Finck,JR,RB/LB,#10,Dunkerton,6,37,0
 Jackson Stansberry,SO,WR/DB,#22,Siouxland Christian,6,114,0
 Alex Black,SR,WR/DB,#30,Montezuma,6,88,3
 Isaac Rich,JR,CB/WR,#10,WACO,6,102,4
@@ -277,7 +278,6 @@ John Stauffer,JR,TE/LB,#82,Clarksville,4,73,1
 Preston Kulper,SO,WR/DB,#2,Central Elkader,4,35,0
 Logan Sharpe,JR,RB/LB,#28,Central Elkader,4,12,0
 Braden Taylor,SO,OL/DL,#60,Central Elkader,4,3,0
-Grant Finck,JR,RB/LB,#10,Dunkerton,4,15,0
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,4,69,1
 Colin Snyder,SO,RB/LB,#24,Dunkerton,4,30,0
 Adam Scott,SR,RB/LB,#26,West Central,4,56,1
