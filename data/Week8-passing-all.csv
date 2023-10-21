@@ -14,6 +14,7 @@ Cooper Wierson,73.84,SO  QB/LB,#1,Collins-Maxwell,1271,9,13
 Dalton Mudderman,165.6,JR  QB/LB,#5,Kee,1590,27,6
 Shane Helmick,168.84,SR  QB/DE,#12,Moravia,1521,29,8
 Kambridge Wainscott,89.6,SR  QB/DB,#15,Waterloo Christian,965,15,9
+Dylan Marquart,120.4,JR  QB/DB,#3,Dunkerton,1085,20,3
 Chase Spieker,131.44,JR  QB/DB,#5,CAM,1186,22,4
 Judah Bielenberg,57.28,JR  QB/LB,#10,Siouxland Christian,1057,7,13
 Kooper Julseth,56.64,JR  WR/LB,#1,Northwood-Kensett,691,9,7
@@ -23,7 +24,6 @@ Tate Foertsch,103.12,SO  QB/DB,#7,Bishop Garrigan,978,16,0
 Caden Page,82.68,JR  QB/LB,#8,Murray,817,14,6
 Wyatt Oswald,62.24,JR  QB/LB,#10,Coon Rapids-Bayard,756,10,8
 Gavin Menke-Bailey,78.4,JR  QB/LB,#5,New London,935,12,7
-Dylan Marquart,107.04,JR  QB/DB,#3,Dunkerton,951,18,3
 Isaac Clark,114.6,SR  QB/LB,#12,Gladbrook-Reinbeck,1090,18,1
 Jake Edwards,128.92,JR  QB/S,#3,Winfield-Mt Union,1173,21,2
 Jack Adams,63.88,JR  QB,#7,Riceville,697,10,4
@@ -39,19 +39,19 @@ Clayton Miller,79.64,JR  QB/CB,#4,WACO,616,14,1
 Sawyer Forney,45.6,SO  #2 Fremont-Mills,,,590,7,6
 Dallas Smith,40.84,JR  QB/DB,#2,Twin Cedars,646,6,9
 Kale Doeppke,29.04,SR  WR/DB,#5,Central Elkader,451,4,5
+Drew Urbanek,38.12,FR  QB/CB,#10,Tripoli,403,7,6
 Nolan Kriegel,73.84,FR  QB/DB,#2,Iowa Valley,846,11,4
 Anthony Harrington,49.6,SO  QB/LB,#2,Midland,540,8,4
 Nolan Grebin,51.08,SR  QB/S,#2,Stanton/Essex,652,8,7
-Drew Urbanek,34.52,FR  QB/CB,#10,Tripoli,388,6,5
 Seth Hudson,52.04,SR  QB/S,#7,East Union,551,9,6
+Logan Busta,75.48,SO  QB/DB,#1,Turkey Valley,637,13,2
+Breckin Clatt,57.56,JR  QB/DB,#14,Colo-Nesco,489,11,6
 Gabe Funk,77.32,JR  QB/DB,#17,Lenox,708,13,3
 Owen Garside,25.56,JR  S/QB,#3,Boyer Valley,339,4,4
-Logan Busta,67.2,SO  QB/DB,#1,Turkey Valley,530,12,2
 Brody Koch,31.84,SO  RB/LB,#5,Calamus-Wheatland,446,4,2
 Ethan Bockelman,53.48,SR  QB/DB,#22,Lone Tree,537,9,4
 Landon Montag,50.92,SR  RB/LB,#24,West Bend-Mallard,623,8,6
 Jed Tyler,28.52,SR  QB/DB,#7,West Central,563,3,6
-Breckin Clatt,36.96,JR  QB/DB,#14,Colo-Nesco,374,7,6
 Dane Appleby,55.92,JR  QB/LB,#4,Janesville,473,10,3
 Bryer Jack,30.12,FR  QB/DB,#14,HLV,328,5,3
 Kaiden Knaack,31.72,SR  #10 Don Bosco,,,368,5,3
@@ -61,9 +61,10 @@ Colby Wallace,26.4,JR  QB/S,#11,Glidden-Ralston,360,4,4
 Braden Jordan,36.28,SO  QB/LB,#10,Springville,357,6,2
 Johnathan Riesselman,6.48,SO  WR/DB,#7,Ar-We-Va,162,1,4
 Ambrose Savage,13.36,JR  RB/LB,#12,Lamoni,359,2,9
+McKoy Nuss,18.08,SO  QB/LB,#13,Tripoli,277,3,5
 Reece Chiabotta,24.4,SO  QB/DB,#34,Melcher-Dallas,385,4,7
-McKoy Nuss,18.64,SO  QB/LB,#13,Tripoli,266,3,4
 Max Carlson,22.32,JR  QB/LB,#10,Newell-Fonda,258,4,4
+Johnny Milburn,30.28,JR  QB/DB,#13,Southeast Warren,332,5,3
 Ty Alcott,32.52,JR  RB/DB,#24,Belle Plaine,313,6,4
 Zach Thornburg,21.08,SR  QB/CB,#9,East Mills,252,3,1
 Luke Cripps,29.56,SR  QB/S,#1,Boyer Valley,239,5,0
@@ -73,7 +74,6 @@ Conner Nally,58.68,SR  QB/LB,#5,Bedford,417,11,2
 Pryce Rochford,25.92,JR  QB,#22,Edgewood-Colesburg,398,3,2
 Preston Kulper,1.04,SO  WR/DB,#2,Central Elkader,76,0,2
 Max Henstorf,18.76,SR  QB/LB,#7,HLV,219,3,2
-Johnny Milburn,25.08,JR  QB/DB,#13,Southeast Warren,252,4,1
 Isaac Loan,6.16,SO  QB/DB,#12,Central Elkader,79,1,1
 Austin Lack,6.12,SR  WR/DB,#3,East Union,78,1,1
 Keegan Chew,7.32,FR  QB/S,#7,Murray,183,0,0
@@ -91,12 +91,13 @@ Wyatt Silk,8.08,SO  WR/CB,#15,Griswold,77,2,3
 Jackson Embree,12.76,JR  SL/LB,#33,East Mills,144,2,1
 Eli Schmidt,15.04,SR  RB/S,#3,Clarksville,176,2,0
 Brayden Svejda,9.8,JR  QB/CB,#1,Calamus-Wheatland,95,2,2
+Oliver Schmitt,12.56,SR  FB,#22,Turkey Valley,164,2,2
 Tate Mount,5.0,SO  QB/DB,#2,Sidney,100,1,3
 Dreyson Morgan,7.2,SO  WR/DB,#10,Gladbrook-Reinbeck,80,1,0
+Dalton Weepie,5.72,JR  TE/LB,#33,Dunkerton,43,1,0
 Alex Tiedemann,2.32,SO  QB/DB,#34,Northwood-Kensett,58,0,0
 Nolan Birdsall,2.92,JR  RB/LB,#2,West Harrison/Whiting,98,0,1
 Holden Roberts,3.8,SO  TE/DE,#13,Twin Cedars,45,1,2
-Oliver Schmitt,8.96,SR  FB,#22,Turkey Valley,124,1,0
 Cale Langreck,8.16,FR  QB/LB,#10,Turkey Valley,79,2,3
 Kale Moore,6.36,FR  QB/DB,#14,Moravia,59,1,0
 Landon Lindgren,1.24,SO  RB/DB,#11,Lamoni,31,0,0
@@ -106,7 +107,6 @@ Josef Dvorak,2.08,JR  RB/DB,#25,Collins-Maxwell,52,0,0
 Triton Gwinn,5.04,SR  RB/LB,#22,Mormon Trail,51,1,1
 Greg Lewis,0.52,FR  RB/LB,#10,East Mills,13,0,0
 MaKade Bloker,15.76,SR  RB/LB,#11,Clarksville,119,3,1
-Dalton Weepie,5.92,JR  TE/LB,#33,Dunkerton,48,1,0
 Jeremiah Lynam,-0.12,SR  DB/WR,#9,Siouxland Christian,22,0,1
 Hayden Shelman,0.64,FR  DB/RB,#15,WACO,16,0,0
 Brenner Sullivan,6.6,SO  RB/LB,#22,Woodbine,65,1,0
