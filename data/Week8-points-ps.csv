@@ -13,7 +13,7 @@ Adyson Stark,0.0,RB/DB,Belle Plaine
 Aidan Ebert,0.0,WR,Riceville
 Aidan Hesse,-0.3,OL/DL,Dunkerton
 Aidan Timm,0.0,QB/DB,Belle Plaine
-Aidan Yoch,0.0,TE/DB,West Bend-Mallard
+Aidan Yoch,2.0,TE/DB,West Bend-Mallard
 Aiden Eickert,0.0,WR/LB,Easton Valley
 Aiden Hellman,0.0,,Don Bosco
 Aiden Klostermann,46.2,RB/S,Central City
@@ -45,7 +45,7 @@ Austin Boege,1.3,RB/LB,Collins-Maxwell
 Austin Christensen,8.2,WR/LB,Audubon
 Austin Gehring,0.0,WR/DB,Gladbrook-Reinbeck
 Austin Lack,0.0,WR/DB,East Union
-Austin Schmidt,0.0,QB/DB,West Bend-Mallard
+Austin Schmidt,2.3,QB/DB,West Bend-Mallard
 Austin Vaverka,0.0,RB/LB,Gladbrook-Reinbeck
 Austin Williams,2.4,RB/LB,CAM
 Ayden Lamb,0.0,TE/LB,Murray
@@ -198,7 +198,7 @@ Colby Eskildsen,0.0,TE/DL,Northwood-Kensett
 Colby Wallace,0.0,QB/S,Glidden-Ralston
 Cole Abbott,0.0,OL/DL,Lone Tree
 Cole Bethune,0.0,WR/S,West Harrison/Whiting
-Cole Fehr,0.0,RB/LB,West Bend-Mallard
+Cole Fehr,15.7,RB/LB,West Bend-Mallard
 Cole Green,0.0,TE/DE,Calamus-Wheatland
 Cole Milks,25.5,RB/S,Winfield-Mt Union
 Colin Hartl,0.0,RB/LB,Audubon
@@ -286,12 +286,12 @@ Eli Riedesel,0.0,OG/DE,Calamus-Wheatland
 Eli Schmidt,0.0,RB/S,Clarksville
 Eli Weimer,0.0,WR/DB,Waterloo Christian
 Elliott Ward,0.0,RB/LB,Sidney
-Emmett Burke,0.0,WR/DB,Lone Tree
+Emmett Burke,-1.0,WR/DB,Lone Tree
 Emmett Snyder,0.0,RB/S,Glidden-Ralston
 Eric Wilson,0.0,WR/DB,Exira-EHK
 Ethan Bauer,0.0,RB/DB,Coon Rapids-Bayard
 Ethan Baxter,0.0,RB/LB,Griswold
-Ethan Bockelman,0.0,QB/DB,Lone Tree
+Ethan Bockelman,25.2,QB/DB,Lone Tree
 Ethan Bridgewater,0.0,RB/LB,BGM
 Ethan Gaul,0.0,RB,Edgewood-Colesburg
 Ethan Harper,0.0,WR/S,Harris-Lake Park
@@ -387,7 +387,7 @@ Jacob Berens,4.2,RB/LB,Boyer Valley
 Jacob Martin,0.0,RB/LB,Stanton/Essex
 Jacob Morey,0.0,OL/DL,Tripoli
 Jacob Snyder,0.0,OL/DL,Dunkerton
-Jader Sanchez,0.0,RB/DB,Lone Tree
+Jader Sanchez,0.4,RB/DB,Lone Tree
 Jaedon Koppman,0.0,,Don Bosco
 Jake Edwards,21.12,QB/S,Winfield-Mt Union
 Jake Schilling,0.0,OG,Edgewood-Colesburg
@@ -499,7 +499,7 @@ Landon Campbell,0.0,RB,Edgewood-Colesburg
 Landon Gibbs,0.0,RB/CB,East Mills
 Landon Gjerde,8.1,RB/LB,Colo-Nesco
 Landon Lindgren,0.0,RB/DB,Lamoni
-Landon Montag,0.0,RB/LB,West Bend-Mallard
+Landon Montag,69.16,RB/LB,West Bend-Mallard
 Landon Morrison,0.0,TE/DL,Montezuma
 Landon Waldschmitt,0.0,QB/DB,Remsen St. Mary's
 Landon Wittrock,0.0,SL/LB,Harris-Lake Park
@@ -526,7 +526,7 @@ Logan Boldt,0.0,WR/LB,Tripoli
 Logan Busta,8.68,QB/DB,Turkey Valley
 Logan Franklin,0.0,WR/DB,New London
 Logan French,0.0,WR/DB,Stanton/Essex
-Logan Grimm,0.0,RB/LB,West Bend-Mallard
+Logan Grimm,1.6,RB/LB,West Bend-Mallard
 Logan Heim,0.0,WR/CB,Tripoli
 Logan Sharpe,0.0,RB/LB,Central Elkader
 Loghan Nelson,0.0,OL/LB,Northwood-Kensett
@@ -548,7 +548,7 @@ Luke Rohling,0.0,FB/LB,Calamus-Wheatland
 Luke Stolte,0.0,OL/DL,Springville
 MaKade Bloker,0.0,RB/LB,Clarksville
 Madden Miller,0.0,TE/DE,Bishop Garrigan
-Maddox Jondle,0.0,QB/LB,Lone Tree
+Maddox Jondle,13.2,QB/LB,Lone Tree
 Makade Paulsen,0.7,QB/DB,CAM
 Marco Avila,0.0,FB,Riceville
 Mark Bower,0.0,RB/DB,Colo-Nesco
@@ -580,7 +580,7 @@ Michael Hensley,0.0,RB/LB,Sidney
 Michael Joyce,0.0,QB/S,Bishop Garrigan
 Michael Raines,0.0,TE/LB,New London
 Milton Cushion,0.0,RB/DB,West Central
-Mitch Stevens,0.0,TE/LB,West Bend-Mallard
+Mitch Stevens,37.9,TE/LB,West Bend-Mallard
 Mitchell Kriener,0.0,TE/DE,Turkey Valley
 Morgan Cooley,0.0,OL/DL,East Union
 Myles Grove,0.0,QB/LB,English Valleys
