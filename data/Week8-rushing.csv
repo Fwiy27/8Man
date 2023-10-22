@@ -2,10 +2,10 @@ Name,Points,Year,Position,Number,School,YDS,TDS
 Colby Wallace,28.8,JR,QB/S,#11,Glidden-Ralston,168.0,2.0
 Oliver Schmitt,26.3,SR,FB,#22,Turkey Valley,143.0,2.0
 Aaron Olsen,7.7,JR,QB/S,#3,Audubon,77.0,0.0
+Dane Appleby,6.4,JR,QB/LB,#4,Janesville,64.0,0.0
 Ambrose Savage,0.0,JR,RB/LB,#12,Lamoni,0.0,0.0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
 Landon Montag,51.4,SR,RB/LB,#24,West Bend-Mallard,214.0,5.0
-Dane Appleby,0.0,JR,QB/LB,#4,Janesville,0.0,0.0
 Nolan Kriegel,62.3,FR,QB/DB,#2,Iowa Valley,323.0,5.0
 Andrew Beran,0.0,JR,RB,#2,Riceville,0.0,0.0
 Jameson Kilworth,11.0,SR,QB/DB,#8,Exira-EHK,50.0,1.0
@@ -100,11 +100,11 @@ Owen Johnson,0.0,FR,RB/DE,#26,Griswold,0.0,0.0
 Jacob Berens,2.0,SR,RB/LB,#34,Boyer Valley,20.0,0.0
 Broox Stockman,0.9,SO,RB/LB,#20,Montezuma,9.0,0.0
 Max Carlson,0.0,JR,QB/LB,#10,Newell-Fonda,0.0,0.0
+Talan Pletz,0.2,SO,RB/LB,#5,Janesville,2.0,0.0
 Braden Jordan,0.0,SO,QB/LB,#10,Springville,0.0,0.0
 Dane Ballou,0.0,FR,QB/LB,#17,Midland,0.0,0.0
 Zane Johnson,2.9,JR,RB/LB,#7,Griswold,29.0,0.0
 Isaac Clark,0.0,SR,QB/LB,#12,Gladbrook-Reinbeck,0.0,0.0
-Talan Pletz,0.0,SO,RB/LB,#5,Janesville,0.0,0.0
 Caden Oswald,0.0,FR,RB/DB,#6,Coon Rapids-Bayard,0.0,0.0
 Brody Paulsen,14.2,SR,RB/DB,#2,CAM,82.0,1.0
 Isaac Murphy,0.0,SR,RB/S,#1,GTRA,0.0,0.0
@@ -221,6 +221,7 @@ Bryer Jack,0.0,FR,QB/DB,#14,HLV,0.0,0.0
 Sean McCulloch,0.0,FR,QB/DB,#24,HLV,0.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0
 Hunter Hardin,0.6,JR,RB/LB,#36,Colo-Nesco,6.0,0.0
+Blayne Porter,-1.8,SO,QB/S,#1,Janesville,-18.0,0.0
 Mason Maschmann,0.2,SR,RB/LB,#11,BGM,2.0,0.0
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0
 Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0
@@ -240,7 +241,6 @@ Daniel Britt,0.0,JR,RB/S,#3,Janesville,0.0,0.0
 Cale Westerbeck,0.0,SO,WR/DB,#4,New London,0.0,0.0
 Carter Seitz,0.4,JR,WR/DB,#7,Kee,4.0,0.0
 Jayden Butler,0.0,JR,TE/DE,#22,Janesville,0.0,0.0
-Blayne Porter,0.0,SO,QB/S,#1,Janesville,0.0,0.0
 Trayton Cink,0.4,JR,RB/LB,#26,Bishop Garrigan,4.0,0.0
 Callan Messerich,0.0,SO,WR/DB,#6,Easton Valley,0.0,0.0
 Rider Kupka,0.0,SO,,#21,GMG,0.0,0.0

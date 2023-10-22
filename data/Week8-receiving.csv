@@ -49,6 +49,7 @@ Rason Grail,0.0,SR,WR/DB,#23,East Union,0.0,0.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
 Cristian Brown,19.6,SR,WR/DB,#47,Dunkerton,8.0,56.0,1.0
 Jack Follmann,25.9,SR,TE/LB,#40,CAM,4.0,99.0,2.0
+Trevor Forey,6.3,SR,WR/S,#6,Janesville,3.0,33.0,0.0
 Austin Christensen,8.2,SO,WR/LB,#81,Audubon,5.0,32.0,0.0
 Lane Oswalt,7.2,SR,WR/DB,#87,Collins-Maxwell,2.0,52.0,0.0
 Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
@@ -62,7 +63,6 @@ Jack Gordon,0.0,SR,WR/DL,#18,East Mills,0.0,0.0,0.0
 Marshawn Taylor,0.0,SR,RB/CB,#12,Rockford,0.0,0.0,0.0
 Alex Tiedemann,0.0,SO,QB/DB,#34,Northwood-Kensett,0.0,0.0,0.0
 Keaton Harpenau,0.0,JR,SL/DB,#2,Remsen St. Mary's,0.0,0.0,0.0
-Trevor Forey,0.0,SR,WR/S,#6,Janesville,0.0,0.0,0.0
 Kaleb Gill,0.0,SR,,#1,GMG,0.0,0.0,0.0
 James Bell,0.0,SR,WR/DB,#21,Waterloo Christian,0.0,0.0,0.0
 Chase Klatt,0.0,SO,TE/CB,#4,Calamus-Wheatland,0.0,0.0,0.0
@@ -192,6 +192,7 @@ Jacob Morey,0.0,SR,OL/DL,#11,Tripoli,0.0,0.0,0.0
 Dillon Reed,0.0,SO,WR/DB,#11,Woodbine,0.0,0.0,0.0
 Cal Pryor,0.0,FR,QB/DB,#12,Woodbine,0.0,0.0,0.0
 Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0,0.0
+Gabe Meaney,2.0,JR,TE/DE,#16,Janesville,1.0,10.0,0.0
 Christopher Lange,0.0,SO,WR,#10,Edgewood-Colesburg,0.0,0.0,0.0
 Cole Bethune,0.0,JR,WR/S,#4,West Harrison/Whiting,0.0,0.0,0.0
 Carter Sholtus,0.0,SR,WR/CB,#2,HLV,0.0,0.0,0.0
@@ -214,7 +215,6 @@ Tyler Bruns,0.0,JR,OL/DL,#43,Tripoli,0.0,0.0,0.0
 Brodie Ludwig,0.0,JR,RB/LB,#21,Woodbine,0.0,0.0,0.0
 Aidan Ebert,0.0,JR,WR,#3,Riceville,0.0,0.0,0.0
 Kinnick Henning,0.0,SO,RB/LB,#22,St. Edmond,0.0,0.0,0.0
-Gabe Meaney,0.0,JR,TE/DE,#16,Janesville,0.0,0.0,0.0
 Caden Cole,0.0,SR,TE,#20,Edgewood-Colesburg,0.0,0.0,0.0
 Benjy Trainer,0.0,SR,TE/LB,#4,Bishop Garrigan,0.0,0.0,0.0
 Creyton Ogier,0.0,SR,TE/DE,#5,Lamoni,0.0,0.0,0.0
@@ -262,6 +262,7 @@ Hunter Hughes,0.0,SR,CB/WR,#3,WACO,0.0,0.0,0.0
 Landon Gjerde,0.0,SO,RB/LB,#1,Colo-Nesco,0.0,0.0,0.0
 Tristan Freiberg,0.0,SR,WR/CB,#1,Tripoli,0.0,0.0,0.0
 Ryan Bower,0.0,SR,WR/S,#8,CAM,0.0,0.0,0.0
+Dawson Graham,13.3,JR,RB/LB,#8,Janesville,2.0,53.0,1.0
 Jace March,0.0,FR,RB/CB,#3,Springville,0.0,0.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
 Ezekiel Konkler,9.2,SR,WR/CB,#20,Audubon,1.0,22.0,1.0
@@ -324,7 +325,7 @@ Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0,0.0
 Silas Walston,0.0,SR,RB/DE,#33,Bedford,0.0,0.0,0.0
 Owen Bral,0.0,JR,QB/LB,#3,Iowa Valley,0.0,0.0,0.0
 Johnny Adams,0.0,JR,WR,#10,Riceville,0.0,0.0,0.0
-Dawson Graham,0.0,JR,RB/LB,#8,Janesville,0.0,0.0,0.0
+Cael Coffman,2.6,SO,WR/CB,#32,Janesville,2.0,6.0,0.0
 Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0,0.0
 Ashton Kracht,0.0,SR,WR/LB,#16,Harris-Lake Park,0.0,0.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0,0.0
@@ -460,8 +461,8 @@ Trace Baethke,0.0,SO,TE,#44,Riceville,0.0,0.0,0.0
 Ryder Fair,0.0,SR,C,#76,Riceville,0.0,0.0,0.0
 Reagan Richardson,0.0,FR,RB,#22,Riceville,0.0,0.0,0.0
 Aaron Hindt,0.0,FR,RB/LB,#24,St. Edmond,0.0,0.0,0.0
+Daniel Britt,1.2,JR,RB/S,#3,Janesville,1.0,2.0,0.0
 Talan Pletz,0.0,SO,RB/LB,#5,Janesville,0.0,0.0,0.0
-Cael Coffman,0.0,SO,WR/CB,#32,Janesville,0.0,0.0,0.0
 Kahl Shanahan,0.0,JR,TE/LB,#24,Springville,0.0,0.0,0.0
 Carter Oberbroeckling,0.0,SR,RB,#34,Edgewood-Colesburg,0.0,0.0,0.0
 Nathan Findlay,0.0,SO,RB/LB,#10,BGM,0.0,0.0,0.0
