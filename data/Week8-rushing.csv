@@ -8,6 +8,7 @@ Landon Montag,51.4,SR,RB/LB,#24,West Bend-Mallard,214.0,5.0
 Dane Appleby,0.0,JR,QB/LB,#4,Janesville,0.0,0.0
 Nolan Kriegel,62.3,FR,QB/DB,#2,Iowa Valley,323.0,5.0
 Andrew Beran,0.0,JR,RB,#2,Riceville,0.0,0.0
+Jameson Kilworth,11.0,SR,QB/DB,#8,Exira-EHK,50.0,1.0
 Gavin Menke-Bailey,0.0,JR,QB/LB,#5,New London,0.0,0.0
 Adam Scott,32.5,SR,RB/LB,#26,West Central,145.0,3.0
 Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
@@ -18,7 +19,6 @@ Beau Burns,44.5,SO,QB/DB,#2,BGM,265.0,3.0
 Evan Alt,10.6,SR,RB/LB,#4,Audubon,106.0,0.0
 Breckin Clatt,19.6,JR,QB/DB,#14,Colo-Nesco,76.0,2.0
 Josef Dvorak,28.1,JR,RB/DB,#25,Collins-Maxwell,101.0,3.0
-Jameson Kilworth,0.0,SR,QB/DB,#8,Exira-EHK,0.0,0.0
 Ethan Bockelman,6.2,SR,QB/DB,#22,Lone Tree,62.0,0.0
 Braxton Blackburn,0.0,SR,,#10,Fremont-Mills,0.0,0.0
 Shane Helmick,25.1,SR,QB/DE,#12,Moravia,131.0,2.0
@@ -151,6 +151,7 @@ Brady Koenck,0.0,JR,RB/LB,#26,Remsen St. Mary's,0.0,0.0
 Kyler Knaack,0.0,JR,,#20,Don Bosco,0.0,0.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
 Aidan Timm,0.0,SO,QB/DB,#9,Belle Plaine,0.0,0.0
+Alex Hansen,1.9,JR,RB/LB,#22,Exira-EHK,19.0,0.0
 Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
 Brodyn Pryor,0.0,SO,QB/DB,#8,Woodbine,0.0,0.0
 Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0
@@ -166,7 +167,6 @@ Logan Busta,0.4,SO,QB/DB,#1,Turkey Valley,4.0,0.0
 Evan Lorenzen,0.0,JR,RB/DB,#22,Northwood-Kensett,0.0,0.0
 Jordan Goad,0.0,JR,QB/CB,#1,Springville,0.0,0.0
 Carson Wessel,22.5,SO,QB/LB,#9,Audubon,45.0,3.0
-Alex Hansen,0.0,JR,RB/LB,#22,Exira-EHK,0.0,0.0
 Trevor Tauber,0.0,SO,QB/S,#12,Newell-Fonda,0.0,0.0
 Sheldon Vandenberg,0.0,JR,OG/LB,#12,East Mills,0.0,0.0
 Owen Murphy,9.7,JR,WR/S,#10,Bishop Garrigan,37.0,1.0
@@ -434,6 +434,7 @@ Jordan Boehde,0.0,FR,RB/DB,#13,Easton Valley,0.0,0.0
 Rylan Behrends,0.0,FR,RB/LB,#22,Sidney,0.0,0.0
 Andrew James,0.0,FR,RB/LB,#33,Waterloo Christian,0.0,0.0
 Carson Schnieder,0.0,SO,QB/DB,#12,West Bend-Mallard,0.0,0.0
+Cash Emgarten,-0.2,SR,WR/DB,#10,Exira-EHK,-2.0,0.0
 Eric Wilson,0.0,SR,WR/DB,#15,Exira-EHK,0.0,0.0
 Nathaniel Rowe,0.0,JR,WR/CB,#11,Murray,0.0,0.0
 Levi Fitzgerald,0.0,FR,WR/DB,#7,Lenox,0.0,0.0
@@ -470,7 +471,6 @@ Mason Ahrenstorff,0.0,SO,WR/S,#11,Harris-Lake Park,0.0,0.0
 Anthony Waters,0.0,SR,,#10,GMG,0.0,0.0
 Gabe Miller,0.0,FR,K/QB,#8,Waterloo Christian,0.0,0.0
 Morgan Cooley,0.0,SO,OL/DL,#42,East Union,0.0,0.0
-Cash Emgarten,0.0,SR,WR/DB,#10,Exira-EHK,0.0,0.0
 Noah Connelly,0.0,SO,WR/DB,#22,Kee,0.0,0.0
 Asher Stutzman,0.0,JR,RB/LB,#13,English Valleys,0.0,0.0
 JW Linkenhoker,0.0,SO,,#11,Fremont-Mills,0.0,0.0

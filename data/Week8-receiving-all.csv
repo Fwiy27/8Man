@@ -18,6 +18,7 @@ Mason Maschmann,SR,RB/LB,#11,BGM,40,494,5
 Cade Robinson,JR,WR/CB,#12,Baxter,37,269,2
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,36,591,8
 Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting,36,508,7
+Cash Emgarten,SR,WR/DB,#10,Exira-EHK,35,593,8
 Cainan Travis,JR,WR/LB,#20,Baxter,35,434,6
 Caleb Hemphill,SR,RB/LB,#3,Harris-Lake Park,35,290,4
 Michael Hensley,JR,RB/LB,#6,Sidney,35,557,7
@@ -38,7 +39,6 @@ Jackson McDanel,SR,RB/LB,#30,Moravia,27,504,9
 Caleb Haack,JR,WR/DB,#7,Iowa Valley,27,582,6
 Micah Moores,FR,RB/LB,#9,Woodbine,27,516,9
 Tate Martin,JR,RB/LB,#33,BGM,27,317,8
-Cash Emgarten,SR,WR/DB,#10,Exira-EHK,26,412,6
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,26,241,3
 Brayden Hepke,SR,WR/DB,#17,BGM,26,327,4
 Aiden Eickert ,SO,WR/LB,#7,Easton Valley,26,441,8
@@ -74,6 +74,7 @@ Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,18,557,11
 Kolt Payne,JR,SL/CB,#24,Sidney,18,370,4
 Matt Sauer,SR,TE/DE,#82,Midland,17,166,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,17,207,4
+Alex Hansen,JR,RB/LB,#22,Exira-EHK,17,301,4
 Emmett Burke,SO,WR/DB,#10,Lone Tree,17,279,3
 Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,17,180,1
 Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,17,159,5
@@ -97,7 +98,6 @@ Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,15,277,3
 Logan Franklin,SO,WR/DB,#7,New London,15,235,3
 Michael Raines,SR,TE/LB,#26,New London,15,166,2
 Seth Bixler,SR,WR/S,#1,Midland,14,137,1
-Alex Hansen,JR,RB/LB,#22,Exira-EHK,14,269,3
 Dylan Linkenhoker,SR,,#21,Fremont-Mills,14,217,2
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,14,145,1
 Zane Johnson,JR,RB/LB,#7,Griswold,14,168,3
@@ -192,6 +192,7 @@ Klay Baker,JR,RB/LB,#17,St. Edmond,8,188,3
 Christopher Lange,SO,WR,#10,Edgewood-Colesburg,8,127,0
 Cole Bethune,JR,WR/S,#4,West Harrison/Whiting,8,118,0
 Carter Sholtus,SR,WR/CB,#2,HLV,7,128,4
+Cannon Hansen,JR,TE/DL,#33,Exira-EHK,7,146,1
 Tanner Troendle,FR,RB/DB,#23,Kee,7,93,1
 Ayden Lamb,FR,TE/LB,#18,Murray,7,97,1
 Cody Samson,SR,TE/LB,#36,Baxter,7,47,1
@@ -239,7 +240,6 @@ Terrian Islas,JR,TE/DE,#5,East Union,5,45,1
 Fischer Buffington,JR,RB/DE,#12,East Union,5,23,1
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,5,17,0
 Cole Fehr,JR,RB/LB,#33,West Bend-Mallard,5,92,0
-Cannon Hansen,JR,TE/DL,#33,Exira-EHK,5,99,1
 Kendrick Mastin,SR,RB/LB,#9,Murray,5,108,2
 Dalton Kitzman,SR,RB/LB,#4,Lenox,5,73,2
 Nate Curry,SR,RB/LB,#38,Twin Cedars,5,36,0

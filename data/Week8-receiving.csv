@@ -18,6 +18,7 @@ Mason Maschmann,19.4,SR,RB/LB,#11,BGM,4.0,34.0,2.0
 Cade Robinson,0.0,JR,WR/CB,#12,Baxter,0.0,0.0,0.0
 Dalton Weepie,14.9,JR,TE/LB,#33,Dunkerton,5.0,39.0,1.0
 Jamison Martin,0.0,JR,RB/DB,#11,West Harrison/Whiting,0.0,0.0,0.0
+Cash Emgarten,39.1,SR,WR/DB,#10,Exira-EHK,9.0,181.0,2.0
 Cainan Travis,0.0,JR,WR/LB,#20,Baxter,0.0,0.0,0.0
 Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0,0.0
 Michael Hensley,0.0,JR,RB/LB,#6,Sidney,0.0,0.0,0.0
@@ -38,7 +39,6 @@ Jackson McDanel,1.2,SR,RB/LB,#30,Moravia,1.0,2.0,0.0
 Caleb Haack,19.5,JR,WR/DB,#7,Iowa Valley,5.0,85.0,1.0
 Micah Moores,0.0,FR,RB/LB,#9,Woodbine,0.0,0.0,0.0
 Tate Martin,13.9,JR,RB/LB,#33,BGM,3.0,49.0,1.0
-Cash Emgarten,0.0,SR,WR/DB,#10,Exira-EHK,0.0,0.0,0.0
 Owen Hammersland,0.0,FR,RB/LB,#24,Central Elkader,0.0,0.0,0.0
 Brayden Hepke,8.7,SR,WR/DB,#17,BGM,2.0,67.0,0.0
 Aiden Eickert ,0.0,SO,WR/LB,#7,Easton Valley,0.0,0.0,0.0
@@ -74,6 +74,7 @@ Cam Buffington,11.1,SR,QB/LB,#33,Winfield-Mt Union,1.0,41.0,1.0
 Kolt Payne,0.0,JR,SL/CB,#24,Sidney,0.0,0.0,0.0
 Matt Sauer,0.0,SR,TE/DE,#82,Midland,0.0,0.0,0.0
 Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0,0.0
+Alex Hansen,13.8,JR,RB/LB,#22,Exira-EHK,4.0,38.0,1.0
 Emmett Burke,12.8,SO,WR/DB,#10,Lone Tree,2.0,48.0,1.0
 Bram Bielenberg,0.0,FR,RB/LB,#35,Siouxland Christian,0.0,0.0,0.0
 Colby Eskildsen,0.0,JR,TE/DL,#12,Northwood-Kensett,0.0,0.0,0.0
@@ -97,7 +98,6 @@ Justin Bauer,12.4,SR,WR/CB,#12,Bishop Garrigan,2.0,44.0,1.0
 Logan Franklin,0.0,SO,WR/DB,#7,New London,0.0,0.0,0.0
 Michael Raines,0.0,SR,TE/LB,#26,New London,0.0,0.0,0.0
 Seth Bixler,0.0,SR,WR/S,#1,Midland,0.0,0.0,0.0
-Alex Hansen,1.6,JR,RB/LB,#22,Exira-EHK,1.0,6.0,0.0
 Dylan Linkenhoker,0.0,SR,,#21,Fremont-Mills,0.0,0.0,0.0
 Brenden Connett,0.0,SR,RB/LB,#20,Twin Cedars,0.0,0.0,0.0
 Zane Johnson,0.0,JR,RB/LB,#7,Griswold,0.0,0.0,0.0
@@ -192,6 +192,7 @@ Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0,0.0
 Christopher Lange,0.0,SO,WR,#10,Edgewood-Colesburg,0.0,0.0,0.0
 Cole Bethune,0.0,JR,WR/S,#4,West Harrison/Whiting,0.0,0.0,0.0
 Carter Sholtus,0.0,SR,WR/CB,#2,HLV,0.0,0.0,0.0
+Cannon Hansen,6.7,JR,TE/DL,#33,Exira-EHK,2.0,47.0,0.0
 Tanner Troendle,1.7,FR,RB/DB,#23,Kee,1.0,7.0,0.0
 Ayden Lamb,0.0,FR,TE/LB,#18,Murray,0.0,0.0,0.0
 Cody Samson,0.0,SR,TE/LB,#36,Baxter,0.0,0.0,0.0
@@ -239,7 +240,6 @@ Terrian Islas,0.0,JR,TE/DE,#5,East Union,0.0,0.0,0.0
 Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0,0.0
 Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0,0.0
 Cole Fehr,0.0,JR,RB/LB,#33,West Bend-Mallard,0.0,0.0,0.0
-Cannon Hansen,0.0,JR,TE/DL,#33,Exira-EHK,0.0,0.0,0.0
 Kendrick Mastin,0.0,SR,RB/LB,#9,Murray,0.0,0.0,0.0
 Dalton Kitzman,7.9,SR,RB/LB,#4,Lenox,1.0,9.0,1.0
 Nate Curry,0.0,SR,RB/LB,#38,Twin Cedars,0.0,0.0,0.0
