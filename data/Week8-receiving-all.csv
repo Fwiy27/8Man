@@ -35,6 +35,7 @@ Jackson Schulte,SR,RB/LB,#21,Kee,28,520,5
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,28,276,7
 Collin Bower,SO,TE/DB,#25,CAM,28,350,7
 Jackson McDanel,SR,RB/LB,#30,Moravia,27,504,9
+Caleb Haack,JR,WR/DB,#7,Iowa Valley,27,582,6
 Micah Moores,FR,RB/LB,#9,Woodbine,27,516,9
 Tate Martin,JR,RB/LB,#33,BGM,27,317,8
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,26,412,6
@@ -48,7 +49,6 @@ Conner Bowers,JR,TE/CB,#21,Griswold,23,322,2
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,23,416,7
 Cristian Brown,SR,WR/DB,#47,Dunkerton,23,349,9
 Jack Follmann,SR,TE/LB,#40,CAM,23,438,8
-Caleb Haack,JR,WR/DB,#7,Iowa Valley,22,497,5
 Austin Christensen,SO,WR/LB,#81,Audubon,22,164,1
 Lane Oswalt,SR,WR/DB,#87,Collins-Maxwell,21,252,2
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,21,204,4
@@ -145,6 +145,7 @@ Trey Fisher,JR,RB/LB,#89,Southeast Warren,11,100,0
 Collin Hoffman,SR,QB/S,#14,GTRA,11,147,1
 Braxton Kniep,JR,WR/DE,#18,Remsen St. Mary's,11,209,3
 Ty Christensen,SO,,#5,Don Bosco,11,96,1
+Ian Smith,JR,TE/LB,#5,Iowa Valley,11,123,3
 Jakob Koopman,SO,SL/LB,#8,St. Edmond,11,136,1
 Conlin Rouse,SO,RB/LB,#11,Springville,11,194,4
 Edward Miller,SR,TE/DE,#31,Audubon,11,223,2
@@ -157,7 +158,7 @@ Brekken Schlader,SO,TE/LB,#14,Rockford,10,69,0
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,10,132,1
 Cole Milks,SR,RB/S,#11,Winfield-Mt Union,10,139,1
 Ben Belew,JR,,#3,Don Bosco,10,197,3
-Ian Smith,JR,TE/LB,#5,Iowa Valley,10,117,3
+Dawson Smith,SR,RB/LB,#20,Iowa Valley,10,74,0
 Brody Paulsen,SR,RB/DB,#2,CAM,10,125,2
 Will Felper,SR,SL,#18,Riceville,10,154,1
 Bennett Steger,SR,WR,#14,Edgewood-Colesburg,10,154,1
@@ -169,7 +170,6 @@ Trent Robertson,SR,WR/LB,#5,North Iowa,9,185,3
 Christian Reinke,JR,TE/LB,#25,Rockford,9,64,0
 Lucas Dirkx,SO,TE/DE,#40,Southeast Warren,9,97,1
 Cal Peterman,JR,WR/LB,#15,Bedford,9,198,4
-Dawson Smith,SR,RB/LB,#20,Iowa Valley,9,69,0
 Landon Lindgren,SO,RB/DB,#11,Lamoni,9,89,1
 Justin Weispfenning,JR,RB/DB,#3,Easton Valley,9,75,1
 Mekhi Benton,SR,TE/DE,#34,Central City,8,273,5
@@ -449,6 +449,8 @@ Tim Rogers,JR,TE/DL,#14,Bedford,1,11,1
 Max Edwards,SO,TE/DB,#15,Winfield-Mt Union,1,6,1
 Kael Johnson,SR,LB/OG,#4,Winfield-Mt Union,1,9,0
 Carter Hassebroek,JR,WR/DB,#8,Iowa Valley,1,29,0
+Colton Hudepohl,SR,OL/DL,#15,Iowa Valley,1,10,1
+Nolan Kriegel,FR,QB/DB,#2,Iowa Valley,1,35,1
 Joe Freund,SO,RB/LB,#6,Woodbine,1,12,0
 Brenden Wagner,SO,TE/LB,#16,Woodbine,1,12,0
 Layne Thomas,SO,OL/DB,#20,Woodbine,1,11,0

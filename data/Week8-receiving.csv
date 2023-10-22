@@ -35,6 +35,7 @@ Jackson Schulte,10.6,SR,RB/LB,#21,Kee,4.0,66.0,0.0
 Brogan Ewing,3.6,JR,WR/CB,#10,Southeast Warren,2.0,16.0,0.0
 Collin Bower,15.6,SO,TE/DB,#25,CAM,3.0,66.0,1.0
 Jackson McDanel,1.2,SR,RB/LB,#30,Moravia,1.0,2.0,0.0
+Caleb Haack,19.5,JR,WR/DB,#7,Iowa Valley,5.0,85.0,1.0
 Micah Moores,0.0,FR,RB/LB,#9,Woodbine,0.0,0.0,0.0
 Tate Martin,13.9,JR,RB/LB,#33,BGM,3.0,49.0,1.0
 Cash Emgarten,0.0,SR,WR/DB,#10,Exira-EHK,0.0,0.0,0.0
@@ -48,7 +49,6 @@ Conner Bowers,0.0,JR,TE/CB,#21,Griswold,0.0,0.0,0.0
 Hudson Clark,0.0,SO,WR/DB,#3,Gladbrook-Reinbeck,0.0,0.0,0.0
 Cristian Brown,19.6,SR,WR/DB,#47,Dunkerton,8.0,56.0,1.0
 Jack Follmann,25.9,SR,TE/LB,#40,CAM,4.0,99.0,2.0
-Caleb Haack,0.0,JR,WR/DB,#7,Iowa Valley,0.0,0.0,0.0
 Austin Christensen,8.2,SO,WR/LB,#81,Audubon,5.0,32.0,0.0
 Lane Oswalt,7.2,SR,WR/DB,#87,Collins-Maxwell,2.0,52.0,0.0
 Drew Lappe,0.0,SR,WR/CB,#5,Bishop Garrigan,0.0,0.0,0.0
@@ -145,6 +145,7 @@ Trey Fisher,0.0,JR,RB/LB,#89,Southeast Warren,0.0,0.0,0.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0,0.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
 Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0,0.0
+Ian Smith,1.6,JR,TE/LB,#5,Iowa Valley,1.0,6.0,0.0
 Jakob Koopman,0.0,SO,SL/LB,#8,St. Edmond,0.0,0.0,0.0
 Conlin Rouse,0.0,SO,RB/LB,#11,Springville,0.0,0.0,0.0
 Edward Miller,0.0,SR,TE/DE,#31,Audubon,0.0,0.0,0.0
@@ -157,7 +158,7 @@ Brekken Schlader,0.0,SO,TE/LB,#14,Rockford,0.0,0.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0,0.0
 Cole Milks,5.3,SR,RB/S,#11,Winfield-Mt Union,2.0,33.0,0.0
 Ben Belew,0.0,JR,,#3,Don Bosco,0.0,0.0,0.0
-Ian Smith,0.0,JR,TE/LB,#5,Iowa Valley,0.0,0.0,0.0
+Dawson Smith,1.5,SR,RB/LB,#20,Iowa Valley,1.0,5.0,0.0
 Brody Paulsen,9.8,SR,RB/DB,#2,CAM,1.0,28.0,1.0
 Will Felper,0.0,SR,SL,#18,Riceville,0.0,0.0,0.0
 Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
@@ -169,7 +170,6 @@ Trent Robertson,0.0,SR,WR/LB,#5,North Iowa,0.0,0.0,0.0
 Christian Reinke,0.0,JR,TE/LB,#25,Rockford,0.0,0.0,0.0
 Lucas Dirkx,16.4,SO,TE/DE,#40,Southeast Warren,4.0,64.0,1.0
 Cal Peterman,17.1,JR,WR/LB,#15,Bedford,2.0,91.0,1.0
-Dawson Smith,0.0,SR,RB/LB,#20,Iowa Valley,0.0,0.0,0.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0,0.0
 Mekhi Benton,15.0,SR,TE/DE,#34,Central City,2.0,70.0,1.0
@@ -449,6 +449,8 @@ Tim Rogers,0.0,JR,TE/DL,#14,Bedford,0.0,0.0,0.0
 Max Edwards,0.0,SO,TE/DB,#15,Winfield-Mt Union,0.0,0.0,0.0
 Kael Johnson,0.0,SR,LB/OG,#4,Winfield-Mt Union,0.0,0.0,0.0
 Carter Hassebroek,0.0,JR,WR/DB,#8,Iowa Valley,0.0,0.0,0.0
+Colton Hudepohl,8.0,SR,OL/DL,#15,Iowa Valley,1.0,10.0,1.0
+Nolan Kriegel,10.5,FR,QB/DB,#2,Iowa Valley,1.0,35.0,1.0
 Joe Freund,0.0,SO,RB/LB,#6,Woodbine,0.0,0.0,0.0
 Brenden Wagner,0.0,SO,TE/LB,#16,Woodbine,0.0,0.0,0.0
 Layne Thomas,0.0,SO,OL/DB,#20,Woodbine,0.0,0.0,0.0
