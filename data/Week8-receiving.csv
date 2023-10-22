@@ -145,6 +145,7 @@ Jack Scherf,0.0,JR,WR/DB,#23,Central Elkader,0.0,0.0,0.0
 Trey Fisher,0.0,JR,RB/LB,#89,Southeast Warren,0.0,0.0,0.0
 Collin Hoffman,0.0,SR,QB/S,#14,GTRA,0.0,0.0,0.0
 Braxton Kniep,0.0,JR,WR/DE,#18,Remsen St. Mary's,0.0,0.0,0.0
+Ben Belew,9.7,JR,,#3,Don Bosco,1.0,27.0,1.0
 Ty Christensen,0.0,SO,,#5,Don Bosco,0.0,0.0,0.0
 Ian Smith,1.6,JR,TE/LB,#5,Iowa Valley,1.0,6.0,0.0
 Jakob Koopman,0.0,SO,SL/LB,#8,St. Edmond,0.0,0.0,0.0
@@ -159,7 +160,6 @@ Luke Erselius,0.0,SO,WR/DB,#15,Montezuma,0.0,0.0,0.0
 Brekken Schlader,0.0,SO,TE/LB,#14,Rockford,0.0,0.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0,0.0
 Cole Milks,5.3,SR,RB/S,#11,Winfield-Mt Union,2.0,33.0,0.0
-Ben Belew,0.0,JR,,#3,Don Bosco,0.0,0.0,0.0
 Dawson Smith,1.5,SR,RB/LB,#20,Iowa Valley,1.0,5.0,0.0
 Brody Paulsen,9.8,SR,RB/DB,#2,CAM,1.0,28.0,1.0
 Will Felper,0.0,SR,SL,#18,Riceville,0.0,0.0,0.0
@@ -232,6 +232,7 @@ Isaac Rich,0.0,JR,CB/WR,#10,WACO,0.0,0.0,0.0
 Guyson Lyman,0.0,JR,TE/DE,#40,Newell-Fonda,0.0,0.0,0.0
 Landen Dietrich,0.0,FR,RB/LB,#27,GTRA,0.0,0.0,0.0
 Kyle Boeckmann,0.0,JR,RB/LB,#8,Tripoli,0.0,0.0,0.0
+Kyler Knaack,7.7,JR,,#20,Don Bosco,1.0,7.0,1.0
 Austin Williams,2.0,SR,RB/LB,#20,CAM,1.0,10.0,0.0
 Dominic McClain,0.0,JR,WR/DB,#7,St. Edmond,0.0,0.0,0.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0,0.0
@@ -259,7 +260,6 @@ Jesse Myhr,0.0,JR,FB/DE,#8,Moravia,0.0,0.0,0.0
 Hunter Hughes,0.0,SR,CB/WR,#3,WACO,0.0,0.0,0.0
 Landon Gjerde,0.0,SO,RB/LB,#1,Colo-Nesco,0.0,0.0,0.0
 Tristan Freiberg,0.0,SR,WR/CB,#1,Tripoli,0.0,0.0,0.0
-Kyler Knaack,0.0,JR,,#20,Don Bosco,0.0,0.0,0.0
 Ryan Bower,0.0,SR,WR/S,#8,CAM,0.0,0.0,0.0
 Jace March,0.0,FR,RB/CB,#3,Springville,0.0,0.0,0.0
 Brigham Porter,0.0,SO,SL/DB,#23,New London,0.0,0.0,0.0
@@ -292,6 +292,7 @@ Ryker Hoffman,0.0,JR,WR/CB,#2,Rockford,0.0,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0,0.0
 Jackson Bellcock,0.0,FR,FB/LB,#20,Newell-Fonda,0.0,0.0,0.0
 Garrison Motsinger,7.8,JR,RB/S,#4,Bedford,1.0,8.0,1.0
+David Schmitz,12.0,JR,,#4,Don Bosco,1.0,50.0,1.0
 Brayden Chester,1.6,JR,RB/LB,#34,CAM,1.0,6.0,0.0
 Braden Jordan,0.0,SO,QB/LB,#10,Springville,0.0,0.0,0.0
 Carson Hopkins,0.0,FR,TE/LB,#45,West Harrison/Whiting,0.0,0.0,0.0
@@ -321,7 +322,6 @@ Brady Wurth,0.0,JR,LB/WR,#11,Remsen St. Mary's,0.0,0.0,0.0
 Logan Heim,0.0,SO,WR/CB,#7,Tripoli,0.0,0.0,0.0
 Ethan Schaufenbuel,0.0,SO,WR/CB,#20,Tripoli,0.0,0.0,0.0
 Silas Walston,0.0,SR,RB/DE,#33,Bedford,0.0,0.0,0.0
-David Schmitz,0.0,JR,,#4,Don Bosco,0.0,0.0,0.0
 Owen Bral,0.0,JR,QB/LB,#3,Iowa Valley,0.0,0.0,0.0
 Johnny Adams,0.0,JR,WR,#10,Riceville,0.0,0.0,0.0
 Dawson Graham,0.0,JR,RB/LB,#8,Janesville,0.0,0.0,0.0
