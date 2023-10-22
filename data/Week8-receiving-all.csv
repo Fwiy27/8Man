@@ -42,10 +42,10 @@ Tate Martin,JR,RB/LB,#33,BGM,27,317,8
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,26,241,3
 Brayden Hepke,SR,WR/DB,#17,BGM,26,327,4
 Aiden Eickert ,SO,WR/LB,#7,Easton Valley,26,441,8
+Conner Bowers,JR,TE/CB,#21,Griswold,25,327,2
 Declan DeJong,SO,TE/DE,#41,Moravia,25,465,7
 Rider Kupka,SO,,#21,GMG,25,285,5
 Rason Grail,SR,WR/DB,#23,East Union,24,335,6
-Conner Bowers,JR,TE/CB,#21,Griswold,23,322,2
 Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,23,416,7
 Cristian Brown,SR,WR/DB,#47,Dunkerton,23,349,9
 Jack Follmann,SR,TE/LB,#40,CAM,23,438,8
@@ -101,6 +101,7 @@ Seth Bixler,SR,WR/S,#1,Midland,14,137,1
 Dylan Linkenhoker,SR,,#21,Fremont-Mills,14,217,2
 Brenden Connett,SR,RB/LB,#20,Twin Cedars,14,145,1
 Zane Johnson,JR,RB/LB,#7,Griswold,14,168,3
+Mason Steinhoff,SO,RB/LB,#11,Griswold,14,173,1
 Luke Cripps,SR,QB/S,#1,Boyer Valley,14,156,2
 Charlie Schaefer,SR,QB/S,#6,North Iowa,14,415,5
 Brett Plants,JR,RB/LB,#22,Montezuma,14,147,1
@@ -124,7 +125,6 @@ Tyler Ballard,SR,TE/DE,#22,HLV,12,163,1
 Jordan Cota,JR,TE/DE,#81,Kee,12,171,3
 Kaleb Drape,SR,WR/LB,#6,Kee,12,151,3
 Donald Bashor,SR,RB/LB,#44,Lenox,12,345,9
-Mason Steinhoff,SO,RB/LB,#11,Griswold,12,167,1
 Austin Boege,SO,RB/LB,#22,Collins-Maxwell,12,162,0
 Maddox Jondle,JR,QB/LB,#11,Lone Tree,12,186,4
 Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,12,260,5
@@ -136,6 +136,7 @@ Keyden Lown,JR,TE/DE,#84,English Valleys,11,139,5
 Braxton Blackburn,SR,,#10,Fremont-Mills,11,97,0
 JW Linkenhoker,SO,,#11,Fremont-Mills,11,142,4
 Lucas Madison,SR,,#5,Fremont-Mills,11,162,2
+Auden Wilson,JR,WR/CB,#10,Griswold,11,209,1
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,11,110,0
 Sheldon Vandenberg,JR,OG/LB,#12,East Mills,11,82,3
 Levi Reineke,SO,LB/RB,#29,Boyer Valley,11,86,0
@@ -151,6 +152,7 @@ Conlin Rouse,SO,RB/LB,#11,Springville,11,194,4
 Edward Miller,SR,TE/DE,#31,Audubon,11,223,2
 Clay Westphal,SO,SL/S,#8,West Harrison/Whiting,11,162,3
 Coen Good,SR,WR/CB,#2,English Valleys,10,119,0
+Peyton Cook,JR,QB/CB,#2,Griswold,10,207,3
 Logan French,SR,WR/DB,#1,Stanton/Essex,10,155,3
 Burke Busta,SR,FB,#9,Turkey Valley,10,158,1
 Luke Erselius,SO,WR/DB,#15,Montezuma,10,58,1
@@ -197,7 +199,6 @@ Tanner Troendle,FR,RB/DB,#23,Kee,7,93,1
 Ayden Lamb,FR,TE/LB,#18,Murray,7,97,1
 Cody Samson,SR,TE/LB,#36,Baxter,7,47,1
 Jordan Martin-England,JR,RB/LB,#18,Lenox,7,148,2
-Peyton Cook,JR,QB/CB,#2,Griswold,7,142,2
 Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,7,49,0
 Jiri Brodigan,SO,WR/LB,#32,East Mills,7,87,1
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,7,71,1
@@ -224,7 +225,6 @@ Riley Simmons,SR,E/DE,#85,Belle Plaine,6,120,5
 Andrew Kolsrud,SR,WR/CB,#16,Kee,6,53,1
 Nolan Gannon,FR,RB/LB,#34,Murray,6,97,2
 Judson Beary,JR,RB/LB,#6,Twin Cedars,6,173,2
-Auden Wilson,JR,WR/CB,#10,Griswold,6,75,0
 Levi Evans,SO,TE/DE,#20,Mormon Trail,6,42,1
 Jader Sanchez,SR,RB/DB,#4,Lone Tree,6,102,2
 Jackson Stansberry,SO,WR/DB,#22,Siouxland Christian,6,114,0
