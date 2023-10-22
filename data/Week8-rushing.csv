@@ -1,7 +1,7 @@
 Name,Points,Year,Position,Number,School,YDS,TDS
+Colby Wallace,28.8,JR,QB/S,#11,Glidden-Ralston,168.0,2.0
 Oliver Schmitt,26.3,SR,FB,#22,Turkey Valley,143.0,2.0
 Aaron Olsen,7.7,JR,QB/S,#3,Audubon,77.0,0.0
-Colby Wallace,0.0,JR,QB/S,#11,Glidden-Ralston,0.0,0.0
 Ambrose Savage,0.0,JR,RB/LB,#12,Lamoni,0.0,0.0
 Judah Bielenberg,0.0,JR,QB/LB,#10,Siouxland Christian,0.0,0.0
 Landon Montag,51.4,SR,RB/LB,#24,West Bend-Mallard,214.0,5.0
@@ -25,6 +25,7 @@ Braxton Blackburn,0.0,SR,,#10,Fremont-Mills,0.0,0.0
 Shane Helmick,25.1,SR,QB/DE,#12,Moravia,131.0,2.0
 Carson Ingles,0.0,SO,RB,#1,Edgewood-Colesburg,0.0,0.0
 Cooper Wierson,28.2,SO,QB/LB,#1,Collins-Maxwell,102.0,3.0
+Emmett Snyder,2.1,SR,RB/S,#29,Glidden-Ralston,21.0,0.0
 Brogyn Greensky,0.0,SR,QB/LB,#4,North Iowa,0.0,0.0
 Mason Hoy,0.0,SO,RB/CB,#9,Springville,0.0,0.0
 Caden Roethler,26.8,SR,FB/LB,#20,Bishop Garrigan,148.0,2.0
@@ -37,7 +38,6 @@ Dalton Mudderman,16.9,JR,QB/LB,#5,Kee,49.0,2.0
 Brody Koch,0.0,SO,RB/LB,#5,Calamus-Wheatland,0.0,0.0
 Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
 Maddox Jondle,13.2,JR,QB/LB,#11,Lone Tree,72.0,1.0
-Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0
 Jamison Ewing,10.0,SO,WR/CB,#8,Southeast Warren,40.0,1.0
 Kasey Hough,0.0,JR,QB/S,#11,GTRA,0.0,0.0
 Slate Witte,0.0,SR,,#7,GMG,0.0,0.0
@@ -115,6 +115,7 @@ Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
 Jackson Schulte,0.1,SR,RB/LB,#21,Kee,1.0,0.0
 Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0
 Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0
+Alex Daniel,0.5,SO,RB/LB,#27,Glidden-Ralston,5.0,0.0
 Jayden Hanson,9.3,SR,QB/DB,#7,Central City,33.0,1.0
 Mason Steinhoff,0.4,SO,RB/LB,#11,Griswold,4.0,0.0
 Grant Finck,5.0,JR,RB/LB,#10,Dunkerton,50.0,0.0
@@ -123,7 +124,6 @@ Lucas Madison,0.0,SR,,#5,Fremont-Mills,0.0,0.0
 Nathan Moon,0.0,FR,RB/LB,#6,Clarksville,0.0,0.0
 Wade Ragaller,0.0,JR,RB/LB,#28,Ar-We-Va,0.0,0.0
 Caleb Urban,0.0,JR,WR/CB,#3,East Mills,0.0,0.0
-Alex Daniel,0.0,SO,RB/LB,#27,Glidden-Ralston,0.0,0.0
 Austin Williams,0.4,SR,RB/LB,#20,CAM,4.0,0.0
 Hayden Loftsgard,15.0,JR,WR/CB,#2,Tripoli,90.0,1.0
 Clayton Miller,10.2,JR,QB/CB,#4,WACO,42.0,1.0
@@ -225,11 +225,11 @@ Mason Maschmann,0.2,SR,RB/LB,#11,BGM,2.0,0.0
 Corbin Jacobs-Jewell,0.0,JR,TE/DE,#10,New London,0.0,0.0
 Tyler Rodgers,0.0,JR,WR/CB,#17,Mormon Trail,0.0,0.0
 Drew Eilers,0.0,JR,WR/DL,#2,Gladbrook-Reinbeck,0.0,0.0
+Lucas Christian,0.0,JR,WR/S,#18,Glidden-Ralston,0.0,0.0
 Marco Avila,0.0,JR,FB,#52,Riceville,0.0,0.0
 London Franklin,0.0,SO,RB/DE,#6,New London,0.0,0.0
 Derek Bartlett,0.0,SR,LB/RB,#4,Stanton/Essex,0.0,0.0
 Jack Gordon,0.0,SR,WR/DL,#18,East Mills,0.0,0.0
-Lucas Christian,0.0,JR,WR/S,#18,Glidden-Ralston,0.0,0.0
 John Deemer,0.0,FR,RB/LB,#28,Bedford,0.0,0.0
 Isaac Delange,0.5,JR,WR/CB,#25,Bishop Garrigan,5.0,0.0
 Tanner Troendle,0.0,FR,RB/DB,#23,Kee,0.0,0.0

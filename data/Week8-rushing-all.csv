@@ -1,7 +1,7 @@
 Name,Year,Position,Number,School,YDS,TDS
+Colby Wallace,JR,QB/S,#11,Glidden-Ralston,1226,26
 Oliver Schmitt,SR,FB,#22,Turkey Valley,1124,18
 Aaron Olsen,JR,QB/S,#3,Audubon,1133,15
-Colby Wallace,JR,QB/S,#11,Glidden-Ralston,1058,24
 Ambrose Savage,JR,RB/LB,#12,Lamoni,1158,21
 Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,490,8
 Landon Montag,SR,RB/LB,#24,West Bend-Mallard,1346,26
@@ -25,6 +25,7 @@ Braxton Blackburn,SR,,#10,Fremont-Mills,1043,21
 Shane Helmick,SR,QB/DE,#12,Moravia,807,13
 Carson Ingles,SO,RB,#1,Edgewood-Colesburg,780,9
 Cooper Wierson,SO,QB/LB,#1,Collins-Maxwell,408,12
+Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,665,6
 Brogyn Greensky,SR,QB/LB,#4,North Iowa,603,5
 Mason Hoy,SO,RB/CB,#9,Springville,930,15
 Caden Roethler,SR,FB/LB,#20,Bishop Garrigan,816,15
@@ -37,7 +38,6 @@ Dalton Mudderman,JR,QB/LB,#5,Kee,672,15
 Brody Koch,SO,RB/LB,#5,Calamus-Wheatland,578,8
 Max Henstorf,SR,QB/LB,#7,HLV,263,4
 Maddox Jondle,JR,QB/LB,#11,Lone Tree,1038,15
-Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,644,6
 Jamison Ewing,SO,WR/CB,#8,Southeast Warren,761,13
 Kasey Hough,JR,QB/S,#11,GTRA,591,10
 Slate Witte,SR,,#7,GMG,629,11
@@ -115,6 +115,7 @@ Degin Dixson,SR,QB/CB,#3,Mormon Trail,82,2
 Jackson Schulte,SR,RB/LB,#21,Kee,371,5
 Austin Lack,SR,WR/DB,#3,East Union,246,3
 Wade Sankot,SO,RB/LB,#3,Belle Plaine,367,8
+Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,248,2
 Jayden Hanson,SR,QB/DB,#7,Central City,433,7
 Mason Steinhoff,SO,RB/LB,#11,Griswold,249,2
 Grant Finck,JR,RB/LB,#10,Dunkerton,245,3
@@ -123,7 +124,6 @@ Lucas Madison,SR,,#5,Fremont-Mills,293,5
 Nathan Moon,FR,RB/LB,#6,Clarksville,390,3
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,283,1
 Caleb Urban,JR,WR/CB,#3,East Mills,202,4
-Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,243,2
 Austin Williams,SR,RB/LB,#20,CAM,365,4
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,268,3
 Clayton Miller,JR,QB/CB,#4,WACO,278,5
@@ -225,11 +225,11 @@ Mason Maschmann,SR,RB/LB,#11,BGM,87,5
 Corbin Jacobs-Jewell,JR,TE/DE,#10,New London,14,0
 Tyler Rodgers,JR,WR/CB,#17,Mormon Trail,33,0
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,150,2
+Lucas Christian,JR,WR/S,#18,Glidden-Ralston,79,0
 Marco Avila,JR,FB,#52,Riceville,126,3
 London Franklin,SO,RB/DE,#6,New London,60,0
 Derek Bartlett,SR,LB/RB,#4,Stanton/Essex,121,3
 Jack Gordon,SR,WR/DL,#18,East Mills,170,3
-Lucas Christian,JR,WR/S,#18,Glidden-Ralston,79,0
 John Deemer,FR,RB/LB,#28,Bedford,118,3
 Isaac Delange,JR,WR/CB,#25,Bishop Garrigan,88,0
 Tanner Troendle,FR,RB/DB,#23,Kee,201,4

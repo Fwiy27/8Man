@@ -118,6 +118,7 @@ Stadan Vansice,0.0,SO,WR/LB,#5,Baxter,0.0,0.0,0.0
 Gio Cruz,4.3,SR,RB/DB,#5,Lenox,2.0,23.0,0.0
 Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0,0.0
 J.D. Kruse,12.4,SO,RB/DE,#2,Turkey Valley,2.0,44.0,1.0
+Emmett Snyder,13.2,SR,RB/S,#29,Glidden-Ralston,4.0,92.0,0.0
 Abram Edwards,11.0,SR,TE/DE,#84,Winfield-Mt Union,1.0,40.0,1.0
 Johnathan Riesselman,0.0,SO,WR/DB,#7,Ar-We-Va,0.0,0.0,0.0
 Evan Alt,3.6,SR,RB/LB,#4,Audubon,2.0,16.0,0.0
@@ -156,6 +157,7 @@ Coen Good,0.0,SR,WR/CB,#2,English Valleys,0.0,0.0,0.0
 Peyton Cook,15.5,JR,QB/CB,#2,Griswold,3.0,65.0,1.0
 Logan French,0.0,SR,WR/DB,#1,Stanton/Essex,0.0,0.0,0.0
 Burke Busta,8.1,SR,FB,#9,Turkey Valley,2.0,61.0,0.0
+Mark Lensch,3.3,SR,TE/LB,#33,Glidden-Ralston,2.0,13.0,0.0
 Luke Erselius,0.0,SO,WR/DB,#15,Montezuma,0.0,0.0,0.0
 Brekken Schlader,0.0,SO,TE/LB,#14,Rockford,0.0,0.0,0.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0,0.0
@@ -167,7 +169,6 @@ Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0,0.0
 Logan Grimm,0.0,SR,RB/LB,#34,West Bend-Mallard,0.0,0.0,0.0
 Cody Dorscher,0.0,JR,WR/CB,#24,Griswold,0.0,0.0,0.0
 Grant Finck,4.4,JR,RB/LB,#10,Dunkerton,3.0,14.0,0.0
-Emmett Snyder,0.0,SR,RB/S,#29,Glidden-Ralston,0.0,0.0,0.0
 Trent Robertson,0.0,SR,WR/LB,#5,North Iowa,0.0,0.0,0.0
 Christian Reinke,0.0,JR,TE/LB,#25,Rockford,0.0,0.0,0.0
 Lucas Dirkx,16.4,SO,TE/DE,#40,Southeast Warren,4.0,64.0,1.0
@@ -180,7 +181,7 @@ Bryce Brabham,0.0,SO,RB/DB,#9,Exira-EHK,0.0,0.0,0.0
 Samuel Dascher,0.0,SO,TE/CB,#31,Calamus-Wheatland,0.0,0.0,0.0
 Layne Mastin,0.0,SR,OG/DE,#11,East Mills,0.0,0.0,0.0
 Colin Snyder,6.0,SO,RB/LB,#24,Dunkerton,4.0,20.0,0.0
-Mark Lensch,0.0,SR,TE/LB,#33,Glidden-Ralston,0.0,0.0,0.0
+Alex Daniel,2.7,SO,RB/LB,#27,Glidden-Ralston,1.0,17.0,0.0
 David Rose,0.0,JR,WR/DB,#5,Montezuma,0.0,0.0,0.0
 Carter Anderson,0.0,JR,QB/DB,#15,Northwood-Kensett,0.0,0.0,0.0
 Kolton Robinson,0.0,SO,RB/DB,#23,Northwood-Kensett,0.0,0.0,0.0
@@ -205,7 +206,6 @@ Jacob Berens,2.2,SR,RB/LB,#34,Boyer Valley,1.0,12.0,0.0
 Owen Garside,0.0,JR,S/QB,#3,Boyer Valley,0.0,0.0,0.0
 Evan Ten Eyck,0.0,SR,TE,#2,Boyer Valley,0.0,0.0,0.0
 Sam Hoodjer,20.8,JR,WR/CB,#80,Clarksville,2.0,68.0,2.0
-Alex Daniel,0.0,SO,RB/LB,#27,Glidden-Ralston,0.0,0.0,0.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0,0.0
 Gavyn Thordarson,0.0,SO,RB/DE,#8,Melcher-Dallas,0.0,0.0,0.0
 Alex Black,1.8,SR,WR/DB,#30,Montezuma,1.0,8.0,0.0
@@ -253,6 +253,7 @@ Brody Magruder,14.4,JR,TE/DL,#26,Lone Tree,3.0,54.0,1.0
 Ledger Dalton,0.0,SO,WR/DB,#5,Dunkerton,0.0,0.0,0.0
 Noah Fuelling,2.0,JR,WR/DB,#12,Dunkerton,2.0,0.0,0.0
 Adam Scott,5.0,SR,RB/LB,#26,West Central,1.0,40.0,0.0
+Waylon Hein,1.8,JR,TE/LB,#23,Glidden-Ralston,1.0,8.0,0.0
 Ryan Heaton,0.0,JR,FB/DE,#43,Melcher-Dallas,0.0,0.0,0.0
 Payton Malchow,0.0,JR,WR/CB,#28,Rockford,0.0,0.0,0.0
 Landen Nelson,0.0,FR,WR/DB,#36,Northwood-Kensett,0.0,0.0,0.0
@@ -286,7 +287,6 @@ Logan Sharpe,0.0,JR,RB/LB,#28,Central Elkader,0.0,0.0,0.0
 Braden Taylor,0.0,SO,OL/DL,#60,Central Elkader,0.0,0.0,0.0
 Ty Lindquist,0.0,JR,FB/LB,#18,Dunkerton,0.0,0.0,0.0
 Trenton Rodas,8.5,JR,TE/DE,#14,West Central,1.0,15.0,1.0
-Waylon Hein,0.0,JR,TE/LB,#23,Glidden-Ralston,0.0,0.0,0.0
 Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0,0.0
 Ryker Hoffman,0.0,JR,WR/CB,#2,Rockford,0.0,0.0,0.0
 Ty Tauber,0.0,SR,OT/LB,#25,Newell-Fonda,0.0,0.0,0.0

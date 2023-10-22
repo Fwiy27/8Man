@@ -118,6 +118,7 @@ Stadan Vansice,SO,WR/LB,#5,Baxter,13,163,1
 Gio Cruz,SR,RB/DB,#5,Lenox,13,184,2
 Jacob Martin,JR,RB/LB,#3,Stanton/Essex,13,318,4
 J.D. Kruse,SO,RB/DE,#2,Turkey Valley,13,321,6
+Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,13,180,2
 Abram Edwards,SR,TE/DE,#84,Winfield-Mt Union,13,204,3
 Johnathan Riesselman,SO,WR/DB,#7,Ar-We-Va,13,250,3
 Evan Alt,SR,RB/LB,#4,Audubon,13,68,0
@@ -156,6 +157,7 @@ Coen Good,SR,WR/CB,#2,English Valleys,10,119,0
 Peyton Cook,JR,QB/CB,#2,Griswold,10,207,3
 Logan French,SR,WR/DB,#1,Stanton/Essex,10,155,3
 Burke Busta,SR,FB,#9,Turkey Valley,10,158,1
+Mark Lensch,SR,TE/LB,#33,Glidden-Ralston,10,83,0
 Luke Erselius,SO,WR/DB,#15,Montezuma,10,58,1
 Brekken Schlader,SO,TE/LB,#14,Rockford,10,69,0
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,10,132,1
@@ -167,7 +169,6 @@ Bennett Steger,SR,WR,#14,Edgewood-Colesburg,10,154,1
 Logan Grimm,SR,RB/LB,#34,West Bend-Mallard,9,86,2
 Cody Dorscher,JR,WR/CB,#24,Griswold,9,119,1
 Grant Finck,JR,RB/LB,#10,Dunkerton,9,51,0
-Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,9,88,2
 Trent Robertson,SR,WR/LB,#5,North Iowa,9,185,3
 Christian Reinke,JR,TE/LB,#25,Rockford,9,64,0
 Lucas Dirkx,SO,TE/DE,#40,Southeast Warren,9,97,1
@@ -180,7 +181,7 @@ Bryce Brabham,SO,RB/DB,#9,Exira-EHK,8,146,2
 Samuel Dascher,SO,TE/CB,#31,Calamus-Wheatland,8,118,2
 Layne Mastin,SR,OG/DE,#11,East Mills,8,72,0
 Colin Snyder,SO,RB/LB,#24,Dunkerton,8,50,0
-Mark Lensch,SR,TE/LB,#33,Glidden-Ralston,8,70,0
+Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,8,122,2
 David Rose,JR,WR/DB,#5,Montezuma,8,88,1
 Carter Anderson,JR,QB/DB,#15,Northwood-Kensett,8,168,1
 Kolton Robinson,SO,RB/DB,#23,Northwood-Kensett,8,61,1
@@ -205,7 +206,6 @@ Jacob Berens,SR,RB/LB,#34,Boyer Valley,7,71,1
 Owen Garside,JR,S/QB,#3,Boyer Valley,7,90,1
 Evan Ten Eyck,SR,TE,#2,Boyer Valley,7,112,4
 Sam Hoodjer,JR,WR/CB,#80,Clarksville,7,234,5
-Alex Daniel,SO,RB/LB,#27,Glidden-Ralston,7,105,2
 Carson Frerichs,SR,RB/LB,#28,North Iowa,7,90,0
 Gavyn Thordarson,SO,RB/DE,#8,Melcher-Dallas,7,113,2
 Alex Black,SR,WR/DB,#30,Montezuma,7,96,3
@@ -253,6 +253,7 @@ Brody Magruder,JR,TE/DL,#26,Lone Tree,5,75,1
 Ledger Dalton,SO,WR/DB,#5,Dunkerton,5,66,2
 Noah Fuelling,JR,WR/DB,#12,Dunkerton,5,40,0
 Adam Scott,SR,RB/LB,#26,West Central,5,96,1
+Waylon Hein,JR,TE/LB,#23,Glidden-Ralston,5,105,0
 Ryan Heaton,JR,FB/DE,#43,Melcher-Dallas,5,77,0
 Payton Malchow,JR,WR/CB,#28,Rockford,5,19,0
 Landen Nelson,FR,WR/DB,#36,Northwood-Kensett,5,43,0
@@ -286,7 +287,6 @@ Logan Sharpe,JR,RB/LB,#28,Central Elkader,4,12,0
 Braden Taylor,SO,OL/DL,#60,Central Elkader,4,3,0
 Ty Lindquist,JR,FB/LB,#18,Dunkerton,4,69,1
 Trenton Rodas,JR,TE/DE,#14,West Central,4,80,2
-Waylon Hein,JR,TE/LB,#23,Glidden-Ralston,4,97,0
 Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,4,70,0
 Ryker Hoffman,JR,WR/CB,#2,Rockford,4,54,0
 Ty Tauber,SR,OT/LB,#25,Newell-Fonda,4,39,1
