@@ -21,9 +21,9 @@ Evan Alt,10.6,SR,RB/LB,#4,Audubon,106.0,0.0
 Breckin Clatt,19.6,JR,QB/DB,#14,Colo-Nesco,76.0,2.0
 Josef Dvorak,28.1,JR,RB/DB,#25,Collins-Maxwell,101.0,3.0
 Ethan Bockelman,6.2,SR,QB/DB,#22,Lone Tree,62.0,0.0
+Carson Ingles,1.6,SO,RB,#1,Edgewood-Colesburg,16.0,0.0
 Braxton Blackburn,0.0,SR,,#10,Fremont-Mills,0.0,0.0
 Shane Helmick,25.1,SR,QB/DE,#12,Moravia,131.0,2.0
-Carson Ingles,0.0,SO,RB,#1,Edgewood-Colesburg,0.0,0.0
 Cooper Wierson,28.2,SO,QB/LB,#1,Collins-Maxwell,102.0,3.0
 Emmett Snyder,2.1,SR,RB/S,#29,Glidden-Ralston,21.0,0.0
 Brogyn Greensky,0.0,SR,QB/LB,#4,North Iowa,0.0,0.0
@@ -40,12 +40,14 @@ Max Henstorf,0.0,SR,QB/LB,#7,HLV,0.0,0.0
 Maddox Jondle,13.2,JR,QB/LB,#11,Lone Tree,72.0,1.0
 Jamison Ewing,10.0,SO,WR/CB,#8,Southeast Warren,40.0,1.0
 Kasey Hough,0.0,JR,QB/S,#11,GTRA,0.0,0.0
+Pryce Rochford,22.6,JR,QB,#22,Edgewood-Colesburg,166.0,1.0
 Slate Witte,0.0,SR,,#7,GMG,0.0,0.0
 Perrin Sulzle,0.0,JR,QB/LB,#7,Baxter,0.0,0.0
 Trey Fisher,12.4,JR,RB/LB,#89,Southeast Warren,124.0,0.0
 Chase Spieker,27.1,JR,QB/DB,#5,CAM,91.0,3.0
 Kooper Julseth,0.0,JR,WR/LB,#1,Northwood-Kensett,0.0,0.0
 Louden Huisenga,13.7,JR,RB/LB,#8,WACO,77.0,1.0
+Carter Oberbroeckling,1.8,SR,RB,#34,Edgewood-Colesburg,18.0,0.0
 Michael Hensley,0.0,JR,RB/LB,#6,Sidney,0.0,0.0
 Brady Boulton,9.3,SO,QB/DB,#1,Montezuma,33.0,1.0
 Landon Waldschmitt,0.0,JR,QB/DB,#7,Remsen St. Mary's,0.0,0.0
@@ -53,7 +55,6 @@ Kael Caikoski,0.0,SR,RB/LB,#22,Melcher-Dallas,0.0,0.0
 Owen Garside,8.4,JR,S/QB,#3,Boyer Valley,84.0,0.0
 Cael Weisskopf,0.0,FR,RB/LB,#5,HLV,0.0,0.0
 Jack Adams,0.0,JR,QB,#7,Riceville,0.0,0.0
-Carter Oberbroeckling,0.0,SR,RB,#34,Edgewood-Colesburg,0.0,0.0
 Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
 Owen Backer,39.8,SO,RB/S,#22,Clarksville,158.0,4.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0
@@ -68,7 +69,6 @@ Silas Walston,7.9,SR,RB/DE,#33,Bedford,79.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison/Whiting,0.0,0.0
 Aiden Klostermann,42.5,SR,RB/S,#10,Central City,245.0,3.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0
-Pryce Rochford,0.0,JR,QB,#22,Edgewood-Colesburg,0.0,0.0
 Luke Rohling,0.0,SR,FB/LB,#16,Calamus-Wheatland,0.0,0.0
 Mark Bower,0.0,JR,RB/DB,#25,Colo-Nesco,0.0,0.0
 Jordan Martin-England,22.2,JR,RB/LB,#18,Lenox,102.0,2.0
@@ -311,6 +311,7 @@ Gavin Clark,0.0,SO,RB/LB,#25,Twin Cedars,0.0,0.0
 Zach Thornburg,0.0,SR,QB/CB,#9,East Mills,0.0,0.0
 Luke Brennan,0.0,SO,QB/DB,#6,Montezuma,0.0,0.0
 Hayden Shelman,0.0,FR,DB/RB,#15,WACO,0.0,0.0
+Bennett Steger,8.3,SR,WR,#14,Edgewood-Colesburg,23.0,1.0
 Colin Hartl,0.0,JR,RB/LB,#38,Audubon,0.0,0.0
 Keenan Foland,0.0,FR,QB/S,#1,West Harrison/Whiting,0.0,0.0
 Austin Schmidt,2.3,JR,QB/DB,#2,West Bend-Mallard,23.0,0.0
@@ -517,7 +518,6 @@ Dallas Grove,0.0,FR,RB/DE,#26,St. Edmond,0.0,0.0
 Chase Forey,0.0,JR,WR/LB,#17,Janesville,0.0,0.0
 Trevor Forey,0.0,SR,WR/S,#6,Janesville,0.0,0.0
 Landon Campbell,0.0,SO,RB,#12,Edgewood-Colesburg,0.0,0.0
-Bennett Steger,0.0,SR,WR,#14,Edgewood-Colesburg,0.0,0.0
 Hunter Hodina,0.0,FR,WR/DB,#4,BGM,0.0,0.0
 Justin Bauer,0.3,SR,WR/CB,#12,Bishop Garrigan,3.0,0.0
 Carter McGregor,0.5,SO,RB/LB,#8,Bishop Garrigan,5.0,0.0

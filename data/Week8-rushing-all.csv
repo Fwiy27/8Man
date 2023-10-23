@@ -21,9 +21,9 @@ Evan Alt,SR,RB/LB,#4,Audubon,1084,17
 Breckin Clatt,JR,QB/DB,#14,Colo-Nesco,980,17
 Josef Dvorak,JR,RB/DB,#25,Collins-Maxwell,698,10
 Ethan Bockelman,SR,QB/DB,#22,Lone Tree,1060,19
+Carson Ingles,SO,RB,#1,Edgewood-Colesburg,796,9
 Braxton Blackburn,SR,,#10,Fremont-Mills,1043,21
 Shane Helmick,SR,QB/DE,#12,Moravia,807,13
-Carson Ingles,SO,RB,#1,Edgewood-Colesburg,780,9
 Cooper Wierson,SO,QB/LB,#1,Collins-Maxwell,408,12
 Emmett Snyder,SR,RB/S,#29,Glidden-Ralston,665,6
 Brogyn Greensky,SR,QB/LB,#4,North Iowa,603,5
@@ -40,12 +40,14 @@ Max Henstorf,SR,QB/LB,#7,HLV,263,4
 Maddox Jondle,JR,QB/LB,#11,Lone Tree,1038,15
 Jamison Ewing,SO,WR/CB,#8,Southeast Warren,761,13
 Kasey Hough,JR,QB/S,#11,GTRA,591,10
+Pryce Rochford,JR,QB,#22,Edgewood-Colesburg,1283,24
 Slate Witte,SR,,#7,GMG,629,11
 Perrin Sulzle,JR,QB/LB,#7,Baxter,466,5
 Trey Fisher,JR,RB/LB,#89,Southeast Warren,626,9
 Chase Spieker,JR,QB/DB,#5,CAM,781,21
 Kooper Julseth,JR,WR/LB,#1,Northwood-Kensett,646,12
 Louden Huisenga,JR,RB/LB,#8,WACO,676,11
+Carter Oberbroeckling,SR,RB,#34,Edgewood-Colesburg,844,12
 Michael Hensley,JR,RB/LB,#6,Sidney,451,6
 Brady Boulton,SO,QB/DB,#1,Montezuma,754,17
 Landon Waldschmitt,JR,QB/DB,#7,Remsen St. Mary's,858,18
@@ -53,7 +55,6 @@ Kael Caikoski,SR,RB/LB,#22,Melcher-Dallas,248,5
 Owen Garside,JR,S/QB,#3,Boyer Valley,767,17
 Cael Weisskopf,FR,RB/LB,#5,HLV,538,6
 Jack Adams,JR,QB,#7,Riceville,656,6
-Carter Oberbroeckling,SR,RB,#34,Edgewood-Colesburg,826,12
 Fischer Buffington,JR,RB/DE,#12,East Union,464,4
 Owen Backer,SO,RB/S,#22,Clarksville,1206,21
 Landon Lindgren,SO,RB/DB,#11,Lamoni,511,7
@@ -68,7 +69,6 @@ Silas Walston,SR,RB/DE,#33,Bedford,693,15
 Mason McIntosh,SR,QB/LB,#16,West Harrison/Whiting,355,3
 Aiden Klostermann,SR,RB/S,#10,Central City,814,14
 Trenton Struss,SR,RB/S,#21,Newell-Fonda,547,11
-Pryce Rochford,JR,QB,#22,Edgewood-Colesburg,1117,23
 Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,312,3
 Mark Bower,JR,RB/DB,#25,Colo-Nesco,601,8
 Jordan Martin-England,JR,RB/LB,#18,Lenox,858,12
@@ -311,6 +311,7 @@ Gavin Clark,SO,RB/LB,#25,Twin Cedars,40,0
 Zach Thornburg,SR,QB/CB,#9,East Mills,100,3
 Luke Brennan,SO,QB/DB,#6,Montezuma,21,0
 Hayden Shelman,FR,DB/RB,#15,WACO,31,1
+Bennett Steger,SR,WR,#14,Edgewood-Colesburg,106,3
 Colin Hartl,JR,RB/LB,#38,Audubon,79,1
 Keenan Foland,FR,QB/S,#1,West Harrison/Whiting,22,0
 Austin Schmidt,JR,QB/DB,#2,West Bend-Mallard,100,1
@@ -517,7 +518,6 @@ Dallas Grove,FR,RB/DE,#26,St. Edmond,6,0
 Chase Forey,JR,WR/LB,#17,Janesville,-1,0
 Trevor Forey,SR,WR/S,#6,Janesville,16,1
 Landon Campbell,SO,RB,#12,Edgewood-Colesburg,3,0
-Bennett Steger,SR,WR,#14,Edgewood-Colesburg,83,2
 Hunter Hodina,FR,WR/DB,#4,BGM,9,0
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,3,0
 Carter McGregor,SO,RB/LB,#8,Bishop Garrigan,8,0
