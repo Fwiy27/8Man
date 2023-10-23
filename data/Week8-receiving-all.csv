@@ -16,6 +16,7 @@ Dakota Heishman,JR,WR/DB,#8,BGM,42,506,5
 Carter Seitz,JR,WR/DB,#7,Kee,41,802,15
 Mason Maschmann,SR,RB/LB,#11,BGM,40,494,5
 Cade Robinson,JR,WR/CB,#12,Baxter,37,269,2
+Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,37,666,7
 Dalton Weepie,JR,TE/LB,#33,Dunkerton,36,591,8
 Jamison Martin,JR,RB/DB,#11,West Harrison/Whiting,36,508,7
 Cash Emgarten,SR,WR/DB,#10,Exira-EHK,35,593,8
@@ -25,7 +26,6 @@ Michael Hensley,JR,RB/LB,#6,Sidney,35,557,7
 Triton Gwinn,SR,RB/LB,#22,Mormon Trail,34,549,6
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,34,627,13
 Cal Heydon,SO,QB/DB,#11,Coon Rapids-Bayard,33,494,9
-Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,33,570,4
 Evan Lorenzen,JR,RB/DB,#22,Northwood-Kensett,33,326,2
 Wade Ragaller,JR,RB/LB,#28,Ar-We-Va,33,358,6
 Cruz DeJong,SR,TE/LB,#40,Montezuma,32,336,6
@@ -55,11 +55,13 @@ Austin Christensen,SO,WR/LB,#81,Audubon,22,164,1
 Lane Oswalt,SR,WR/DB,#87,Collins-Maxwell,21,252,2
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,21,204,4
 Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,20,373,7
+Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,20,201,2
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,20,157,0
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,20,210,3
 Jeremiah Marquette,SR,RB/LB,#25,Waterloo Christian,20,221,1
 Kolby Culbertson,SR,TE/DB,#2,Coon Rapids-Bayard,19,197,1
 Jack Gordon,SR,WR/DL,#18,East Mills,19,316,6
+Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,19,218,3
 Marshawn Taylor,SR,RB/CB,#12,Rockford,19,141,0
 Alex Tiedemann,SO,QB/DB,#34,Northwood-Kensett,19,168,2
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,19,166,2
@@ -68,7 +70,6 @@ James Bell,SR,WR/DB,#21,Waterloo Christian,19,285,5
 Chase Klatt,SO,TE/CB,#4,Calamus-Wheatland,18,266,2
 Reed Oswalt,SO,WR/DB,#24,Collins-Maxwell,18,288,1
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,18,139,1
-Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,18,195,2
 Nolan Cushion,SR,TE/DE,#22,West Central,18,280,0
 Cam Buffington,SR,QB/LB,#33,Winfield-Mt Union,18,557,11
 Brenner Sullivan,SO,RB/LB,#22,Woodbine,18,292,1
@@ -77,7 +78,6 @@ Matt Sauer,SR,TE/DE,#82,Midland,17,166,3
 Cael Weisskopf,FR,RB/LB,#5,HLV,17,207,4
 Alex Hansen,JR,RB/LB,#22,Exira-EHK,17,301,4
 Emmett Burke,SO,WR/DB,#10,Lone Tree,17,279,3
-Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,17,180,1
 Colby Eskildsen,JR,TE/DL,#12,Northwood-Kensett,17,159,5
 Colton Leichty,SR,TE/LB,#23,WACO,17,203,3
 Robert Beardsley,JR,WR/DB,#18,Southeast Warren,17,293,4
@@ -212,6 +212,7 @@ Jacob Berens,SR,RB/LB,#34,Boyer Valley,7,71,1
 Owen Garside,JR,S/QB,#3,Boyer Valley,7,90,1
 Evan Ten Eyck,SR,TE,#2,Boyer Valley,7,112,4
 Sam Hoodjer,JR,WR/CB,#80,Clarksville,7,234,5
+Jackson Stansberry,SO,WR/DB,#22,Siouxland Christian,7,141,1
 Carson Frerichs,SR,RB/LB,#28,North Iowa,7,90,0
 Gavyn Thordarson,SO,RB/DE,#8,Melcher-Dallas,7,113,2
 Alex Black,SR,WR/DB,#30,Montezuma,7,96,3
@@ -229,7 +230,6 @@ Nolan Gannon,FR,RB/LB,#34,Murray,6,97,2
 Judson Beary,JR,RB/LB,#6,Twin Cedars,6,173,2
 Levi Evans,SO,TE/DE,#20,Mormon Trail,6,42,1
 Jader Sanchez,SR,RB/DB,#4,Lone Tree,6,102,2
-Jackson Stansberry,SO,WR/DB,#22,Siouxland Christian,6,114,0
 Isaac Rich,JR,CB/WR,#10,WACO,6,102,4
 Guyson Lyman,JR,TE/DE,#40,Newell-Fonda,6,84,1
 Landen Dietrich,FR,RB/LB,#27,GTRA,6,100,3
@@ -419,6 +419,7 @@ Eli Schmidt,SR,RB/S,#3,Clarksville,1,50,1
 Kale Doeppke,SR,WR/DB,#5,Central Elkader,1,17,0
 Biar Biar,JR,OG/DL,#65,Siouxland Christian,1,5,0
 Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,1,7,0
+Grady Lyman,SR,DL/OG,#68,Siouxland Christian,1,3,0
 Raymond Nelson,JR,LB/RB,#81,Siouxland Christian,1,8,0
 Bennett Pfister,SO,WR/DB,#29,Siouxland Christian,1,-10,0
 Milton Cushion,FR,RB/DB,#11,West Central,1,48,0

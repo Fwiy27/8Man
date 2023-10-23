@@ -1,10 +1,10 @@
 Name,Year,Position,Number,School,YDS,TDS
 Colby Wallace,JR,QB/S,#11,Glidden-Ralston,1226,26
 Oliver Schmitt,SR,FB,#22,Turkey Valley,1124,18
+Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,705,10
 Aaron Olsen,JR,QB/S,#3,Audubon,1133,15
 Dane Appleby,JR,QB/LB,#4,Janesville,1153,12
 Ambrose Savage,JR,RB/LB,#12,Lamoni,1158,21
-Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,490,8
 Landon Montag,SR,RB/LB,#24,West Bend-Mallard,1346,26
 Andrew Beran,JR,RB,#2,Riceville,846,16
 Nolan Kriegel,FR,QB/DB,#2,Iowa Valley,1207,20
@@ -180,6 +180,7 @@ Brenden Connett,SR,RB/LB,#20,Twin Cedars,78,1
 Ty Tauber,SR,OT/LB,#25,Newell-Fonda,308,7
 Aiden Hellman,FR,,#18,Don Bosco,162,3
 Michael Raines,SR,TE/LB,#26,New London,77,0
+Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,157,2
 Christopher Greif,SR,LB/FB,#44,Central City,211,6
 Nate Curry,SR,RB/LB,#38,Twin Cedars,47,0
 Jackson Embree,JR,SL/LB,#33,East Mills,78,3
@@ -190,12 +191,12 @@ Aldo Esteban-Cabrera,JR,RB/LB,#22,Murray,138,3
 Kyle Boeckmann,JR,RB/LB,#8,Tripoli,154,1
 Jabari Woodbury,SR,,#2,GMG,393,6
 Kinnick Henning,SO,RB/LB,#22,St. Edmond,166,1
+Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,23,0
 Adam Swaney,SO,RB/LB,#44,Bedford,104,1
 Ethan Bauer,SO,RB/DB,#4,Coon Rapids-Bayard,133,1
 Drew Stanek,JR,RB/LB,#16,Gladbrook-Reinbeck,86,0
 Braxston Bucknell,FR,OL/DL,#99,Tripoli,97,0
 Braxton Bormann,SO,RB/LB,#21,Central Elkader,44,1
-Jed Bielenberg,SR,DE/WR,#15,Siouxland Christian,114,2
 Trent Robertson,SR,WR/LB,#5,North Iowa,130,1
 Jesse Myhr,JR,FB/DE,#8,Moravia,228,2
 Wyatt Throckmorton,SR,WR/LB,#23,Moravia,188,4
@@ -214,7 +215,6 @@ Treyton Franzen,FR,FB/LB,#21,Turkey Valley,110,3
 Owen Bral,JR,QB/LB,#3,Iowa Valley,176,4
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,123,3
 Peter Kielman,JR,TE/LB,#21,Clarksville,86,1
-Bram Bielenberg,FR,RB/LB,#35,Siouxland Christian,10,0
 John McLaughlin,SR,WR/CB,#6,WACO,108,6
 Brenden Wheeler,JR,RB/LB,#17,Southeast Warren,95,2
 Bryer Jack,FR,QB/DB,#14,HLV,-70,0
@@ -324,6 +324,7 @@ Landon Gibbs,FR,RB/CB,#24,East Mills,60,1
 Tristen Burkhart,FR,RB/LB,#24,Boyer Valley,82,2
 Preston Kulper,SO,WR/DB,#2,Central Elkader,5,0
 Cristian Brown,SR,WR/DB,#47,Dunkerton,24,0
+Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,4,0
 Leo Schrader,FR,QB/DB,#23,Melcher-Dallas,-22,0
 Jacksyn Hogrefe,SO,RB/DB,#26,Newell-Fonda,10,0
 Kenny Ness,SO,LB/WR,#6,GTRA,84,0
@@ -372,7 +373,6 @@ Keaton Brammer,FR,WR/CB,#14,Murray,11,2
 Ethan Baxter,JR,RB/LB,#52,Griswold,64,1
 Wyatt Silk,SO,WR/CB,#15,Griswold,20,0
 Brody Koski,FR,QB/LB,#7,Boyer Valley,78,0
-Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,9,0
 Anthony Eisele,SR,OL/DL,#55,North Iowa,-7,0
 Colton Cox,FR,RB/DB,#33,Melcher-Dallas,1,0
 Declan DeJong,SO,TE/DE,#41,Moravia,36,1
@@ -488,6 +488,7 @@ Austin Gehring,SR,WR/DB,#4,Gladbrook-Reinbeck,-1,1
 Dreyson Morgan,SO,WR/DB,#10,Gladbrook-Reinbeck,8,1
 Otto French,FR,FB/LB,#16,Dunkerton,31,0
 Aidan Hesse,SO,OL/DL,#50,Dunkerton,-10,0
+Raymond Nelson,JR,LB/RB,#81,Siouxland Christian,29,0
 Waylon Hein,JR,TE/LB,#23,Glidden-Ralston,-3,0
 Carson Peters,SO,TE/S,#16,Glidden-Ralston,4,0
 Hayden Fay,FR,QB/DB,#4,Glidden-Ralston,-6,0
