@@ -1,9 +1,9 @@
 Name,Points,YP,Number,School,YDS,TDS,INT
 Beau Burns,233.64,SO  QB/DB,#2,BGM,2516,35,7
 Perrin Sulzle,205.16,JR  QB/LB,#7,Baxter,2154,31,5
+Keagan Lee,195.88,SO  QB/DB,#17,Easton Valley,2072,32,15
+Brodyn Pryor,184.64,SO  QB/DB,#8,Woodbine,1941,30,13
 Brady Boulton,187.04,SO  QB/DB,#1,Montezuma,1676,31,4
-Keagan Lee,161.2,SO  QB/DB,#17,Easton Valley,1705,27,15
-Brodyn Pryor,176.4,SO  QB/DB,#8,Woodbine,1810,29,12
 Kasey Hough,122.88,JR  QB/S,#11,GTRA,1447,18,7
 Slate Witte,124.88,SR  #7 GMG,,,1497,18,7
 Dalton Mudderman,177.6,JR  QB/LB,#5,Kee,1815,29,11
@@ -17,6 +17,7 @@ Bode Wyman,81.76,JR  QB/CB,#8,Griswold,1244,11,12
 Kambridge Wainscott,89.6,SR  QB/DB,#15,Waterloo Christian,965,15,9
 Dylan Marquart,120.4,JR  QB/DB,#3,Dunkerton,1085,20,3
 Chase Spieker,131.44,JR  QB/DB,#5,CAM,1186,22,4
+Jack Adams,84.52,JR  QB,#7,Riceville,938,13,5
 Judah Bielenberg,57.28,JR  QB/LB,#10,Siouxland Christian,1057,7,13
 Kooper Julseth,56.64,JR  WR/LB,#1,Northwood-Kensett,691,9,7
 Grant Whitehead,105.84,JR  QB/DB,#15,Sidney,1146,16,4
@@ -27,17 +28,16 @@ Wyatt Oswald,62.24,JR  QB/LB,#10,Coon Rapids-Bayard,756,10,8
 Gavin Menke-Bailey,78.4,JR  QB/LB,#5,New London,935,12,7
 Isaac Clark,114.6,SR  QB/LB,#12,Gladbrook-Reinbeck,1090,18,1
 Jake Edwards,129.0,JR  QB/S,#3,Winfield-Mt Union,1175,21,2
-Jack Adams,63.88,JR  QB,#7,Riceville,697,10,4
 Jamison Ewing,48.56,SO  WR/CB,#8,Southeast Warren,539,8,5
 Nolan Kriegel,85.08,FR  QB/DB,#2,Iowa Valley,952,13,5
 Caleb Urban,45.28,JR  WR/CB,#3,East Mills,557,8,9
 Clayton Miller,92.72,JR  QB/CB,#4,WACO,743,16,1
+Sawyer Forney,47.72,SO  #2 Fremont-Mills,,,643,7,6
 Landon Waldschmitt,63.76,JR  QB/DB,#7,Remsen St. Mary's,669,10,3
 Degin Dixson,46.84,SR  QB/CB,#3,Mormon Trail,646,7,7
 Brogyn Greensky,93.4,SR  QB/LB,#4,North Iowa,935,15,4
 Christian Pierce,-0.88,SO  QB/S,#4,Rockford,328,0,14
 Aaron Olsen,31.28,JR  QB/S,#3,Audubon,482,4,4
-Sawyer Forney,45.6,SO  #2 Fremont-Mills,,,590,7,6
 Dallas Smith,40.84,JR  QB/DB,#2,Twin Cedars,646,6,9
 Drew Urbanek,38.72,FR  QB/CB,#10,Tripoli,418,7,6
 Kale Doeppke,29.04,SR  WR/DB,#5,Central Elkader,451,4,5
@@ -103,6 +103,7 @@ MaKade Bloker,21.8,SR  RB/LB,#11,Clarksville,170,4,1
 Kale Moore,6.36,FR  QB/DB,#14,Moravia,59,1,0
 Landon Lindgren,1.24,SO  RB/DB,#11,Lamoni,31,0,0
 Michael Hensley,6.2,JR  RB/LB,#6,Sidney,80,1,1
+Lucas Madison,5.84,SR  #5 Fremont-Mills,,,46,1,0
 Jacob Martin,0.92,JR  RB/LB,#3,Stanton/Essex,48,0,1
 Josef Dvorak,2.08,JR  RB/DB,#25,Collins-Maxwell,52,0,0
 Triton Gwinn,5.04,SR  RB/LB,#22,Mormon Trail,51,1,1
@@ -117,7 +118,6 @@ Brock Binkley,3.16,FR  QB/DB,#8,Lamoni,4,1,1
 Tyler Hansen,0.28,FR  QB/DB,#3,West Bend-Mallard,7,0,0
 Josten Kilworth,0.24,SO  TE/DL,#6,Exira-EHK,6,0,0
 Trey Cota,-1.28,FR  QB/LB,#10,Kee,18,0,2
-Lucas Madison,5.56,SR  #5 Fremont-Mills,,,39,1,0
 Logan French,-0.52,SR  WR/DB,#1,Stanton/Essex,12,0,1
 Talan Jacobsen,0.44,FR  QB/LB,#10,North Iowa,11,0,0
 Leo Schrader,0.28,FR  QB/DB,#23,Melcher-Dallas,7,0,0
