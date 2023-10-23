@@ -64,12 +64,14 @@ James Buhlman,18.0,FR,RB/LB,#27,Easton Valley,120.0,1.0
 Dawson Smith,26.0,SR,RB/LB,#20,Iowa Valley,80.0,3.0
 Edde Gonzalez,4.2,SR,RB/LB,#1,West Central,42.0,0.0
 Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0
+Lucas Ahrenstorff,5.5,SR,QB/S,#1,Harris-Lake Park,55.0,0.0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
 Brett Plants,3.5,JR,RB/LB,#22,Montezuma,35.0,0.0
 Silas Walston,7.9,SR,RB/DE,#33,Bedford,79.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison/Whiting,0.0,0.0
 Aiden Klostermann,42.5,SR,RB/S,#10,Central City,245.0,3.0
 Trenton Struss,0.0,SR,RB/S,#21,Newell-Fonda,0.0,0.0
+Caleb Hemphill,2.0,SR,RB/LB,#3,Harris-Lake Park,20.0,0.0
 Luke Rohling,0.0,SR,FB/LB,#16,Calamus-Wheatland,0.0,0.0
 Mark Bower,0.0,JR,RB/DB,#25,Colo-Nesco,0.0,0.0
 Jordan Martin-England,22.2,JR,RB/LB,#18,Lenox,102.0,2.0
@@ -77,8 +79,6 @@ Jacob Martin,0.0,JR,RB/LB,#3,Stanton/Essex,0.0,0.0
 Cam Buffington,37.2,SR,QB/LB,#33,Winfield-Mt Union,192.0,3.0
 Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0
 Dalton Kitzman,3.8,SR,RB/LB,#4,Lenox,38.0,0.0
-Lucas Ahrenstorff,0.0,SR,QB/S,#1,Harris-Lake Park,0.0,0.0
-Caleb Hemphill,0.0,SR,RB/LB,#3,Harris-Lake Park,0.0,0.0
 Burke Busta,1.7,SR,FB,#9,Turkey Valley,17.0,0.0
 Tate Foertsch,11.3,SO,QB/DB,#7,Bishop Garrigan,53.0,1.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0
@@ -260,6 +260,7 @@ Lincoln Albertson,0.0,SO,RB/LB,#32,Moravia,0.0,0.0
 Jackson Bellcock,0.0,FR,FB/LB,#20,Newell-Fonda,0.0,0.0
 Gannon Short,3.1,JR,RB/DB,#11,Colo-Nesco,31.0,0.0
 Karter Thiessen,0.0,SR,RB/DB,#9,Iowa Valley,0.0,0.0
+Devin Meyer,0.4,SR,TE/LB,#15,Harris-Lake Park,4.0,0.0
 Justin Weispfenning,0.0,JR,RB/DB,#3,Easton Valley,0.0,0.0
 Wyatt Christiansen,0.0,SO,RB/LB,#10,Midland,0.0,0.0
 Andrew Kolsrud,0.0,SR,WR/CB,#16,Kee,0.0,0.0
@@ -277,7 +278,6 @@ Makade Paulsen,0.7,JR,QB/DB,#3,CAM,7.0,0.0
 Kayden Winther,2.0,FR,RB/LB,#13,CAM,20.0,0.0
 Tayler Kibbee,0.0,SO,RB/LB,#11,Janesville,0.0,0.0
 Travis Noel,0.0,FR,DE/RB,#32,Lamoni,0.0,0.0
-Devin Meyer,0.0,SR,TE/LB,#15,Harris-Lake Park,0.0,0.0
 LaDarius Albright,0.0,JR,TE/LB,#9,Sidney,0.0,0.0
 Josten Kilworth,0.0,SO,TE/DL,#6,Exira-EHK,0.0,0.0
 Kaden Schmidt,0.0,FR,RB/LB,#18,Turkey Valley,0.0,0.0
@@ -471,6 +471,7 @@ Brody Ludwig,0.0,SR,RB/CB,#22,Bishop Garrigan,0.0,0.0
 Matt Besch,0.0,FR,OG/LB,#44,Bishop Garrigan,0.0,0.0
 Kelan Stevenson,0.0,SO,TE/LB,#62,Lamoni,0.0,0.0
 Mason Ahrenstorff,0.0,SO,WR/S,#11,Harris-Lake Park,0.0,0.0
+Landon Wittrock,11.6,JR,SL/LB,#9,Harris-Lake Park,56.0,1.0
 Gabe Miller,0.0,FR,K/QB,#8,Waterloo Christian,0.0,0.0
 Morgan Cooley,0.0,SO,OL/DL,#42,East Union,0.0,0.0
 Noah Connelly,0.0,SO,WR/DB,#22,Kee,0.0,0.0
@@ -498,7 +499,6 @@ Carter Michalek,0.0,JR,WR/DB,#2,Montezuma,0.0,0.0
 Landon Morrison,0.0,SR,TE/DL,#4,Montezuma,0.0,0.0
 Garrett Watts,0.0,SR,WR/DB,#7,Montezuma,0.0,0.0
 Hunter Westby,0.0,JR,OG/LB,#55,Rockford,0.0,0.0
-Landen Nelson,0.0,FR,WR/DB,#36,Northwood-Kensett,0.0,0.0
 Landen Nelson,0.0,FR,WR/DB,#36,Northwood-Kensett,0.0,0.0
 Matthew McDanel,0.0,SR,OG/DE,#44,Moravia,0.0,0.0
 Cameron Nicoletto,0.0,SR,C/DT,#47,Moravia,0.0,0.0
