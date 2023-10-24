@@ -277,6 +277,7 @@ Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0,0.0
 Aidan Yoch,2.0,SR,TE/DB,#14,West Bend-Mallard,1.0,10.0,0.0
 Quintin White,0.0,SR,WR/DB,#3,Exira-EHK,0.0,0.0,0.0
 Eric Wilson,0.0,SR,WR/DB,#15,Exira-EHK,0.0,0.0,0.0
+Drake Axmear,1.7,JR,WR/CB,#4,English Valleys,1.0,7.0,0.0
 Holden Jensen,0.0,JR,WR/CB,#33,Griswold,0.0,0.0,0.0
 Derek Bartlett,0.0,SR,LB/RB,#4,Stanton/Essex,0.0,0.0,0.0
 Johnny Resh,0.0,SR,TE/DL,#20,Stanton/Essex,0.0,0.0,0.0
@@ -307,7 +308,6 @@ Chris Hanson,0.0,FR,FB/LB,#32,Central City,0.0,0.0,0.0
 Matthew Klostermann,2.3,JR,RB/LB,#22,Central City,1.0,13.0,0.0
 Sawyer House,0.0,SR,WR/CB,#4,Midland,0.0,0.0,0.0
 Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0,0.0
-Drake Axmear,0.0,JR,WR/CB,#4,English Valleys,0.0,0.0,0.0
 Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0,0.0
 Dawson Evans,10.5,SO,QB/DB,#1,Lenox,1.0,35.0,1.0
 Wyatt Silk,0.0,SO,WR/CB,#15,Griswold,0.0,0.0,0.0
@@ -336,6 +336,7 @@ Carter Fehr,0.0,SR,TE/DL,#13,West Bend-Mallard,0.0,0.0,0.0
 Austin Schmidt,0.0,JR,QB/DB,#2,West Bend-Mallard,0.0,0.0,0.0
 Karsen Strong,0.0,JR,OL/DL,#77,Kee,0.0,0.0,0.0
 Nathaniel Rowe,0.0,JR,WR/CB,#11,Murray,0.0,0.0,0.0
+Deshon Anderson,10.4,SO,RB/LB,#32,English Valleys,1.0,34.0,1.0
 Chase England,0.0,JR,TE/DL,#33,Lenox,0.0,0.0,0.0
 Sawyer Forney,1.7,SO,,#2,Fremont-Mills,1.0,7.0,0.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0,0.0
@@ -390,7 +391,8 @@ Wyatt Patton,0.0,FR,OG/LB,#40,Murray,0.0,0.0,0.0
 Seth McMurry,0.0,SO,TE/LB,#12,Murray,0.0,0.0,0.0
 Carter Smith,0.0,JR,C/DT,#70,Baxter,0.0,0.0,0.0
 Perrin Sulzle,0.0,JR,QB/LB,#7,Baxter,0.0,0.0,0.0
-Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0,0.0
+Ben Flander,9.3,SO,TE/DE,#21,English Valleys,1.0,23.0,1.0
+Luke Moore,10.7,SR,OG/DE,#50,English Valleys,1.0,37.0,1.0
 Eli Ortega,0.0,SR,OG/DT,#76,Lenox,0.0,0.0,0.0
 Jace Smith,0.0,SR,OL/DL,#72,Lenox,0.0,0.0,0.0
 Keegan Smith,0.0,SR,RB/LB,#3,Lenox,0.0,0.0,0.0

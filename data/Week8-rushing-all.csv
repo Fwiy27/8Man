@@ -5,6 +5,7 @@ Judah Bielenberg,JR,QB/LB,#10,Siouxland Christian,705,10
 Aaron Olsen,JR,QB/S,#3,Audubon,1133,15
 Dane Appleby,JR,QB/LB,#4,Janesville,1153,12
 Ambrose Savage,JR,RB/LB,#12,Lamoni,1158,21
+Myles Grove,SR,QB/LB,#10,English Valleys,865,11
 Landon Montag,SR,RB/LB,#24,West Bend-Mallard,1346,26
 Andrew Beran,JR,RB,#2,Riceville,846,16
 Nolan Kriegel,FR,QB/DB,#2,Iowa Valley,1207,20
@@ -12,7 +13,6 @@ Jameson Kilworth,SR,QB/DB,#8,Exira-EHK,892,13
 Braxton Blackburn,SR,,#10,Fremont-Mills,1155,23
 Gavin Menke-Bailey,JR,QB/LB,#5,New London,547,6
 Adam Scott,SR,RB/LB,#26,West Central,857,10
-Myles Grove,SR,QB/LB,#10,English Valleys,788,10
 MaKade Bloker,SR,RB/LB,#11,Clarksville,1570,27
 Ty Alcott,JR,RB/DB,#24,Belle Plaine,756,9
 Nolan Gannon,FR,RB/LB,#34,Murray,931,12
@@ -60,12 +60,12 @@ Fischer Buffington,JR,RB/DE,#12,East Union,464,4
 Owen Backer,SO,RB/S,#22,Clarksville,1206,21
 Landon Lindgren,SO,RB/DB,#11,Lamoni,511,7
 Gabe Funk,JR,QB/DB,#17,Lenox,923,21
+Ben Coffman,JR,RB/LB,#9,English Valleys,639,6
 James Buhlman,FR,RB/LB,#27,Easton Valley,419,4
 Dawson Smith,SR,RB/LB,#20,Iowa Valley,691,16
 Edde Gonzalez,SR,RB/LB,#1,West Central,425,6
 Wyatt Ragaller,SO,RB/DB,#8,Ar-We-Va,607,9
 Lucas Ahrenstorff,SR,QB/S,#1,Harris-Lake Park,587,7
-Ben Coffman,JR,RB/LB,#9,English Valleys,599,6
 Brett Plants,JR,RB/LB,#22,Montezuma,618,9
 Silas Walston,SR,RB/DE,#33,Bedford,693,15
 Mason McIntosh,SR,QB/LB,#16,West Harrison/Whiting,355,3
@@ -96,6 +96,7 @@ Parker Hays,JR,RB/DB,#9,Coon Rapids-Bayard,207,1
 Eli Schmidt,SR,RB/S,#3,Clarksville,416,9
 Kambridge Wainscott,SR,QB/DB,#15,Waterloo Christian,144,3
 Caden Page,JR,QB/LB,#8,Murray,240,8
+Deshon Anderson,SO,RB/LB,#32,English Valleys,467,7
 Lucas Madison,SR,,#5,Fremont-Mills,336,5
 Owen Johnson,FR,RB/DE,#26,Griswold,334,3
 Jacob Berens,SR,RB/LB,#34,Boyer Valley,343,4
@@ -149,7 +150,6 @@ Klay Baker,JR,RB/LB,#17,St. Edmond,263,6
 Matthew Klostermann,JR,RB/LB,#22,Central City,634,10
 Cainan Travis,JR,WR/LB,#20,Baxter,265,3
 Landon Gjerde,SO,RB/LB,#1,Colo-Nesco,305,6
-Deshon Anderson,SO,RB/LB,#32,English Valleys,250,4
 Levi Reineke,SO,LB/RB,#29,Boyer Valley,214,1
 Grant Whitehead,JR,QB/DB,#15,Sidney,200,2
 Aidan Timm,SO,QB/DB,#9,Belle Plaine,164,3

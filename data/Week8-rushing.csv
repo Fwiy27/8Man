@@ -5,6 +5,7 @@ Judah Bielenberg,33.5,JR,QB/LB,#10,Siouxland Christian,215.0,2.0
 Aaron Olsen,7.7,JR,QB/S,#3,Audubon,77.0,0.0
 Dane Appleby,6.4,JR,QB/LB,#4,Janesville,64.0,0.0
 Ambrose Savage,0.0,JR,RB/LB,#12,Lamoni,0.0,0.0
+Myles Grove,13.7,SR,QB/LB,#10,English Valleys,77.0,1.0
 Landon Montag,51.4,SR,RB/LB,#24,West Bend-Mallard,214.0,5.0
 Andrew Beran,1.0,JR,RB,#2,Riceville,10.0,0.0
 Nolan Kriegel,62.3,FR,QB/DB,#2,Iowa Valley,323.0,5.0
@@ -12,7 +13,6 @@ Jameson Kilworth,11.0,SR,QB/DB,#8,Exira-EHK,50.0,1.0
 Braxton Blackburn,23.2,SR,,#10,Fremont-Mills,112.0,2.0
 Gavin Menke-Bailey,0.0,JR,QB/LB,#5,New London,0.0,0.0
 Adam Scott,32.5,SR,RB/LB,#26,West Central,145.0,3.0
-Myles Grove,0.0,SR,QB/LB,#10,English Valleys,0.0,0.0
 MaKade Bloker,32.1,SR,RB/LB,#11,Clarksville,201.0,2.0
 Ty Alcott,0.0,JR,RB/DB,#24,Belle Plaine,0.0,0.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0
@@ -60,12 +60,12 @@ Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
 Owen Backer,39.8,SO,RB/S,#22,Clarksville,158.0,4.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0
 Gabe Funk,3.9,JR,QB/DB,#17,Lenox,39.0,0.0
+Ben Coffman,4.0,JR,RB/LB,#9,English Valleys,40.0,0.0
 James Buhlman,18.0,FR,RB/LB,#27,Easton Valley,120.0,1.0
 Dawson Smith,26.0,SR,RB/LB,#20,Iowa Valley,80.0,3.0
 Edde Gonzalez,4.2,SR,RB/LB,#1,West Central,42.0,0.0
 Wyatt Ragaller,0.0,SO,RB/DB,#8,Ar-We-Va,0.0,0.0
 Lucas Ahrenstorff,5.5,SR,QB/S,#1,Harris-Lake Park,55.0,0.0
-Ben Coffman,0.0,JR,RB/LB,#9,English Valleys,0.0,0.0
 Brett Plants,3.5,JR,RB/LB,#22,Montezuma,35.0,0.0
 Silas Walston,7.9,SR,RB/DE,#33,Bedford,79.0,0.0
 Mason McIntosh,0.0,SR,QB/LB,#16,West Harrison/Whiting,0.0,0.0
@@ -96,6 +96,7 @@ Parker Hays,0.0,JR,RB/DB,#9,Coon Rapids-Bayard,0.0,0.0
 Eli Schmidt,10.3,SR,RB/S,#3,Clarksville,43.0,1.0
 Kambridge Wainscott,0.0,SR,QB/DB,#15,Waterloo Christian,0.0,0.0
 Caden Page,0.0,JR,QB/LB,#8,Murray,0.0,0.0
+Deshon Anderson,39.7,SO,RB/LB,#32,English Valleys,217.0,3.0
 Lucas Madison,4.3,SR,,#5,Fremont-Mills,43.0,0.0
 Owen Johnson,0.0,FR,RB/DE,#26,Griswold,0.0,0.0
 Jacob Berens,2.0,SR,RB/LB,#34,Boyer Valley,20.0,0.0
@@ -149,7 +150,6 @@ Klay Baker,0.0,JR,RB/LB,#17,St. Edmond,0.0,0.0
 Matthew Klostermann,14.8,JR,RB/LB,#22,Central City,88.0,1.0
 Cainan Travis,0.5,JR,WR/LB,#20,Baxter,5.0,0.0
 Landon Gjerde,8.1,SO,RB/LB,#1,Colo-Nesco,21.0,1.0
-Deshon Anderson,0.0,SO,RB/LB,#32,English Valleys,0.0,0.0
 Levi Reineke,1.8,SO,LB/RB,#29,Boyer Valley,18.0,0.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
 Aidan Timm,0.0,SO,QB/DB,#9,Belle Plaine,0.0,0.0
