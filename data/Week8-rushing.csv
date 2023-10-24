@@ -60,6 +60,7 @@ Fischer Buffington,0.0,JR,RB/DE,#12,East Union,0.0,0.0
 Owen Backer,39.8,SO,RB/S,#22,Clarksville,158.0,4.0
 Landon Lindgren,0.0,SO,RB/DB,#11,Lamoni,0.0,0.0
 Gabe Funk,3.9,JR,QB/DB,#17,Lenox,39.0,0.0
+Lane Vokoun,4.5,JR,RB/DB,#35,Belle Plaine,45.0,0.0
 Ben Coffman,4.0,JR,RB/LB,#9,English Valleys,40.0,0.0
 James Buhlman,18.0,FR,RB/LB,#27,Easton Valley,120.0,1.0
 Dawson Smith,26.0,SR,RB/LB,#20,Iowa Valley,80.0,3.0
@@ -81,7 +82,6 @@ Sam Myer,0.0,JR,LB/RB,#33,St. Edmond,0.0,0.0
 Dalton Kitzman,3.8,SR,RB/LB,#4,Lenox,38.0,0.0
 Burke Busta,1.7,SR,FB,#9,Turkey Valley,17.0,0.0
 Tate Foertsch,11.3,SO,QB/DB,#7,Bishop Garrigan,53.0,1.0
-Lane Vokoun,0.0,JR,RB/DB,#35,Belle Plaine,0.0,0.0
 Carson Frerichs,0.0,SR,RB/LB,#28,North Iowa,0.0,0.0
 Jackson McDanel,8.3,SR,RB/LB,#30,Moravia,83.0,0.0
 Ty Christensen,19.2,SO,,#5,Don Bosco,72.0,2.0
@@ -114,6 +114,7 @@ Talan Driscoll,0.0,FR,RB/LB,#8,Easton Valley,0.0,0.0
 Nolan Birdsall,0.0,JR,RB/LB,#2,West Harrison/Whiting,0.0,0.0
 Jeremiah Marquette,0.0,SR,RB/LB,#25,Waterloo Christian,0.0,0.0
 Degin Dixson,0.0,SR,QB/CB,#3,Mormon Trail,0.0,0.0
+Aidan Timm,1.0,SO,QB/DB,#9,Belle Plaine,10.0,0.0
 Jackson Schulte,0.1,SR,RB/LB,#21,Kee,1.0,0.0
 Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0
 Wade Sankot,0.0,SO,RB/LB,#3,Belle Plaine,0.0,0.0
@@ -152,7 +153,6 @@ Cainan Travis,0.5,JR,WR/LB,#20,Baxter,5.0,0.0
 Landon Gjerde,8.1,SO,RB/LB,#1,Colo-Nesco,21.0,1.0
 Levi Reineke,1.8,SO,LB/RB,#29,Boyer Valley,18.0,0.0
 Grant Whitehead,0.0,JR,QB/DB,#15,Sidney,0.0,0.0
-Aidan Timm,0.0,SO,QB/DB,#9,Belle Plaine,0.0,0.0
 Alex Hansen,1.9,JR,RB/LB,#22,Exira-EHK,19.0,0.0
 Austin Vaverka,0.0,SR,RB/LB,#5,Gladbrook-Reinbeck,0.0,0.0
 Dallas Smith,0.0,JR,QB/DB,#2,Twin Cedars,0.0,0.0
@@ -247,14 +247,14 @@ Trayton Cink,0.4,JR,RB/LB,#26,Bishop Garrigan,4.0,0.0
 Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0
 Keegan Chew,0.0,FR,QB/S,#7,Murray,0.0,0.0
 Gio Cruz,0.0,SR,RB/DB,#5,Lenox,0.0,0.0
+Jeremy Reineke,0.4,SR,OL/LB,#45,Belle Plaine,4.0,0.0
+Adyson Stark,0.2,JR,RB/DB,#6,Belle Plaine,2.0,0.0
 Kace Patton,0.0,SR,WR/CB,#10,Murray,0.0,0.0
 Lawson Kling,1.2,SR,,#7,Fremont-Mills,12.0,0.0
 Isaac Messamaker,6.2,JR,FB/LB,#25,Moravia,2.0,1.0
 Eli Miller,-0.1,SR,RB/LB,#7,Winfield-Mt Union,-1.0,0.0
 Elliott Ward,0.0,SR,RB/LB,#1,Sidney,0.0,0.0
 Wyatt Kelley,0.0,FR,RB/LB,#19,East Union,0.0,0.0
-Jeremy Reineke,0.0,SR,OL/LB,#45,Belle Plaine,0.0,0.0
-Adyson Stark,0.0,JR,RB/DB,#6,Belle Plaine,0.0,0.0
 Jader Sanchez,0.4,SR,RB/DB,#4,Lone Tree,4.0,0.0
 Lincoln Albertson,0.0,SO,RB/LB,#32,Moravia,0.0,0.0
 Jackson Bellcock,0.0,FR,FB/LB,#20,Newell-Fonda,0.0,0.0
@@ -370,6 +370,7 @@ Chance Christensen,0.0,SO,RB,#15,Riceville,0.0,0.0
 Nathan Findlay,0.0,SO,RB/LB,#10,BGM,0.0,0.0
 Michael Joyce,0.4,FR,QB/S,#9,Bishop Garrigan,4.0,0.0
 Kaleb Gill,0.0,SR,,#1,GMG,0.0,0.0
+Sam DeMeulenaere,-0.1,JR,E/LB,#12,Belle Plaine,-1.0,0.0
 Keaton Brammer,0.0,FR,WR/CB,#14,Murray,0.0,0.0
 Ethan Baxter,0.0,JR,RB/LB,#52,Griswold,0.0,0.0
 Wyatt Silk,0.0,SO,WR/CB,#15,Griswold,0.0,0.0
@@ -385,7 +386,6 @@ Connor Rahn,0.0,JR,,#12,GMG,0.0,0.0
 Jonas Buchanan,0.0,SO,,#32,GMG,0.0,0.0
 Max Arthur,0.0,JR,FB/LB,#31,Central City,0.0,0.0
 Josh Lindsey,0.0,SO,WR/S,#36,Central City,0.0,0.0
-Sam DeMeulenaere,0.0,JR,E/LB,#12,Belle Plaine,0.0,0.0
 Eli Hanson,0.0,JR,RB/DB,#8,West Bend-Mallard,0.0,0.0
 Corey Breese,0.0,SR,TE/LB,#5,English Valleys,0.0,0.0
 Blake Micetich,0.0,SR,RB/DB,#3,Twin Cedars,0.0,0.0

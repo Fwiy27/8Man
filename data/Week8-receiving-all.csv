@@ -96,6 +96,7 @@ Leo Ehn,SR,TE/LB,#80,St. Edmond,16,379,3
 Braedon Godfread,JR,TE/S,#10,Sidney,16,283,4
 Austin Lack,SR,WR/DB,#3,East Union,15,187,2
 Aiden Klostermann,SR,RB/S,#10,Central City,15,285,5
+Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,15,287,3
 Mitch Stevens,SR,TE/LB,#37,West Bend-Mallard,15,500,6
 Justin Bauer,SR,WR/CB,#12,Bishop Garrigan,15,277,3
 Logan Franklin,SO,WR/DB,#7,New London,15,235,3
@@ -138,7 +139,6 @@ Carter Loyd,SR,RB/S,#2,Winfield-Mt Union,12,260,5
 Sam Plathe,SR,WR/CB,#24,Bishop Garrigan,12,285,6
 Gavin DeFord,JR,RB/LB,#44,Waterloo Christian,12,194,4
 Kael Cress,JR,WR/S,#7,Midland,11,219,4
-Sam DeMeulenaere,JR,E/LB,#12,Belle Plaine,11,236,3
 Keyden Lown,JR,TE/DE,#84,English Valleys,11,139,5
 Auden Wilson,JR,WR/CB,#10,Griswold,11,209,1
 Simon Showalter,JR,RB/LB,#6,Stanton/Essex,11,110,0
@@ -201,6 +201,7 @@ Gabe Meaney,JR,TE/DE,#16,Janesville,8,145,1
 Christopher Lange,SO,WR,#10,Edgewood-Colesburg,8,127,0
 Cole Bethune,JR,WR/S,#4,West Harrison/Whiting,8,118,0
 Carter Sholtus,SR,WR/CB,#2,HLV,7,128,4
+Riley Simmons,SR,E/DE,#85,Belle Plaine,7,135,6
 Cannon Hansen,JR,TE/DL,#33,Exira-EHK,7,146,1
 Tanner Troendle,FR,RB/DB,#23,Kee,7,93,1
 Ayden Lamb,FR,TE/LB,#18,Murray,7,97,1
@@ -224,7 +225,6 @@ Creyton Ogier,SR,TE/DE,#5,Lamoni,7,122,1
 Jordan Boehde,FR,RB/DB,#13,Easton Valley,7,59,1
 Aiden Stenzel,SO,RB/DB,#20,Sidney,7,85,1
 Eli Weimer,JR,WR/DB,#18,Waterloo Christian,7,98,4
-Riley Simmons,SR,E/DE,#85,Belle Plaine,6,120,5
 Andrew Kolsrud,SR,WR/CB,#16,Kee,6,53,1
 Nolan Gannon,FR,RB/LB,#34,Murray,6,97,2
 Judson Beary,JR,RB/LB,#6,Twin Cedars,6,173,2
@@ -380,6 +380,7 @@ Christopher Greif,SR,LB/FB,#44,Central City,1,21,1
 Jayden Hanson,SR,QB/DB,#7,Central City,1,52,1
 Devon Weisskopf,JR,RB/LB,#32,HLV,1,4,0
 Jayden Smith,JR,OG/DE,#25,HLV,1,0,0
+Jax Stamp,SR,OL/DE,#53,Belle Plaine,1,30,0
 Wesley Anderson,JR,RB/LB,#21,West Bend-Mallard,1,30,1
 Cortlyn Schupbach,SR,OL/DL,#60,West Bend-Mallard,1,20,1
 Cesar Falcon,FR,RB/LB,#36,West Bend-Mallard,1,2,0

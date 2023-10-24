@@ -96,6 +96,7 @@ Leo Ehn,0.0,SR,TE/LB,#80,St. Edmond,0.0,0.0,0.0
 Braedon Godfread,0.0,JR,TE/S,#10,Sidney,0.0,0.0,0.0
 Austin Lack,0.0,SR,WR/DB,#3,East Union,0.0,0.0,0.0
 Aiden Klostermann,3.7,SR,RB/S,#10,Central City,1.0,27.0,0.0
+Sam DeMeulenaere,9.1,JR,E/LB,#12,Belle Plaine,4.0,51.0,0.0
 Mitch Stevens,37.9,SR,TE/LB,#37,West Bend-Mallard,4.0,159.0,3.0
 Justin Bauer,12.4,SR,WR/CB,#12,Bishop Garrigan,2.0,44.0,1.0
 Logan Franklin,0.0,SO,WR/DB,#7,New London,0.0,0.0,0.0
@@ -138,7 +139,6 @@ Carter Loyd,10.4,SR,RB/S,#2,Winfield-Mt Union,1.0,34.0,1.0
 Sam Plathe,0.0,SR,WR/CB,#24,Bishop Garrigan,0.0,0.0,0.0
 Gavin DeFord,0.0,JR,RB/LB,#44,Waterloo Christian,0.0,0.0,0.0
 Kael Cress,0.0,JR,WR/S,#7,Midland,0.0,0.0,0.0
-Sam DeMeulenaere,0.0,JR,E/LB,#12,Belle Plaine,0.0,0.0,0.0
 Keyden Lown,0.0,JR,TE/DE,#84,English Valleys,0.0,0.0,0.0
 Auden Wilson,24.4,JR,WR/CB,#10,Griswold,5.0,134.0,1.0
 Simon Showalter,0.0,JR,RB/LB,#6,Stanton/Essex,0.0,0.0,0.0
@@ -201,6 +201,7 @@ Gabe Meaney,2.0,JR,TE/DE,#16,Janesville,1.0,10.0,0.0
 Christopher Lange,0.0,SO,WR,#10,Edgewood-Colesburg,0.0,0.0,0.0
 Cole Bethune,0.0,JR,WR/S,#4,West Harrison/Whiting,0.0,0.0,0.0
 Carter Sholtus,0.0,SR,WR/CB,#2,HLV,0.0,0.0,0.0
+Riley Simmons,8.5,SR,E/DE,#85,Belle Plaine,1.0,15.0,1.0
 Cannon Hansen,6.7,JR,TE/DL,#33,Exira-EHK,2.0,47.0,0.0
 Tanner Troendle,1.7,FR,RB/DB,#23,Kee,1.0,7.0,0.0
 Ayden Lamb,0.0,FR,TE/LB,#18,Murray,0.0,0.0,0.0
@@ -224,7 +225,6 @@ Creyton Ogier,0.0,SR,TE/DE,#5,Lamoni,0.0,0.0,0.0
 Jordan Boehde,0.0,FR,RB/DB,#13,Easton Valley,0.0,0.0,0.0
 Aiden Stenzel,0.0,SO,RB/DB,#20,Sidney,0.0,0.0,0.0
 Eli Weimer,0.0,JR,WR/DB,#18,Waterloo Christian,0.0,0.0,0.0
-Riley Simmons,0.0,SR,E/DE,#85,Belle Plaine,0.0,0.0,0.0
 Andrew Kolsrud,0.0,SR,WR/CB,#16,Kee,0.0,0.0,0.0
 Nolan Gannon,0.0,FR,RB/LB,#34,Murray,0.0,0.0,0.0
 Judson Beary,0.0,JR,RB/LB,#6,Twin Cedars,0.0,0.0,0.0
@@ -380,6 +380,7 @@ Christopher Greif,0.0,SR,LB/FB,#44,Central City,0.0,0.0,0.0
 Jayden Hanson,0.0,SR,QB/DB,#7,Central City,0.0,0.0,0.0
 Devon Weisskopf,0.0,JR,RB/LB,#32,HLV,0.0,0.0,0.0
 Jayden Smith,0.0,JR,OG/DE,#25,HLV,0.0,0.0,0.0
+Jax Stamp,4.0,SR,OL/DE,#53,Belle Plaine,1.0,30.0,0.0
 Wesley Anderson,0.0,JR,RB/LB,#21,West Bend-Mallard,0.0,0.0,0.0
 Cortlyn Schupbach,0.0,SR,OL/DL,#60,West Bend-Mallard,0.0,0.0,0.0
 Cesar Falcon,0.0,FR,RB/LB,#36,West Bend-Mallard,0.0,0.0,0.0
