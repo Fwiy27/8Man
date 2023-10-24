@@ -38,16 +38,17 @@ Jackson Schulte,SR,RB/LB,#21,Kee,28,520,5
 Brogan Ewing,JR,WR/CB,#10,Southeast Warren,28,276,7
 Collin Bower,SO,TE/DB,#25,CAM,28,350,7
 Kaden Kobliska,SR,WR,#8,Riceville,28,361,8
+Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,27,460,8
 Jackson McDanel,SR,RB/LB,#30,Moravia,27,504,9
 Caleb Haack,JR,WR/DB,#7,Iowa Valley,27,582,6
 Tate Martin,JR,RB/LB,#33,BGM,27,317,8
+Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,26,467,10
 Owen Hammersland,FR,RB/LB,#24,Central Elkader,26,241,3
 Brayden Hepke,SR,WR/DB,#17,BGM,26,327,4
 Aiden Eickert ,SO,WR/LB,#7,Easton Valley,26,441,8
 Conner Bowers,JR,TE/CB,#21,Griswold,25,327,2
 Declan DeJong,SO,TE/DE,#41,Moravia,25,465,7
 Rason Grail,SR,WR/DB,#23,East Union,24,335,6
-Hudson Clark,SO,WR/DB,#3,Gladbrook-Reinbeck,23,416,7
 Cristian Brown,SR,WR/DB,#47,Dunkerton,23,349,9
 Jack Follmann,SR,TE/LB,#40,CAM,23,438,8
 Keaton Harpenau,JR,SL/DB,#2,Remsen St. Mary's,22,188,2
@@ -55,7 +56,6 @@ Trevor Forey,SR,WR/S,#6,Janesville,22,277,7
 Austin Christensen,SO,WR/LB,#81,Audubon,22,164,1
 Lane Oswalt,SR,WR/DB,#87,Collins-Maxwell,21,252,2
 Drew Lappe,SR,WR/CB,#5,Bishop Garrigan,21,204,4
-Drew Eilers,JR,WR/DL,#2,Gladbrook-Reinbeck,20,373,7
 Jeremiah Lynam,SR,DB/WR,#9,Siouxland Christian,20,201,2
 Hayden Loftsgard,JR,WR/CB,#2,Tripoli,20,157,0
 Harley Molina,SR,WR/LB,#24,Ar-We-Va,20,210,3
@@ -158,6 +158,7 @@ Clay Westphal,SO,SL/S,#8,West Harrison/Whiting,11,162,3
 Coen Good,SR,WR/CB,#2,English Valleys,10,119,0
 Peyton Cook,JR,QB/CB,#2,Griswold,10,207,3
 Logan French,SR,WR/DB,#1,Stanton/Essex,10,155,3
+Austin Vaverka,SR,RB/LB,#5,Gladbrook-Reinbeck,10,246,3
 Burke Busta,SR,FB,#9,Turkey Valley,10,158,1
 Mark Lensch,SR,TE/LB,#33,Glidden-Ralston,10,83,0
 Luke Erselius,SO,WR/DB,#15,Montezuma,10,58,1
@@ -248,7 +249,6 @@ Dalton Kitzman,SR,RB/LB,#4,Lenox,5,73,2
 Nate Curry,SR,RB/LB,#38,Twin Cedars,5,36,0
 Brock Micetich,FR,RB/LB,#36,Twin Cedars,5,77,1
 Gavin Ford,JR,QB/LB,#12,Stanton/Essex,5,23,1
-Austin Vaverka,SR,RB/LB,#5,Gladbrook-Reinbeck,5,113,0
 Treyvon Herron,FR,WR/DB,#9,Gladbrook-Reinbeck,5,168,4
 Kyle Reinhart,JR,WR/DB,#40,Central Elkader,5,30,0
 Brody Magruder,JR,TE/DL,#26,Lone Tree,5,75,1
@@ -284,6 +284,7 @@ Johnny Resh,SR,TE/DL,#20,Stanton/Essex,4,26,0
 Luke Rohling,SR,FB/LB,#16,Calamus-Wheatland,4,14,0
 Brayden Svejda,JR,QB/CB,#1,Calamus-Wheatland,4,51,0
 Caleb Urban,JR,WR/CB,#3,East Mills,4,66,0
+Austin Gehring,SR,WR/DB,#4,Gladbrook-Reinbeck,4,30,0
 Cooper Petersen,JR,DE/OG,#33,Boyer Valley,4,35,1
 John Stauffer,JR,TE/LB,#82,Clarksville,4,73,1
 Preston Kulper,SO,WR/DB,#2,Central Elkader,4,35,0
@@ -314,7 +315,6 @@ Wyatt Silk,SO,WR/CB,#15,Griswold,3,36,1
 Cole Green,FR,TE/DE,#34,Calamus-Wheatland,3,75,1
 Kellen Whitman,FR,FB/LB,#32,Calamus-Wheatland,3,14,0
 Trey Rosenbeck,SR,TE/LB,#3,Coon Rapids-Bayard,3,42,0
-Austin Gehring,SR,WR/DB,#4,Gladbrook-Reinbeck,3,25,0
 Dominic Graap,SR,WR/DB,#19,Lone Tree,3,51,2
 Braydon Draeger,SR,TE/LB,#88,Melcher-Dallas,3,28,0
 CJ Smith,SO,TE/DB,#44,Melcher-Dallas,3,97,2

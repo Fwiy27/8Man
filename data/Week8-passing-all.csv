@@ -20,6 +20,7 @@ Dylan Marquart,120.4,JR  QB/DB,#3,Dunkerton,1085,20,3
 Chase Spieker,131.44,JR  QB/DB,#5,CAM,1186,22,4
 Jack Adams,84.52,JR  QB,#7,Riceville,938,13,5
 Kooper Julseth,56.64,JR  WR/LB,#1,Northwood-Kensett,691,9,7
+Isaac Clark,149.44,SR  QB/LB,#12,Gladbrook-Reinbeck,1361,24,1
 Grant Whitehead,105.84,JR  QB/DB,#15,Sidney,1146,16,4
 Jameson Kilworth,91.56,SR  QB/DB,#8,Exira-EHK,1089,13,4
 Tate Foertsch,107.88,SO  QB/DB,#7,Bishop Garrigan,1022,17,1
@@ -27,7 +28,6 @@ Caden Page,82.68,JR  QB/LB,#8,Murray,817,14,6
 Wyatt Oswald,62.24,JR  QB/LB,#10,Coon Rapids-Bayard,756,10,8
 Gavin Menke-Bailey,78.4,JR  QB/LB,#5,New London,935,12,7
 Landon Waldschmitt,78.44,JR  QB/DB,#7,Remsen St. Mary's,836,12,3
-Isaac Clark,114.6,SR  QB/LB,#12,Gladbrook-Reinbeck,1090,18,1
 Jake Edwards,129.0,JR  QB/S,#3,Winfield-Mt Union,1175,21,2
 Jamison Ewing,48.56,SO  WR/CB,#8,Southeast Warren,539,8,5
 Nolan Kriegel,85.08,FR  QB/DB,#2,Iowa Valley,952,13,5
@@ -119,6 +119,7 @@ Tyler Hansen,0.28,FR  QB/DB,#3,West Bend-Mallard,7,0,0
 Josten Kilworth,0.24,SO  TE/DL,#6,Exira-EHK,6,0,0
 Trey Cota,-1.28,FR  QB/LB,#10,Kee,18,0,2
 Logan French,-0.52,SR  WR/DB,#1,Stanton/Essex,12,0,1
+Drew Eilers,4.4,JR  WR/DL,#2,Gladbrook-Reinbeck,10,1,0
 Talan Jacobsen,0.44,FR  QB/LB,#10,North Iowa,11,0,0
 Leo Schrader,0.28,FR  QB/DB,#23,Melcher-Dallas,7,0,0
 Gavyn Thordarson,0.64,SO  RB/DE,#8,Melcher-Dallas,16,0,0
@@ -143,7 +144,6 @@ Dain Sprague,0.8,SO  QB/CB,#3,Calamus-Wheatland,20,0,0
 Seth Bell,-0.04,FR  QB/DB,#26,Collins-Maxwell,-1,0,0
 Cal Heydon,0.96,SO  QB/DB,#11,Coon Rapids-Bayard,24,0,0
 Jack Gordon,0.36,SR  WR/DL,#18,East Mills,9,0,0
-Drew Eilers,0.2,JR  WR/DL,#2,Gladbrook-Reinbeck,5,0,0
 Brody Koski,0.64,FR  QB/LB,#7,Boyer Valley,16,0,0
 Owen Hammersland,-0.6,FR  RB/LB,#24,Central Elkader,10,0,1
 Maddox Jondle,4.36,JR  QB/LB,#11,Lone Tree,9,1,0
